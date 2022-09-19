@@ -2,7 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Our Unity Story
     collection: our-unity-story
+  - title: TEAM UPS
+    collection: team-ups
+  - title: Our Departments
+    collection: our-departments
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
