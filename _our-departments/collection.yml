@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Visual Arts.md
       - English Language.md
       - Mathematics.md
       - Science.md
