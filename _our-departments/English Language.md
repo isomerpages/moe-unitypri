@@ -117,3 +117,19 @@ Critical Thinking through Extensive Reading (P1 – P6)
 
 Public Library comes to UPS
 
+![](/images/English.png)
+
+Mass Borrowing (on left) & Briefing by NLB officer (on right)
+
+![](/images/English3.png)
+
+### Critical Thinking and Literature Programme
+------------------------------------------
+
+Literature Texts:
+
+*   Primary 3 – Charlotte’s Web
+*   Primary 4 – A Single Shard
+*   Primary 5 – Kite Fighters
+
+NLB Activities to Promote Reading
