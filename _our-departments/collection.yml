@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Physical Education.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -10,3 +9,4 @@ collections:
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Character and Citizenship Education.md
+      - Physical Education.md
