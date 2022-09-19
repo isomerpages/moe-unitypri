@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Information and Communications Technology.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -13,3 +12,4 @@ collections:
       - Physical Education.md
       - Visual Arts.md
       - Music.md
+      - Information and Communications Technology.md
