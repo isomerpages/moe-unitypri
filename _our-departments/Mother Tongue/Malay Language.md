@@ -34,3 +34,40 @@ For ML department, activities under CAPtivate are:
 **Mother Tongue Fortnight (Primary 1 – Primary 6)**
 
 The objective of the Mother Tongue Week is to enthuse our students in the learning of our Mother Tongue languages. It gives them the opportunity to explore their creativity as well as develop social skills and the ability to work in collaboration with others. During the MT Fortnight, students take part in activities such as games, songs, dramas and workshops such as _dikir barat_ and shadow puppet
+
+![](/images/MalayLanguage2.png)
+
+**Speech & Drama Workshop (Primary 1)**  
+This programme is one of the strategies adopted to develop language skills and provide opportunities for creative and aesthetic development in our students. Language is taught through the world of literature through drama activities. In this workshop, students are taught to communicate clearly, expressively and effectively.
+
+![](/images/MalayLanguage3.png)
+
+**Storytelling Workshop (Primary 2)**  
+This programme will help students to develop their enjoyment of stories and storytelling, understand the art and some of the different styles of storytelling as well as build their confidence to tell stories.
+
+  
+**Cultural Camp (Primary 3)**  
+During the P3 Cultural Camp, students are exposed to the Malay rich cultural heritage through fun and interesting activities such as batik painting, traditional music and traditional games with the intentions of promoting awareness in Malay in Malay culture and enhancing students’ cultural intelligence.
+
+![](/images/MalayLanguage4.png)
+
+**Workshop for Parents @ Unity Parents’ Symposium**  
+In UPS, we conduct yearly workshops for parents on how they can help their children in Malay Language. We want to promote active involvement of parents in their children’s learning and collaborate with parents to enhance and support students’ learning for academic excellence.
+
+![](/images/MalayLanguage6.png)
+
+**Websites**
+
+*   Singapore Examination & Assessment Branch (SEAB) Approved Dictionaries  
+    [https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist\_031220185877e9dade9e458a955510ad15b49c98.pdf](https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
+*   National Library Board(NLB) ML e-books  
+    [http://eresources.nlb.gov.sg/malayebooks/default.aspx](http://eresources.nlb.gov.sg/malayebooks/default.aspx)
+*   Dewan Bahasa e-dictionary  
+    [https://prpm.dbp.gov.my/](https://prpm.dbp.gov.my/)
+
+**Smartphone Apps by Malay Language Centre Singapore (MLCS), MOE**
+
+*   Pintar Kata (Words Formation)
+*   Cerita Rakyat Nusantara (ML stories App)
+*   Pintar Peribahasa (Idioms App)
+*   Bitara Kata (ML Games)
