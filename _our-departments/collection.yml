@@ -1,4 +1,5 @@
 collections:
   our-departments:
     output: true
-    order: []
+    order:
+      - English Language.md
