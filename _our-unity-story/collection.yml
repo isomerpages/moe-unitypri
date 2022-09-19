@@ -1,4 +1,5 @@
 collections:
   our-unity-story:
     output: true
-    order: []
+    order:
+      - School Leaders’ Message.md
