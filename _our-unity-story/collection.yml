@@ -2,4 +2,5 @@ collections:
   our-unity-story:
     output: true
     order:
+      - Our Strategic Plan.md
       - School Leaders’ Message.md
