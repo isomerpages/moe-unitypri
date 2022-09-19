@@ -2,4 +2,5 @@ collections:
   team-ups:
     output: true
     order:
+      - Key Personnel.md
       - School Advisory Committee.md
