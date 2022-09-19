@@ -2,4 +2,5 @@ collections:
   our-departments:
     output: true
     order:
+      - Mathematics.md
       - English Language.md
