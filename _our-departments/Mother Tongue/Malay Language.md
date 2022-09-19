@@ -59,7 +59,7 @@ In UPS, we conduct yearly workshops for parents on how they can help their child
 **Websites**
 
 *   Singapore Examination & Assessment Branch (SEAB) Approved Dictionaries  
-    [https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist\_031220185877e9dade9e458a955510ad15b49c98.pdf](https://www.seab.gov.sg/docs/default-source/documents/2019psledictlist_031220185877e9dade9e458a955510ad15b49c98.pdf)
+    [Singapore Examination & Assessment Branch (SEAB) Approved Dictionaries]()
 *   National Library Board(NLB) ML e-books  
     [http://eresources.nlb.gov.sg/malayebooks/default.aspx](http://eresources.nlb.gov.sg/malayebooks/default.aspx)
 *   Dewan Bahasa e-dictionary  
