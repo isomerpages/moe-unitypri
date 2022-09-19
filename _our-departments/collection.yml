@@ -2,10 +2,10 @@ collections:
   our-departments:
     output: true
     order:
-      - Character and Citizenship Education.md
       - English Language.md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
+      - Character and Citizenship Education.md
