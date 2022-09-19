@@ -2,5 +2,6 @@ collections:
   our-unity-story:
     output: true
     order:
+      - Motto and Philosophy.md
       - Our Strategic Plan.md
       - School Leaders’ Message.md
