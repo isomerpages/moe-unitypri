@@ -2,7 +2,6 @@ collections:
   our-departments:
     output: true
     order:
-      - Visual Arts.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -11,3 +10,4 @@ collections:
       - Mother Tongue/Malay Language.md
       - Character and Citizenship Education.md
       - Physical Education.md
+      - Visual Arts.md
