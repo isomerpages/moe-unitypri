@@ -133,3 +133,23 @@ Literature Texts:
 *   Primary 5 – Kite Fighters
 
 NLB Activities to Promote Reading
+
+![](/images/English4.png)
+
+Storyreading in Action (on left) & Storytelling in groups (on right)
+
+![](/images/English5.png)
+
+Book Buzz – Assembly Programme
+
+### References
+----------
+*   [Guidelines and Students Handouts for Implementing Read-Aloud Strategies in Your Class](https://www2.scholastic.com/browse/article.jsp?id=4464)
+*   [Reading Comprehension Learning Tools](https://www.time4learning.com/readingpyramid/comprehension.htm)
+*   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
+*   [Teaching Writing to Lower Primary Pupils](https://www.iched.org/cms/scripts/page.php?site_id=iched&item_id=teach_writing_prek-1)
+*   [Grammar](http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html)
+*   Dictionary and Thesaurus
+    
+    *   [www.merriam-webster.com](https://www.merriam-webster.com/)
+    *   [dictionary.reference.com](http://www.dictionary.reference.com/)
