@@ -46,3 +46,11 @@ Letters to Parents
 ### **August 2021**
 
 **16 August 2021** – [Letter to Parents_Term 3 Week 8](/files/AugLetter-to-Parents_Term-3-Week-8.pdf)
+
+### **July 2021**
+
+**21 July 2021** – [Letter to Parents_Term 3 Week 4](/files/JulyLetter-to-Parents_Term-3-Week-4.pdf)
+
+### **June 2021**
+
+**28 June 2021** – [Letter to Parents_Term 3 Week 1](/files/JuneLetter-to-Parents_Term-3-Week-1.pdf)
