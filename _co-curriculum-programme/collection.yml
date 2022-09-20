@@ -1,4 +1,5 @@
 collections:
   co-curriculum-programme:
     output: true
-    order: []
+    order:
+      - Cyber Wellness Programme.md
