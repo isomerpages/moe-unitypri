@@ -19,3 +19,7 @@ Teachers recommended books to the students via Book Buzz and students participat
 ![](/images/USSR-600x318.png)
 
 ![](/images/Book-Buzz-600x318.png)
+
+---
+
+The EL Enrichment Programme in UPS aims to expose students to learning beyond the curriculum. Varied learning opportunities across levels are planned for students throughout their years in UPS. All students engage in a range of activities that provide opportunities for them to perform confidently, think critically and communicate effectively in front of adult audiences in addition to their schoolmates.
