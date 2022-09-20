@@ -15,3 +15,7 @@ Teachers recommended books to the students via Book Buzz and students participat
 ![](/images/Lib-Period-600x318.png)
 
 ![](/images/Class-Boogles-600x318.png)
+
+![](/images/USSR-600x318.png)
+
+![](/images/Book-Buzz-600x318.png)
