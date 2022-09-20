@@ -126,3 +126,37 @@ School Rules & Discipline Guidelines
 ### **SCHOOL DISCIPLINE GUIDELINES**
 
  Disciplinary action will be taken against students who commit offences. Parents will be informed of their child’s misbehaviour in class/school and, if need be, will be invited to school to meet with the child’s teacher and Discipline Master for further conferencing. Some of the offences include:
+ 
+ **Minor Offences**
+ 
+ *   Repeated latecoming for school/ school activities.
+*   Improper school attire, e.g. ankle socks, no name tag
+*   Inappropriate general appearance, e.g. long hair or outlandish hairstyles for male students, untied long hair for female students, long fringe for female students, nail polish, long nails, henna,
+*   Not bringing books to school, failure to do or submit work/ on time.
+*   Disruptive behaviour during lesson.
+*   Littering, not returning utensils in the canteen or eating outside the canteen
+*   Wearing of jewellery, e.g. chains, bracelets.
+*   Possession of items that cause nuisance, annoyance or distraction to other students or teachers.
+
+**Serious Offences**
+
+*   Repeated minor offence
+*   Truancy/ skipping classes/ lessons
+*   Possession of weapons or weapon-like items.
+*   Rudeness, disrespect/ defiance to peers or staff
+*   Use of vulgarity or abusive language (verbal or written)
+*   Cheating in tests or examinations
+*   Forgery, alteration of marks on test papers or report cards
+*   Assault and/or threatening others with bodily harm
+*   Bullying, gangsterism, fighting, theft, extorting money from others, instigating fights or disturbances
+*   Vandalism, damaging school property
+*   Use or possession of cigarettes, lighters, matches, and other prohibited materials
+*   Sexual misconduct
+*   Smoking, vaping or substance abuse
+*   Arson, gambling, abuse of technology
+*   Serious offences of cyber nature
+*   Any acts that affects the school’s climate and image
+
+Some possible disciplinary actions may include loss of privileges, e.g. apologies and restitution, confiscation of prohibited items, behavioural contract, time-out during recesses, ban from learning journey if safety is compromised, correction work order, detention, suspension from activities and/or school and caning.
+
+**All disciplinary actions taken against any misconduct will be recorded in the School Offence Module and will affect the Conduct Grade accordingly.**
