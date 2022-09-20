@@ -29,3 +29,29 @@ The EL Enrichment Programme in UPS aims to expose students to learning beyond th
 ![](/images/EL2.png)
 
 ![](/images/EL3.png)
+
+---
+The **Read A Book Because It’s Terrific! (R.A.B.B.I.T)** programme was introduced in 2014 as part of the school’s Applied Learning Programme (ALP). R.A.B.B.I.T encourages students to read a wide variety of books from different sources and think critically about what they have read.
+
+Students can look forward to the latest book reviews with NLB, a meet-and-greet with a local author, or even the termly mass borrowing. In-house activities provide in-depth knowledge about books as they learn about the novelisation of their favourite movies such as The Cat in the Hat by Dr. Seuss or The Midnight Gang by David Walliams.
+
+![](/images/EL4.png)
+
+![](/images/EL5.png)
+
+---
+
+### Chinese Language
+![](/images/CL.png)
+
+![](/images/CL2.png)
+
+![](/images/CL3.png)
+
+---
+
+### Malay Language
+
+![](/images/ML.png)
+
+![](/images/ML2.png)
