@@ -37,3 +37,10 @@ Mother Tongue
 ![](/images/Malay5.png)
 
 ![](/images/Malay6.png)
+
+----
+### **Tamil Language**
+
+![](/images/Tamil.png)
+
+![](/images/Tamil2.png)
