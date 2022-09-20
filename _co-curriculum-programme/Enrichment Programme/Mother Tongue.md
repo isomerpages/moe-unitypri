@@ -11,3 +11,13 @@ Mother Tongue
 --------------------
 
 ![](/images/Chinese.png)
+
+![](/images/Chinese2.png)
+
+![](/images/Chinese3.png)
+
+![](/images/Chinese4.png)
+
+![](/images/Chinese5.png)
+
+![](/images/Chinese6.png)
