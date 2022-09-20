@@ -39,3 +39,10 @@ Letters to Parents
 
 **15 October 2021** – [Letter to Parents_Term 4 Week 5](/files/Letter-to-Parents_Term-4-Week-5.pdf)
 
+### **September 2021**
+
+**13 September 2021** – [Letter to Parents_Term4 Week 1](/files/SepLetter-to-Parents_Term4-Week-1.pdf)
+
+### **August 2021**
+
+**16 August 2021** – [Letter to Parents_Term 3 Week 8](/files/AugLetter-to-Parents_Term-3-Week-8.pdf)
