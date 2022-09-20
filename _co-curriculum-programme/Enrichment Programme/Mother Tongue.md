@@ -8,7 +8,7 @@ Mother Tongue
 =============
 
 ### **Chinese Language**
---------------------
+
 
 ![](/images/Chinese.png)
 
@@ -21,3 +21,19 @@ Mother Tongue
 ![](/images/Chinese5.png)
 
 ![](/images/Chinese6.png)
+
+------
+
+### **Malay Language**
+
+![](/images/Malay.png)
+
+![](/images/Malay2.png)
+
+![](/images/Malay3.png)
+
+![](/images/Malay4.png)
+
+![](/images/Malay5.png)
+
+![](/images/Malay6.png)
