@@ -15,3 +15,6 @@ Letters to Parents
 
 **27 June 2022** – [Letter to Parents_Term 3_Week 1](/files/Letter-to-Parents_Term-3_Week-1.pdf)
 
+### **May 2022**
+
+**9 May 2022** – [Letter to Parents_Term 2_Week 8](/files/Letter-to-Parents_Term-2_Week-8.pdf)
