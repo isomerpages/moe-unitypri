@@ -2,6 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - Letters to Parents.md
       - School Videos.md
       - Parents Information Booklet.md
+      - Letters to Parents.md
