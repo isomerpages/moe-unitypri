@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - Information/.keep
       - School Videos.md
       - Parents Information Booklet.md
       - Letters to Parents.md
