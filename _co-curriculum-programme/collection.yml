@@ -2,5 +2,6 @@ collections:
   co-curriculum-programme:
     output: true
     order:
+      - Programme for Active Learning (PAL).md
       - Co curricular Activities (CCA).md
       - Cyber Wellness Programme.md
