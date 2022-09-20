@@ -2,8 +2,8 @@ collections:
   co-curriculum-programme:
     output: true
     order:
-      - Learn for Life Programme (LLP).md
-      - Applied Learning Programme (ALP).md
-      - Programme for Active Learning (PAL).md
       - Co curricular Activities (CCA).md
+      - Programme for Active Learning (PAL).md
+      - Applied Learning Programme (ALP).md
+      - Learn for Life Programme (LLP).md
       - Cyber Wellness Programme.md
