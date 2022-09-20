@@ -2,10 +2,10 @@ collections:
   school-events:
     output: true
     order:
-      - Information/School Safety.md
       - Information/.keep
       - Information/Homework Policy.md
       - Information/School Rules & Discipline Guidelines.md
+      - Information/School Safety.md
       - School Videos.md
       - Parents Information Booklet.md
       - Letters to Parents.md
