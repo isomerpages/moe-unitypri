@@ -55,4 +55,4 @@ _Back Gate: 6.30am – 7.30am, 1.30pm – 2.00pm_
 ### **Click the following link for the map to the school :**
 --------------------------------------------------------
 
-[https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,16.97z/data=!4m5!3m4!1s0x0:0x74e5035d50e58a04!8m2!3d1.403245!4d103.74729](https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,16.97z/data=!4m5!3m4!1s0x0:0x74e5035d50e58a04!8m2!3d1.403245!4d103.74729)
+[https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,16.97z/data=!4m5!3m4!1s0x0:0x](https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,16.97z/data=!4m5!3m4!1s0x0:0x74e5035d50e58a04!8m2!3d1.403245!4d103.74729)
