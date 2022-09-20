@@ -2,6 +2,7 @@ collections:
   co-curriculum-programme:
     output: true
     order:
+      - Learning Journeys.md
       - Co curricular Activities (CCA).md
       - Programme for Active Learning (PAL).md
       - Applied Learning Programme (ALP).md
