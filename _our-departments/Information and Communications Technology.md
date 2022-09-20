@@ -28,3 +28,5 @@ To use ICT to enhance an innovative learning environment so as to develop studen
 ##### **Cyber Wellness Programme**
 
 The school has developed a Cyber Wellness programme which focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace.
+
+[Visit Cyber Wellness Page for more info](/co-curriculum-programme/Cyber-Wellness-Programme/permalink/)
