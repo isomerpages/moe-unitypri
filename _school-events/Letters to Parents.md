@@ -54,3 +54,21 @@ Letters to Parents
 ### **June 2021**
 
 **28 June 2021** – [Letter to Parents_Term 3 Week 1](/files/JuneLetter-to-Parents_Term-3-Week-1.pdf)
+
+### **May 2021**
+
+**25 May 2021** – [Letter to P5 & P6 Parents (Summary of PSLE DSA Resources)](/files/Letter-to-P5-P6-Parents-Summary-of-PSLE-DSA-Resources-25-May-21.pdf)
+
+**11 May 2021  –** [Letter to Parents_Term 2 Week 8](/files/MayLetter-to-Parents_Term-2-Week-8.pdf)
+
+### **April 2021**
+
+**26 April 2021  –** [Letter to Parents_Term 2 Week 6](/files/AprilLetter-to-Parents_Term-2-Week-6.pdf)
+
+### **March 2021**
+
+**1 March 2021  –** [Letter to Parents_Term 1 Week 10](/files/MarchLetter-to-Parents_Term-1-Week-10.pdf)
+
+### **January 2021**
+
+**5 January 2021  –** [Letter to Parents_Term 1 Week 1](/files/JanLetter-to-Parents_Term-1-Week-1%20(1).pdf)
