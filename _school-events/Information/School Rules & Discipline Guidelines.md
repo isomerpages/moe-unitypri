@@ -126,4 +126,3 @@ School Rules & Discipline Guidelines
 ### **SCHOOL DISCIPLINE GUIDELINES**
 
  Disciplinary action will be taken against students who commit offences. Parents will be informed of their child’s misbehaviour in class/school and, if need be, will be invited to school to meet with the child’s teacher and Discipline Master for further conferencing. Some of the offences include:
- 
