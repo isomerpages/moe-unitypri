@@ -9,18 +9,18 @@ sections:
   - hero:
       title: Hero title
       subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/homepage.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Applied Learning Programme
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Learning for Life Programme
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: School Calendar
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
@@ -28,6 +28,8 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
-
-
