@@ -1,0 +1,75 @@
+---
+title: Letters to Parents
+permalink: /parents-matters/Letters-to-Parents/permalink/
+description: ""
+---
+
+Letters to Parents
+==================
+
+### **September 2022**
+
+
+**12 September 2022** – [Letter to Parents_Term 4_Week 1](/files/Letter-to-Parents_Term-4_Week-1.pdf)
+
+### **June 2022**
+
+**27 June 2022** – [Letter to Parents_Term 3_Week 1](/files/Letter-to-Parents_Term-3_Week-1.pdf)
+
+### **May 2022**
+
+**9 May 2022** – [Letter to Parents_Term 2_Week 8](/files/Letter-to-Parents_Term-2_Week-8.pdf)
+
+### **March 2022**
+
+**21 March 2022** – [Letter to Parents_Term 2_Week 1](/files/Letter-to-Parents_Term-2_Week-1.pdf)
+
+### **February 2022** 
+
+**14 February 2022** – [Letter to Parents_Term 1 Week 7](/files/Letter-to-Parents_Term-1-Week-7.pdf)
+
+### **January 2022**
+
+**4 January 2022** – [Letter to Parents_Term 1 Week 1](/files/Letter-to-Parents_Term-1-Week-1.pdf)
+
+### **November 2021**
+
+**9 November 2021** – [Letter to Parents_Term 4 Week 9](/files/Letter-to-Parents_Term-4-Week-9.pdf)
+
+### **October 2021**
+
+**15 October 2021** – [Letter to Parents_Term 4 Week 5](/files/Letter-to-Parents_Term-4-Week-5.pdf)
+
+### **September 2021**
+
+**13 September 2021** – [Letter to Parents_Term4 Week 1](/files/SepLetter-to-Parents_Term4-Week-1.pdf)
+
+### **August 2021**
+
+**16 August 2021** – [Letter to Parents_Term 3 Week 8](/files/AugLetter-to-Parents_Term-3-Week-8.pdf)
+
+### **July 2021**
+
+**21 July 2021** – [Letter to Parents_Term 3 Week 4](/files/JulyLetter-to-Parents_Term-3-Week-4.pdf)
+
+### **June 2021**
+
+**28 June 2021** – [Letter to Parents_Term 3 Week 1](/files/JuneLetter-to-Parents_Term-3-Week-1.pdf)
+
+### **May 2021**
+
+**25 May 2021** – [Letter to P5 & P6 Parents (Summary of PSLE DSA Resources)](/files/Letter-to-P5-P6-Parents-Summary-of-PSLE-DSA-Resources-25-May-21.pdf)
+
+**11 May 2021  –** [Letter to Parents_Term 2 Week 8](/files/MayLetter-to-Parents_Term-2-Week-8.pdf)
+
+### **April 2021**
+
+**26 April 2021  –** [Letter to Parents_Term 2 Week 6](/files/AprilLetter-to-Parents_Term-2-Week-6.pdf)
+
+### **March 2021**
+
+**1 March 2021  –** [Letter to Parents_Term 1 Week 10](/files/MarchLetter-to-Parents_Term-1-Week-10.pdf)
+
+### **January 2021**
+
+**5 January 2021  –** [Letter to Parents_Term 1 Week 1](/files/JanLetter-to-Parents_Term-1-Week-1%20(1).pdf)
