@@ -5,6 +5,7 @@ description: ""
 ---
 Resources for Parents
 =====================
+![](/images/Parents%20Matter.png)
 
 #### **English & Library**
 
@@ -31,4 +32,7 @@ Resources for Parents
 ### For Parents
 
 * [MOE SEXUALITY EDUCATION IN SCHOOLS](/Sexuality-Education/permalink/)
-* [Response to Feedback from Parents 2021](/files/Response-to-Feedback-from-Parents-2021.pdf) 
+* [Response to Feedback from Parents 2021](/files/Response-to-Feedback-from-Parents-2021.pdf)
+* Useful Articles
+* [Transition to secondary school](/files/transition-to-secondary-school.pdf)
+* [Journeying with our Children, Achieving their Aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1)
