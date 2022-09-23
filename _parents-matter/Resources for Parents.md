@@ -50,3 +50,5 @@ Resources for Parents
 * [Secondary One Posting](https://www.moe.gov.sg/education/admissions/secondary-one-posting/)
 * [Direct School Admission](https://www.moe.gov.sg/education/admissions/dsa-sec/)
 * [P1 Registration](https://www.moe.gov.sg/education/admissions/primary-one-registration/)
+* [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety)
+*   [Singapore Examinations and Assessment Board (SEAB)](https://www.seab.gov.sg/)
