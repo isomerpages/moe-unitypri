@@ -51,7 +51,7 @@ Website: [www.thecontinental.sg](http://www.thecontinental.sg/)
 ### School Dental Clinic
 --------------------
 
-Our School Dental Clinic is scheduled to operate on alternate weeks. Pls refer to the [school calendar](https://unitypri.moe.edu.sg/parents-matter/calendar-of-events/) for the opening dates.
+Our School Dental Clinic is scheduled to operate on alternate weeks. Pls refer to the [school calendar](/parents-matter/School-Calendar/permalink/)for the opening dates.
 
 Telephone No : 91158304 (8am – 5pm)
 
