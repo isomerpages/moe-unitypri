@@ -1,4 +1,5 @@
 collections:
   parents-matter:
     output: true
-    order: []
+    order:
+      - School Videos.md
