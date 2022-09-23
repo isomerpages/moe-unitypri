@@ -1,5 +1,5 @@
 collections:
-  school-events:
+  parents-matter:
     output: true
     order:
       - Information/Procedures for Visitors.md
