@@ -14,3 +14,4 @@ Parent-Teacher Conference
 * [P3 PTC Slides 2022](/files/P3-PTC-2022.pdf)
 * [P4 PTC Slides 2022](/files/P4-PTC-2022.pdf)
 * [P5 PTC Slides 2022](/files/P5-PTC-2022.pdf)
+* P6 PTC Slides 2022
