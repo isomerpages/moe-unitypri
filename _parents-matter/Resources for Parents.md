@@ -31,4 +31,4 @@ Resources for Parents
 ### For Parents
 
 * [MOE SEXUALITY EDUCATION IN SCHOOLS](/Sexuality-Education/permalink/)
-* [Response to Feedback from Parents 2021](/files/Response-to-Feedback-from-Parents-2021.pdf)
+* [Response to Feedback from Parents 2021](/files/Response-to-Feedback-from-Parents-2021.pdf) 
