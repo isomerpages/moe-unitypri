@@ -2,8 +2,8 @@ collections:
   parents-matter:
     output: true
     order:
-      - School Calendar.md
       - School Videos.md
+      - School Calendar.md
       - Parents Information Booklet.md
       - Letters to Parents.md
       - Parent Teacher Conference.md
