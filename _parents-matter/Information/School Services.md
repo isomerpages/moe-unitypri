@@ -6,6 +6,7 @@ third_nav_title: Information
 ---
 School Services
 ===============
+![](/images/Parents%20Matter.png)
 
 ### School Bus Services
 -------------------
