@@ -2,5 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
+      - Parents Information Booklet.md
       - School Calendar.md
       - School Videos.md
