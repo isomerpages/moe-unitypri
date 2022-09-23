@@ -4,10 +4,9 @@ permalink: /parents-matters/Information/Procedures-for-Visitors/permalink/
 description: ""
 third_nav_title: Information
 ---
-
 Procedures for Visitors
 =======================
-
+![](/images/Parents%20Matter.png)
 ### General Office Operating Hours
 ------------------------------
 
