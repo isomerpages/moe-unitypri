@@ -10,3 +10,4 @@ Parent-Teacher Conference
 
 * P1\_CL\_PTC 2022
 * [P1_TL_PTC 2022](/files/P1_TL_PTC-2022.pdf)
+* [P2 PTC Slides 2022](/files/P2-PTC-2022.pdf)
