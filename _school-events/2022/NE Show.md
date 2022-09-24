@@ -12,3 +12,4 @@ After a 2-year hiatus, our Primary 5 students were finally back at The Float @ M
 
 ![](/images/NEShow.png)
 ![](/images/NEShow2.png)
+![](/images/NEShow3.png)
