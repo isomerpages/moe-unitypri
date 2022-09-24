@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - 2022/P5 LJ – Marina Barrage.md
       - 2022/.keep
       - 2022/P1 Orientation.md
       - 2022/CNY Celebration.md
@@ -15,3 +14,4 @@ collections:
       - 2022/P1 LJ – Jacob Ballas.md
       - 2022/P5 VOIP (Vietnam).md
       - 2022/P6 Unite.md
+      - 2022/P5 LJ – Marina Barrage.md
