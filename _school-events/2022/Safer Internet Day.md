@@ -16,3 +16,4 @@ Students also participated in the Mascot Naming Competition. Look out for the na
 
 ![](/images/SID.png)
 ![](/images/SID2.png)
+![](/images/SID3.png)
