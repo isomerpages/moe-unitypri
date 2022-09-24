@@ -18,3 +18,4 @@ At the end of the tour, students received drawstring bags and bottles of chocola
 
 ![](/images/Hay.png)
 ![](/images/Hay2.png)
+![](/images/Hay3.png)
