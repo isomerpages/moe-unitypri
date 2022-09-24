@@ -15,3 +15,4 @@ SID is a landmark event in the online safety calendar and celebrated in approxim
 Students also participated in the Mascot Naming Competition. Look out for the name of CW Mascot in Term 2!
 
 ![](/images/SID.png)
+![](/images/SID2.png)
