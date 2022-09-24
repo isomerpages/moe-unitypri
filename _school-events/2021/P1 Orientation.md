@@ -28,3 +28,4 @@ The first day of school for P1 began on Monday, 4 January with the rest of the P
 ![](/images/P1Orientation16.png)
 ![](/images/P1Orientation17.png)
 ![](/images/P1Orientation18.png)
+![](/images/P1Orientation19.png)
