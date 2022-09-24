@@ -13,4 +13,4 @@ P1 students reported to their first day of school on Tuesday, 4 January 2022 whi
 During recess on Tuesday, a parent of each P1 student had the opportunity to observe their children buying food, and doing wipe-down. Both parents and teachers were tremendously proud to see smiley and confident faces on the newbies as they became more accustomed to school over the week. Good job, P1 students!
 
 ![](/images/Orientation.png)
-![](/images/Oreintation%202.png)
+![](/images/Orientation2.png)
