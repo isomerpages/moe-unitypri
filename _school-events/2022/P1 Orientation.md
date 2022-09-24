@@ -14,3 +14,4 @@ During recess on Tuesday, a parent of each P1 student had the opportunity to obs
 
 ![](/images/Orientation.png)
 ![](/images/Orientation2.png)
+![](/images/Orientation3.png)
