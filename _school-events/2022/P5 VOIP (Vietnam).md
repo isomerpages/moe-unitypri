@@ -21,3 +21,4 @@ The 5-h programme involved a virtual tour of places of cultural & educational in
 After the activity, our students completed a reflection on what they cherished about being in Singapore and shared with one another. All in, the students had an enjoyable and beneficial experience.
 
 ![](/images/P5VOIP.png)
+![](/images/P5VOIP2.png)
