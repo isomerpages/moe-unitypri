@@ -15,3 +15,4 @@ A pre-learning journey lesson was conducted to prepare students for their trip. 
 Even in the hot weather, students thoroughly enjoyed themselves exclaiming the day as “The best day of their life!” Overall, it was a meaningful and beneficial experience for the students and one that we hope will evoke in them the love for the environment.
 
 ![](/images/JacobBallas.png)
+![](/images/JacobBallas2.png)
