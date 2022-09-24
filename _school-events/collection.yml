@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - 2021/P1 Orientation.md
       - 2021/.keep
       - 2022/.keep
       - 2022/P1 Orientation.md
