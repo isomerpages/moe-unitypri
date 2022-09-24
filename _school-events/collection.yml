@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - 2022/P2 LJ – Hay Dairies Goat Farm.md
       - 2022/.keep
       - 2022/P1 Orientation.md
       - 2022/CNY Celebration.md
@@ -19,3 +18,4 @@ collections:
       - 2022/NE Show.md
       - 2022/Racial Harmony Day.md
       - 2022/National Day Celebration.md
+      - 2022/P2 LJ – Hay Dairies Goat Farm.md
