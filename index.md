@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Applied Learning Programme
           description: ""
-          url: https://google.com
+          url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
         - title: Learning for Life Programme
           description: ""
           url: https://gmail.com
