@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Contact Us.md
       - School Videos.md
       - School Calendar.md
       - Parents Information Booklet.md
@@ -17,3 +16,4 @@ collections:
       - Information/Student Insurance.md
       - Resources for Parents.md
       - Our Facilities.md
+      - Contact Us.md
