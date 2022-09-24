@@ -15,3 +15,5 @@ Upon arrival, the students were introduced to the goat milking area and got to w
 Thereafter, they collected bags of alfalfa hay to feed the goats and moved to the barn. At the barn, some students were thrilled to feed the goats at close range while others needed more time to get used to it and decided to feed the goats at a distance. A few brave students also petted the goats and allowed the goats to eat from their palms. The students enjoyed the rare feeding experience. 
 
 At the end of the tour, students received drawstring bags and bottles of chocolate milk as souvenirs for their trip to the Hay Dairies Goat Farm. It was indeed a unique learning journey for them.
+
+![](/images/Hay.png)
