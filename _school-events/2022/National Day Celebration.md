@@ -16,3 +16,5 @@ The celebration then culminated in a song-and-dance segment, which saw students 
 
 ![](/images/Celebration.png)
 ![](/images/Celebration2.png)
+![](/images/Celebration3.png)
+![](/images/Celebration4.png)
