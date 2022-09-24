@@ -16,3 +16,4 @@ third_nav_title: "2021"
 ![](/images/Annual%20Awards%20Day6.png)
 ![](/images/Annual%20Awards%20Day7.png)
 ![](/images/Annual%20Awards%20Day8.png)
+![](/images/Annual%20Awards%20Day9.png)
