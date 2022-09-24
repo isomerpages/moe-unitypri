@@ -17,3 +17,4 @@ Thereafter, they collected bags of alfalfa hay to feed the goats and moved to th
 At the end of the tour, students received drawstring bags and bottles of chocolate milk as souvenirs for their trip to the Hay Dairies Goat Farm. It was indeed a unique learning journey for them.
 
 ![](/images/Hay.png)
+![](/images/Hay2.png)
