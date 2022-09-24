@@ -15,3 +15,4 @@ One of the highlights of the celebration got to be the Games segment, which incl
 The celebration then culminated in a song-and-dance segment, which saw students from the Choir CCA lending their melodious voices to a rousing finale of community singing and our PE teachers leading everyone in an energizing Unity Fun Dance. Everyone was filled with good cheer and spirits, and it was heartening to see everyone working together to make this celebration a success. Indeed, Stronger Together, Majulah!
 
 ![](/images/Celebration.png)
+![](/images/Celebration2.png)
