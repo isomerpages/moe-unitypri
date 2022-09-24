@@ -23,3 +23,4 @@ The programme entailed virtual tour of places of cultural & educational interest
 Overall, the students enjoyed themselves tremendously and gained new learning while making friends beyond Singapore shore.
 
 ![](/images/VOIP1.png)
+![](/images/VOIP2.png)
