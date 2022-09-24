@@ -19,3 +19,5 @@ Student Leaders were challenged to complete a series of games such as ‘drawing
 We were also pleased to have our Alumni to join us to share their leadership experiences in UPS and how that had honed them to be better leaders and helped them in their secondary school life. 
 
 The day ended with the Student Leaders reflecting on their learning and being recognised for their hard effort put in during the day. In a nutshell as expressed by many of the student leaders, ExSeL was a fun, meaningful and engaging day for them.
+
+![](/images/Exsel2.png)
