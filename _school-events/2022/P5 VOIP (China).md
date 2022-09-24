@@ -24,3 +24,4 @@ Overall, the students enjoyed themselves tremendously and gained new learning wh
 
 ![](/images/VOIP1.png)
 ![](/images/VOIP2.png)
+![](/images/VOIP3.png)
