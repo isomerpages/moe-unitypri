@@ -18,3 +18,4 @@ third_nav_title: "2021"
 ![](/images/Annual%20Awards%20Day8.png)
 ![](/images/Annual%20Awards%20Day9.png)
 ![](/images/Annual%20Awards%20Day10.png)
+![](/images/Annual%20Awards%20Day11.png)
