@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - 2022/P1 LJ – Jacob Ballas.md
       - 2022/.keep
       - 2022/P1 Orientation.md
       - 2022/CNY Celebration.md
@@ -12,3 +11,4 @@ collections:
       - 2022/ExSeL 2022.md
       - 2022/P5 VOIP (China).md
       - 2022/P2 LJ – River Wonders.md
+      - 2022/P1 LJ – Jacob Ballas.md
