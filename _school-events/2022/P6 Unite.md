@@ -13,3 +13,4 @@ The P6 Unité is organised for our graduating cohort to have the opportunity dur
 Through games and activities out of their classroom, students get to learn and demonstrate resilience, teamwork and self-confidence. They will also be motivated to give their best and have the desire to excel as they work towards the first important milestone in their life.
 
 ![](/images/P6.png)
+![](/images/P62.png)
