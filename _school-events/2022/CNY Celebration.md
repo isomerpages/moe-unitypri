@@ -15,3 +15,4 @@ Students were surprised and excited by the school leaders and lion dance troupe 
 In conclusion, Chinese New Year celebration 2022 was a great success! The concert ended off on a high note, featuring our in-house music video production specially put up by Team UPS. In Unity, We Celebrate!
 
 ![](/images/CNY.png)
+![](/images/CNY2.png)
