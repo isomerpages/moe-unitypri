@@ -2,8 +2,8 @@ collections:
   school-events:
     output: true
     order:
-      - 2022/P4 JAP.md
       - 2022/.keep
       - 2022/P1 Orientation.md
       - 2022/CNY Celebration.md
       - 2022/Safer Internet Day.md
+      - 2022/P4 JAP.md
