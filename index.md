@@ -17,7 +17,7 @@ sections:
           url: /co-curriculum-programme/Learn-for-Life-Programme-LLP/permalink/
         - title: School Calendar
           description: ""
-          url: /privacy/
+          url: /parents-matter/School-Calendar/permalink/
         - title: Support for SLS
           description: ""
           url: /Support-for-SLS/permalink/
