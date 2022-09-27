@@ -5,6 +5,7 @@ description: ""
 ---
 Learning Journeys
 =================
+![](/images/UPS-Website-Banners-3.png)
 
 ### **P1 Learning Journey – Road Safety and Walk Around the School**
 
