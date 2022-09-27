@@ -31,7 +31,7 @@ sections:
   - infopic:
       title: Our School Videos
       button: Click here to view our p1 introductory video
-      url: d
+      url: /parents-matters/School-Videos/permalink/
       image: /images/P1-Intro-Video.png
       alt: Image alt text
 ---
