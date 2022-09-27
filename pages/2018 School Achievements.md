@@ -5,6 +5,7 @@ description: ""
 ---
 2018 School Achievements
 ========================
+![](/images/ITQ.jpg)
 
 ### 2018 Achievements
 
