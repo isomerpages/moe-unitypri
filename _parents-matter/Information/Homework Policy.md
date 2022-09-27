@@ -4,9 +4,9 @@ permalink: /parents-matters/Information/Homework-Policy/permalink/
 description: ""
 third_nav_title: Information
 ---
-
 Homework Policy
 ===============
+![](/images/Parents%20Matter.png)
 
 **Homework Guideline**
 ----------------------
