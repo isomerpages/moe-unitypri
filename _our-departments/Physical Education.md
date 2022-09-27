@@ -5,7 +5,7 @@ description: ""
 ---
 Physical & Health Education
 ===========================
-![](/images/Department.png)
+![](/images/pe.jpg)
 
 ![](/images/PE.png)
 
