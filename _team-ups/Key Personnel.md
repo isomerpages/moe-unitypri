@@ -6,6 +6,8 @@ description: ""
 Key Personnel
 =============
 
+![](/images/TeamUps.png)
+
 ### School Leaders
 
 <style type="text/css">
