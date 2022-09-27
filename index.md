@@ -25,7 +25,6 @@ sections:
       url: /faq/
   - infopic:
       title: School Location
-      subtitle: Infopic Subtitle
       description: How to get here & Contact Information
       button: Button Text
       image: /images/123.png
