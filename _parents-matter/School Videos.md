@@ -3,9 +3,9 @@ title: School Videos
 permalink: /parents-matters/School-Videos/permalink/
 description: ""
 ---
-
 School Videos
 =============
+![](/images/Parents%20Matter.png)
 
 ### UPS Corporate Video
 -------------------
