@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/homepage.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Applied Learning Programme
           description: ""
