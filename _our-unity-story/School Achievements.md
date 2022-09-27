@@ -11,3 +11,5 @@ School Achievements
 [Staff Achievements](/Staff-Achievements/permalink/)
 
 [Accolades](/Accolades/permalink/)
+
+[Ex-Students’ Achievements](/Ex-Students-Achievements/permalink/)
