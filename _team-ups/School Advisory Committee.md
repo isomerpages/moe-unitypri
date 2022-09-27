@@ -5,6 +5,7 @@ description: ""
 ---
 School Advisory Committee
 =========================
+![](/images/TeamUps.png)
 
 ### School Advisory Committee
 -------------------------
