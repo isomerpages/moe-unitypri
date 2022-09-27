@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 Chinese Language
 ================
-![](/images/Department.png)
+![](/images/mother_tongue.jpg)
 
 ### **Vision 愿景**
 -------------
