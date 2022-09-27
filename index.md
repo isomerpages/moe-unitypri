@@ -16,7 +16,7 @@ sections:
           description: ""
           url: /co-curriculum-programme/Learn-for-Life-Programme-LLP/permalink/
         - title: School Calendar
-          description: ""
+          description: Access to our School Calendar
           url: /privacy/
   - infobar:
       title: Infobar title
