@@ -7,3 +7,5 @@ School Calendar
 ===============
 
 ![](/images/Calendar.png)
+
+**Unity Primary School - Public**
