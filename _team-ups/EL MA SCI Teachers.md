@@ -283,3 +283,60 @@ EL / MA / SCI Teachers
   </tr>
 </tbody>
 </table>
+
+### **Primary 6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-84e0{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-patricia-leow-saw-ping-750x1000.jpg" alt="Ms Patricia Leow Saw Ping"></th>
+    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 6 A</span><br><br><span style="text-decoration:underline">Ms Leow Saw Ping Patricia (HOD/CCE)</span><br><a href="mailto:leow_saw_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">leow_saw_ping@schools.gov.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-tan-ai-lin-750x1000.jpg" alt="Ms Tan Ai Lin"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 6 B</span><br><br><span style="font-weight:bold">Ms Tan Ai Lin</span><br><a href="mailto:tan_ai_lin_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_ai_lin_a@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-teo-chee-siong-750x1000.jpg" alt="Mr Teo Chee Siong"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 6 C</span><br><br><span style="font-weight:bold">Mr Teo Chee Siong</span><br><a href="mailto:teo_chee_siong_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">teo_chee_siong_a@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-liwen-750x1000.jpg" alt="Ms Neo Liwen"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 6 D</span><br><br><span style="font-weight:bold">Ms Neo Liwen (LH / SC)</span><br><a href="mailto:neo_liwen@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_liwen@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-tee-mei-shan-750x1000.jpg" alt="Mdm Tee Mei Shan"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 6 E</span><br><br><span style="font-weight:bold">Mdm Tee Mei Shan (YH/UP)</span><br><a href="mailto:tee_mei_shan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tee_mei_shan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-amutha-francis-750x1000.jpg" alt="Mrs Amutha Francis"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mrs Amutha Francis</span><br><a href="mailto:amutha_k_g_ramasamy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">amutha_k_g_ramasamy@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-jayasaresvathy-do-kandasami-750x1000.jpg" alt="Mdm Jayasaresvathy Do Kandasami"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mdm Jayasaresvathy D/O Kandasami</span><br><a href="mailto:jayasaresvathy_kandasami@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jayasaresvathy_kandasami@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-florence-tan-jing-hwa-750x1000.jpg" alt="Mrs Florence Tan Jing Hwa"></td>
+    <td class="tg-84e0"><br><br><br><br><br><br><br><br>Mrs Florence Tan<br><a href="mailto:tan_jing_hwa@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1E73BE;background-color:transparent">tan_jing_hwa@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-750x1000.jpg" alt="Mrs Yvonne Koo"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mrs Yvonne Koo (HOD / EL)</span><br><a href="mailto:yvonne_koo@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yvonne_koo@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
