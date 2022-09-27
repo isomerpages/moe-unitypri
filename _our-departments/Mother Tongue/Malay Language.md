@@ -6,6 +6,7 @@ third_nav_title: Mother Tongue
 ---
 Malay Language
 ==============
+![](/images/Department.png)
 
 ### **Malay Language Curriculum and Aims**
 --------------------------------------
