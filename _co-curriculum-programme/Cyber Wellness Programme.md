@@ -5,6 +5,7 @@ description: ""
 ---
 Cyber Wellness Programme
 ========================
+![](/images/UPS-Website-Banners-3.png)
 
 In Unity Primary Cyber Wellness programme, there are two principles to guide students in their actions:
 
