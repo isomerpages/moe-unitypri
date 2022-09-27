@@ -37,5 +37,5 @@ sections:
   - infobar:
       title: ITQ
       button: Click here to view list of Invitation to Quote(ITQ) published on GeBIZ.
-      url: d
+      url: /ITQ/permalink/
 ---
