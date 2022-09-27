@@ -18,11 +18,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /privacy/
-  - infobar:
-      title: Support for SLS
-      subtitle: Subtitle
-      button: Button text
-      url: /faq/
+        - title: Support for SLS
+          description: ""
+          url: /Support-for-SLS/permalink/
   - infopic:
       title: School Location
       description: How to get here & Contact Information
@@ -30,4 +28,10 @@ sections:
       image: /images/123.png
       alt: Image alt text
       url: /parents-matter/Contact-Us/permalink/
+  - infopic:
+      title: Our School Videos
+      button: Click here to view our p1 introductory video
+      url: d
+      image: /images/P1-Intro-Video.png
+      alt: Image alt text
 ---
