@@ -11,8 +11,8 @@ School Services
 ### School Bus Services
 -------------------
 
-**Eileen Bus & Coach Services  
-**Contact No : 9743 4344  
+**Eileen Bus & Coach Services**  
+Contact No : 9743 4344  
 E-mail          : eileenbus@hotmail.sg  
 Website       : www.eileenbus.com
 
@@ -21,20 +21,18 @@ Parents are to contact the bus operator directly for their child’s transport a
 ### School Uniform
 --------------
 
-**My Uniform Shop (Asia) Pte Lrd**
 
-209 New Upper Changi Road  
-#03-651  
-Singapore 460209  
-Telephone No : 6276 6689 (operating hours)                   
+**My Uniform Shop (Asia) Pte Ltd**
 
-Operating Hours : 3 pm to 8 pm (Monday, Wednesday to Friday)
+My Uniform Shop (Asia) Pte Ltd  
+209 New Upper Changi Road #03-651 S460209  
+Contact No              : 6276 6689 _(Pls call before heading down)_  
+Website                   : [myuniformshop.com.sg](http://www.asencio.com.sg/)  
+Operating Hours     : Wed to Fri: 3 pm to 8 pm  
+Sat: 10 am to 4 pm  
+_Closed on Sunday – Tuesday & Public Holiday_
 
-                                    10 am to 4 pm (Saturday & Sunday)
-
-                                    \*Closed on Tuesday & Public Holiday
-
-School uniforms are available for purchase at the school bookshop during the school term. Parents are advised to call the retail outlet to check on availability of items before heading down.
+The sales of uniform is available in the School Bookshop during term time.
 
 Order for name tags can be placed online at  [https://www.myuniformshop.com.sg/name-tag-order.](https://www.myuniformshop.com.sg/name-tag-order)   These orders will be mailed to you via normal mail.  Please ensure that your child has his/her name tags ironed on his/her uniform and PE attire.
 
@@ -52,7 +50,7 @@ Website: [www.thecontinental.sg](http://www.thecontinental.sg/)
 ### School Dental Clinic
 --------------------
 
-Our School Dental Clinic is scheduled to operate on alternate weeks. Pls refer to the [school calendar](/parents-matter/School-Calendar/permalink/)for the opening dates.
+Our School Dental Clinic is scheduled to operate on alternate weeks. Pls refer to the [school calendar](/parents-matter/School-Calendar/permalink/) for the opening dates.
 
 Telephone No : 91158304 (8am – 5pm)
 
