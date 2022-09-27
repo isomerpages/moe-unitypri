@@ -168,3 +168,58 @@ EL / MA / SCI Teachers
 </table>
 
 ### **Primary 4**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gqkk{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-fok-chee-hoe-750x1000.jpg" alt="Mr Fok Chee Hoe"></th>
+    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 A</span><br><br><span style="font-weight:bold">Mr Fok Chee Hoe</span><br><a href="mailto:fok_chee_hoe@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">fok_chee_hoe@schools.gov.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-mohammad-yasin-bin-abdul-majee-750x1000.jpg" alt="Mr Mohammad Yasin Bin Abdul Majee"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 B</span><br><br><span style="font-weight:bold">Mr Mohammad Yasin Bin Abdul Majeed</span><br><a href="mailto:mohd_yasin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">mohd_yasin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-teo-qiao-xuan-750x1000.jpg" alt="Ms Teo Qiao Xuan"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 C</span><br><br><span style="font-weight:bold">Ms Teo Qiao Xuan</span><br><a href="mailto:teo_qiao_xuan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">teo_qiao_xuan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-phee-lay-kuan-750x1000.jpg" alt="Mdm Phee Lay Kuan"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 D</span><br><br><span style="font-weight:bold">Mdm Phee Lay Kuan (Mrs Hoe)</span><br><a href="mailto:phee_lay_kuan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">phee_lay_kuan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-kashmeena-parwyn-do-muruges-750x1000.jpg" alt="Ms Kashmeena Parwyn Do Muruges"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 E</span><br><br>Ms Kashmeena Parwyn <br><a href="mailto:kashmeena_parwyn@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kashmeena_parwyn@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-750x1000.jpg" alt="Mrs Veronica Tan Yew Hwee"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 4 F</span><br><br><span style="font-weight:bold">Mrs Veronica Tan (YH/MP) </span><br><a href="mailto:veronica_tan_siew_lan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">veronica_tan_siew_lan@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-tan-yuan-ting-750x1000.jpg" alt="Ms Tan Yuan Ting"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Tan Yuan Ting</span><br><a href="mailto:tan_yuan_ting@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_yuan_ting@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-gqkk"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-john-lim-hoei-meng-750x1000.jpg" alt="Mr John Lim Hoei Meng"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr John Lim Hoei Meng</span><br><a href="mailto:Lim_hoei_meng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#1E73BE;background-color:transparent">Lim_hoei_meng@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-norazelin-binte-misnari-750x1000.jpg" alt="Mdm Norazelin Binte Misnari"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mdm Norazelin Misnari (ST/EL)</span><br><a href="mailto:norazelin_misnari@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norazelin_misnari@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
