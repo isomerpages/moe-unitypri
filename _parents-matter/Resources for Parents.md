@@ -33,7 +33,7 @@ Resources for Parents
 
 * [MOE SEXUALITY EDUCATION IN SCHOOLS](/Sexuality-Education/permalink/)
 * [Response to Feedback from Parents 2021](/files/Response-to-Feedback-from-Parents-2021.pdf)
-* Useful Articles
+* [Useful Articles](/Useful-Articles/permalink/)
 * [Transition to secondary school](/files/transition-to-secondary-school.pdf)
 * [Journeying with our Children, Achieving their Aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1)
 * [WE STories 2021](https://online.fliphtml5.com/obrr/vrmu/#p=1)
