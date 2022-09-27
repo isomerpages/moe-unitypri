@@ -3,9 +3,9 @@ title: Parents Information Booklet
 permalink: /parents-matters/Parents-Information-Booklet/permalink/
 description: ""
 ---
-
 Parents Information Booklet
 ===========================
+![](/images/Parents%20Matter.png)
 
 [Primary 1 Parents Information Booklet 2022](/files/Primary-1-Parents-Information-Booklet-2022.pdf)
 
