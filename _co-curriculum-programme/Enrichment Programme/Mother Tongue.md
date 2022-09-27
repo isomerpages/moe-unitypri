@@ -6,7 +6,7 @@ third_nav_title: Enrichment Programme
 ---
 Mother Tongue
 =============
-
+![](/images/UPS-Website-Banners-3.png)
 ### **Chinese Language**
 
 
