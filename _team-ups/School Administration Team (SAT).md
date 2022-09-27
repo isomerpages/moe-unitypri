@@ -5,6 +5,7 @@ description: ""
 ---
 School Administration Team (SAT)
 ================================
+![](/images/TeamUps.png)
 
 ### Administration Manager (AM)
 
