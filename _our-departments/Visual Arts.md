@@ -5,6 +5,7 @@ description: ""
 ---
 Visual Arts
 ===========
+![](/images/Department.png)
 
 ### **Welcome to UPS Visual Arts**
 -------
