@@ -6,6 +6,8 @@ description: ""
 Character and Citizenship Education
 ===================================
 
+![](/images/Department.png)
+
 ### **Vision**
 ----------
 
