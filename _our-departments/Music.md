@@ -5,6 +5,7 @@ description: ""
 ---
 Music
 =====
+![](/images/Department.png)
 
 In Unity, we believe that music, alongside visual art and physical education, is an important part of every child’s holistic education. Hence, all our music programmes are geared toward providing our students plenty of opportunities to explore, develop, and share their music talents and skills.
 
