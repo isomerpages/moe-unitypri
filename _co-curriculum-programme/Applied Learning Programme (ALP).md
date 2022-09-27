@@ -5,6 +5,7 @@ description: ""
 ---
 Applied Learning Programme
 ==========================
+![](/images/UPS-Website-Banners-4.png)
 
 EL Fest is part of the school’s Applied Learning Programme (ALP) and it aims to promote the joy of learning and inculcate a greater interest in the learning of the English Language. The students were treated to a repertoire of fun and exciting activities.
 
