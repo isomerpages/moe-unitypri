@@ -16,12 +16,11 @@ sections:
           description: ""
           url: /co-curriculum-programme/Learn-for-Life-Programme-LLP/permalink/
         - title: School Calendar
-          description: Access to our School Calendar
+          description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
+      title: Support for SLS
       subtitle: Subtitle
-      description: About a sentence worth of description here
       button: Button text
       url: /faq/
   - infopic:
@@ -31,7 +30,4 @@ sections:
       button: Button Text
       image: /images/123.png
       alt: Image alt text
-  - resources:
-      title: Support for SLS
-      button: Resources Button Name
 ---
