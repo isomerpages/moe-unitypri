@@ -119,50 +119,50 @@ EL / MA / SCI Teachers
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-roy-ye-zhonglong-750x1000.jpg" alt="Mr Roy Ye Zhonglong"></th>
-    <th class="tg-4ufn"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 A</span><br><br><span style="font-weight:bold">Mr Roy Ye Zhonglong</span><br><a href="mailto:ye_zhonglong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ye_zhonglong@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 A</span><br><br><span style="font-weight:bold">Mr Roy Ye Zhonglong</span><br><a href="mailto:ye_zhonglong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ye_zhonglong@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-iris-ooi-shimin-750x1000.jpg" alt="Ms Iris Ooi Shimin"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 B</span><br><br><span style="font-weight:bold">Ms Iris Ooi Shimin</span><br><a href="mailto:ooi_shimin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ooi_shimin@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 B</span><br><br><span style="font-weight:bold">Ms Iris Ooi Shimin</span><br><a href="mailto:ooi_shimin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ooi_shimin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-siti-nurshahidah-binte-rosman-750x1000.jpg" alt="Mdm Siti Nurshahidah Binte Rosman"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 C</span><br><br><span style="font-weight:bold">Mdm Siti Nurshahidah Bte</span> <span style="font-weight:bold">Rosman</span><br><a href="mailto:siti_nurshahidah_rosman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siti_nurshahidah_rosman@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 C</span><br><br><span style="font-weight:bold">Mdm Siti Nurshahidah Bte</span> <span style="font-weight:bold">Rosman</span><br><a href="mailto:siti_nurshahidah_rosman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siti_nurshahidah_rosman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-cheong-perk-yin-kenneth-750x1000.jpg" alt="Mr Cheong Perk Yin Kenneth"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 D</span><br><br>Mr Cheong Perk Yin Kenneth<br><a href="mailto:kenneth_cheong_perk_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kenneth_cheong_perk_yin@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 D</span><br><br>Mr Cheong Perk Yin Kenneth<br><a href="mailto:kenneth_cheong_perk_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kenneth_cheong_perk_yin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-wee-wong-li-ting-750x1000.jpg" alt="Mrs Wee Wong Li Ting"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 E</span><br><br><span style="font-weight:bold">Mrs Wee Li Ting</span><br><a href="mailto:wong_li_ting@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_li_ting@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 E</span><br><br><span style="font-weight:bold">Mrs Wee Li Ting</span><br><a href="mailto:wong_li_ting@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_li_ting@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-zunurain-othman-750x1000.jpg" alt="Mdm Zunur'ain Othman"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 F</span><br><br><span style="font-weight:bold">Mdm Zunur’ain Othman (AYH / MP)</span><br><a href="mailto:zunurain_othman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zunurain_othman@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 3 F</span><br><br><span style="font-weight:bold">Mdm Zunur’ain Othman (AYH / MP)</span><br><a href="mailto:zunurain_othman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zunurain_othman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/miss-siow-yu-lin-julin-750x1000.jpg" alt="Miss Siow Yu Lin Julin"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br>Miss Siow Yu Lin Julin<br><a href="mailto:siow_yu_lin_julin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siow_yu_lin_julin@schools.gov.sg</span></a><span style="font-weight:bold;text-decoration:underline"> </span></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Miss Siow Yu Lin Julin</span><br><a href="mailto:siow_yu_lin_julin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siow_yu_lin_julin@schools.gov.sg</span></a><span style="font-weight:bold"> </span></td>
   </tr>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-foo-sing-keng-bernard-750x1000.jpg" alt="Mr Foo Sing Keng Bernard"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><br>Mr Bernard Foo Sing Keng<br><a href="mailto:foo_sing_keng_bernard@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Bernard Foo Sing Keng</span><br><a href="mailto:foo_sing_keng_bernard@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/Kok-ping.png" alt="Kok Ping"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a href="mailto:ang_kok_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ang_kok_ping@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a href="mailto:ang_kok_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ang_kok_ping@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
