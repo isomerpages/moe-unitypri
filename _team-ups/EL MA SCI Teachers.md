@@ -67,46 +67,46 @@ EL / MA / SCI Teachers
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rosyanti-bte-ramli-750x1000.jpg" alt="Mdm Rosyanti Bte Ramli"></th>
-    <th class="tg-4ufn"><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 A</span><br><br><span style="font-weight:bold">Mdm Rosyanti Ramli</span><br><a href="mailto:rosyanti_ramli@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rosyanti_ramli@schools.gov.sg</span></a></th>
+    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rosyanti-bte-ramli-750x1000.jpg" alt="Mdm Rosyanti Bte Ramli"></th>
+    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 A</span><br><br><span style="font-weight:bold">Mdm Rosyanti Ramli</span><br><a href="mailto:rosyanti_ramli@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rosyanti_ramli@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-sherral-lim-750x1000.jpg" alt="Mrs Sherral Lim"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 B</span><br><br><span style="font-weight:bold">Mrs Sherral Lim</span><br><a href="mailto:sherral_lim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sherral_lim@schools.gov.sg</span></a></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-sherral-lim-750x1000.jpg" alt="Mrs Sherral Lim"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 B</span><br><br><span style="font-weight:bold">Mrs Sherral Lim</span><br><a href="mailto:sherral_lim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sherral_lim@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/ms-bhavani-rajandran-600x800.jpg" alt="Ms Bhavani Rajandran"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 C</span><br><br><span style="font-weight:bold">Ms Bhavani Rajandran</span><br><a href="mailto:bhavani_rajandran@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">bhavani_rajandran@schools.gov.sg</span></a></td>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/ms-bhavani-rajandran-600x800.jpg" alt="Ms Bhavani Rajandran"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 C</span><br><br><span style="font-weight:bold">Ms Bhavani Rajandran</span><br><a href="mailto:bhavani_rajandran@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">bhavani_rajandran@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-zalina-bte-kusnan-750x1000.jpg" alt="Mdm Zalina Bte Kusnan"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 D</span><br><br><span style="font-weight:bold">Mdm Zalina Kusnan</span><br><a href="mailto:zalina_kusnan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zalina_kusnan@schools.gov.sg</span></a></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-zalina-bte-kusnan-750x1000.jpg" alt="Mdm Zalina Bte Kusnan"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 D</span><br><br><span style="font-weight:bold">Mdm Zalina Kusnan</span><br><a href="mailto:zalina_kusnan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zalina_kusnan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-jeswyn-sara-do-muruges-750x1000.jpg" alt="Ms Jeswyn Sara Do Muruges"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 E</span><br><br><span style="font-weight:bold">Ms Jeswyn Sara Muruges</span><br><a href="mailto:jeswyn_sara_muruges@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeswyn_sara_muruges@schools.gov.sg</span></a></td>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-jeswyn-sara-do-muruges-750x1000.jpg" alt="Ms Jeswyn Sara Do Muruges"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 E</span><br><br><span style="font-weight:bold">Ms Jeswyn Sara Muruges</span><br><a href="mailto:jeswyn_sara_muruges@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeswyn_sara_muruges@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-wendy-lim-mar-mun-ee-750x1000.jpg" alt="Mrs Wendy Lim Mar Mun Ee"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 F</span><br><br><span style="font-weight:bold">Mrs Wendy Lim</span><br><a href="mailto:Mar_Mun_ee_wendy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mar_Mun_ee_wendy@schools.gov.sg</span></a></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-wendy-lim-mar-mun-ee-750x1000.jpg" alt="Mrs Wendy Lim Mar Mun Ee"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 F</span><br><br><span style="font-weight:bold">Mrs Wendy Lim</span><br><a href="mailto:Mar_Mun_ee_wendy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mar_Mun_ee_wendy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-750x1000.jpg" alt="Mdm Shelyn Ng Sok Kian (huang Shujuan)"></td>
-    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 G</span><br><br><span style="font-weight:bold">Mdm Shelyn Ng</span> <span style="font-weight:bold">(YH/LP)</span><br><a href="mailto:ng_sok_kian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></td>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-750x1000.jpg" alt="Mdm Shelyn Ng Sok Kian (huang Shujuan)"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 2 G</span><br><br><span style="font-weight:bold">Mdm Shelyn Ng</span> <span style="font-weight:bold">(YH/LP)</span><br><a href="mailto:ng_sok_kian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/Isaac-600x775.png" alt="Isaac"></td>
-    <td class="tg-pr30"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Isaac Francis S/O Benert</span><br><a href="mailto:Isaac_Francis_Benert@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Isaac_Francis_Benert@schools.gov.sg</span></a></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/Isaac-600x775.png" alt="Isaac"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Isaac Francis S/O Benert</span><br><a href="mailto:Isaac_Francis_Benert@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Isaac_Francis_Benert@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
