@@ -5,6 +5,7 @@ description: ""
 ---
 Senior Teachers
 ===============
+![](/images/TeamUps.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
