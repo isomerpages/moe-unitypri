@@ -3,12 +3,14 @@ title: Achievements
 permalink: /our-unity-story/Achievements/permalink/
 description: ""
 ---
-2022
-====
+Achievements
+============
+![](/images/OurUnityStory.png)
 
-### **West Zone Junior Science Whiz Challenge (JSWC):**  
-### **Inter-Primary School Science Quiz 2022**
-------------------------------------------------------------------------------------------------
+### 2022
+
+### West Zone Junior Science Whiz Challenge (JSWC): Inter-Primary School Science Quiz 2022
+
 
 ![](/images/Achievements.png)
 
