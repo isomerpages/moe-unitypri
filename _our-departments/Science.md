@@ -5,7 +5,7 @@ description: ""
 ---
 Science
 =======
-![](/images/Department.png)
+![](/images/science_dept_banner.jpg)
 
 ### **Vision**
 ----------
