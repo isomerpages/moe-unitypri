@@ -3,9 +3,9 @@ title: Letters to Parents
 permalink: /parents-matters/Letters-to-Parents/permalink/
 description: ""
 ---
-
 Letters to Parents
 ==================
+![](/images/ITQ.jpg)
 
 ### **September 2022**
 
