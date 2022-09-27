@@ -5,6 +5,7 @@ description: ""
 ---
 Information and Communications Technology
 =========================================
+![](/images/Department.png)
 
 ### **Vision**
 ----------
