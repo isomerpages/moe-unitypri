@@ -26,7 +26,8 @@ sections:
   - infopic:
       title: School Location
       description: How to get here & Contact Information
-      button: Button Text
+      button: Contact Us
       image: /images/123.png
       alt: Image alt text
+      url: /parents-matter/Contact-Us/permalink/
 ---
