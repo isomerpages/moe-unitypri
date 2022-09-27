@@ -137,3 +137,23 @@ Mother Tongue Teachers
   </tr>
 </tbody>
 </table>
+
+### Tamil Language Teacher
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-a3j2"><img src="https://unitypri-moe-edu-sg-admin.cwp-stg.sg/wp-content/uploads/2022/04/Meera.png" alt="Meera"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Meera Rajarethenam</span><br><a href="mailto:Meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Meera_rajarethenam@schools.gov.sg</span></a></td>
+  </tr>
+</thead>
+</table>
