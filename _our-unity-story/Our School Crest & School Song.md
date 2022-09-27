@@ -5,6 +5,7 @@ description: ""
 ---
 Our School Crest & School Song
 ==============================
+![](/images/OurUnityStory.png)
 
 ### **Our School Crest**
 
@@ -42,4 +43,3 @@ The 3 colours represent:
 ### **Our School Song**
 
 ![](/images/SchoolSong.png)
-
