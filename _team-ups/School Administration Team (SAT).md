@@ -113,3 +113,23 @@ School Administration Team (SAT)
   </tr>
 </thead>
 </table>
+
+### **Adjunct CSO**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-zr06"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-adila-750x1000.jpg" alt="Mdm Adila" width="750" height="1000"></td>
+    <td class="tg-0lax"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mdm Nur Adila Binte Kamarudin</span><br><a href="mailto:Nur_adila_Kamarudin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Nur_adila_Kamarudin@schools.gov.sg</span></a></td>
+  </tr>
+</thead>
+</table>
