@@ -17,7 +17,12 @@ Key Personnel
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 283px">
+<colgroup>
+<col style="width: 71px">
+<col style="width: 71px">
+<col style="width: 141px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-a3j2" colspan="3"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-lee-koh-siew-cheng-600x800.jpg" alt="Mrs Lee Koh Siew Cheng" width="170" height="227"><br><span style="font-weight:bold">Mrs Lee-Koh Siew Cheng</span><br><span style="font-weight:bold">Principal</span></th>
