@@ -5,6 +5,7 @@ description: ""
 ---
 EL / MA / SCI Teachers
 ======================
+![](/images/TeamUps.png)
 
 ### Primary 1
 
