@@ -223,3 +223,63 @@ EL / MA / SCI Teachers
   </tr>
 </tbody>
 </table>
+
+### **Primary 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-jeba-kumar-selvin-jo-anna-pear-750x1000.jpg" alt="Ms Jeba Kumar Selvin Jo Anna Pear"></th>
+    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 A</span><br><br><span style="font-weight:bold">Ms Jo Anna Pearl Selvin</span><br><a href="mailto:jeba_kumar_selvin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeba_kumar_selvin@schools.gov.sg</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-nabilah-binte-ithnin-750x1000.jpg" alt="Ms Nabilah Binte Ithnin"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 B</span><br><br><span style="font-weight:bold">Ms Nabilah Binte Ithnin</span><br><a href="mailto:nabilah_ithnin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nabilah_ithnin@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-xueli-1-750x1000.jpg" alt="Ms Neo Xueli"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 C</span><br><br>Ms Neo Xueli (HOD / DISC)<br><a href="mailto:Neo_Xueli@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Neo_Xueli@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-r-shyam-kumar-750x1000.jpg" alt="Mr R Shyam Kumar"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 D</span><br><br><span style="font-weight:bold">Mr R. Shyam Kumar</span><br><a href="mailto:r_shyam_kumar@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">r_shyam_kumar@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-tan-jie-min-750x1000.jpg" alt="Ms Tan Jie Min"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 E</span><br><br><span style="font-weight:bold">Ms Tan Jie Min</span><br><a href="mailto:tan_jie_min@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_jie_min@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-wong-yun-yee-750x1000.jpg" alt="Ms Wong Yun Yee"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 F</span><br><br><span style="font-weight:bold">Ms Wong Yun Yee</span><br><a href="mailto:wong_yun_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_yun_yee@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-sylvia-quek-750x1000.jpg" alt="Mrs Sylvia Quek"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Pri 5 G</span><br><br><span style="text-decoration:underline">Mrs Sylvia Quek</span><br><a href="mailto:ong_mui_yen_sylvia@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ong_mui_yen_sylvia@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-soo-poh-ling-750x1000.jpg" alt="Mdm Soo Poh Ling"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="text-decoration:underline">Mdm Soo Poh Ling</span><br><a href="mailto:soo_poh_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">soo_poh_ling@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-chan-kar-yee-charissa-750x1000.jpg" alt="Ms Chan Kar Yee Charissa"></td>
+    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Chan Kar Yee Charissa (LH / MATHS)</span><br><a href="mailto:chan_kar_yee_charissa@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chan_kar_yee_charissa@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-1-750x1000.jpg" alt="Mr Kelvin Ng Chin Khiang"></td>
+    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Kelvin Ng Chin Khiang (HOD / SC)</span><br><a href="mailto:kelvin_ng_chin_khiang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
