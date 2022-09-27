@@ -306,3 +306,17 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+![](/images/CIB2018.jpeg)
+
+**Info in regard to being awarded the Gold Banding Community In Bloom Award by NParks**
+
+The biennial Community In Bloom (CIB) Awards, organised by NParks, recognise and reward gardening efforts of Singapore’s gardening groups.  Unity Primary School is honoured to achieve the Gold banding.
+
+The school has an Eco-garden, Central Garden, Urban Farm and numerous indoor planters providing platforms for various whole level activities such as ‘Every Child A Gardener’ (Pri 4), ‘Every Child an Urban Farmer’ (Pri 5) and ‘Clean & Green Classrooms’ (Pri 1 to Pri 6) to equip students with leadership skills and developing character in our Learning for Life Programme (LLP) ‘CharGE UP!’ – Character Development through Green and Experiential learning@Unity Primary, endorsed by MOE.
+
+For instance, each of our Primary 5 classes has a dedicated urban organic farming unit for the pupils to sow seeds, monitor the growth, and harvest the vegetables.  In the process, they learn the values of care, respect and responsibility, the social emotional competency of relationship management and to be concerned citizens.  These harvested vegetables would then be given to various peoples such as our school cleaners and administrative staff to express their respect and appreciation to their seniors.
+
+More information about our LLP, Community In Bloom and Green efforts can be found in [https://www.youtube.com/watch?v=xnY\_x0AoCmY&t=125s](https://www.youtube.com/watch?v=xnY_x0AoCmY&t=125s).
+
+![](/images/gold.jpeg)
