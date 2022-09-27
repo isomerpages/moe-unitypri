@@ -31,4 +31,7 @@ sections:
       button: Button Text
       image: /images/123.png
       alt: Image alt text
+  - resources:
+      title: Support for SLS
+      button: Resources Button Name
 ---
