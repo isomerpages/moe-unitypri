@@ -5,6 +5,7 @@ description: ""
 ---
 Programme for Active Learning (PAL)
 ===================================
+![](/images/UPS-Website-Banners-3.png)
 
 **Programme** **for Active Learning** **(PAL)** is an initiative of MOE. During PAL, P1 and P2 students are given exposure and experiences through fun and varied activities that facilitate their holistic development in the physical, cognitive, social, aesthetics and moral domains.
 
