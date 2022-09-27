@@ -5,6 +5,7 @@ description: ""
 ---
 Our Strategic Plan
 ==================
+![](/images/OurUnityStory.png)
 
 ### **Desired Outcomes**
 
