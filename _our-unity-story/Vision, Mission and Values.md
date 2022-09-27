@@ -5,6 +5,7 @@ description: ""
 ---
 Vision, Mission and Values
 ==========================
+![](/images/OurUnityStory.png)
 
 ### **Vision**  
 Creative Mind, Confident Self & Caring Heart
