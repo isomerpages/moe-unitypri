@@ -5,6 +5,7 @@ description: ""
 ---
 Accolades
 =========
+![](/images/ITQ.jpg)
 
 ### [2017](/files/hwa-chong-accolades-2018.pdf)
 
