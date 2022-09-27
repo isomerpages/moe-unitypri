@@ -4,9 +4,9 @@ permalink: /parents-matters/Information/School-Rules-and-Discipline-Guidelines/p
 description: ""
 third_nav_title: Information
 ---
-
 School Rules & Discipline Guidelines
 ====================================
+![](/images/Parents%20Matter.png)
 
 ### **Singing the National Anthem and taking the Pledge**
 
