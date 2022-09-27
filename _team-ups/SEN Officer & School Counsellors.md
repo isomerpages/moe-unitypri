@@ -5,6 +5,7 @@ description: ""
 ---
 SEN Officer & School Counsellors
 ================================
+![](/images/TeamUps.png)
 
 ### **SEN Officer**
 
