@@ -5,6 +5,7 @@ description: ""
 ---
 Staff Achievements
 ==================
+![](/images/ITQ.jpg)
 
 ### Staff Achievements
 
