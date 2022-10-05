@@ -11,22 +11,14 @@ Our School Crest & School Song
 
 
 
-<div>
-
-<div style="float: right">
-
-![](/images/Unityprilogo.png) 
-
-</div><div>
+<img src="/images/Unityprilogo.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
 The **3 ribbons** symbolize an “**U**pright”, “**U**ndaunted” & “**U**nited” Spirit & they carry **3 messages**:
-
-
-</div></div>
 
 1.  To nurture confident & all-rounded individuals.
 2.  To develop concerned & active citizens with good character & instill in them sound moral values.
 3.  To strengthen the school-home-community partnership.
+
 
 The **3 dots** depict the **3 initiatives**, namely, fostering
 
