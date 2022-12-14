@@ -24,7 +24,7 @@ School Advisory Committee
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Yen-Tan-600x800.jpg" alt="Ms Yen Tan" width="44" height="59"></th>
+    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Yen-Tan-600x800.jpg" alt="Ms Yen Tan" width="20" height="40"></th>
     <th class="tg-y0g8">Ms Yen Tan<br>SAC Chairperson</th>
   </tr>
 </thead>
