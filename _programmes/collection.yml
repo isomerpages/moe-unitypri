@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Brain Gym (P1 to P4).md
       - Overseas Immersion Programme/.keep
       - Overseas Immersion Programme/WuXi, China.md
       - Overseas Immersion Programme/Brunei.md
