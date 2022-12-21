@@ -1,5 +1,5 @@
 collections:
-  our-curriculum:
+  curriculum:
     output: true
     order:
       - English Language.md
