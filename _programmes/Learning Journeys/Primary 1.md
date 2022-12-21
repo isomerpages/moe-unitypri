@@ -4,7 +4,6 @@ permalink: /programmes/Learning-Journeys/permalink/
 description: ""
 third_nav_title: Learning Journeys
 ---
-
 ## Around the School & Road Safety Walk
 ![](/images/Learning%20Journeys/2022/Primary%201/P1%20Ard%20the%20school.jpg)P1 Learning Journey Around the School Neighbourhood & Road Safety Walk was conducted for all P1 students in Term 1.  The outing served to help students understand the basic concepts of safe behaviours outdoors and when using the road.  
 
