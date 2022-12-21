@@ -3,11 +3,11 @@ title: School Advisory Committee
 permalink: /team-ups/School-Advisory-Committee/permalink/
 description: ""
 ---
-School Advisory Committee
+# School Advisory Committee
 =========================
 ![](/images/TeamUps.png)
 
-### School Advisory Committee
+#### School Advisory Committee
 -------------------------
 
 <style type="text/css">
