@@ -3,10 +3,8 @@ title: Key Personnel
 permalink: /team-ups/Key-Personnel/permalink/
 description: ""
 ---
-Key Personnel
-=============
+## Key Personnel
 
-![](/images/TeamUps.png)
 
 ### School Leaders
 
@@ -27,8 +25,8 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%"alt="Mrs Chong Suet Fong" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Academic)</span></td>
-    <td class="tg-vgmr"><img style="width:35%"alt="Ms Chua Leng Leng" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Administration)</span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" alt="Mrs Chong Suet Fong" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Academic)</span></td>
+    <td class="tg-vgmr"><img style="width:35%" alt="Ms Chua Leng Leng" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Administration)</span></td>
   </tr>
 </tbody>
 </table>
@@ -42,9 +40,9 @@ Key Personnel
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-h5mn{background-color:;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -55,11 +53,11 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn"><img style="width:40%"alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
+    <td class="tg-h5mn"><img style="width:40%" alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
     <td class="tg-rs0e"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold">Mr Kelvin Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img style="width:40%"alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
+    <td class="tg-1ppo"><img style="width:40%" alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
     <td class="tg-l2bf"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><span style="font-weight:bold">Mr Johari B Wahid</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></td>
   </tr>
   <tr>
