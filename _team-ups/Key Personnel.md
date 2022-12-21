@@ -39,26 +39,26 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:middle;vertical-align:top}
+.tg .tg-l2bf{background-color:;color:;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-h5mn{background-color:;color:#222;text-align:middle;vertical-align:middle}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rs0e{background-color:;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:;color:#222;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-1ppo"><img style="width:30%" alt="Mrs Yvonne Koo" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"></th>
-    <th class="tg-l2bf"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">HOD / English Language</span><br><span style="font-weight:bold">Mrs Yvonne Koo</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yvonne_koo@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="text-decoration:underline">HOD / English Language</span><br><span style="font-weight:bold">Mrs Yvonne Koo</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yvonne_koo@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold">Mr Kelvin Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold">Mr Kelvin Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><span style="font-weight:bold">Mr Johari B Wahid</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><span style="font-weight:bold">Mr Johari B Wahid</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Ms Patricia Leow Saw Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-patricia-leow-saw-ping-600x800.jpg"></td>
