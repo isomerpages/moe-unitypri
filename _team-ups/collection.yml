@@ -1,5 +1,5 @@
 collections:
-  our-team-ups:
+  team-ups:
     output: true
     order:
       - School Advisory Committee.md
