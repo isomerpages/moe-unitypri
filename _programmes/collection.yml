@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Overseas Immersion Programme/Ho Chi Minh, Vietnam.md
       - Overseas Immersion Programme/Brunei.md
       - Overseas Immersion Programme/WuXi, China.md
       - Overseas Immersion Programme/.keep
