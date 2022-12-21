@@ -20,7 +20,7 @@ sections:
           url: /parents-matter/School-Calendar/permalink/
         - title: School Events
           description: ""
-          url: ""
+          url: school-events/2022/P1-Orientation/permalink/
   - infopic:
       title: Our School Videos
       button: Click here to view our p1 introductory video
