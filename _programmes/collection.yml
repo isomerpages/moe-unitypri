@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Junior Achievement Programme/P2 JAP.md
       - Junior Achievement Programme/P1 JAP.md
       - Junior Achievement Programme/.keep
       - Brain Gym (P1 to P4).md
