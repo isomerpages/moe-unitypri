@@ -3,9 +3,8 @@ title: Mother Tongue Teachers
 permalink: /team-ups/Mother-Tongue-Teachers/permalink/
 description: ""
 ---
-Mother Tongue Teachers
-======================
-![](/images/TeamUps.png)
+### Mother Tongue Teachers
+
 
 ### Chinese Language Teachers
 
