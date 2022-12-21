@@ -18,9 +18,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
-        - title: Support for SLS
+        - title: School Events
           description: ""
-          url: /Support-for-SLS/permalink/
+          url: ""
   - infopic:
       title: Our School Videos
       button: Click here to view our p1 introductory video
