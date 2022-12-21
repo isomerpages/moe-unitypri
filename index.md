@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: UPS
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -39,3 +39,4 @@ sections:
       button: Click here to view list of Invitation to Quote(ITQ) published on GeBIZ.
       url: /ITQ/permalink/
 ---
+
