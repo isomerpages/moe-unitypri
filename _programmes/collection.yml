@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Experiential Learning.md
       - Learning Journeys.md
       - Applied Learning Programme (ALP).md
       - Learn for Life Programme (LLP).md
