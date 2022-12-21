@@ -27,8 +27,8 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img alt="Mrs Chong Suet Fong" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Academic)</span></td>
-    <td class="tg-vgmr"><img alt="Ms Chua Leng Leng" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Administration)</span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%"alt="Mrs Chong Suet Fong" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Academic)</span></td>
+    <td class="tg-vgmr"><img style="width:35%"alt="Ms Chua Leng Leng" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Administration)</span></td>
   </tr>
 </tbody>
 </table>
@@ -49,17 +49,17 @@ Key Personnel
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img alt="Mrs Yvonne Koo" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"></th>
+    <th class="tg-1ppo"><img style="width:40%" alt="Mrs Yvonne Koo" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"></th>
     <th class="tg-l2bf"><br><br><br><br><br><br><br><br><br><span style="text-decoration:underline">HOD / English Language</span><br><span style="font-weight:bold">Mrs Yvonne Koo</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yvonne_koo@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn"><img alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
+    <td class="tg-h5mn"><img style="width:40%"alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
     <td class="tg-rs0e"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold">Mr Kelvin Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
+    <td class="tg-1ppo"><img style="width:40%"alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
     <td class="tg-l2bf"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><span style="font-weight:bold">Mr Johari B Wahid</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></td>
   </tr>
   <tr>
