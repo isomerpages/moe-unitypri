@@ -24,37 +24,37 @@ School Advisory Committee
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Yen-Tan-600x800.jpg" alt="Ms Yen Tan" width="20" height="40"></th>
+    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Yen-Tan-600x800.jpg" style="width:50%"></th>
     <th class="tg-y0g8">Ms Yen Tan<br>SAC Chairperson</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Johnny-Quah-600x800.jpg" alt="Mr Johnny Quah" width="44" height="59"></td>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Johnny-Quah-600x800.jpg" style="width:50%"></td>
     <td class="tg-ndzb">Mr Johnny Quah<br>SAC Treasurer</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Conrad-Campos-600x800.jpg" alt="Mr Conrad Campos" width="44" height="59"></td>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Conrad-Campos-600x800.jpg" style="width:50%"></td>
     <td class="tg-y0g8">Mr Conrad Campos<br>SAC Member</td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Lim-Chong-Beng-Jem-600x800.jpg" alt="Mr Lim Chong Beng Jem" width="44" height="59"></td>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Lim-Chong-Beng-Jem-600x800.jpg" style="width:50%"></td>
     <td class="tg-ndzb">Mr Lim Chong Beng Jem<br>SAC Member</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Lei-Yutan-600x800.jpg" alt="Ms Lei Yutan" width="44" height="59"></td>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Lei-Yutan-600x800.jpg" style="width:50%"></td>
     <td class="tg-y0g8">Ms Lei Yutan<br>SAC Member</td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Aaron-Yap-600x800.jpg" alt="Mr Aaron Yap" width="44" height="59"></td>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Aaron-Yap-600x800.jpg" style="width:50%"></td>
     <td class="tg-ndzb">Mr Yap Jun Yi Aaron<br>SAC Member</td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Simon-Tan-600x800.jpg" alt="Mr Simon Tan" width="44" height="59"></td>
+    <td class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Simon-Tan-600x800.jpg" style="width:50%"></td>
     <td class="tg-y0g8">Mr Simon Tan<br>SAC Member</td>
   </tr>
   <tr>
-    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Roy-600x800.jpg" alt="Mr Roy" width="44" height="59"></td>
+    <td class="tg-h5mn"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Mr-Roy-600x800.jpg" style="width:50%"></td>
     <td class="tg-ndzb">Mr Pallipurathu Gopinathan Roy<br>SAC Member</td>
   </tr>
 </tbody>
