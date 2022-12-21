@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Co curricular Activities (CCA).md
-      - Programme for Active Learning (PAL).md
+      - Learning Journeys.md
       - Applied Learning Programme (ALP).md
       - Learn for Life Programme (LLP).md
+      - Co curricular Activities (CCA).md
+      - Programme for Active Learning (PAL).md
       - Enrichment Programme/.keep
       - Enrichment Programme/Mother Tongue.md
-      - Learning Journeys.md
       - Cyber Wellness Programme.md
