@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning Journeys/.keep
       - Experiential Learning/P4 Swimsafer.md
       - Experiential Learning/.keep
       - Applied Learning Programme (ALP).md
