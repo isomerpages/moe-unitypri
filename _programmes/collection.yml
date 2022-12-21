@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning Journeys/Primary 3.md
       - Learning Journeys/Primary 4.md
       - Learning Journeys/Primary 5.md
       - Learning Journeys/Primary 6.md
