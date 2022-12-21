@@ -2,30 +2,30 @@ collections:
   programmes:
     output: true
     order:
-      - Junior Achievement Programme/P4 JAP.md
-      - Junior Achievement Programme/P3 JAP.md
-      - Junior Achievement Programme/P2 JAP.md
-      - Junior Achievement Programme/P1 JAP.md
-      - Junior Achievement Programme/.keep
-      - Brain Gym (P1 to P4).md
-      - Overseas Immersion Programme/.keep
-      - Overseas Immersion Programme/WuXi, China.md
-      - Overseas Immersion Programme/Brunei.md
-      - Overseas Immersion Programme/Ho Chi Minh, Vietnam.md
+      - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
       - Learning Journeys/Primary 3.md
       - Learning Journeys/Primary 4.md
       - Learning Journeys/Primary 5.md
       - Learning Journeys/Primary 6.md
-      - Learning Journeys/.keep
+      - Applied Learning Programme (ALP).md
+      - Learn for Life Programme (LLP).md
+      - Overseas Immersion Programme/.keep
+      - Overseas Immersion Programme/WuXi, China.md
+      - Overseas Immersion Programme/Brunei.md
+      - Overseas Immersion Programme/Ho Chi Minh, Vietnam.md
+      - Co curricular Activities (CCA).md
       - Experiential Learning/.keep
       - Experiential Learning/P4 Swimsafer.md
       - Experiential Learning/P5 Camp Fortitude.md
       - Experiential Learning/P6 Camp Unity.md
-      - Applied Learning Programme (ALP).md
-      - Learn for Life Programme (LLP).md
-      - Co curricular Activities (CCA).md
+      - Brain Gym (P1 to P4).md
+      - Junior Achievement Programme/.keep
+      - Junior Achievement Programme/P4 JAP.md
+      - Junior Achievement Programme/P3 JAP.md
+      - Junior Achievement Programme/P2 JAP.md
+      - Junior Achievement Programme/P1 JAP.md
       - Programme for Active Learning (PAL).md
       - Enrichment Programme/.keep
       - Enrichment Programme/Mother Tongue.md
