@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Overseas Immersion Programme/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
       - Learning Journeys/Primary 3.md
