@@ -14,8 +14,8 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-y0g8{background-color:#FFF;color:#222;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ndzb{background-color:#;color:#222;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-y0g8{background-color:#FFF;color:#222;font-size:22px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ndzb{background-color:#;color:#222;font-size:22px;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
