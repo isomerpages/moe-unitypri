@@ -2,6 +2,7 @@ collections:
   parents-matter:
     output: true
     order:
+      - Info on Teaching & Learning/.keep
       - Tour of School.md
       - School Calendar.md
       - Letters to Parents.md
