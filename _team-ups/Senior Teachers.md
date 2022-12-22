@@ -20,7 +20,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-norazelin-binte-misnari-750x1000.jpg" style="width:27%" alt="Mdm Norazelin Binte Misnari"></th>
+    <th class="tg-1ppo"><img style="width:27%" src="![meera](/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg)" alt="Mdm Norazelin Binte Misnari"></th>
     <th class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">Senior Teacher / English</span><br><span style="font-weight:bold">Mdm Norazelin Misnari</span><br><a href="mailto:norazelin_misnari@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norazelin_misnari@schools.gov.sg</span></a></th>
   </tr>
 </thead>
