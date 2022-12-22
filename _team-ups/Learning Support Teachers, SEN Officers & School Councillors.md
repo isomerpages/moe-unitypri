@@ -47,7 +47,7 @@ description: ""
 <thead>
   <tr>
     <td class="tg-ykyb"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/MS-NURUL-HIDAYAH-BINTE-NASRI-750x1000.jpg" style="width:30%" alt="Ms Nurul Hidayah Binte Nasri"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Nurul Hidayah Binte Nasri (AED/LBS)</span><br><a href="mailto:nurul_hidayah_nasri@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nurul_hidayah_nasri@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Nurul Hidayah Binte Nasri </span><br><a href="mailto:nurul_hidayah_nasri@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nurul_hidayah_nasri@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
