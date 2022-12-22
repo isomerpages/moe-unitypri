@@ -15,6 +15,6 @@ They learned the techniques of basket weaving and afterwards, put on their creat
 The highly anticipated activity was the school interaction between our students and students from Sekolah Tunas Jaya PGGMB Lambak. This session conducted on 25 August 22 provided opportunities for our students to enhance their use of the Malay Language in an authentic environment.  They were ambassadors of the UPS and Singapore as they shared about the subjects and programmes offered by the school and the places of interest, food and festivals in Singapore.
 
 During the allocated snack break, the students were given the chance to feast on the traditional Brunei snacks provided.
-![](/images/Programmes/2022/2022%20VOIP%20Brunei-3.jpg)
+![](/images/Programmes/2022/OIP/2022%20VOIP%20Brunei-3.jpg)
 
 Students enjoyed their VOIP to Brunei Darussalam. Despite the limitations of remaining in Singapore, it did not take away the engaging experience and learning opportunities.
