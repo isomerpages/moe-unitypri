@@ -11,4 +11,4 @@ The 2nd Virtual Overseas Immersion Experience to Wuxi & Shanghai, China, for our
 * Promote cross-cultural sensitivity & understanding in our students by having the opportunity to experience being student ambassadors of Singapore. 
 
 The programme entailed virtual tour of places of cultural & educational interest in Wuxi & Shanghai as well as virtual interactions with students in a local school. There were also hands-on activities for students to experience & appreciate the beauty of Chinese Culture. Overall, the students enjoyed themselves tremendously and gained new learning while making friends beyond Singapore shore.
-![](/images/Programmes/2022/2022%20VOIP%20China.jpg)
+![](/images/Programmes/2022/OIP/2022%20VOIP%20China.jpg)
