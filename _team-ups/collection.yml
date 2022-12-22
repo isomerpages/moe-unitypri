@@ -2,6 +2,7 @@ collections:
   team-ups:
     output: true
     order:
+      - Art Teachers.md
       - Malay Language Teachers.md
       - P1 Form & Co Form Teachers.md
       - School Advisory Committee.md
