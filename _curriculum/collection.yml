@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT/Baseline Skills.md
       - ICT/Code For Fun.md
       - ICT/.keep
       - Information and Communications Technology.md
