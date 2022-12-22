@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Code For Fun.md
       - Baseline Skills.md
       - Information and Communications Technology.md
       - English Language.md
