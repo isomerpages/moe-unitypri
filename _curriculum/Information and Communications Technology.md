@@ -3,10 +3,9 @@ title: Information and Communications Technology
 permalink: /curriculum/Information-and-Communications-Technology/permalink/
 description: ""
 ---
+## Information and Communications Technology
 
-Information and Communications Technology
-=========================================
-![](/images/ict.jpg)
+
 
 ### **Vision**
 ----------
