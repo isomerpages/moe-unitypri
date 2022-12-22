@@ -4,6 +4,6 @@ permalink: /programmes/Co-Curricular-Activities/uniformgroups/permalink/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-## Scouts
+## **Scouts**
 ![](/images/Programmes/2022/CCA/CCA-17.jpg)
-CCA TIC: 
+CCA TIC:
