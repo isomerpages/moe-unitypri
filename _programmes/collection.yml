@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Applied Learning Programme/Chinese Language ALP.md
       - Applied Learning Programme/English Language ALP.md
       - Applied Learning Programme/.keep
       - Learning Journeys/.keep
