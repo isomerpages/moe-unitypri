@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Baseline Skills/Information and Communications Technology.md
       - Baseline Skills/.keep
       - English Language.md
       - Chinese Language.md
