@@ -133,4 +133,10 @@ description: ""
     <td class="tg-0lax"><br><span style="font-weight:bold">Mdm Nur Adila Binte Kamarudin</span><br><a href="mailto:Nur_adila_Kamarudin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Nur_adila_Kamarudin@schools.gov.sg</span></a></td>
   </tr>
 </thead>
+	<tbody>
+  <tr>
+    <td class="tg-vgmr"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-palani-jeyaram-750x1000.jpg" style="width:30%" alt="Mr Palani Jeyaram" width="750" height="1000"></td>
+    <td class="tg-3qhc"><br><br><br><br><br><span style="font-weight:bold">Mr Palani Velu Jeyaram</span><br><a href="mailto:Palani_Velu_jeyaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Palani_Velu_jeyaram@schools.gov.sg</span></a></td>
+  </tr>
+</tbody>
 </table>
