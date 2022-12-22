@@ -4,9 +4,7 @@ permalink: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
 description: ""
 third_nav_title: Applied Learning Programme
 ---
-
-Applied Learning Programme
-==========================
+## **English Language**
 EL Fest is part of the school’s Applied Learning Programme (ALP) and it aims to promote the joy of learning and inculcate a greater interest in the learning of the English Language. The students were treated to a repertoire of fun and exciting activities.
 
 Teachers recommended books to the students via Book Buzz and students participated in the Charity Book Drive, Read for Books, organised by NLB.  EL Fest continued in the classrooms through language-centric activities like memory and bingo games for P1 and P2 levels while the P3 to P6 students engaged in boggles and charades. The EL Fest culminated with Storigami which involved teachers telling stories using origami.
@@ -22,7 +20,6 @@ Teachers recommended books to the students via Book Buzz and students participat
 ![](/images/Book-Buzz-600x318.png)
 
 ---
-
 The EL Enrichment Programme in UPS aims to expose students to learning beyond the curriculum. Varied learning opportunities across levels are planned for students throughout their years in UPS. All students engage in a range of activities that provide opportunities for them to perform confidently, think critically and communicate effectively in front of adult audiences in addition to their schoolmates.
 
 ![](/images/EL-Enrichmt-Prog-P1-CAPtivate-600x351.png)
@@ -41,28 +38,3 @@ Students can look forward to the latest book reviews with NLB, a meet-and-greet 
 ![](/images/EL5.png)
 
 ---
-
-### Chinese Language
-![](/images/CL.png)
-
-![](/images/CL2.png)
-
-![](/images/CL3.png)
-
----
-
-### Malay Language
-
-![](/images/ML.png)
-
-![](/images/ML2.png)
-
-Ml Alp P4 Write Up
-
----
-
-### Tamil Language
-
-![](/images/TL.png)
-
-![](/images/TL2.png)
