@@ -8,6 +8,7 @@ One of the Co-Curriculum Programme provided by the school is the Co-curricular A
 
 ### Specific Objectives
 ![](/images/Programmes/2022/CCA/CCA%20Objectives.jpg)
+![](/images/Programmes/2022/CCA/CCA%20Objectives1.jpg)
 ### Schedule for Trainings
 All CCAs are conducted on Fridays from 7.30 am to 9 am.
 
