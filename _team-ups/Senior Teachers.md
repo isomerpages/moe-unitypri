@@ -3,7 +3,7 @@ title: Senior Teachers
 permalink: /team-ups/Senior-Teachers/permalink/
 description: ""
 ---
-### Senior Teachers
+## **Tamil Language Teacher**
 
 
 <style type="text/css">
@@ -20,8 +20,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-1ppo"><img style="width:27%" src="![meera](/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg)" alt="Mdm Norazelin Binte Misnari"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">Senior Teacher / English</span><br><span style="font-weight:bold">Mdm Norazelin Misnari</span><br><a href="mailto:norazelin_misnari@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norazelin_misnari@schools.gov.sg</span></a></th>
+    <th class="tg-1ppo"><img style="width:27%" src="![meera](/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg)"></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline"><span style="font-weight:bold">Ms Meera Rajarethenam</span><br><a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">meera_rajarethenam@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
