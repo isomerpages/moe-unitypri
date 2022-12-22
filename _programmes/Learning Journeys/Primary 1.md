@@ -28,5 +28,3 @@ Even in the hot weather, students thoroughly enjoyed themselves exclaiming the d
 On 3 October 2022, the P1 students went on a learning journey to the River Wonders. A pre-learning journey lesson was conducted to introduce the various sites and prepare the students for the trip. Together with the Form Teachers and Parent Volunteers, the students completed different tasks assigned at the Mekong River, Giant Panda Forest and Amazon Flooded Forest. Students were fascinated by the sight of the Manatees and Giant Stingrays at the Amazon Flooded Forest. Many of them were also excited to see the Electric Eel and Piranha for the first time. The highlight of the trip was getting to see Kai Kai and Le Le at the Panda Enclosure. Although the students did not get to meet Jia Jia, the sight of Le Le perching on the tree branch cheered them up. Overall, the classes had a fabulous time relating with one another and learning about the features of the different animals.
 
 ![](/images/Learning%20Journeys/2022/Primary%201/2022%20P1%20River%20Wonders.jpg)
-
-
