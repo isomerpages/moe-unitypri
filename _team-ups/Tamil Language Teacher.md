@@ -21,7 +21,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-1ppo"><img src="/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg" style="width:27%"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline"><span style="font-weight:bold">Ms Meera Rajarethenam</span><br><a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">meera_rajarethenam@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline"><span style="font-weight:bold">Ms Meera Rajarethenam</span><br><a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">meera_rajarethenam@schools.gov.sg</span</a></td>
   </tr>
-</thead>
+</tbody>
 </table>
