@@ -17,4 +17,5 @@ Our students also underwent a hands-on activity to apply the students’ new-fou
 
 They also tried out a Vietnamese dessert, tapioca with coconut milk, to help them experience & appreciate the beauty of the Vietnamese culture.
 ![](/images/Programmes/2022/2022%20VOIP%20Vietnam-3.jpg)
+
 After the activity, our students completed a reflection on what they cherished about being in Singapore and shared with one another. All in, the students had an enjoyable and beneficial experience.
