@@ -2,12 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Co Curricular Activities (CCA)/.keep
-      - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
-      - Co Curricular Activities (CCA)/Sports & Games.md
-      - Co Curricular Activities (CCA)/Performing Arts.md
-      - Co Curricular Activities (CCA)/Clubs & Societies.md
-      - Co Curricular Activities (CCA)/Uniform Groups.md
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
@@ -25,6 +19,12 @@ collections:
       - Overseas Immersion Programme/WuXi, China.md
       - Overseas Immersion Programme/Brunei.md
       - Overseas Immersion Programme/Ho Chi Minh, Vietnam.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Sports & Games.md
+      - Co Curricular Activities (CCA)/Performing Arts.md
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
+      - Co Curricular Activities (CCA)/Uniform Groups.md
       - Experiential Learning/.keep
       - Experiential Learning/P4 Swimsafer.md
       - Experiential Learning/P5 Camp Fortitude.md
