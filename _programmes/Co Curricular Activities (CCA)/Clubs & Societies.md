@@ -6,12 +6,13 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 ## English Language, Drama & Debating
 ![](/images/Programmes/2022/CCA/CCA-12.jpg)
-## Greenovation Club
+## **Greenovation Club**
 ![](/images/Programmes/2022/CCA/CCA-13.jpg)
-## Mathematics Club
+## **Mathematics Club**
 ![](/images/Programmes/2022/CCA/CCA-14.jpg)
-## Media Club
+## **Media Club**
 ![](/images/Programmes/2022/CCA/CCA-15.jpg)
-CCA TIC: 
-## Young Artist Club
+**CCA TIC**: Mrs Chon QP / Mr Khairul / Mdm Gan SM/ Ms Nabilah / Mdm Rosyanti
+**CCA Advisor**: Ms Joscelin Lim
+## **Young Artist Club**
 ![](/images/Programmes/2022/CCA/CCA-16.jpg)
