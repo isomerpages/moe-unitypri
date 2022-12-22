@@ -2,8 +2,8 @@ collections:
   school-events:
     output: true
     order:
-      - Commemoration & Celebration/.keep
       - School Events/.keep
+      - Commemoration & Celebration/.keep
       - 2022/.keep
       - 2022/P1 Orientation.md
       - 2022/CNY Celebration.md
