@@ -3,7 +3,6 @@ title: PE Teachers
 permalink: /team-ups/PE-Teachers/permalink/
 description: ""
 ---
-
 ## **PE Teachers**
 
 
@@ -35,7 +34,7 @@ description: ""
     <td class="tg-l2bf"><br><span style="font-weight:bold">Mr Lim Choon Wei (Mr Bruce Lim)</span><br><span style="font-weight:bold"></span><br><a href="mailto:lim_choon_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_choon_wei@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/PE%20Teachers/Jessica.jpg" style="width:30%"alt="Ms Lim Rui Fang Jessica"></td>
+    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/PE%20Teachers/Jessica.jpg" style="width:30%" alt="Ms Lim Rui Fang Jessica"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Mdm Jessica Lim</span><br><span style="font-weight:bold"></span><br><a href="mailto:lim_rui_fang_jessica@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_rui_fang_jessica@schools.gov.sg</span></a></td>
   </tr>
   <tr>
@@ -43,9 +42,8 @@ description: ""
     <td class="tg-l2bf"><br><span style="font-weight:bold">Mr Amirul Salihin Bin Said</span><br><span style="font-weight:bold"></span><br><a href="mailto:amirul_salihin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">amirul_salihin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-muhammad-hanis-bin-sarkinin-750x1000.jpg" style="width:30%"alt="Mr Muhammad Hanis Bin Sarkinin"></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-muhammad-hanis-bin-sarkinin-750x1000.jpg" style="width:30%" alt="Mr Muhammad Hanis Bin Sarkinin"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Mr Muhammad </span>Hanis<span style="font-weight:bold"> Bin Sarkinin</span><br><span style="font-weight:bold">(PE Specialist)</span><br><a href="mailto:muhammad_hanis_sarkinin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">muhammad_hanis_sarkinin@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
-
