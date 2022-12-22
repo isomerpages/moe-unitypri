@@ -6,4 +6,4 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 ## **Scouts**
 ![](/images/Programmes/2022/CCA/CCA-17.jpg)
-CCA TIC:
+**CCA TIC**:<br>**CCA Advisor**:
