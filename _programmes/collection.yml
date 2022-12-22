@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Applied Learning Programme/Tamil Language ALP.md
-      - Applied Learning Programme/Malay Language ALP.md
-      - Applied Learning Programme/Chinese Language ALP.md
-      - Applied Learning Programme/English Language ALP.md
       - Applied Learning Programme/.keep
+      - Applied Learning Programme/English Language ALP.md
+      - Applied Learning Programme/Chinese Language ALP.md
+      - Applied Learning Programme/Malay Language ALP.md
+      - Applied Learning Programme/Tamil Language ALP.md
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
