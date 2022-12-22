@@ -12,7 +12,7 @@ third_nav_title: Co Curricular Activities (CCA)
 ![](/images/Programmes/2022/CCA/CCA-14.jpg)
 ## **Media Club**
 ![](/images/Programmes/2022/CCA/CCA-15.jpg)
-**CCA TIC**: Mrs Chon QP / Mr Khairul / Mdm Gan SM/ Ms Nabilah / Mdm Rosyanti
+**CCA TIC**: Mrs Chon QP / Mr Khairul / Mdm Gan SM / Ms Nabilah / Mdm Rosyanti
 <br>**CCA Advisor**: Ms Joscelin Lim
 ## **Young Artist Club**
 ![](/images/Programmes/2022/CCA/CCA-16.jpg)
