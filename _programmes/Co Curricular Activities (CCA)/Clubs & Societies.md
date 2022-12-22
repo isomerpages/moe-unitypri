@@ -12,6 +12,6 @@ third_nav_title: Co Curricular Activities (CCA)
 ![](/images/Programmes/2022/CCA/CCA-14.jpg)
 ## Media Club
 ![](/images/Programmes/2022/CCA/CCA-15.jpg)
-CCA TIC: [Mrs Chon QP](chong_qiao_ping@schools.gov.sg), [Mr Khairul](khairul_iman_dailami@schools.gov.sg)
+CCA TIC: 
 ## Young Artist Club
 ![](/images/Programmes/2022/CCA/CCA-16.jpg)
