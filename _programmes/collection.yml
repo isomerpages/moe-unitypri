@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
