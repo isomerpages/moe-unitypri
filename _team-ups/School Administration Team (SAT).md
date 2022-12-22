@@ -3,9 +3,8 @@ title: School Administration Team (SAT)
 permalink: /team-ups/School-Administration-Team-SAT/permalink/
 description: ""
 ---
-School Administration Team (SAT)
-================================
-![](/images/TeamUps.png)
+## School Administration Team (SAT)
+
 
 ### Administration Manager (AM)
 
@@ -21,8 +20,8 @@ School Administration Team (SAT)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-charlene-yeo-caixia-750x1000.jpg" alt="Ms Charlene Yeo Caixia" width="750" height="1000"></td>
-    <td class="tg-dgl5"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Yeo Caixia Charlene</span><br><a href="mailto:Yeo_Caixia@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Yeo_Caixia@schools.gov.sg</span></a></td>
+    <td class="tg-f4yw"><img src="" alt="Ms Charlene Yeo Caixia" width="750" height="1000"></td>
+    <td class="tg-dgl5"><br><br><br><br><br><span style="font-weight:bold">Ms Yeo Caixia Charlene</span><br><a href="mailto:Yeo_Caixia@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Yeo_Caixia@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
@@ -37,20 +36,20 @@ School Administration Team (SAT)
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-vgmr{background-color:#E6E6E6;text-align:center;vertical-align:middle}
-.tg .tg-3qhc{background-color:#E6E6E6;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+.tg .tg-3qhc{background-color:#;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-lee-chai-beng-750x1000.jpg" alt="Mr Lee Chai Beng" width="750" height="1000"></th>
-    <th class="tg-dgl5"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Lee Chai Beng</span><br><a href="mailto:lee_chai_beng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lee_chai_beng@schools.gov.sg</span></a></th>
+    <th class="tg-f4yw"><img src="" style="width:30%" alt="Mr Lee Chai Beng" width="750" height="1000"></th>
+    <th class="tg-dgl5"><br><br><br><br><br><span style="font-weight:bold">Mr Lee Chai Beng</span><br><a href="mailto:lee_chai_beng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lee_chai_beng@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vgmr"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-palani-jeyaram-750x1000.jpg" alt="Mr Palani Jeyaram" width="750" height="1000"></td>
-    <td class="tg-3qhc"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mr Palani Velu Jeyaram</span><br><a href="mailto:Palani_Velu_jeyaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Palani_Velu_jeyaram@schools.gov.sg</span></a></td>
+    <td class="tg-vgmr"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-palani-jeyaram-750x1000.jpg" style="width:30%" alt="Mr Palani Jeyaram" width="750" height="1000"></td>
+    <td class="tg-3qhc"><br><br><br><br><br><span style="font-weight:bold">Mr Palani Velu Jeyaram</span><br><a href="mailto:Palani_Velu_jeyaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Palani_Velu_jeyaram@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -69,8 +68,9 @@ School Administration Team (SAT)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-zahratunisah-binte-abdul-jabbar-750x1000.jpg" alt="Ms Zahratunisah Binte Abdul Jabbar" width="750" height="1000"></td>
-    <td class="tg-dgl5"><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mdm Zahratunisah Bte Abdul Jabbar</span><br><a href="http://zahratunisah_a_jabbar@schools.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zahratunisah_a_jabbar@schools.gov.sg</span></a></td>
+    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-zahratunisah-binte-abdul-jabbar-750x1000.jpg" style="width:30%" alt="Ms Zahratunisah Binte Abdul Jabbar" width="750" height="1000"></td>
+    <td class="tg-dgl5"><br>
+			<br><span style="font-weight:bold">Mdm Zahratunisah Bte Abdul Jabbar</span><br><a href="http://zahratunisah_a_jabbar@schools.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zahratunisah_a_jabbar@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
@@ -89,8 +89,8 @@ School Administration Team (SAT)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-beverley-lim-hoo-kee-600x800.jpg" alt="Mdm Beverley Lim Hoo Kee" width="750" height="1000"></td>
-    <td class="tg-l2bf"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Beverley Lim</span><br><a href="mailto:lim_hoo_kee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hoo_kee@schools.gov.sg</span></a></td>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-beverley-lim-hoo-kee-600x800.jpg" style="width:30%" alt="Mdm Beverley Lim Hoo Kee" width="750" height="1000"></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Beverley Lim</span><br><a href="mailto:lim_hoo_kee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hoo_kee@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
@@ -109,8 +109,8 @@ School Administration Team (SAT)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-candy-goh-750x1000.jpg" alt="Ms Candy Goh" width="750" height="1000"></td>
-    <td class="tg-dgl5"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Ms Candy Goh Ming Hui</span><br><a href="mailto:Goh_MING_HUI@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Goh_MING_HUI@schools.gov.sg</span></a></td>
+    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-candy-goh-750x1000.jpg" style="width:30%" alt="Ms Candy Goh" width="750" height="1000"></td>
+    <td class="tg-dgl5"><br><span style="font-weight:bold">Ms Candy Goh Ming Hui</span><br><a href="mailto:Goh_MING_HUI@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Goh_MING_HUI@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
@@ -129,8 +129,8 @@ School Administration Team (SAT)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-zr06"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-adila-750x1000.jpg" alt="Mdm Adila" width="750" height="1000"></td>
-    <td class="tg-0lax"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Mdm Nur Adila Binte Kamarudin</span><br><a href="mailto:Nur_adila_Kamarudin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Nur_adila_Kamarudin@schools.gov.sg</span></a></td>
+    <td class="tg-zr06"><img src="/images/Our%20Team%20UPS/SAT/Adila.jpg" style="width:30%" alt="Mdm Adila" width="750" height="1000"></td>
+    <td class="tg-0lax"><br><span style="font-weight:bold">Mdm Nur Adila Binte Kamarudin</span><br><a href="mailto:Nur_adila_Kamarudin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Nur_adila_Kamarudin@schools.gov.sg</span></a></td>
   </tr>
 </thead>
 </table>
