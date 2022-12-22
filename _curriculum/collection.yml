@@ -2,14 +2,14 @@ collections:
   curriculum:
     output: true
     order:
-      - Tamil Language.md
-      - Malay Language.md
-      - Chinese Language.md
       - English Language.md
+      - Chinese Language.md
+      - Malay Language.md
+      - Tamil Language.md
       - Mathematics.md
       - Science.md
-      - Character and Citizenship Education.md
       - Physical & Health Education.md
       - Arts.md
       - Music.md
       - Information and Communications Technology.md
+      - Character and Citizenship Education.md
