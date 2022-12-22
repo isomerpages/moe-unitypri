@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Tamil Language.md
       - Malay Language.md
       - Chinese Language.md
       - English Language.md
