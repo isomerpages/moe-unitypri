@@ -4,15 +4,15 @@ permalink: /programmes/Co-Curricular-Activities/sports/permalink/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-## Badminton
+## **Badminton**
 ![](/images/Programmes/2022/CCA/CCA-2.jpg)
 CCA TIC: 
 CCA Advisor:
-## Basketball
+## **Basketball**
 ![](/images/Programmes/2022/CCA/CCA-3.jpg)
-## Floorball
+## **Floorball**
 ![](/images/Programmes/2022/CCA/CCA-4.jpg)
-## Football
+## **Football**
 ![](/images/Programmes/2022/CCA/CCA-5.jpg)
-## Netball
+## **Netball**
 ![](/images/Programmes/2022/CCA/CCA-6.jpg)
