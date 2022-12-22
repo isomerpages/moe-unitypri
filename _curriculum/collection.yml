@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT/.keep
-      - Code For Fun.md
       - Baseline Skills.md
       - Information and Communications Technology.md
       - English Language.md
