@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Programme for Active Learning (PAL).md
       - English Language.md
       - Chinese Language.md
       - Malay Language.md
@@ -13,4 +12,5 @@ collections:
       - Arts.md
       - Music.md
       - Information and Communications Technology.md
+      - Programme for Active Learning (PAL).md
       - Character and Citizenship Education.md
