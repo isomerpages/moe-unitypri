@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
       - Co Curricular Activities (CCA)/Performing Arts.md
       - Co Curricular Activities (CCA)/Sports & Games.md
       - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
