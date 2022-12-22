@@ -2,12 +2,12 @@ collections:
   programmes:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Uniform Groups.md
-      - Co Curricular Activities (CCA)/Clubs & Societies.md
-      - Co Curricular Activities (CCA)/Performing Arts.md
-      - Co Curricular Activities (CCA)/Sports & Games.md
-      - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
       - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Co curricular Activities (CCA).md
+      - Co Curricular Activities (CCA)/Sports & Games.md
+      - Co Curricular Activities (CCA)/Performing Arts.md
+      - Co Curricular Activities (CCA)/Clubs & Societies.md
+      - Co Curricular Activities (CCA)/Uniform Groups.md
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
