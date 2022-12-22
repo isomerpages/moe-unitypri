@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Baseline Skills/.keep
       - English Language.md
       - Chinese Language.md
       - Malay Language.md
