@@ -19,7 +19,7 @@ description: ""
 ### **For Parents**
 * [Cyber Wellness for Students](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * [MOE Sexuality Education in Schools](/Sexuality-Education/permalink/)
-* [Response to Feedback from Parents 2022]
+* Response to Feedback from Parents 2022[](/files/Parents%20Matter/Resources%20for%20Parents/2022/Response%20to%20Feedback%20from%20Parents%202022.pdf)
 * [Transition to secondary school](/files/transition-to-secondary-school.pdf)
 * [Journeying with our Children, Achieving their Aspirations](https://www.moe.gov.sg/microsites/ecg-parent-guide/#p=1)
 * [WE STories 2021](https://online.fliphtml5.com/obrr/vrmu/#p=1)
