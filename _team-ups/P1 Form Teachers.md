@@ -15,4 +15,11 @@ description: ""
 | -------- | -------- | -------- |
 | ![](/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg) | **Mr Johari B Wahid** | [johari\_b\_wahid@schools.gov.sg](mailto:johari_b_wahid@schools.gov.sg) |
 
+##### **Primary 1C**
+
+
+
+| ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/ms%20bhavani%20rajandran.jpg) | **Ms Bhavani Rajandran** | [bhavani\_rajandran@schools.gov.sg](mailto:bhavani_rajandran@schools.gov.sg) |
+| -------- | -------- | -------- |
+
 
