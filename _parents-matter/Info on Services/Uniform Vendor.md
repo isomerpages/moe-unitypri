@@ -7,9 +7,9 @@ third_nav_title: Info on Services
 **My Uniform Shop (Asia) Pte Ltd**<br>
 209 New Upper Changi Road #03-651 S460209  
 
-**Contact No:** 6276 6689 _(Pls call before heading down)_  
-**Website:** [www.myuniformshop.com.sg](http://www.asencio.com.sg/)  
-**Operating Hours:** <br>Wed to Fri: 3 pm to 8 pm  
+**Contact No :** 6276 6689 _(Pls call before heading down)_  
+**Website :** [www.myuniformshop.com.sg](http://www.asencio.com.sg/)  
+**Operating Hours :** <br>Wed to Fri: 3 pm to 8 pm  
 Sat: 10 am to 4 pm  
 _Closed on Sunday – Tuesday & Public Holiday_
 
