@@ -20,7 +20,7 @@ sections:
           url: /parents-matter/School-Calendar/permalink/
         - title: School Events
           description: ""
-          url: school-events/2022/P1-Orientation/permalink/
+          url: /school-events/2022/permalink/
   - infopic:
       title: Our School Videos
       button: Click here to view our p1 introductory video
@@ -39,4 +39,3 @@ sections:
       button: Click here to view list of Invitation to Quote(ITQ) published on GeBIZ.
       url: /ITQ/permalink/
 ---
-
