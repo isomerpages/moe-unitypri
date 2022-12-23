@@ -6,7 +6,7 @@ description: ""
 ##### **Primary 1A**
 
 
-| ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg) || ![](/images/Our%20Team%20UPS/Malay%20Language%20Teachers/izni.jpg) |
+| ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg) || ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/Untitled-4%20(2).png) |
 | -------- | -------- | -------- |
 | Ms Jeswyn Sara [jeswyn\_sara\_muruges@schools.gov.sg](mailto:jeswyn_sara_muruges@schools.gov.sg) || Ms Izni Nasihah [jeswyn\_sara\_muruges@schools.gov.sg](mailto:jeswyn_sara_muruges@schools.gov.sg)|
 
