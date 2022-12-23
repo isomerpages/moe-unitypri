@@ -4,26 +4,18 @@ permalink: /parents-matters/Information/School-Rules-and-Discipline-Guidelines/p
 description: ""
 third_nav_title: Info on Teaching & Learning
 ---
-
-School Rules & Discipline Guidelines
-====================================
-![](/images/Parents%20Matter.png)
-
-### **Singing the National Anthem and taking the Pledge**
-
+## **Singing the National Anthem and taking the Pledge**
 *   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
 *   Non-citizens are to stand at attention to show respect during the flag raising and flag lowering ceremonies.
 
-###  **Attendance**
-
+##  **Attendance**
 *   All students must attend school during school days.
 *   A medical certificate or letter from parents must be produced when a student is absent.
 *   Students are to sit for all examinations and tests unless certified medically unfit by a doctor.
 *   All students must report punctually for school by 7.30 am.
 *   All students are to report punctually for and attend all lessons, e.g. remedial/ supplementary, enrichment and CCA sessions.
 
-###  **Wearing the prescribed uniform**
-
+##  **Wearing the prescribed uniform**
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 *   Uniform and PE shirts are to be neatly worn. Wear PE attire only during days when there are PE lessons and CCA.
 *   All P4 to P6 female students are to wear their skirt over their shorts when they come in their PE attire on days when they have PE, CCA or go on Learning Journeys. They will be in their school PE T-shirts and skirts (with shorts underneath) and will only remove their skirt during PE or CCA lessons. They are expected to put on their skirt after their PE or CCA lessons.
@@ -33,35 +25,29 @@ School Rules & Discipline Guidelines
 *   Only white socks and shoes are allowed. Length of socks must be at least two fingers above the ankles. You may wear track shoes only during CCA or sports events.
 *   Wear the Student’s Pass Tag when leaving the classroom and only with teacher’s permission.
 
-###  **Ornaments, Jewellery or Valuables**
-
+##  **Ornaments, Jewellery or Valuables**
 *   No ornaments or any form of jewellery are to be worn in school.
 *   For female students, only small and simple ear-studs or earrings are allowed (no multiple earrings).
 *   No valuables, expensive items, toys or sharp objects should be brought to school.
 
-### **Safety in School**
-
+## **Safety in School**
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others. This is considered a serious offence.
 
-### **Use of Mobile Phones/Electronic Devices in School**
-
+## **Use of Mobile Phones/Electronic Devices in School**
 *   We strongly discourage students from bringing mobile phones or any expensive gadgets, e.g. smartwatch, to school.
 *   Should your child bring such unauthorised gadgets/devices, it is his/her responsibility to ensure that they are kept away safely/out of sight and switched off at all times.
 *   The school will not be liable for any loss of items.
 *   Students are not allowed to use their mobile phones/ unauthorised devices in class or within the school compound.
 *   School will have the right to confiscate any gadgets/devices if students are found to be flouting the regulation. For the first violation, the phone will be confiscated and stored in the General Office (GO) for safe-keeping until the end of the school day. Student will have to retrieve the phone from GO after school.  For subsequent violation, the phone will be confiscated and the parent of the student can retrieve the phone from GO.
 
-###  **Student’s Conduct**
-
+##  **Student’s Conduct**
      **A. Interaction with School Staff and Classmates**
-
 *   Be courteous and gracious at all times. Greet all teachers and staff when you see them.
 *   Manage your emotions. Refrain from fighting.
 *   Use proper language at all times.
 *   You should not use vulgarities or abusive language. Do not insult/ humiliate/ embarrass anyone.
 
      **B.** **During Recess or Lunch**
-
 *   Walk to the canteen briskly.
 *   Wash your hands before and after eating.
 *   Queue up behind the yellow line when buying food.
@@ -72,7 +58,6 @@ School Rules & Discipline Guidelines
 *   During lunch, stay indoors. Playing is not allowed outdoors due to the hot weather.
 
      **C.** **In the Classroom**
-
 *   Keep your classroom clean and tidy.
 *   Pay attention to your teacher when he/she is teaching.
 *   Raise your hands if you need to speak to the teacher.
@@ -84,14 +69,12 @@ School Rules & Discipline Guidelines
 *   Take your temperature if you are not feeling well and inform your teacher of your condition and your temperature reading.
 
      **D. Leaving the Classroom**
-
 *   Seek permission from your teachers.
 *   Put on the Student’s Pass before you leave the class and return it once you come back to class.
 *   Write your name on the board before you leave the class and erase it from the board when you return.
 *   You are not allowed to leave the school grounds at any time without your teacher’s permission or approval from the General Office.
 
      **E. Using the Toilet Facilities**
-
 *   Walk to the toilet and avoid running at all times.
 *   Flush the toilet after use.
 *   Wash your hands after using the toilet.
@@ -99,14 +82,12 @@ School Rules & Discipline Guidelines
 *   Playing is not allowed in the toilet.
 
      **F. Transition for MT lessons (to/from MT classrooms)**
-
 *   Queue up outside your class according to your MT classes.
 *   Do not go to the toilet or canteen during this transition.
 *   If you are going to the MT classrooms which are on the same level and block, wait outside the MT classrooms quietly and sit in twos.
 *   If you are going to the pick-up points, proceed to the respective points and wait quietly for the rest of your classmates.
 
      **G. Dismissal at the end of the day**
-
 *   Walk as a class at all times.
 *   If you are walking home, proceed to the respective gates with your teacher.
 *   If you are taking the school bus, queue up for the school bus in the bus bay.
@@ -114,7 +95,6 @@ School Rules & Discipline Guidelines
 *   No one is to remain in school without a teacher’s permission.
 
      **H. PE lessons**
-
 *   You are to be in PE attire and put on footwear at all times unless instructed by your teacher.
 *   Use spectacles with plastic frames and plastic lenses if you need to.
 *   For safety reasons, no ornaments are to be worn in school and especially during PE lessons.
@@ -125,13 +105,11 @@ School Rules & Discipline Guidelines
 *   Move indoors when the Lightning Warning System is flashing.
 *   For any other health matters, please speak with your PE or Form Teacher.
 
-### **SCHOOL DISCIPLINE GUIDELINES**
-
+## **SCHOOL DISCIPLINE GUIDELINES**
  Disciplinary action will be taken against students who commit offences. Parents will be informed of their child’s misbehaviour in class/school and, if need be, will be invited to school to meet with the child’s teacher and Discipline Master for further conferencing. Some of the offences include:
  
  **Minor Offences**
- 
- *   Repeated latecoming for school/ school activities.
+  *   Repeated latecoming for school/ school activities.
 *   Improper school attire, e.g. ankle socks, no name tag
 *   Inappropriate general appearance, e.g. long hair or outlandish hairstyles for male students, untied long hair for female students, long fringe for female students, nail polish, long nails, henna,
 *   Not bringing books to school, failure to do or submit work/ on time.
@@ -141,7 +119,6 @@ School Rules & Discipline Guidelines
 *   Possession of items that cause nuisance, annoyance or distraction to other students or teachers.
 
 **Serious Offences**
-
 *   Repeated minor offence
 *   Truancy/ skipping classes/ lessons
 *   Possession of weapons or weapon-like items.
