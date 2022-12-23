@@ -20,9 +20,8 @@ description: ""
 * Response to Feedback from Parents 2022[](/files/Parents%20Matter/Resources%20for%20Parents/2022/Response%20to%20Feedback%20from%20Parents%202022.pdf)
 *  [Cyber Wellness for Students](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * [MOE Sexuality Education in Schools](/Sexuality-Education/permalink/)
-* [I Love My School](/I-Love-my-School/permalink/)
 *  [MOE SchoolBag](https://www.schoolbag.edu.sg/)
-* [WE STories 2021](https://online.fliphtml5.com/obrr/vrmu/#p=1)
+* [WE STories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)
 * [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety)
 *   Annex A – Application Form for MOE FAS
 *   [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
@@ -31,4 +30,4 @@ description: ""
 * [Secondary One Posting](https://www.moe.gov.sg/secondary/s1-posting)
 * [Direct School Admission](https://www.moe.gov.sg/secondary/dsa)
 * [P1 Registration](https://www.moe.gov.sg/primary/p1-registration)
-*   [Singapore Examinations and Assessment Board (SEAB)](https://www.seab.gov.sg/)
+* [Singapore Examinations and Assessment Board (SEAB)](https://www.seab.gov.sg/)
