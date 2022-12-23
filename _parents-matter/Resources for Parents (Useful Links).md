@@ -4,7 +4,7 @@ permalink: /parents-matter/Resources-for-Parents/permalink/
 description: ""
 ---
 ### **English & Library**
-*   [School online library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+*   [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [School e-Resources](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [NLB Resources](https://childrenandteens.nlb.gov.sg/)
 *   [E-books](http://www.getepic.com/?utm_campaign=optimize&gclid=EAIaIQobChMI_MCdlaWI9AIV3ZNmAh2YNwT9EAAYASAAEgKrvPD_BwE)
