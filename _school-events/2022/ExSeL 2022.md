@@ -4,11 +4,6 @@ permalink: /school-events/2022/ExSeL-2022/permalink/
 description: ""
 third_nav_title: "2022"
 ---
-# ExSeL 2022
-
-#### Jun 26
-
-![](/images/Exsel2022.png)
 
 Our approach to student leadership development is steered by our school’s philosophy of ‘Everyone Matters’ and anchored on a set of core values. We believe that every student can be a leader and leadership development should be intentional. We provide leadership trainings and learning opportunities for our students to attain the desired student outcomes of Passionate & Self-Directed Learner, Resilient & All-Rounded Individual, Concerned & Active Citizen. 
 
