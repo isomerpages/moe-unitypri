@@ -49,6 +49,7 @@ description: ""
     <th class="tg-f4yw"><img src="" style="width:30%" alt="Mr Lee Chai Beng" width="750" height="1000"></th>
     <th class="tg-dgl5"><br><br><br><br><br><span style="font-weight:bold">Mr Lee Chai Beng</span><br><a href="mailto:lee_chai_beng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lee_chai_beng@schools.gov.sg</span></a></th>
   </tr>
+	</thead>
 </tbody>
 </table>
 
