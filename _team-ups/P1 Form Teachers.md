@@ -5,19 +5,10 @@ description: ""
 ---
 ##### **Primary 1A**
 
-
-
-
-
 | ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg)|      PRIMARY 1A   | ![](/images/Our%20Team%20UPS/Malay%20Language%20Teachers/izni.jpg)|
 | -------- | -------- | -------- |
 | **Ms Jeswyn Sara Muruges**     |    | **Mdm Izni Nasihah Zulkifli**   |
-
-| ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg)| 
-| -------- | 
-|   | 
-[jeswyn\_sara\_muruges@schools.gov.sg](mailto:jeswyn_sara_muruges@schools.gov.sg)
-
+| [jeswyn\_sara\_muruges@schools.gov.sg](mailto:jeswyn_sara_muruges@schools.gov.sg)|  | [izni\_nasihah\_zulkifli@schools.gov.sg](mailto:izni_nasihah_zulkifli@schools.gov.sg) |
 
 
 ##### **Primary 1B**
