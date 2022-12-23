@@ -91,6 +91,10 @@ description: ""
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-beverley-lim-hoo-kee-600x800.jpg" style="width:30%" alt="Mdm Beverley Lim Hoo Kee" width="750" height="1000"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Beverley Lim</span><br><a href="mailto:lim_hoo_kee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hoo_kee@schools.gov.sg</span></a></td>
+		<tr>
+    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-candy-goh-750x1000.jpg" style="width:30%" alt="Ms Candy Goh" width="750" height="1000"></td>
+    <td class="tg-dgl5"><br><span style="font-weight:bold">Ms Candy Goh Ming Hui</span><br><a href="mailto:Goh_MING_HUI@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Goh_MING_HUI@schools.gov.sg</span></a></td>
+  </tr>
   </tr>
 </thead>
 </table>
@@ -108,10 +112,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <td class="tg-f4yw"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-candy-goh-750x1000.jpg" style="width:30%" alt="Ms Candy Goh" width="750" height="1000"></td>
-    <td class="tg-dgl5"><br><span style="font-weight:bold">Ms Candy Goh Ming Hui</span><br><a href="mailto:Goh_MING_HUI@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Goh_MING_HUI@schools.gov.sg</span></a></td>
-  </tr>
+  
 </thead>
 </table>
 
