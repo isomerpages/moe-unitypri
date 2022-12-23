@@ -113,8 +113,8 @@ description: ""
 <table class="tg">
 <thead>
 	<tr>
-    <td class="tg-vgmr"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-palani-jeyaram-750x1000.jpg" style="width:30%" alt="Mr Palani Jeyaram" width="750" height="1000"></td>
-    <td class="tg-3qhc"><br><br><br><br><br><span style="font-weight:bold">Mr Palani Velu Jeyaram</span><br><a href="mailto:Palani_Velu_jeyaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Palani_Velu_jeyaram@schools.gov.sg</span></a></td>
+    <td class="tg-vgmr"><img src="/images/Our%20Team%20UPS/SAT/Nasihah.png" style="width:30%"></td>
+    <td class="tg-3qhc"><br><br><br><br><br><span style="font-weight:bold">Ms Nasihah Binte Ab Rahman</span><br><a href="mailto:Nasihah_Ab_Rahman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Nasihah_Ab_Rahman@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06"><img src="/images/Our%20Team%20UPS/SAT/Adila.jpg" style="width:30%" alt="Mdm Adila" width="750" height="1000"></td>
