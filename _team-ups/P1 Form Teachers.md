@@ -11,7 +11,8 @@ description: ""
 
 ##### **Primary 1B**
 
-| Column 1 | Column 2 | Column 3 |
+| ![](/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20wendy%20lim-mar%20mun%20ee.jpg) | **Mrs Wendy Lim** | [Mar\_Mun\_ee\_wendy@schools.gov.sg](mailto:Mar_Mun_ee_wendy@schools.gov.sg) |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| ![](/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg) | **Mr Johari B Wahid** | [johari\_b\_wahid@schools.gov.sg](mailto:johari_b_wahid@schools.gov.sg) |
+
 
