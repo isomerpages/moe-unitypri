@@ -11,7 +11,7 @@ links:
   - title: Parents Matter
     collection: parents-matter
   - title: Contact Us
-    url: Contact-Us/permalink
+    url: /Contact-Us/permalink/
     sublinks:
       - title: Submenu Title
         url: /permalink
