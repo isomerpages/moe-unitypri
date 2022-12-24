@@ -12,6 +12,10 @@ Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 62478482  
 **Website:** [www.thecontinental.sg/](https://thecontinental.sg/)
+https://thecontinental.sg/
+
+<a href="https://thecontinental.sg/"
+  target="_blank" rel="noopener noreferrer">www.continental.sg</a>
 
 ### **<u>2023 Booklists</u>**
 Primary 1[](/files/Parents%20Matter/Information/2023/Unity%20Primary%20Booklist%202023%20Primary%201.pdf)
