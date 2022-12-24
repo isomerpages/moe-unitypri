@@ -11,10 +11,7 @@ Monday to Friday: 8:30am to 2.30pm
 Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 62478482  
-**Website:** [www.thecontinental.sg/](https://thecontinental.sg/)
-https://thecontinental.sg/
-
-<a href="https://thecontinental.sg/"
+**Website:** <a href="https://thecontinental.sg/"
   target="_blank" rel="noopener noreferrer">www.continental.sg</a>
 
 ### **<u>2023 Booklists</u>**
