@@ -4,8 +4,7 @@ permalink: /programmes/Applied-Learning-Programme/CLALP/permalink/
 description: ""
 third_nav_title: Applied Learning Programme
 ---
-
-## **Chinese Language**
+### **Chinese Language**
 ![](/images/CL.png)
 
 ![](/images/CL2.png)
