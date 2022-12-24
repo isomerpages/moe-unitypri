@@ -4,10 +4,7 @@ permalink: /our-unity-story/Achievements/permalink/
 description: ""
 third_nav_title: Achievements
 ---
-
-## **Achievements**
-### 2022
-**West Zone Junior Science Whiz Challenge (JSWC): Inter-Primary School Science Quiz 2022**
+### **West Zone Junior Science Whiz Challenge (JSWC): Inter-Primary School Science Quiz 2022**
 ![](/images/Achievements.png)
 West Zone Junior Science Whiz Challenge is organized by the River Valley High School annually to instill interest in the quest for knowledge in Science, Technology, Engineering, and Mathematics (STEM) in Primary 6 pupils and provide an opportunity for students from different schools to constructively challenge one another at a common platform.
 
