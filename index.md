@@ -21,21 +21,8 @@ sections:
         - title: School Events
           description: ""
           url: /school-events/2022/permalink/
-  - infopic:
-      title: Our School Videos
-      button: Click here to view our p1 introductory video
-      url: /parents-matters/School-Videos/permalink/
-      image: /images/P1-Intro-Video.png
-      alt: Image alt text
-  - infopic:
-      title: School Location
-      description: How to get here & Contact Information
-      button: Contact Us
-      image: /images/123.png
-      alt: Image alt text
-      url: /parents-matter/Contact-Us/permalink/
   - infobar:
       title: ITQ
-      button: Click here to view list of Invitation to Quote(ITQ) published on GeBIZ.
+      button: List of ITQ published on GeBIZ
       url: /ITQ/permalink/
 ---
