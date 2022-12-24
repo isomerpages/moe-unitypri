@@ -19,15 +19,10 @@ The Games Carnival are key events to complement the UPS PE Programme. The main o
 #### **P5 OLE!**
 ![](/images/Curriculum/2023/PE/Pic%204.png)
 The P5 Outdoor Learning Experience (OLE!) is organised to achieve the OAL & Outdoor Education objectives. The 2-day programme aims to provide students with an opportunity to build their confidence & resilience through outdoor learning activities, appreciate diversity in the team, teamwork & learn about conflict management in group settings, harness their strengths & work on their areas for improvement, and forge camaraderie with peers through common experiences.
-
+[More Info](/programmes/Experiential-Learning/P5Camp/permalink/)
 ### **Outdoor Education - Visiting a neighbourhood nature park**
 ![](/images/Curriculum/2023/PE/Pic%206.png)
 P3 and P4 students will visit the nearby neighbourhood park to apply what they learn for their Outdoor Education learning area. Prior to the trip, they learn how to pack for a day trip & are taught basic navigation. They will also be given 
 the opportunity to explore and describe the distinctiveness of the neighbourhood park.
 ##### **References**
 [Physical Education Syllabus - MOE Singapore](https://www.moe.gov.sg/-/media/files/primary/physical_education_syllabus_2014)
-
-
-
-
-
