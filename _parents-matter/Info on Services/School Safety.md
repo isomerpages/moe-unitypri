@@ -9,12 +9,10 @@ In Unity Primary, we firmly believe that safety habits and consciousness must pr
 ### **<u>Our Safety Vision</U>**
 To create a safe environment and develop a strong sense of safety consciousness to facilitate effective teaching and learning.
 
-### **Our Safety Mission**
----
+### **<u>Our Safety Mission</u>**
 A strong safety culture in the school.
 
-### **Our Safety Approach**
----
+### **<u>Our Safety Approach</u>**
 1\. Our School Safety Committee takes directions and follows up from safety reviews, incident records as well as good practices in devising the yearly safety work plans that support our safety mission and vision.
 
 ![](/images/Safety1.jpeg)
@@ -23,8 +21,7 @@ A strong safety culture in the school.
 
 ![](/images/Safety2.jpeg)
 
-### **Our Safety Focus**
----
+### **<u>Our Safety Focus</u>**
 To realize our safety vision and mission, our focus is to continually develop on pertinent areas as shown especially in the training of staff to develop their skills in managing safety and in educating our students in enhancing safety awareness.
 
 ![](/images/Safety3.jpeg)
