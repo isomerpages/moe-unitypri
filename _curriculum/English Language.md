@@ -3,24 +3,14 @@ title: English Language
 permalink: /curriculum/English-Language/permalink/
 description: ""
 ---
-
-English
-=======
-![](/images/Department.png)
-
-
-### Vision
-------
-
+### **<u>Vision</u>**
 Everyone in Unity is a competent user of the English Language – at work and at play.
 
-### Mission
--------
-
+### **<u>Mission</u>**
 Provide a dynamic learning environment where staff and students demonstrate a love in acquiring and displaying confidence in using the language.
 
-### Programme Highlights/Enrichment activities
-------------------------------------------
+### **<u>Programme Highlights/Enrichment activities</u>**
+
 
 ##### **Primary 1**
 
