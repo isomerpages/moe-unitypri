@@ -3,13 +3,7 @@ title: Our School Crest & School Song
 permalink: /our-unity-story/Our-School-Crest-and-School-Song/permalink/
 description: ""
 ---
-Our School Crest & School Song
-==============================
-![](/images/OurUnityStory.png)
-
-### **Our School Crest**
-
-
+### **<u>Our School Crest</u>**
 
 <img src="/images/Unityprilogo.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
 
@@ -32,6 +26,6 @@ The 3 colours represent:
 2.  Red signifies Resilience & Care.
 3.  White signifies Responsibility & Integrity
 
-### **Our School Song**
+### **<u>Our School Song</u>**
 
 ![](/images/SchoolSong.png)
