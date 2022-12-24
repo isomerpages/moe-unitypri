@@ -2,10 +2,10 @@ collections:
   our-unity-story:
     output: true
     order:
-      - Achievements/Achievements.md
-      - Achievements/.keep
       - School Leaders’ Message.md
       - Our Strategic Plan.md
       - Motto and Philosophy.md
       - Our School Crest & School Song.md
       - Vision, Mission and Values.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
