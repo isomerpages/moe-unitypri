@@ -4,7 +4,7 @@ permalink: /parents-matters/Information/Homework-Policy/permalink/
 description: ""
 third_nav_title: Info on Teaching & Learning
 ---
-## **Homework Guideline**
+### **<u>Homework Guideline</u>**
 **Rationale**<br>
 Homework is typically defined as any tasks “assigned to students by school teachers that are meant to be carried out during non-school hours[[1]](/school-events/Information/Homework-Policy/permalink/)”.This, however, does not include time spent on revision of school work or studying for tests and examinations.
 
