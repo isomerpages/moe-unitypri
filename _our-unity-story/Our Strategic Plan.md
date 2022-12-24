@@ -3,26 +3,14 @@ title: Our Strategic Plan
 permalink: /our-unity-story/Our-Strategic-Plan/permalink/
 description: ""
 ---
-Our Strategic Plan
-==================
-![](/images/OurUnityStory.png)
 
-### **Desired Outcomes**
-
+### **<u>Desired Outcomes</u>**
 Passionate & Self-Directed Learner, Resilient & All-Rounded Individual, Concerned & Active Citizen
-
-### **Strategic Thrusts**
-
+### **<u>Strategic Thrusts</u>**
 ST1: Excel in Learning
-
-ST2: Pursue Holistic Development
-
-ST3: Contribute to School & Community
-
-### **Support Structures**
-
+<br>ST2: Pursue Holistic Development
+<br>ST3: Contribute to School & Community
+### **<u>Support Structures</u>**
 SS1: Caring & Engaged Staff
-
-SS2: Efficient & Effective Systems
-
-SS3: Supportive & Collaborative Partners
+<br>SS2: Efficient & Effective Systems
+<br>SS3: Supportive & Collaborative Partners
