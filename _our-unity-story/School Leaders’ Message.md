@@ -3,8 +3,6 @@ title: School Leaders’ Message
 permalink: /our-unity-story/School-Leaders-Message/permalink/
 description: ""
 ---
-School Leaders’ Message
-=======================
 ![](/images/Final.png)
 
 Unity Primary School was established in 1999 and this year, we celebrate our 23rd Anniversary!
