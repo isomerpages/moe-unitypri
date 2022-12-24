@@ -20,7 +20,7 @@ sections:
           url: /parents-matter/School-Calendar/permalink/
         - title: School Events
           description: ""
-          url: /school-events/2022/permalink/
+          url: https://sites.google.com/view/upsourschoolevents/home
   - infobar:
       title: ITQ
       button: List of ITQ published on GeBIZ
