@@ -2,10 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT/.keep
-      - ICT/Baseline Skills.md
-      - ICT/Code For Fun.md
-      - ICT/Cyber wellness.md
       - English Language.md
       - Chinese Language.md
       - Malay Language.md
