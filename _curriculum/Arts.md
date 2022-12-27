@@ -3,30 +3,20 @@ title: Arts
 permalink: /curriculum/Arts/permalink/
 description: ""
 ---
-
-Visual Arts
-===========
-![](/images/A1-scaled.jpg)
-
 ### **Welcome to UPS Visual Arts**
--------
-
-
 Our vision is to develop our students to have a positive attitude in creation and appreciation for the Visual Arts.
 
 Our mission is to provide rich learning experiences for our students to understand, enjoy and appreciate art.
 
 ![](/images/VisualArts.png)
 
-### **Art @ UPS**
--------------
+### **<u>Art @ UPS</u>**
+**Coming Soon*
 
-### Our Curriculum
---------------
-
+### **<u>Our Curriculum</u>**
 Our school curriculum is designed with three key Learning Domains; _see, express and appreciate_. These enable our students to develop their observation and inquiry skills, create and innovate; and make connections and respond to art. Inquiry-based learning approach is central in our art classroom where our students are engaged in different level of inquiry discussion, exploration and experimentation.
 
-##### **Core Learning Experiences**
+#### **Core Learning Experiences**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -54,7 +44,7 @@ Our school curriculum is designed with three key Learning Domains; _see, expres
 </tbody>
 </table>
 
-##### **Dynamic Learning Experiences**
+#### **Dynamic Learning Experiences**
 
 Our students are given opportunities to be involved in art competitions, art projects at community level and national level.
 
@@ -84,29 +74,24 @@ Our students are given opportunities to be involved in art competitions, art pro
 </tbody>
 </table>
 
-### **Art Gallery**
----------------
+### **<u>Art Gallery</u>**
 
 Our students love art. It is fun and it provides them with an opportunity for self-expression. Through the process of art making, our students discover more about themselves and about their peers. In this gallery, students’ imaginative visual expression and unique artistic voice can be seen.
 
-##### **Upper Primary Gallery**
+#### **Upper Primary Gallery**
 
 ![](/images/Visualarts2.png)
-
-##### **Middle Primary Gallery**
+#### **Middle Primary Gallery**
 
 ![](/images/Visualarts3.png)
 
-##### **Lower Primary Gallery**
+#### **Lower Primary Gallery**
 
 ![](/images/Visualarts4.png)
 
-### The Unity Art Showcase
-----------------------
-
-### **News & Events**
------------------
-
+### **<u>The Unity Art Showcase</u>**
+**Coming Soon*
+### **<u>News & Events</u>**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
