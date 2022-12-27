@@ -3,26 +3,20 @@ title: Chinese Language
 permalink: /curriculum/Mother-Tongue/Chinese-Language/permalink/
 description: ""
 ---
-
-
-Chinese Language
-================
 ![](/images/mother_tongue.jpg)
 
-### **Vision 愿景**
--------------
+### **<u>Vision 愿景</u>**
+
 
 Creative thinkers with a passion for Chinese Language and Culture  
 富创意的思考者，热衷母语和文化
 
-### **Mission 使命**
---------------
+### **<u>Mission 使命</u>**
 
 Nurture students to be passionate about Chinese Language and Culture; Respect and appreciate cultural differences among different races  
 培育热爱母语、尊重文化差异的学生
 
-### **References 网上资源**
--------------------
+#### **References 网上资源**
 
 **1\. 推荐网站　系列一 : 课程学习与巩固**
 
