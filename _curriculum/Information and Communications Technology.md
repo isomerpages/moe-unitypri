@@ -3,32 +3,21 @@ title: Information and Communications Technology
 permalink: /curriculum/Information-and-Communications-Technology/permalink/
 description: ""
 ---
-
-
-## Information and Communications Technology
-
-
-
-### **Vision**
-----------
+### **<u>Vision</u>**
 
 A fully integrated ICT school with innovative, self-directed and collaborative learners
 
-### **Mission**
------------
-
+### **<u>Mission</u>**
 To use ICT to enhance an innovative learning environment so as to develop students for a global society
+### **<u>Programme Highlights</u>**
 
-### **Programme Highlights**
-------------------------
-
-##### **ICT Baseline Standards**
+#### **ICT Baseline Standards**
 
 ![](/images/ICT1.png)
 
 ![](/images/ICT2.png)
 
-##### **Cyber Wellness Programme**
+#### **Cyber Wellness Programme**
 
 The school has developed a Cyber Wellness programme which focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace.
 
