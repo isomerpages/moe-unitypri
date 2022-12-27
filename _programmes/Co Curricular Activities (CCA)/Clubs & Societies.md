@@ -18,5 +18,5 @@ third_nav_title: Co Curricular Activities (CCA)
 **CCA TIC**: Mrs Chon QP, Mr Khairul, Mdm Gan SM, Ms Nabilah, Mdm Rosyanti
 <br>**CCA Advisor**: Ms Joscelin Lim
 ### **Young Artist Club**
-![](/images/Programmes/2022/CCA/CCA-16.jpg)
+![](/images/Programmes/2022/CCA/CCA-16.jpeg)
 **CCA TIC**: Ms Corrine Fong, Mdm Norsahida, Mdm Liu KM, Miss Filzah Binte Shafiee<br>**CCA Advisor**: Ms Corrine Fong
