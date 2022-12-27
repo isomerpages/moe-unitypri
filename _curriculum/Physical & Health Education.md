@@ -4,12 +4,13 @@ permalink: /curriculum/physical-health-education/permalink/
 description: ""
 ---
 The goals of physical education serve as a guide in the development of an individual who is able to demonstrate individually and with others the physical skills, practices and values to enjoy a lifetime of active, healthy living.
-![](/images/Curriculum/2023/PE/PE01.png)
+![](/images/Curriculum/2023/PE/P1.png)
 At the primary school level, students learn the fundamental movement skills incorporating the movement concepts. They develop efficiency, effectiveness, and versatility in their performance as they practice and transfer their skills across the seven learning areas of **Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness, and Swimming** to become competent movers.
 
 ### **<u>Programme Highlights @ UPS</u>**
 #### **P1 Move to Improve Programme**
 ![](/images/Curriculum/2023/PE/Pic%202.jpg)
+![](/images/Curriculum/2023/PE/p2.png)
 The P1 Sports and Games enrichment Programme seeks to further develop students’ psychomotor, cognitive and affective domains. Students will be exposed to games and activities that are extended from the PE curriculum’s FUNdamental Skills to enhance their skills-learning experience and enjoyment. Through these activities, the school aims to provide fun and inclusive experiences for the students and at the same time develop positive Teacher-Student-Relationship (TSR).
 
 #### **Games Carnival**
