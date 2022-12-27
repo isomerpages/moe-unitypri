@@ -22,6 +22,8 @@ description: ""
 		</td>
 	</tr>
 	</thead>
+	</table>
+	
 	
 	
 
