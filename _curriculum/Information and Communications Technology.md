@@ -15,7 +15,7 @@ To use ICT to enhance an innovative learning environment so as to develop studen
 
 ![](/images/ICT1.png)
 
-![](/images/ICT2.png)
+![](/images/Curriculum/2023/ICT/ICT%20@%20UPS%20(2800%20×%201500%20px)%20(2800%20×%202800%20px).jpg)
 
 #### **Cyber Wellness Programme**
 
