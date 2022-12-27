@@ -11,4 +11,4 @@ One of the Co-Curriculum Programme provided by the school is the Co-curricular A
 ### **<u>Schedule for Trainings</u>**
 All CCAs are conducted on Fridays from 7.30 am to 9 am.
 
-Selected competitive CCAs conduct additional sessions on Tuesday and Thursdays from 3.15 pm to 4.45 pm.
+Selected competitive CCAs conduct additional sessions on Tuesday or Thursdays from 3.15 pm to 4.45 pm.
