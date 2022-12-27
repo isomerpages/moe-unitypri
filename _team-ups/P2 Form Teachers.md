@@ -21,7 +21,6 @@ description: ""
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg"><span style="font-weight:bold">Ms Meera Rajarethenam</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Meera_rajarethenam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Meera_rajarethenam@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
-	</body>
 </table>
 
 ### **Primary 2B**
