@@ -43,5 +43,6 @@ In our continuous effort to advocate Cyber Wellness, our very own CW Mascot was 
 
 The roles of Cyber Wellness Student Ambassadors are very important as they help to ensure that the rules of netiquette are followed in online learning portals, which includes SLS.  Selected Cyber Wellness Student Ambassadors will attend the Cyber Wellness Ambassador Conference every year.  After the conference, they used the skills learnt and collaborate to design activities for the school’s Outreach Programme by focusing on Cyber Wellness, such as Cyber Safety.  Some of the activities designed by them include games and ICT quizzes to engage their peers during recess.
 ![](/images/Curriculum/2023/ICT/CW2.png)
+
 ![](/images/Curriculum/2023/ICT/CW3.png)
 *Recess Outreach Programme – Students trying out ICT quizzes designed by Cyber Wellness Student Ambassadors*
