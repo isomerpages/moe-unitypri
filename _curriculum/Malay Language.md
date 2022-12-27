@@ -3,21 +3,13 @@ title: Malay Language
 permalink: /curriculum/Mother-Tongue/Malay-Language/permalink/
 description: ""
 ---
-
-
-Malay Language
-==============
-![](/images/mother_tongue.jpg)
-
-### **Malay Language Curriculum and Aims**
---------------------------------------
+### **<u>Malay Language Curriculum and Aims</u>**
 
 The Malay Language Curriculum (Primary) was developed by MOE to achieve our education philosophy which is to nurture knowledgeable person, active contributor and morally upright individuals. This philosophy is in line with the vision of the teaching and learning of Malay Language that is the Vision of Arif Budiman, namely the learned person who contributes to society. The vision sets the direction for teachers, parents and students to develop the language skills and knowledge and to internalise the values and culture.
 
 The teaching and learning of Malay Language is to develop students to become active and proficient Malay language users. Students are expected to identify and understand the Malay language and culture as part of Singapore’s multi-racial society.
 
-### **Department Programmes**
--------------------------
+### **<u>Department Programmes</u>**
 
 **Critical Thinking Accelerated Programme (CAPtivate) (Primary 1 – 6)**
 
