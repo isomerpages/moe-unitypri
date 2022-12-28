@@ -21,7 +21,7 @@ P4 – 10.00am – 10.30am<br>
 P5 – 9.30am – 10.00am<br>
 P6 – 9.00am – 9.30am
 ### **<u>Gates Opening Hours: (Mondays – Fridays)</u>**
-Main Gate and Side Gate 1: 6.00am – 6.00pm
+Main Gate and Side Gate 1: 6.30am – 6.00pm
 
 Back Gate: 6.30am – 7.30am, 1.30pm – 2.00pm
 
