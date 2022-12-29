@@ -59,7 +59,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="![](/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg)"><span style="font-weight:bold">Mdm Tan Ai Lin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:soo_poh_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">soo_poh_ling@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg"><span style="font-weight:bold">Mdm Tan Ai Lin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_ai_lin_a@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_ai_lin_a@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Ow Hui Qin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ow_hui_qin@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
