@@ -5,4 +5,21 @@ description: ""
 ---
 ### **Primary 6A**
 
-![](/images/Our%20Team%20UPS/P6%20Form%20Teachers/Picture%202.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg"><span style="font-weight:bold">Ms Jeswyn Sara</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeswyn_sara_muruges@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeswyn_sara_muruges@schools.gov.sg</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/Jeswyn.jpg"><span style="font-weight:bold">Ms Jeswyn Sara</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeswyn_sara_muruges@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeswyn_sara_muruges@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/izni.jpg"><span style="font-weight:bold">Mdm Izni Nasihah</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:izni_nasihah_zulkifli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">izni_nasihah_zulkifli@schools.gov.sg</span></a></span><br></td>
+	</tr>
+</thead>
+</table>
