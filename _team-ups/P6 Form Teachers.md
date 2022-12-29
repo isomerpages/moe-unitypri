@@ -17,8 +17,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Lakshmi (YH/UP)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg "><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lakshmi_arivananthan@schools.gov.sg </span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Jeswyn Sara</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeswyn_sara_muruges@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeswyn_sara_muruges@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Lakshmi (YH/UP)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lakshmi_arivananthan@schools.gov.sg </span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20joanna.jpg"><span style="font-weight:bold">Ms Joanna</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeba_kumar_selvin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">jeba_kumar_selvin@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/izni.jpg"><span style="font-weight:bold">Mdm Izni Nasihah</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:izni_nasihah_zulkifli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">izni_nasihah_zulkifli@schools.gov.sg</span></a></span><br></td>
 	</tr>
 </thead>
