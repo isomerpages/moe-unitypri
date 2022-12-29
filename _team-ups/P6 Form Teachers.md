@@ -60,8 +60,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20neo%20xueli.jpg"><span style="font-weight:bold">Ms Neo Xueli (HOD/SM)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_xueli@schools.gov.sg</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mdm%20norazelin%20binte%20misnari.jpg"><span style="font-weight:bold">Mdm Norazelin Misnari</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norazelin_misnari@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norazelin_misnari@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20neo%20xueli.jpg"><span style="font-weight:bold">Ms Neo Xueli (HOD/SM)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_xueli@schools.gov.sg</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mdm%20norazelin%20binte%20misnari.jpg"><span style="font-weight:bold">Mdm Norazelin Misnari</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norazelin_misnari@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norazelin_misnari@schools.gov.sg</span></a></span></td>
 	</tr>
 </thead>
 </table>
@@ -122,8 +122,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20wong%20yun%20yee.jpg"><span style="font-weight:bold">Ms Wong Yun Yee</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_yun_yee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_yun_yee@schools.gov.sg</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold">Mr Kelvin Ng (HOD/SCI)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20wong%20yun%20yee.jpg"><span style="font-weight:bold">Ms Wong Yun Yee</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_yun_yee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_yun_yee@schools.gov.sg</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold">Mr Kelvin Ng (HOD/SCI)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></span></td>
 	</tr>
 </thead>
 </table>
