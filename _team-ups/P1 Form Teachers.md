@@ -80,7 +80,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/ms%20bhavani%20rajandran.jpg"><span style="font-weight:bold">Ms Bhavani Rajandran</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank"href="mailto:bhavani_rajandran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">bhavani_rajandran@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20sherral%20lim.jpg"><span style="font-weight:bold">Mrs Sherral Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:sherral_lim@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sherral_lim@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20lin%20yuanwei%20daniel.jpg"><span style="font-weight:bold">Mr Daniel Lin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lin_yuanwei_daniel@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lin_yuanwei_daniel@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
