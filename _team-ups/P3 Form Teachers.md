@@ -60,7 +60,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20mohammad%20yasin%20bin%20abdul%20majee.jpg"><span style="font-weight:bold">Mr Mohammad Yasin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:mohd_yasin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">mohd_yasin@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Art%20Teachers/Corrine.png"><span style="font-weight:bold">Ms Corrine Fong</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">corrine_fong_tze_yuen@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/Art%20Teachers/Corrine.png"><span style="font-weight:bold">Ms Corrine Fong</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">corrine_fong_tze_yuen@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -81,6 +81,27 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mdm%20phee%20lay%20kuan.jpg"><span style="font-weight:bold">Mdm Phee Lay Kuan (Mrs Hoe)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:phee_lay_kuan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">phee_lay_kuan@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold">Mr Bernard Foo</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
+
+### **Primary 3E**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mrs%20veronica%20tan%20yew%20hwee.jpg"><span style="font-weight:bold">Mrs Veronica Tan</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank"href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">veronica_tan_siew_lan@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold">Mr Bernard Foo</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
