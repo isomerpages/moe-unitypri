@@ -122,7 +122,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/ms%20kashmeena%20parwyn%20do%20muruges.jpg"><span style="font-weight:bold">Ms Kashmeena Parwyn</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank"href="mailto:kashmeena_parwyn@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kashmeena_parwyn@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/ms%20kashmeena%20parwyn%20do%20muruges.jpg"><span style="font-weight:bold">Ms Kashmeena Parwyn</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kashmeena_parwyn@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kashmeena_parwyn@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20poh-chew%20see%20mun.jpg"><span style="font-weight:bold">Mdm Chew See Mun</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chew_see_mun@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chew_see_mun@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
