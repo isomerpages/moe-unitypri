@@ -107,3 +107,24 @@ description: ""
 	</tr>
 </thead>
 </table>
+
+### **Primary 5F**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/mr%20teo%20chee%20siong.jpg"><span style="font-weight:bold">Mr Teo Chee Siong</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:teo_chee_siong_a@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">teo_chee_siong_a@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/OuYang%20Fengfei.jpg"><span style="font-weight:bold">Mdm Ouyang Fengfei</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ouyang_fengfei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ouyang_fengfei@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
