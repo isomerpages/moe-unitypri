@@ -59,8 +59,50 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Poh%20Ling.jpg"><span style="font-weight:bold">Mdm Soo Poh Ling</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:soo_poh_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">soo_poh_ling@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20ow%20hui%20qin.jpg"><span style="font-weight:bold">Ms Ow Hui Qin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ow_hui_qin@schools.gov.sg</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="![](/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg)"><span style="font-weight:bold">Mdm Tan Ai Lin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:soo_poh_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">soo_poh_ling@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Ow Hui Qin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ow_hui_qin@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
+
+### **Primary 5D**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg"><span style="font-weight:bold">Mdm Tan Ai Lin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_ai_lin_a@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_ai_lin_a@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Faiza.jpg"><span style="font-weight:bold">Mdm Norfaiza</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norfaiza_buang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norfaiza_buang@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
+
+### **Primary 5E**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/mdm%20zunur'ain%20othman.jpg"><span style="font-weight:bold">Mdm Zunur’ain Othman</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:zunurain_othman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zunurain_othman@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold">Mrs Yvonne Koo</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norfaiza_buang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norfaiza_buang@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
