@@ -3,3 +3,65 @@ title: P5 Form Teachers
 permalink: /team-ups/p5-form-teachers/permalink/
 description: ""
 ---
+### **Primary 5A**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/miss%20siow%20yu%20lin%20julin.jpg"><span style="font-weight:bold">Ms Julin Siow</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:siow_yu_lin_julin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siow_yu_lin_julin@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mdm%20rasidah%20ahmad.jpg"><span style="font-weight:bold">Mdm Rasidah Bte Ahmad</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rasidah_ahmad@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
+
+### **Primary 5B**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20patricia%20leow%20saw%20ping.jpg"><span style="font-weight:bold">Ms Patricia Leow</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">leow_saw_ping@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20olivia%20yu.jpg"><span style="font-weight:bold">Ms Oliver Yu Rumeng</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rasidah_ahmad@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
+
+### **Primary 5C**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Poh%20Ling.jpg"><span style="font-weight:bold">Mdm Soo Poh Ling</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:soo_poh_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">soo_poh_ling@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20ow%20hui%20qin.jpg"><span style="font-weight:bold">Ms Ow Hui Qin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ow_hui_qin@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
