@@ -5,5 +5,4 @@ description: ""
 ---
 ### **Primary 6A**
 
-![](/images/Our%20Team%20UPS/P6%20Form%20Teachers/Picture%201.png)
-
+![](/images/Our%20Team%20UPS/P6%20Form%20Teachers/Picture%202.png)
