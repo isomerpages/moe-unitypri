@@ -18,7 +18,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Fok.jpg"><span style="font-weight:bold">Mr Fok Chee Hoe</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fok_chee_hoe@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">fok_chee_hoe@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"><span style="font-weight:bold">Mdm Nur Fazlina</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">fazlina_mohamed@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Ms Filzah Shafiee</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Filzah_Shafiee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Filzah_Shafiee@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -81,7 +81,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mdm%20phee%20lay%20kuan.jpg"><span style="font-weight:bold">Mdm Phee Lay Kuan (Mrs Hoe)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:phee_lay_kuan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">phee_lay_kuan@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold">Mr Bernard Foo</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src=""><span style="font-weight:bold">Mr Sim Wei Wen</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Sim_Wei_Wen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Sim_Wei_Wen@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
