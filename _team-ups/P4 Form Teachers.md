@@ -80,7 +80,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold">Mr Kenneth Cheong</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kenneth_cheong_perk_yin@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold">Mr Kenneth Cheong</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kenneth_cheong_perk_yin@schools.gov.sg</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Kok%20ping.png"><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ang_kok_ping@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
