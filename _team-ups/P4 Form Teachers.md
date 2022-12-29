@@ -23,3 +23,24 @@ description: ""
 	</tr>
 </thead>
 </table>
+
+### **Primary 4B**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/ms%20iris%20ooi%20shimin.jpg"><span style="font-weight:bold">Ms Iris Ooi</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ooi_shimin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ooi_shimin@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold">Mdm Norsahida</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Norsahida_Adam@schools.gov.sg</span></a></span><br>
+		</td>
+	</tr>
+</thead>
+</table>
