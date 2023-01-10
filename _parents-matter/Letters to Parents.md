@@ -4,7 +4,7 @@ permalink: /parents-matters/Letters-to-Parents/permalink/
 description: ""
 ---
 ### **<u>Year 2023</u>** 
-**Coming Soon*
+**Term 1 Week 1 -**
 
 ---
 
