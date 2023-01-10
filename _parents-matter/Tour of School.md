@@ -8,6 +8,8 @@ description: ""
 
 ---
 ### **<u>Our Facilities</u>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zoLt4oxmsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 ### **<u>A Day in School for Primary 1</u>**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJzH-OQAZL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
