@@ -33,7 +33,10 @@ The school has also digitised our eco-garden to enable our students can find out
 *P6 Learning Journey to Gardens by the Bay (Race to Sustainability)*
 ![](/images/Curriculum/2023/SCI/SC%20Competition.jpg)
 *Competitions, Olympiads & Enrichment Programmes such as Young Abbott Scientist, mCurie and Da Vinci programmes from NUS High and Junior Science Whiz Challenge*
-
+![](/images/Curriculum/2023/SCI/Greenovation%20Club.jpg)
+*Greenovation Club (CCA)*
+![](/images/Curriculum/2023/SCI/Science%20&%20Green%20Carnival.jpg)
+*Science & Green Carnical and E2K Science*
 ![](/images/Science3.png)
 
 The philosophy behind the **Tea**cher **C**ontent, **C**ompetency & **C**apacity en**H**ancement Programme is based on a (triangle-based) pyramid. A pyramid is a very stable structure that can withstand the test of time. As such, the department aims to build up on the 3 cornerstones of Content, Capacity and Competency of our staff. This will then enable our students to reach the peak of Excellence.
