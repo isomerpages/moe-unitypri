@@ -25,14 +25,8 @@ Through inquiry learning, our students will be able to acquire knowledge and und
 Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops.  
 
 The school has also digitised our eco-garden to enable our students can find out more the diversity of plants whether rain or shine. Using interactive tools, students can learn about the characteristics of plants and engaged in mini quizzes to consolidate their learning.
-
-![](/images/Science.png)
-
-Learning Journeys
-
-![](/images/Science2.png)
-
-Competitions & Olympiads (on left) & Science & Greenovation Club (on right)
+![P4 Pet Rocket](/images/Curriculum/2023/SCI/P4%20Pet%20Rocket.jpeg)
+*P4 Pet Rocket*
 
 ![](/images/Science3.png)
 
