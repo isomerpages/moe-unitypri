@@ -47,17 +47,13 @@ Similarly, the department believes that Teachers, Parents and Students form a �
 
 ![](/images/Science5.jpeg)
 
-#### C3 Answering Technique
+#### **C3 Answering Technique**
 
 C3 Answering Technique is the technique used by our students to answer Explain-type Open-ended Questions. Students are taught to identify the **C**oncept, **C**onnection, **C**onclusion parts of the answer and to structure them into a complete answer.
 
-*   **Concept**
-    *   What is/are the concept(s) being tested?
-*   **Connection**
-    *   What is the context/connection to the question?
-*   **Conclusion**
-    *   What happens/is the result in the end?
-
+*   **Concept**<br>What is/are the concept(s) being tested?
+*   **Connection**<br>What is the context/connection to the question?
+*   **Conclusion**<br>What happens/is the result in the end?
 
 ### **<u>Assessment</u>**
 
@@ -68,8 +64,8 @@ Our table of specification for examination papers is based on a spiral approach 
 ### **<u>Project Work</u>**
 Project work is a platform that allows students to make links of their knowledge across different subject areas as well as to demonstrate their creativity and innovation to an assigned project task. They get to hone their skills as an effective communicator to present their ideas clearly to the targeted audience in both written and oral forms. Students will acquire collaborative skills as they work in groups to achieve common goals. Through PW, we are a promoting self-directed learning as they do their independent research and reflection.
 
-#### P4 PW
+#### **P4 PW**
 The P4 students will work in groups to upcycle and design Maths games for the P2 students. While promoting and developing the love and interest for Mathematics through games, students will also bring environmental conservation habits from school back to home.
 
-#### P6 PW
+#### **P6 PW**
 The P6 Students would work in groups and use their creativity to innovate a product to solve issue(s) faced by the elderly & market it to their targeted consumers.
