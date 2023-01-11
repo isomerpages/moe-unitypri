@@ -25,9 +25,14 @@ Through inquiry learning, our students will be able to acquire knowledge and und
 Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops.  
 
 The school has also digitised our eco-garden to enable our students can find out more the diversity of plants whether rain or shine. Using interactive tools, students can learn about the characteristics of plants and engaged in mini quizzes to consolidate their learning.
+![](/images/Curriculum/2023/SCI/P4%20Pet%20Rocket.jpg)
 *P4 Pet Rocket*
 ![](/images/Curriculum/2023/SCI/P5%20LJ%20DNA.jpg)
 *P5 Learning Journey to DNA Lab @ Science Centre*
+![](/images/Curriculum/2023/SCI/P6%20LJ%20GBTB%20.jpg)
+*P6 Learning Journey to Gardens by the Bay (Race to Sustainability)*
+![](/images/Curriculum/2023/SCI/SC%20Competition.jpg)
+*Competitions, Olympiads & Enrichment Programmes such as Young Abbott Scientist, mCurie and Da Vinci programmes from NUS High and Junior Science Whiz Challenge*
 
 ![](/images/Science3.png)
 
