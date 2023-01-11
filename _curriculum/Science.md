@@ -22,7 +22,9 @@ Through inquiry learning, our students will be able to acquire knowledge and und
 
 #### **Experiential Learning**
 
-Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops.  The school has also digitised our eco-garden to enable our students can find out more the diversity of plants whether rain or shine. Using interactive tools, students can learn about the characteristics of plants and engaged in mini quizzes to consolidate their learning.
+Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops.  
+
+The school has also digitised our eco-garden to enable our students can find out more the diversity of plants whether rain or shine. Using interactive tools, students can learn about the characteristics of plants and engaged in mini quizzes to consolidate their learning.
 
 ![](/images/Science.png)
 
@@ -53,56 +55,18 @@ C3 Answering Technique is the technique used by our students to answer Explain-t
 *   **Conclusion**
     *   What happens/is the result in the end?
 
-#### **LLP – Litter Picking @ Pang Sua Park Connector**
-
-Our students in action with their PCF buddies in keeping our adopted waterway clean.
-
-![](/images/Science6.png)
-
-#### **LLP – Clean & Green Carnival**
-
-Our LLP Ambassadors and Champions doing their part for the community by sharing green tips to the community at West Mall.
-
-![](/images/Science7.png)
-
-#### **LLP – Upcycling Crafts**
-
-Our LLP Champions making fashionable bags from old T-shirts.
-
-![](/images/Science8.png)
-
-#### **LLP – Upcycling Crafts with PCF Students**
-
-Our LLP Champions teaching our PCF buddies to make crafts from recyclable materials.
-
-![](/images/Science9.png)
-
-#### **LLP – Clean & Green Classrooms**
-
-Students doing their parts to keep their classrooms clean.  This helps them to understand the work and appreciate the help that our school attendants give to ensure a clean and conducive environment for learning to take place.
-
-![](/images/Science10.png)
-
-#### **LLP – Green Wave**
-
-School Leaders leading by example to plant fruit trees during Green Wave activity.
-
-![](/images/Science11.png)
-
-#### **LLP – Mass Recycling & Estate Collection**
-
-Our students engaging in Mass Recycling and Collection of Recyclables from the community.
-
-![](/images/Science12.png)
-
-#### **LLP – Youth for Environment Day**
-
-Our LLP Champions showing their peers the process of making recycled paper.
-
-![](/images/Science13.png)
 
 ### **<u>Assessment</u>**
 
 The department adopts a variety of assessment modes to assess our students’ learning. Apart from the pen and pencil examinations, students are also assess through formative assessments.
 
 Our table of specification for examination papers is based on a spiral approach where pupils are constantly being tested on concepts they have learnt previously but at a higher level of difficulty. This helps to prepare them for PSLE where they will be tested on concepts from both the Upper and Lower Block. This also helps them to integrate concepts from different themes in order to answer cross thematic and higher-order thinking questions.
+
+### **<u>Project Work</u>**
+Project work is a platform that allows students to make links of their knowledge across different subject areas as well as to demonstrate their creativity and innovation to an assigned project task. They get to hone their skills as an effective communicator to present their ideas clearly to the targeted audience in both written and oral forms. Students will acquire collaborative skills as they work in groups to achieve common goals. Through PW, we are a promoting self-directed learning as they do their independent research and reflection.
+
+#### P4 PW
+The P4 students will work in groups to upcycle and design Maths games for the P2 students. While promoting and developing the love and interest for Mathematics through games, students will also bring environmental conservation habits from school back to home.
+
+#### P6 PW
+The P6 Students would work in groups and use their creativity to innovate a product to solve issue(s) faced by the elderly & market it to their targeted consumers.
