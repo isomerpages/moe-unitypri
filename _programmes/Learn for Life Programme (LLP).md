@@ -10,16 +10,16 @@ Unity Primary School’s efforts into ensuring the successful implementation of 
 
 ### **P3 Every Child a Seed**
 For Primary 3 students, the “P3 Every Child a Seed” programme, which is a collaboration with NParks, provides them with an opportunity to experience growing their very own plants, experience the planting process, observe the stages in the  life cycle of plants, learn about the conditions that affect the germination or growth of plants, appreciate the joy of seeing their plant grow, and foster the value of responsibility while doing so.
-
+![](/images/Curriculum/2023/SCI/P3%20LLP.jpg)
 ### **P4 Every Child a Gardener**
 Our Primary 4 students will have the opportunity to work in teams to cultivate edible crops under the “P4 Every Child a Gardener” programme. Students will be tasked to observe the plants growth, investigate, evaluate and communicate the possible reasons for the poor or good harvest.  In the course, they will learn to recognise and respect differences to work harmoniously in a team towards a common goal, that is harvesting their crops to be brought home as a gesture of appreciation to their parents.
-
+![](/images/Curriculum/2023/SCI/P4%20LLP.jpg)
 ### **P5 Every Child an Urban Farmer**
 Using modern technology, students learn to grow edible crops and share the harvest with the community under the “P5 Every Child an Urban Farmer” programme. Since 2017, the school has been growing crops using hydroponics and gifting the harvest to students and cleaners in the school. From 2018, to enhance the value of empathy, the harvest is also presented to those with greater needs in the wider community, such as the school’s partnering elderly and children’s homes. As part of reducing food wastage, students will also salvage unwanted parts and place them in the compost bin, as they harvest the crops, so that the composted products can be used as fertilisers for the Primary 3 & Primary 4 Every Child A Seed/Gardener programme. Other than the Science concepts, process and skills learnt in P3 and P4, students also learn about the essential of water to life and the need for water conservation in a water-scarce country like Singapore.
-
+![](/images/Curriculum/2023/SCI/P5%20LLP.jpg)
 ### **P6 Race to Sustainability at Gardens by the Bay**
 P6 students participate in an Annual Amazing Race conducted by Gardens by the Bay where they would work in groups of 4 to 5 and solve clues in each station. Through the race, students would develop awareness of the threats and effects of habitat destruction and climate change, understand the need for conservation and living responsibly as a global citizen. They will navigate around Gardens by the Bay using maps and learn to work together as a team.
-
+![](/images/Curriculum/2023/SCI/P6%20LJ%20GBTB%20.jpg)
 
 ### **Outreach to the Community**
 UPS reach out to the younger kindergarten, nursery pupils and public members through the various environmental projects to provide the platforms and educate students and the community to work towards a Zero Waste Nation.
