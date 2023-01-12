@@ -23,7 +23,7 @@ description: ""
 *  [MOE SchoolBag](https://www.schoolbag.edu.sg/)
 * [WE STories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)
 * [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety)
-*   Annex A – Application Form for MOE FAS [](/files/Parents%20Matter/Resources%20for%20Parents/2023/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
+*  [MOE FAS ](https://go.gov.sg/moe-efas)&nbsp;&nbsp;Application Form for MOE FAS [](/files/Parents%20Matter/Resources%20for%20Parents/2023/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
 *   [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 * [Singapore Road Safety Council (SRSC)](http://srsc.org.sg/)
 * [Ministry of Education (Public Website)](https://www.moe.gov.sg/)
