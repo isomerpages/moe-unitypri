@@ -23,23 +23,28 @@ P6 students participate in an Annual Amazing Race conducted by Gardens by the Ba
 
 ### **Outreach to the Community**
 UPS reach out to the younger kindergarten, nursery pupils and public members through the various environmental projects to provide the platforms and educate students and the community to work towards a Zero Waste Nation.
-
+![](/images/Programmes/2023/LLP/Outreach%20to%20the%20community.jpg)
+*Buddy Upcycling Art and Pang Sua Waterway Clean-up*
+![](/images/Programmes/2023/LLP/Partnership%20w%20PCF.jpeg)
+*Garden trail with PCF*
+![](/images/Programmes/2023/LLP/Estate%20Collection.jpg)
+*Estate Collection*
+![](/images/Programmes/2023/LLP/Outreach.jpg)
+*Booths were set up at community libraries and malls to educate the public members on upcycling crafts*
 ### **Clean & Green Classrooms**
 Students doing their parts to keep their classrooms clean. This helps them to understand the work and appreciate the help that our school attendants give to ensure a clean and conducive environment for learning to take place.
 
 ### **Mass Recycling**
 Every Friday, students will bring their recyclables and drop them in the recycling bins. The recyclables brought include plastic bottles, cardboard and aluminium cans. The mass recycling programme aims to not only inculcate recycling habits among the students, but it is hoped that this programme will also encourage their family members to adopt the good practice of recycling.
-
+![](/images/Programmes/2023/LLP/Mass%20Recycling.jpg)
 ### **Food Donation Drive**
 To complement CCE & imbue in our students sound values with a heart of contribution to the society, the school, in collaboration with Food From The Heart, organises a food donation drive in Term 2 yearly to encourage students to put into practice of their values into action. This provides an opportunity for students’ involvement in the process of giving back to the society.
-
+![](/images/Programmes/2023/LLP/Food%20Donation.jpg)
 ### **P6 Unité**
 The P6 Unité is organised for our graduating cohort to have the opportunity during their last year in Unity Primary School to experience cohort activities to fortify community spirit & competencies as they embrace the challenges ahead for transition to the next phase of their educational journey. 
 Through games and activities out of their classroom, students get to learn and demonstrate resilience, teamwork and self-confidence. They will also be motivated to give their best and have the desire to excel.
-
+![](/images/Programmes/2023/LLP/P6%20Unite.jpg)
 ### **P5 Outdoor Learning Experience (OLE!)**
-
-
 The P5 OLE is organised as an alternative programme to the P5 Camp Fortitude Outdoor Adventure Learning (OAL) Cohort Camp to achieve the OAL & Outdoor Education objectives.
 
 The 2-day programme aims to provide students with an opportunity to:
@@ -47,3 +52,4 @@ The 2-day programme aims to provide students with an opportunity to:
 2. appreciate diversity in the team, teamwork & learn about conflict management in group settings.
 3. harness their strengths & work on their areas for improvement.
 4. forge camaraderie with peers through common experiences.
+![](/images/Programmes/2023/LLP/P5%20OLE.jpg)
