@@ -3,11 +3,11 @@ title: Vision, Mission and Values
 permalink: /our-unity-story/Vision-Mission-and-Values/permalink/
 description: ""
 ---
-### **<u>Vision</u>**  
+### **Vision**  
 Creative Mind, Confident Self & Caring Heart
 
-### **<u>Mission</u>**  
+### **Mission**  
 To provide quality and holistic education for our students
 
-### **<u>Values</u>**  
+### **Values**  
 Respect, Responsibility, Resilience,  Integrity, Care and Harmony
