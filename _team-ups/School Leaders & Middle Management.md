@@ -3,11 +3,7 @@ title: School Leaders & Middle Management
 permalink: /team-ups/School-Leaders-Middle-Management/permalink/
 description: ""
 ---
-
-## Key Personnel
-
-
-### School Leaders
+### **School Leaders**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,7 +28,7 @@ description: ""
 </tbody>
 </table>
 
-### HODs / Year Heads
+### **HODs / Year Heads**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -90,7 +86,7 @@ description: ""
 
 
 
-### Subject Heads / Level Heads / Assistant Year Heads
+### **Subject Heads / Level Heads / Assistant Year Heads**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
