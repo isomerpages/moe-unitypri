@@ -130,7 +130,7 @@ Literature Texts:
 *   Primary 3 – Charlotte’s Web
 *   Primary 4 – Matilda
 *   Primary 5 – Kite Fighters
-
+![](/images/Curriculum/2023/EL/Picture4.png)
 
 ### **References**
 ----------
