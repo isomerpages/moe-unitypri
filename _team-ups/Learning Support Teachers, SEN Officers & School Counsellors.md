@@ -3,8 +3,7 @@ title: Learning Support Teachers, SEN Officers & School Counsellors
 permalink: /team-ups/Learning-Support-Teachers-Officers/permalink/
 description: ""
 ---
-
-### Learning Support Teachers
+### **Learning Support Teachers**
 
 
 <style type="text/css">
