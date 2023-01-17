@@ -3,7 +3,7 @@ title: School Advisory Committee
 permalink: /team-ups/School-Advisory-Committee/permalink/
 description: ""
 ---
-### School Advisory Committee
+### **School Advisory Committee**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
