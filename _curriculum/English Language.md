@@ -3,10 +3,11 @@ title: English Language
 permalink: /curriculum/English-Language/permalink/
 description: ""
 ---
-### **<u>Vision</u>**
+![](/images/Curriculum/2023/EL/Picture1.png)
+### **Vision**
 Everyone in Unity is a competent user of the English Language – at work and at play.
 
-### **<u>Mission</u>**
+### **Mission**
 Provide a dynamic learning environment where staff and students demonstrate a love in acquiring and displaying confidence in using the language.
 
 ### **<u>Programme Highlights/Enrichment activities</u>**
@@ -18,13 +19,11 @@ Provide a dynamic learning environment where staff and students demonstrate a lo
 
 *   Strategies for EL Learning and Reading (STELLAR)
 *   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-*   PERI Holistic Assessment
-
 **Customised Programmes:**
 
-*   Learning Support Programme
-*   Buddy Reading Programme
+*   Learning Support Programme (LSP)
 *   Focused Remediation
+*   Digital Pupperty
 
 ##### **Primary 2**
 
@@ -32,27 +31,46 @@ Provide a dynamic learning environment where staff and students demonstrate a lo
 
 *   Strategies for EL Learning and Reading (STELLAR)
 *   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-*   PERI Holistic Assessment
+*   Digital Puppetry
 
 **Customised Programmes:**
 
-*   Learning Support Programme
+*   Learning Support Programme (LSP)
+*   KidsREAD Programme
 *   Focused Remediation
 
-##### **Primary 3 and Primary 4**
+##### **Primary 3** 
 
 **Broad-based Programmes:**
 
 *   Strategies for EL Learning and Reading (STELLAR)
 *   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-*   SPELL UPS (Primary 3)
+*   Digital Puppetry
+*   Reader's Theatre Workshop
 
 **Customised Programmes:**
 
 *   Learning Support Programme (In-house)
+*   Critical Thinking Programme
+*   Literature Programme
+*   Reading Remediation Programme (RRP)
+*   School Dyslexia Remediation (SDR)
 *   Focused Remediation
-*   Critical Thinking and Literature Programme (HP classes)
-*   Oracy Intervention Programme (MP and LP classes)
+
+##### **Primary 4**
+**Broad-based Programmes:**
+
+*   Strategies for EL Learning and Reading (STELLAR)
+*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
+
+**Customised Programmes:**
+
+*   Learning Support Programme (In-house)
+*   Critical Thinking Programme
+*   Literature Programme
+*   Reading Remediation Programme (RRP)
+*   School Dyslexia Remediation (SDR)
+*   Focused Remediation
 
 ##### **Primary 5**
 
@@ -63,9 +81,9 @@ Provide a dynamic learning environment where staff and students demonstrate a lo
 
 **Customised Programmes:**
 
-*   Critical Thinking and Literature Programme (HP classes)
-*   Debate Training (HP classes)
-*   Oracy Intervention Programme (MP and LP classes)
+*   Critical Thinking Programme
+*   Effective Communication Workshop
+*   Focused Remediation
 
 ##### **Primary 6**
 
@@ -76,12 +94,10 @@ Provide a dynamic learning environment where staff and students demonstrate a lo
 
 **Customised Programmes:**
 
-*   Debate Training (HP classes)
-*   Oracy Intervention Programme (MP and LP classes)
+*   Focused Remediation
 
-### Read A Book Because It’s Terrific (R.A.B.B.I.T)
------------------------------------------------
-
+### **Read A Book Because It’s Terrific (R.A.B.B.I.T)**
+---
 R.A.B.B.I.T is a whole school approach to reading in UPS. It consists of broad-based and focused activities. The objectives of R.A.B.B.I.T are as follow:
 
 *   To introduce students to the wonderful world of books
@@ -90,39 +106,29 @@ R.A.B.B.I.T is a whole school approach to reading in UPS. It consists of broad-b
 
 ##### **Broad-based Activities:**
 
-Extensive Reading (P1 – P6)
+Extensive Reading (P1 – P4)
 
 *   Promote reading – to cultivate the love for reading
 
-Critical Thinking through Extensive Reading (P1 – P6)
+##### **Key Competition:**
+*  Wits and Words (Debate Competition)
 
-*   To demonstrate the ability to use the elements of thought in developing students’ thinking process so as to solve problems and make informed decisions
-*   To communicate and articulate thoughts in written and oral form effectively and with confidence
-
-##### Key Competitions
-
-*   Wits and Words (Debate Competition)
-*   Story Challenge Competition
-*   Scrabble Competition
-
-### Books 2 Go
+### **Books 2 Go**
 ----------
 
-Public Library comes to UPS
+Mass Borrowing
 
 ![](/images/English.png)
 
-Mass Borrowing (on left) & Briefing by NLB officer (on right)
-
 ![](/images/English3.png)
 
-### Critical Thinking and Literature Programme
+### **Critical Thinking Programme**
 ------------------------------------------
 
 Literature Texts:
 
 *   Primary 3 – Charlotte’s Web
-*   Primary 4 – A Single Shard
+*   Primary 4 – Matilda
 *   Primary 5 – Kite Fighters
 
 NLB Activities to Promote Reading
@@ -135,14 +141,12 @@ Storyreading in Action (on left) & Storytelling in groups (on right)
 
 Book Buzz – Assembly Programme
 
-### References
+### **References**
 ----------
-*   [Guidelines and Students Handouts for Implementing Read-Aloud Strategies in Your Class](https://www2.scholastic.com/browse/article.jsp?id=4464)
+*   [The Read-Aloud Handbook](https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html)
 *   [Reading Comprehension Learning Tools](https://www.time4learning.com/readingpyramid/comprehension.htm)
 *   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
-*   [Teaching Writing to Lower Primary Pupils](https://www.iched.org/cms/scripts/page.php?site_id=iched&item_id=teach_writing_prek-1)
+*   [How to Improve Writing Skills for Pupils:14 Easy Tips](https://www.oxfordlearning.com/improve-kids-writing-skills/)
 *   [Grammar](http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html)
 *   Dictionary and Thesaurus
-    
-    *   [www.merriam-webster.com](https://www.merriam-webster.com/)
-    *   [dictionary.reference.com](http://www.dictionary.reference.com/)
+    <br>[www.merriam-webster.com](https://www.merriam-webster.com/)<br>[dictionary.reference.com](http://www.dictionary.reference.com/)
