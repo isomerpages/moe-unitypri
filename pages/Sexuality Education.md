@@ -32,8 +32,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more 
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.
 **At Unity Primary School, the following Sexuality Education lessons will be taught in 2023:**
-<br>**Primary 5**
-<br>**Primary 6**
+<br>**[Primary 5 Sexuality Education](/files/Curriculum/CCE/2023/SEd%20Curriculum%20P5.pdf)**
+<br>**[Primary 6 Sexuality Education](/files/Curriculum/CCE/2023/SEd%20Curriculum%20P6.pdf)**
 
 **Information for Parents**
 
