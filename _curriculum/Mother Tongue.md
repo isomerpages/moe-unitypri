@@ -32,3 +32,4 @@ P3 Cultural Camp is organised annually to enrich our students’ learning of the
 ##### **P5 Overseas Virtual Immersion Programme**
 ---
 To promote the use of Mother Tongue Languages in an authentic setting, selected P5 Chinese and Malay students participate in overseas virtual immersion programme to China and Brunei respectively. During the programme, students get the opportunity to virtually visit places of cultural & educational interest, carry out hands-on activities as well as interact with students from local schools.
+![](/images/Curriculum/2023/MT/CL1.jpg)
