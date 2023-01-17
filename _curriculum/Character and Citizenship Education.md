@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/cce.jpg)
 
-### **<u>Vision</u>**
+### **Vision**
 Students from Unity Primary will grow up to be responsible and respectful citizens with integrity
 
-### **<u>Mission</u>**
+### **Mission**
 Provide an environment where good values are instilled and cultivated
 
 ### **<u>Programme Highlights/Enrichment Activities</u>**
@@ -73,4 +73,4 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 Please click [here](/Sexuality-Education/permalink/) for more info.
 
-Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Letter-to-parents_23-July-19.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 01/09/2019.
+Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Letter-to-parents_23-July-19.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 31/01/2023.
