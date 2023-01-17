@@ -131,15 +131,6 @@ Literature Texts:
 *   Primary 4 – Matilda
 *   Primary 5 – Kite Fighters
 
-NLB Activities to Promote Reading
-
-![](/images/English4.png)
-
-Storyreading in Action (on left) & Storytelling in groups (on right)
-
-![](/images/English5.png)
-
-Book Buzz – Assembly Programme
 
 ### **References**
 ----------
