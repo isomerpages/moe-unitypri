@@ -3,7 +3,6 @@ title: Art Teachers
 permalink: /team-ups/art-teachers/permalink/
 description: ""
 ---
-## Art Teachers
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
