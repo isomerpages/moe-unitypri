@@ -102,36 +102,16 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zr06"><img style="width:30%" alt="Mr Hairil Akhmal B Sakroni" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-hairil-akhmal-b-sakroni-600x800.jpg"></th>
-    <th class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Physical Education, CCA &amp; Aesthetic</span><br><span style="font-weight:bold">Mr Hairil Akhmal Bin Sakroni</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">hairil_akhmal_b_sakroni@schools.gov.sg</span></a></th>
+    <th class="tg-zr06"><img style="width:30%" alt="Kok Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/Kok-ping.png"></td>
+    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline">ang_kok_ping@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-bsu7"><img style="width:30%" alt="Mdm Rasidah Ahmad" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rasidah-ahmad-600x800.jpg"></td>
-    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Malay Language</span><br><span style="font-weight:bold">Mdm Rasidah Ahmad</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rasidah_ahmad@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><img style="width:30%" alt="Corrine" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/Corrine.png"></td>
-    <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Aesthetics</span><br><span style="font-weight:bold">Ms Corrine Fong Tze Yuen</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">corrine_fong_tze_yuen@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7"><img style="width:30%" alt="Mrs Chon Qiao Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-600x800.jpg"></td>
-    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / ICT</span><br><span style="font-weight:bold">Mrs Chon Qiao Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_qiao_ping@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><img style="width:30%" alt="Ms Lim Hui Mei" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-lim-hui-mei-600x800.jpg"></td>
-    <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Discipline &amp; Student Development</span><br><span style="font-weight:bold">Ms Lim Hui Mei</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hui_mei@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-bsu7"><img style="width:30%" alt="Kok Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/Kok-ping.png"></td>
-    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline">ang_kok_ping@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06"><img style="width:30%" alt="Ms Chan Kar Yee Charissa" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-chan-kar-yee-charissa-600x800.jpg"></td>
+    <td class="tg-bsu7"><img style="width:30%" alt="Ms Chan Kar Yee Charissa" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-chan-kar-yee-charissa-600x800.jpg"></td>
     <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Level Head / Mathematics</span><br><span style="font-weight:bold">Ms Charissa Chan Kar Yee</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chan_kar_yee_charissa@schools.gov.sg</span></a></td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-bsu7"><img style="width:30%" alt="Ms Neo Liwen" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-liwen-600x800.jpg"></td>
     <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / Science</span><br><span style="font-weight:bold">Ms Neo Liwen</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:neo_liwen@schools.gov.sg"><span style="text-decoration:underline">neo_liwen@schools.gov.sg</span></a></td>
   </tr>
@@ -140,8 +120,32 @@ description: ""
     <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Level Head / Chinese Language</span><br><span style="font-weight:bold">Mdm Law Siok Cheng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:law_siok_cheng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">law_siok_cheng@schools.gov.sg</span></a></td>
   </tr>
   <tr>
+    <td class="tg-bsu7"><img style="width:30%" alt="Mdm Rasidah Ahmad" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rasidah-ahmad-600x800.jpg"></td>
+    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Malay Language</span><br><span style="font-weight:bold">Mdm Rasidah Ahmad</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rasidah_ahmad@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><img style="width:30%" alt="Mr Hairil Akhmal B Sakroni" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-hairil-akhmal-b-sakroni-600x800.jpg"></th>
+    <th class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Physical Education, CCA &amp; Aesthetic</span><br><span style="font-weight:bold">Mr Hairil Akhmal Bin Sakroni</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">hairil_akhmal_b_sakroni@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-bsu7"><img style="width:30%" alt="Corrine" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/Corrine.png"></td>
+    <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Aesthetics</span><br><span style="font-weight:bold">Ms Corrine Fong Tze Yuen</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">corrine_fong_tze_yuen@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><img style="width:30%" alt="Mrs Chon Qiao Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-600x800.jpg"></td>
+    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / ICT</span><br><span style="font-weight:bold">Mrs Chon Qiao Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_qiao_ping@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-bsu7"><img style="width:30%" alt="Ms Lim Hui Mei" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-lim-hui-mei-600x800.jpg"></td>
+    <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Discipline &amp; Student Development</span><br><span style="font-weight:bold">Ms Lim Hui Mei</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hui_mei@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06"><img style="width:30%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Punitha.png"></td>
+    <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Assistant Year Head / MP (Middle Primary)</span><br><span style="font-weight:bold">Ms Punitha Elancheran</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:punitha_elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">punitha_elancheran@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
     <td class="tg-bsu7"><img style="width:30%" alt="Mdm Zunur'ain Othman" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-zunurain-othman-600x800.jpg"></td>
-    <td class="tg-3qhc"><br><span style="text-decoration:underline">Assistant Year Head / MP (Middle Primary)</span><br><span style="font-weight:bold">Mdm Zunur’ain Othman</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:zunurain_othman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zunurain_othman@schools.gov.sg</span></a></td>
+    <td class="tg-3qhc"><br><span style="text-decoration:underline">Assistant Year Head / UP (Upper Primary)</span><br><span style="font-weight:bold">Mdm Zunur’ain Othman</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:zunurain_othman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">zunurain_othman@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
