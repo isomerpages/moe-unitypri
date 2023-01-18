@@ -101,7 +101,6 @@ description: ""
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20tan%20jie%20min.jpg"><span style="font-weight:bold">Ms Tan Jie Min</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_jie_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_jie_min@schools.gov.sg</span></a></span></td>
 		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20chon%20qiao%20ping.jpg"><span style="font-weight:bold">Mrs Chon Qiao Ping</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_qiao_ping@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold">Mr Bruce Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_choon_wei@schools.gov.sg</span></a></span><br></td>
 	</tr>
 </thead>
 </table>
@@ -142,7 +141,6 @@ description: ""
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20sylvia%20quek.jpg"><span style="font-weight:bold">Mrs Sylvia Quek</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ong_mui_yen_sylvia@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ong_mui_yen_sylvia@schools.gov.sg</span></a></span></td>
 		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"><span style="font-weight:bold">Mdm Hidayati</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nur_hidayati_mohd_ali@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold">Mr Herald Medina</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">herald_arguil_medina@schools.gov.sg</span></a></span><br></td>
 	</tr>
 </thead>
 </table>
