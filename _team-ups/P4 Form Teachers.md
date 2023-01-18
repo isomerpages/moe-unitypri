@@ -60,7 +60,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mdm%20siti%20nurshahidah%20binte%20rosman.jpg"><span style="font-weight:bold">Mdm Siti Nurshahidah</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:siti_nurshahidah_rosman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">siti_nurshahidah_rosman@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold">Mr Bernard Foo</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">foo_sing_keng_bernard@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20liu%20kum%20mei.jpg"><span style="font-weight:bold">Mdm Liu Kum Mei</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_kum_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">liu_kum_mei@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
