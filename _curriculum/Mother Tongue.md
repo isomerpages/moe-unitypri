@@ -17,7 +17,7 @@ _\*There are only P1 and P2 Tamil Language students in 2023._
 ### **<u>Key Programmes</u>**
 
 ##### **Critical Thinking Accelerated Programme (CAPtivate) (Primary 1 – 6)**
-
+![](/images/Curriculum/2023/MT/MT%20Captivate.jpg)
 CAPtivate aims to cultivate the love for reading and develop students’ thinking process to solve problems and make informed decisions as well as to enable them to communicate and articulate thoughts in written and oral form effectively and with confidence.
 
 Activities under CAPtivate for the different MTL departments are:
@@ -32,7 +32,7 @@ Activities under CAPtivate for the different MTL departments are:
 ---
 ##### **P3 Cultural Camp**
 P3 Cultural Camp is organised annually to enrich our students’ learning of their Mother Tongue language and appreciation of their culture. Interesting activities are organised as part of the camp programme to promote interest in the learning of MTL beyond the classrooms.
-
+![](/images/Curriculum/2023/MT/MT%20P3%20Cultural.jpg)
 ---
 
 ##### **P5 Overseas Virtual Immersion Programme**
