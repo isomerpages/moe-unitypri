@@ -102,8 +102,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-zr06"><img style="width:30%" alt="Kok Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/Kok-ping.png"></td>
-    <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline">ang_kok_ping@schools.gov.sg</span></a>
+    <th class="tg-zr06"><img style="width:30%" alt="Kok Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/01/Kok-ping.png"></th>
+    <th class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline">ang_kok_ping@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
