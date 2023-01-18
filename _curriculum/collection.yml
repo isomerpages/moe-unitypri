@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue.md
       - English Language.md
+      - Mother Tongue.md
       - Malay Language.md
       - Tamil Language.md
       - Mathematics.md
