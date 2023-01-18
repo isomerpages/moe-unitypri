@@ -35,6 +35,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more 
 <br>**[Primary 5 Sexuality Education](/files/Curriculum/CCE/2023/SEd%20Curriculum%20P5.pdf)**
 <br>**[Primary 6 Sexuality Education](/files/Curriculum/CCE/2023/SEd%20Curriculum%20P6.pdf)**
 
+**<a href="/files/Curriculum/CCE/2023/SEd%20Curriculum%20P6.pdf"
+  target="_blank" rel="noopener noreferrer">Primary 6 Sexuality Education</a>**
+
 **Information for Parents**
 
 8.   Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
