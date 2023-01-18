@@ -33,6 +33,7 @@ Activities under CAPtivate for the different MTL departments are:
 ##### **P3 Cultural Camp**
 P3 Cultural Camp is organised annually to enrich our students’ learning of their Mother Tongue language and appreciation of their culture. Interesting activities are organised as part of the camp programme to promote interest in the learning of MTL beyond the classrooms.
 ![](/images/Curriculum/2023/MT/MT%20P3%20Cultural.jpg)
+
 ---
 
 ##### **P5 Overseas Virtual Immersion Programme**
