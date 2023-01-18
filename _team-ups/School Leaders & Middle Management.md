@@ -78,7 +78,7 @@ description: ""
     <td class="tg-rs0e"><br><span style="text-decoration:underline">Year Head / MP (Middle Primary)</span><br><span style="font-weight:bold">Mrs Veronica Tan</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">veronica_tan_siew_lan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1ppo"><img style="width:30%" src="images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Lakshmi.png"></td>
+    <td class="tg-1ppo"><img style="width:30%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Lakshmi.png"></td>
     <td class="tg-l2bf"><br><span style="text-decoration:underline">Year Head / UP (Upper Primary)</span><br><span style="font-weight:bold">Ms Lakshmi Arivananthan</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lakshmi_arivananthan@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
