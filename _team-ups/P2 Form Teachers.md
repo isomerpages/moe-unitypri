@@ -108,8 +108,8 @@ khairul_iman_dailami@schools.gov.sg</span></a></span></td>
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/ms%20li%20weijin.jpg"><span style="font-weight:bold">Ms Li Weijin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:li_weijin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">li_weijin@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold">Mr Herald Medina</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">herald_arguil_medina@schools.gov.sg
+    <td colspan="2" class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/ms%20li%20weijin.jpg"><span style="font-weight:bold">Ms Li Weijin</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:li_weijin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">li_weijin@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:30%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold">Mr Herald Medina</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">herald_arguil_medina@schools.gov.sg
 </span></a></span><br>
 		</td>
 	</tr>
