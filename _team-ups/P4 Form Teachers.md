@@ -102,7 +102,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mrs%20wee-wong%20li%20ting.jpg"><span style="font-weight:bold">Mrs Wee Li Ting</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_li_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">wong_li_ting@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold">Ms Chow Zhiying</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_Zhi_Ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Chow_Zhi_Ying@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold">Mdm Norsahida Adam</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Norsahida_Adam@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
