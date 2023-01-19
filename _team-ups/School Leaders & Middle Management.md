@@ -123,7 +123,7 @@ description: ""
     <td class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Malay Language</span><br><span style="font-weight:bold">Mdm Rasidah Ahmad</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">rasidah_ahmad@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><img style="width:30%" alt="Mr Hairil Akhmal B Sakroni" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-hairil-akhmal-b-sakroni-600x800.jpg"></th>
+    <td class="tg-zr06"><img style="width:30%" alt="Mr Hairil Akhmal B Sakroni" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-hairil-akhmal-b-sakroni-600x800.jpg"></td>
     <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Subject Head / Physical Education, CCA &amp; Aesthetic</span><br><span style="font-weight:bold">Mr Hairil Akhmal Bin Sakroni</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">hairil_akhmal_b_sakroni@schools.gov.sg</span></a></td>
   </tr>
   <tr>
