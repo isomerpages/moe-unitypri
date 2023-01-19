@@ -106,7 +106,6 @@ description: ""
     <th class="tg-3qhc"><br><span style="font-weight:bold;text-decoration:underline">Level Head / English Language</span><br><span style="font-weight:bold">Mrs Lay Naing – Ang Kok Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline">ang_kok_ping@schools.gov.sg</span></a></th>
   </tr>
 </thead>
-<tbody>
   <tr>
     <td class="tg-bsu7"><img style="width:30%" alt="Ms Chan Kar Yee Charissa" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-chan-kar-yee-charissa-600x800.jpg"></td>
     <td class="tg-dgl5"><br><span style="font-weight:bold;text-decoration:underline">Level Head / Mathematics</span><br><span style="font-weight:bold">Ms Charissa Chan Kar Yee</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chan_kar_yee_charissa@schools.gov.sg</span></a></td>
