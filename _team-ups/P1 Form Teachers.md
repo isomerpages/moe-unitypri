@@ -39,7 +39,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20wendy%20lim-mar%20mun%20ee.jpg"><span style="font-weight:bold">Mrs Wendy Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Mar_Mun_ee_wendy@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mar_Mun_ee_wendy@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg"><span style="font-weight:bold">Mr Johari</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg"><span style="font-weight:bold">Mr Johari</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -101,8 +101,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20sherral%20lim.jpg"><span style="font-weight:bold">Mrs Sherral Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:sherral_lim@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sherral_lim@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold">Mdm Hajjah Hadijah</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">hajjah_hadijah_haji_saat@schools.gov.sg</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20sherral%20lim.jpg"><span style="font-weight:bold">Mrs Sherral Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:sherral_lim@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">sherral_lim@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:35%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold">Mdm Hajjah Hadijah</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">hajjah_hadijah_haji_saat@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -144,7 +144,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold">Mrs Shelyn Ng</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold">Mr Muhammad Hanis</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">muhammad_hanis_sarkinin@schools.gov.sg</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold">Mr Muhammad Hanis</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">muhammad_hanis_sarkinin@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
