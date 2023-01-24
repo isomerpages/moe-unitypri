@@ -32,7 +32,7 @@ description: ""
 </tbody>
 </table>
 
-### **SEN Officer**
+### **SEN Officers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,6 +45,10 @@ description: ""
 </style>
 <table class="tg">
 <thead>
+	 <tr>
+    <td class="tg-ykyb"><img src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/Jiamei%20SENO.png" style="width:30%"></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Liu Jiamei (Senior SENO)</span><br><a href="mailto:liu_jiamei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">liu_jiamei@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-ykyb"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/MS-NURUL-HIDAYAH-BINTE-NASRI-750x1000.jpg" style="width:30%" alt="Ms Nurul Hidayah Binte Nasri"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Nurul Hidayah Binte Nasri </span><br><a href="mailto:nurul_hidayah_nasri@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">nurul_hidayah_nasri@schools.gov.sg</span></a></td>
@@ -69,7 +73,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-syed-firdauz-750x1000.jpg" style="width:30%" alt="Mr Syed Firdauz"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold">Mr Syed Firdauz Bin Syed Yasin Aljunied</span><br><a href="mailto:syed_firdauz_syed_yasin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">syed_firdauz_syed_yasin@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold">Mr Syed Firdauz Bin Syed Yasin Aljunied</span><br><span style="font-weight:bold">(Senior Counsellor)</span><br><a href="mailto:syed_firdauz_syed_yasin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">syed_firdauz_syed_yasin@schools.gov.sg</span></a></th>
   </tr>
 </thead>
 <tbody>
