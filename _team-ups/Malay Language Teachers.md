@@ -42,5 +42,9 @@ description: ""
     <td class="tg-a3j2"><img style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Faiza.jpg">
     </td><td class="tg-l2bf"><br><span style="font-weight:bold">Mdm Norfaiza Binte Buang</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:norfaiza_buang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norfaiza_buang@schools.gov.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-a3j2"><img style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Mdm%20Norlizanah.png">
+    </td><td class="tg-l2bf"><br><span style="font-weight:bold">Mdm Norlizanah Binte Mohamed Nor</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:norlizanah_mohamed_nor@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">norlizanah_mohamed_nor@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
