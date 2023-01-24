@@ -143,8 +143,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold">Mrs Shelyn Ng</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold">Mr Muhammad Hanis</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">muhammad_hanis_sarkinin@schools.gov.sg</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold">Mrs Shelyn Ng</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold">Mr Muhammad Hanis</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">muhammad_hanis_sarkinin@schools.gov.sg</span></a></span><br>
 		</td>
 	</tr>
 </thead>
