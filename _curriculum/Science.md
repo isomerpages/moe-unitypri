@@ -3,11 +3,11 @@ title: Science
 permalink: /curriculum/Science/permalink/
 description: ""
 ---
-### **<u>Vision</u>**
+### **Vision**
 
 Students to develop a life-long interest in Science and apply scientific methods and principles to other disciplines.
 
-### **<u>Mission</u>**
+### **Mission**
 
 To make the learning of Science exciting, meaningful and relevant.
 
