@@ -7,15 +7,15 @@ description: ""
 
 In Unity, we believe that music, alongside visual art and physical education, is an important part of every child’s holistic education. Hence, all our music programmes are geared toward providing our students plenty of opportunities to explore, develop, and share their music talents and skills.
 
-### **<u>Mission</u>**
+### **Mission**
 
 The goal of the Music Department is to promote, encourage, and develop love for music-making amongst all our students and teachers through engaging, challenging, and fun-loving activities, in line with the standards set by the Ministry of Education’s General Music Program Syllabus.
 
-### **<u>Vision</u>**
+### **Vision**
 
  Every student shall be able to confidently sing, play instrument, and appreciate music through dance and movement activities. Every music lesson shall be a celebration of students’ effort, creativity, and artistry. Every one shall be able to support and show care for one another, lifting each other up to achieve synergy, harmony, and unity.
 
-### **<u>Music Programmes</u>**
+### **Music Programmes**
 
 Primary School music programme covers three of four key stages in learning music. Each stage comprises two levels and builds upon competencies from the previous stage/s.
 
