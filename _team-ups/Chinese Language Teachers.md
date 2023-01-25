@@ -35,6 +35,7 @@ description: ""
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-teo-seow-hoon-750x1000.jpg" style="width:30%" alt="Mdm Teo Seow Hoon"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Senior Teacher / Chinese Language<br><a href="mailto:teo_seow_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Teo Seow Hoon</span></a></td>
   </tr>
+	<tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg" style="width:30%" alt="Mrs Chon Qiao Ping"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Mrs Chon Qiao Ping (SH/ICT)</span><br><a href="mailto:chong_qiao_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_qiao_ping@schools.gov.sg</span></a></td>
   </tr>
