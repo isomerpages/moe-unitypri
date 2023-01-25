@@ -19,9 +19,7 @@ description: ""
   <tr>
     <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-law-siok-cheng-750x1000.jpg" style="width:30%" alt="Mdm Law Siok Cheng"></th>
     <th class="tg-l2bf"><br><span style="font-weight:bold">Level Head / Chinese Language<br><a href="mailto:law_siok_cheng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></th>
-  </tr>
-</thead>
-<tbody>
+	</tr>
   <tr>
 		<td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Tan-Pheck-Wan-600x775.png" style="width:30%" alt="Ms Tan Pheck Wan"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Lead Teacher / Chinese Language<br><a href="mailto:tan_pheck_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></td>
