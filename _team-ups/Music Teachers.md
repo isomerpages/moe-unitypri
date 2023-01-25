@@ -18,13 +18,13 @@ description: ""
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-herald-arguil-medina-750x1000.jpg" style="width:30%" alt="Mr Herald Arguil Medina"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold">Mr Herald Medina</span><br><span style="font-weight:bold"></span><br><a href="mailto:herald_arguil_medina@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">herald_arguil_medina@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold"></span><br><a href="mailto:herald_arguil_medina@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Herald Medina</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-lin-yuanwei-daniel-750x1000.jpg" style="width:30%" alt="Mr Lin Yuanwei Daniel"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">Mr Daniel Lin Yuanwei</span><br><span style="font-weight:bold"></span><br><a href="mailto:lin_yuanwei_daniel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lin_yuanwei_daniel@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold"></span><br><a href="mailto:lin_yuanwei_daniel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Daniel Lin Yuanwei</span></a></td>
   </tr>
 </tbody>
 </table>
