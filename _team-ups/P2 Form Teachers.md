@@ -131,7 +131,7 @@ Mr Khairul Iman</span></a></span></td>
 <table class="tg">
 <thead>
   <tr>
-     <td class="tg-vgmr"><img style="width:35%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/Firdawati.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Firdawati_Somsudin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Firdawati</span></a></span><br></td>
+     <td class="tg-vgmr"><img style="width:36%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/Firdawati.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Firdawati_Somsudin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Firdawati</span></a></span><br></td>
     <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20ma%20yu.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ma_yu@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ma Yu</span></a></span><br>
 		</td>
 	</tr>
