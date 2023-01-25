@@ -3,11 +3,11 @@ title: Information and Communications Technology
 permalink: /curriculum/Information-and-Communications-Technology/permalink/
 description: ""
 ---
-### **<u>Vision</u>**
+### **Vision**
 
 A fully integrated ICT school with innovative, self-directed and collaborative learners
 
-### **<u>Mission</u>**
+### **Mission**
 To use ICT to enhance an innovative learning environment so as to develop students for a global society
 ### **<u>Programme Highlights</u>**
 
