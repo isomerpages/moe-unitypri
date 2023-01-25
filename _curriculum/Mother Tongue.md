@@ -28,6 +28,8 @@ Activities under CAPtivate for the different MTL departments are:
 ##### **Mother Tongue Fortnight (Primary 1 to 6)**
 
 <br>The objective of the Mother Tongue Fortnight (MTFN) is to create an immersive environment that promotes the Joy of Learning & an appreciation of the Mother Tongue Languages (MTL). During the two consecutive weeks, a wide range of activities related to CL/ML/TL language and culture are conducted. These activities provide authentic opportunities for students to use their mother tongue language and experience the culture.
+![](/images/Curriculum/2023/MT/CL%20Fortnight.jpg)\
+![](/images/Curriculum/2023/MT/ML%20Fortnight.jpg)
 
 ---
 ##### **P3 Cultural Camp**
