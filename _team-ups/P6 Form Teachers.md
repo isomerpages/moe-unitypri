@@ -39,7 +39,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20nabilah%20binte%20ithnin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nabilah_ithnin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nabilah Ithnin</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei (SH/Disc)</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a></span></td>
 	</tr>
 </thead>
 </table>
