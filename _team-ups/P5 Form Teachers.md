@@ -143,12 +143,12 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20neo%20liwen.jpg"><span style="font-weight:bold">Ms Neo Liwen</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_liwen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_liwen@schools.gov.sg</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20yuan%20ting.jpg"><span style="font-weight:bold">Ms Tan Yuan Ting</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_yuan_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_yuan_ting@schools.gov.sg</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20neo%20liwen.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_liwen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Liwen</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20yuan%20ting.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_yuan_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Yuan Ting</span></a></span><br>
 		</td>
 	</tr>
 	<tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Yong%20lee%20foon.jpg"><span style="font-weight:bold">Mdm Yong Lee Foon (FAJT)</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yong_lee_foon@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yong_lee_foon@schools.gov.sg</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Yong%20lee%20foon.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yong_lee_foon@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Yong Lee Foon (FAJT)</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/mrs%20amutha%20francis.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:amutha_k_g_ramasamy@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Amutha (FAJT)</span></a></span><br>
 		</td>
 	</tr>
