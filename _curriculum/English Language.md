@@ -117,10 +117,7 @@ Extensive Reading (P1 – P4)
 ----------
 
 Mass Borrowing
-
-![](/images/English.png)
-
-![](/images/English3.png)
+![](/images/Curriculum/2023/EL/EL%20Webpage.jpg)
 
 ### **Critical Thinking Programme**
 ------------------------------------------
