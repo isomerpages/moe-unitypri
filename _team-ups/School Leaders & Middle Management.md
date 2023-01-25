@@ -45,41 +45,41 @@ description: ""
 <thead>
   <tr>
     <th class="tg-1ppo"><img style="width:30%" alt="Mrs Yvonne Koo" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"></th>
-    <th class="tg-l2bf"><br><span style="text-decoration:underline">HOD / English Language</span><br><span style="font-weight:bold">Mrs Yvonne Koo</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">yvonne_koo@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="text-decoration:underline">HOD / English Language</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold">Mr Kelvin Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">kelvin_ng_chin_khiang@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng Chin Khiang</span></a></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><span style="font-weight:bold">Mr Johari B Wahid</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">johari_b_wahid@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Ms Patricia Leow Saw Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-patricia-leow-saw-ping-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Character &amp; Citizenship Education</span><br><span style="font-weight:bold">Ms Patricia Leow Saw Ping</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">leow_saw_ping@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Character &amp; Citizenship Education</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Patricia Leow Saw Ping</span></a></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Ms Joscelin Lim Poh Chen" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-joscelin-lim-poh-chen-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / ICT &amp; Information Management</span><br><span style="font-weight:bold">Ms Joscelin Lim</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_poh_chen@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / ICT &amp; Information Management</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joscelin Lim</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Ms Neo Xueli" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-xueli-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Discipline</span><br><span style="font-weight:bold">Ms Neo Xueli</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">neo_xueli@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Discipline</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Xueli</span></a></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Mdm Shelyn Ng Sok Kian (huang Shujuan)" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">Year Head / LP (Lower Primary)</span><br><span style="font-weight:bold">Mdm Shelyn Ng</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">ng_sok_kian@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">Year Head / LP (Lower Primary)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Shelyn Ng Sok Kian</span></a></td>
   </tr>
   <tr>
     <td class="tg-h5mn"><img style="width:30%" alt="Mrs Veronica Tan Yew Hwee" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="text-decoration:underline">Year Head / MP (Middle Primary)</span><br><span style="font-weight:bold">Mrs Veronica Tan</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">veronica_tan_siew_lan@schools.gov.sg</span></a></td>
+    <td class="tg-rs0e"><br><span style="text-decoration:underline">Year Head / MP (Middle Primary)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan Siew Lan</span></a></td>
   </tr>
   <tr>
     <td class="tg-1ppo"><img style="width:30%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Lakshmi.png"></td>
-    <td class="tg-l2bf"><br><span style="text-decoration:underline">Year Head / UP (Upper Primary)</span><br><span style="font-weight:bold">Ms Lakshmi Arivananthan</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lakshmi_arivananthan@schools.gov.sg</span></a></td>
+    <td class="tg-l2bf"><br><span style="text-decoration:underline">Year Head / UP (Upper Primary)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lakshmi Arivananthan</span></a></td>
   </tr>
 </tbody>
 </table>
