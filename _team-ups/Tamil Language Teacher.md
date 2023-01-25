@@ -18,6 +18,6 @@ description: ""
   <tr>
     <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg" style="width:30%"></td>
     <td class="tg-l2bf"><br>
-			<span style="font-weight:bold">Ms Meera Rajarethenam</span><br><span style="font-weight:bold"></span><br><a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">meera_rajarethenam@schools.gov.sg</span></a></td>
+			<a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Meera Rajarethenam</span></a></td>
   </tr>
 </table>
