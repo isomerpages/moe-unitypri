@@ -58,8 +58,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20neo%20xueli.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Xueli (HOD/Disp)</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mdm%20norazelin%20binte%20misnari.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norazelin_misnari@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norazelin Misnari</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20neo%20xueli.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Xueli</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mdm%20norazelin%20binte%20misnari.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norazelin_misnari@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norazelin</span></a></span></td>
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Herald Medina</span></a></span></td>
 	</tr>
 </thead>
 </table>
