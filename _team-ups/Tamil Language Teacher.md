@@ -21,7 +21,3 @@ description: ""
 			<a href="mailto:meera_rajarethenam@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Meera Rajarethenam</span></a></td>
   </tr>
 </table>
-
-![](/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/Tamil.png)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ms Meera Rajarethenam](mailto:meera_rajarethenam@schools.gov.sg)
-	
