@@ -18,30 +18,29 @@ description: ""
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-law-siok-cheng-750x1000.jpg" style="width:30%" alt="Mdm Law Siok Cheng"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold">Mdm Law Siok Cheng (LH/CL)</span><br><a href="mailto:law_siok_cheng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">law_siok_cheng@schools.gov.sg</span></a></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold">Level Head / Chinese Language<br><a href="mailto:law_siok_cheng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
+		<td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Tan-Pheck-Wan-600x775.png" style="width:30%" alt="Ms Tan Pheck Wan"></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold">Lead Teacher / Chinese Language<br><a href="mailto:tan_pheck_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></td>
+	</tr>
+	 <tr>
+    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-han-hui-lian-750x1000.jpg" style="width:30%" alt="Mdm Han Hui Lian"></td>
+    <td class="tg-l2bf"><br>
+			<span style="font-weight:bold">Senior Teacher / Chinese Language<br><a href="mailto:han_huilian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Han Huilian</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-teo-seow-hoon-750x1000.jpg" style="width:30%" alt="Mdm Teo Seow Hoon"></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold">Senior Teacher / Chinese Language<br><a href="mailto:teo_seow_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Teo Seow Hoon</span></a></td>
+  </tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg" style="width:30%" alt="Mrs Chon Qiao Ping"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Mrs Chon Qiao Ping (SH/ICT)</span><br><a href="mailto:chong_qiao_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_qiao_ping@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-lim-hui-mei-750x1000.jpg" style="width:30%" alt="Ms Lim Hui Mei"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold">Ms Lim Hui Mei (SH/Discipline &amp; Student Leadership)</span><br><a href="mailto:hui_mei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">lim_hui_mei@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/07/Ms-Tan-Pheck-Wan-600x775.png" style="width:30%" alt="Ms Tan Pheck Wan"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">Ms Tan Pheck Wan (LT/CL)</span><br><a href="mailto:tan_pheck_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">tan_pheck_wan@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-han-hui-lian-750x1000.jpg" style="width:30%" alt="Mdm Han Hui Lian"></td>
-    <td class="tg-l2bf"><br>
-			<span style="font-weight:bold">Mdm Han Huilian(ST/CL)</span><br><a href="mailto:han_huilian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">han_huilian@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-teo-seow-hoon-750x1000.jpg" style="width:30%" alt="Mdm Teo Seow Hoon"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">Mdm Teo Seow Hoon (ST/CL)</span><br><a href="mailto:teo_seow_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">teo_seow_hoon@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-ma-yu-750x1000.jpg" style="width:30%" alt="Mdm Ma Yu"></td>
