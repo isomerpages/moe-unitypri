@@ -20,7 +20,6 @@ description: ""
     <th class="tg-a3j2"><img alt="Mdm Rasidah Ahmad" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rasidah-ahmad-750x1000.jpg"></th>
 		<th class="tg-l2bf"><br><span style="font-weight:bold">Subject Head / Malay Language</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Rasidah Bte Ahmad</span></a></th </tr>
 </thead>
-<tbody>
   <tr>
     <td class="tg-gj5f"><img alt="Mdm Nur Hidayati Bte Mohd Ali" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-nur-hidayati-bte-mohd-ali-750x1000.jpg"></td>
     <td class="tg-rs0e"><br><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hidayati Bte Mohd Ali</span></a></td>
@@ -45,5 +44,4 @@ description: ""
     <td class="tg-a3j2"><img style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Mdm%20Norlizanah.png">
     </td><td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:norlizanah_mohamed_nor@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norlizanah Binte Mohamed Nor (FAJT)</span></a></td>
   </tr>
-</tbody>
 </table>
