@@ -122,8 +122,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha Elancheran</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha Elancheran</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
 		</td>
 		</tr>
 </thead>
