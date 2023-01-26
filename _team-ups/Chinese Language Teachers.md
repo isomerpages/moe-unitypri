@@ -15,7 +15,7 @@ description: ""
 .tg .tg-rs0e{background-color:;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+ <thead>
   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-law-siok-cheng-750x1000.jpg" style="width:30%" alt="Mdm Law Siok Cheng"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold">Level Head / Chinese Language</span><br><a href="mailto:law_siok_cheng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></td>
@@ -80,4 +80,4 @@ description: ""
     <td class="tg-rs0e"><br>
 			<span style="font-weight:bold">Ms Chong Pow Ling</span><br><a href="mailto:chong_pow_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">chong_pow_ling@schools.gov.sg</span></a></td>
   </tr>
-</table>
+	 </table>
