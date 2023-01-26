@@ -114,5 +114,9 @@ description: ""
 		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src=""><span style="font-weight:bold">Mdm Goh Soh Bee, May</span></a></td>
     <td class="tg-vgmr"><img style="width:60%" src=""><span style="font-weight:bold">Mdm Raman Mageswari</span><br></td>
 		</tr>
+		<tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:60%" src=""><span style="font-weight:bold">Mdm Rukiya Bevi</span></a></td>
+    <td class="tg-vgmr"><img style="width:60%" src=""><span style="font-weight:bold">Mdm Zhou Feng Liani</span><br></td>
+  </tr>
 </thead>
 </table>
