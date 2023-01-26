@@ -72,13 +72,13 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-syed-firdauz-750x1000.jpg" style="width:30%" alt="Mr Syed Firdauz"></th>
+    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-syed-firdauz-750x1000.jpg" style="width:40%" alt="Mr Syed Firdauz"></th>
     <th class="tg-l2bf"><br><span style="font-weight:bold">Senior Counsellor</span><br><a href="mailto:syed_firdauz_syed_yasin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Syed Firdauz Bin Syed Yasin Aljunied</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-samantha-khoo-1-750x1000.jpg" style="width:30%" alt="Ms Samantha Khoo (1)"></td>
+    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-samantha-khoo-1-750x1000.jpg" style="width:40%" alt="Ms Samantha Khoo (1)"></td>
     <td class="tg-rs0e"><br><a href="mailto:khoo_shi_min@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Samantha Khoo Shi Min</span></a></td>
   </tr>
 </tbody>
