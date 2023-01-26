@@ -96,7 +96,7 @@ description: ""
 </thead>
  </table>
  
- ### **Operational Support Officers (OSO)**
+ ### **Operations Support Officers (OSO)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
