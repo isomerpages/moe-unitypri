@@ -3,20 +3,20 @@ title: Resources for Parents (Useful Links)
 permalink: /parents-matter/Resources-for-Parents/permalink/
 description: ""
 ---
-### **<u>English & Library</u>**
+### **English & Library**
 *   [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [School e-Resources](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [NLB Resources](https://childrenandteens.nlb.gov.sg/)
 *   [E-books](http://www.getepic.com/?utm_campaign=optimize&gclid=EAIaIQobChMI_MCdlaWI9AIV3ZNmAh2YNwT9EAAYASAAEgKrvPD_BwE)
 
-### **<u>Malay Language</u>**
+### **Malay Language**
 *   [Kamus Dalam Talian Dewan Bahasa (Online Dictionary)](https://prpm.dbp.gov.my/cari1?keyword=kamus%20online)
 *   [Koleksi Buku Elektronik Melayu NLB](https://eresources.nlb.gov.sg/main/Browse?browseBy=children&filter=11&startsWith=K)
 
-### **<u>Chinese Language</u>**
+### **Chinese Language**
 *   [eZhishi e-learning portal](https://www.ezhishi.net/Contents/)
 
-### **<u>For Parents</u>**
+### **For Parents**
 * Response to Feedback from Parents 2022[](/files/Parents%20Matter/Resources%20for%20Parents/2022/Response%20to%20Feedback%20from%20Parents%202022.pdf)
 *  [Cyber Wellness for Students](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * [MOE Sexuality Education in Schools](/Sexuality-Education/permalink/)
