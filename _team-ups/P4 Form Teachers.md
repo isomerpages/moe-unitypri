@@ -81,7 +81,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kenneth Cheong</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Kok%20ping.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Lay Naing – Ang Kok Ping</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Lay Naing – Ang Kok Ping</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -122,8 +122,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold">Ms Punitha Elancheran</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha Elancheran</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold">Mr Bruce Lim</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha Elancheran</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
 		</td>
 		</tr>
 </thead>
