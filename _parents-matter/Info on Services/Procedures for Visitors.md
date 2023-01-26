@@ -25,7 +25,7 @@ Main Gate and Side Gate 1: 6.30am – 6.00pm
 
 Back Gate: 6.30am – 7.30am, 1.30pm – 2.00pm
 
-### **Visitor’s Registration Procedure:**
+### **Visitor’s Registration Procedure**
 *   All visitors are to enter the school via Main Gate and Side Gate 1. Other gates will be out-of-bound to visitors.
 *   When issued a visitor’s pass, visitors should wear the pass prominently for identification while in school.
 *   During dismissal time at 1.30pm, only parents/guardians are allowed into the school at the designated waiting area.
