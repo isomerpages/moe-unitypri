@@ -11,7 +11,7 @@ Our mission is to provide rich learning experiences for our students to understa
 ![](/images/VisualArts.png)
 
 ### **<u>Art @ UPS</u>**
-**Coming Soon*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bVT8aNGOTNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **<u>Our Curriculum</u>**
 Our school curriculum is designed with three key Learning Domains; _see, express and appreciate_. These enable our students to develop their observation and inquiry skills, create and innovate; and make connections and respond to art. Inquiry-based learning approach is central in our art classroom where our students are engaged in different level of inquiry discussion, exploration and experimentation.
