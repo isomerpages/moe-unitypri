@@ -116,7 +116,7 @@ description: ""
 		</tr>
 		<tr>
     <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mdm%20rukiya.jpg"><span style="font-weight:bold">Mdm Rukiya Bevi</span><br></td>
-    <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/Fenglian%20(OSO).png"><span style="font-weight:bold">Mdm Zhou FengLian</span><br></td>
+    <td class="tg-vgmr"><img style="width:52%" src="/images/Our%20Team%20UPS/SAT/Fenglian%20(OSO).png"><span style="font-weight:bold">Mdm Zhou FengLian</span><br></td>
   </tr>
 </thead>
 </table>
