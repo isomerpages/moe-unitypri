@@ -79,7 +79,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_ai_lin_a@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Ai Lin</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20tan%20ai%20lin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_ai_lin_a@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Wang Ai Lin</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Faiza.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norfaiza_buang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norfaiza</span></a></span><br>
 		</td>
 	</tr>
