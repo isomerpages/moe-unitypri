@@ -33,11 +33,11 @@ description: ""
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-teo-seow-hoon-750x1000.jpg" style="width:30%" alt="Mdm Teo Seow Hoon"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold">Senior Teacher / Chinese Language</span><br><a href="mailto:teo_seow_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Teo Seow Hoon</span></a></td>
   </tr>
-	<tr>
+	 <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg" style="width:30%" alt="Mrs Chon Qiao Ping"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold"><a href="mailto:chong_qiao_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping (SH/ICT)</span></a></td>
   </tr>
-  <tr>
+   <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-lim-hui-mei-750x1000.jpg" style="width:30%" alt="Ms Lim Hui Mei"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold"><a href="mailto:hui_mei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei (SH/Discipline &amp; Student Leadership)</span></a></td>
   </tr>
@@ -77,7 +77,5 @@ description: ""
   </tr>
 	 <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/pow-ling.png" style="width:30%" alt="Pow Ling"></td>
-    <td class="tg-rs0e"><br>
-			<span style="font-weight:bold"><a href="mailto:chong_pow_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chong Pow Ling</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold"><a href="mailto:chong_pow_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chong Pow Ling</span></a></td>
   </tr>
-	</table>
