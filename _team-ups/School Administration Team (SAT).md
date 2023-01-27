@@ -110,7 +110,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/mr%20david%20lee.jpg"><span style="font-weight:bold">Mr David Lee Kim Huay</span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mr%20david%20lee.jpg"><span style="font-weight:bold">Mr David Lee Kim Huay</span></td>
 		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mdm%20goh%20soh%20bee,%20may.jpg"><span style="font-weight:bold">Mdm Goh Soh Bee, May</span></td>
     <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mdm%20raman%20mageswari%20(mdm%20mages).jpg"><span style="font-weight:bold">Mdm Raman Mageswari</span><br></td>
 		</tr>
