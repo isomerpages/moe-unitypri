@@ -10,13 +10,13 @@ Our mission is to provide rich learning experiences for our students to understa
 
 ![](/images/VisualArts.png)
 
-### **<u>Art @ UPS</u>**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bVT8aNGOTNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### **Art @ UPS**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NOWgSZAp0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### **<u>Our Curriculum</u>**
+### **Our Curriculum**
 Our school curriculum is designed with three key Learning Domains; _see, express and appreciate_. These enable our students to develop their observation and inquiry skills, create and innovate; and make connections and respond to art. Inquiry-based learning approach is central in our art classroom where our students are engaged in different level of inquiry discussion, exploration and experimentation.
 
-#### **Core Learning Experiences**
+### **Core Learning Experiences**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,7 +44,7 @@ Our school curriculum is designed with three key Learning Domains; _see, expres
 </tbody>
 </table>
 
-#### **Dynamic Learning Experiences**
+### **Dynamic Learning Experiences**
 
 Our students are given opportunities to be involved in art competitions, art projects at community level and national level.
 
@@ -74,7 +74,7 @@ Our students are given opportunities to be involved in art competitions, art pro
 </tbody>
 </table>
 
-### **<u>Art Gallery</u>**
+### **Art Gallery**
 
 Our students love art. It is fun and it provides them with an opportunity for self-expression. Through the process of art making, our students discover more about themselves and about their peers. In this gallery, students’ imaginative visual expression and unique artistic voice can be seen.
 
@@ -89,9 +89,9 @@ Our students love art. It is fun and it provides them with an opportunity for se
 
 ![](/images/Visualarts4.png)
 
-### **<u>The Unity Art Showcase</u>**
-**Coming Soon*
-### **<u>News & Events</u>**
+### **The Unity Art Showcase**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kumA_QbkcqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### **News & Events**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
