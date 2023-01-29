@@ -6,4 +6,4 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 ### **Scouts**
 ![](/images/Programmes/2022/CCA/CCA-17.jpg)
-**CCA TIC**: Mr Kenneth Cheong, Ms Tan Jiemin, Mdm Punitha, Mr Sim Wei Wen, Mr John Lim<br>**CCA Advisor**: Ms Neo XL
+**CCA TIC**: Mr Kenneth Cheong, Ms Tan Jiemin, Mdm Punitha, Mr John Lim<br>**CCA Advisor**: Ms Neo XL
