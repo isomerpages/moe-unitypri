@@ -19,6 +19,7 @@ Provide a dynamic learning environment where staff and students demonstrate a lo
 
 *   Strategies for EL Learning and Reading (STELLAR)
 *   Read A Book Because It’s Terrific (R.A.B.B.I.T)
+
 **Customised Programmes:**
 
 *   Learning Support Programme (LSP)
