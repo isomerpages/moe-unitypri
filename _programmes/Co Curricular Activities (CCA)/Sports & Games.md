@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities (CCA)
 ---
 ### **Badminton**
 ![](/images/Programmes/2022/CCA/CCA-2.jpg)
-**CCA TIC**: Mr Hanis, Ms Kashmeena, Mdm Ouyang FF, Mdm Soo PL, Ms Meera<br>**CCA Advisor**: Mr Hairil
+**CCA TIC**: Ms Kashmeena, Mdm Ouyang FF, Mdm Soo PL, Ms Meera<br>**CCA Advisor**: Mr Hairil
 ### **Basketball**
 ![](/images/Programmes/2022/CCA/CCA-3.jpg)
 **CCA TIC**: Mr Bruce Lim, Mdm Sylvia Quek, Mr Roy Yue, Ms Lim HM, Mdm Teo SH<br>**CCA Advisor**: Mr Johari
