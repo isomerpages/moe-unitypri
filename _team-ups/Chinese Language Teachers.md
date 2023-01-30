@@ -46,14 +46,13 @@ description: ""
     <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ow Hui Qin</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-ow-hui-qin-750x1000.jpg" style="width:30%" alt="Ms Ow Hui Qin"></td>
-    <td class="tg-rs0e"><br>
-			<span style="font-weight:bold"><a href="mailto:ow_hui_qin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ow Hui Qin</span></a></td>
-   </tr>
+    <td class="tg-a3j2"><img alt="" style="width:30%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Siew%20Min.jpg"></td>
+    <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:Gan_siew_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Gan Siew Min</span></a></td>
+  </tr>
 	 <tr>
-    <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Siew%20Min.jpg" style="width:30%" alt="Gan Siew Min"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold"><a href="mailto:Gan_siew_min@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Gan Siew Min</span></a></td>
-   </tr>
+    <td class="tg-a3j2"><img alt="" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-liu-kum-mei-750x1000.jpg"></td>
+    <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:liu_kum_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Liu Kum Mei</span></a></td>
+  </tr>
 	 <tr>
     <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-liu-kum-mei-750x1000.jpg" style="width:30%" alt="Mdm Liu Kum Mei"></td>
     <td class="tg-l2bf"><br>
