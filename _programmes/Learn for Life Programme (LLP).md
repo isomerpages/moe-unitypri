@@ -32,7 +32,7 @@ UPS reach out to the younger kindergarten, nursery pupils and public members thr
 ![](/images/Programmes/2023/LLP/Outreach.jpg)
 *Booths were set up at community libraries and malls to educate the public members on upcycling crafts*
 ### **Clean & Green Classrooms**
-Students doing their parts to keep their classrooms clean. This helps them to understand the work and appreciate the help that our school attendants give to ensure a clean and conducive environment for learning to take place.
+Students do their parts to keep their classrooms clean. This helps them to understand the work and appreciate the help that our school attendants give to ensure a clean and conducive environment for learning to take place.
 
 ### **Mass Recycling**
 Every Friday, students will bring their recyclables and drop them in the recycling bins. The recyclables brought include plastic bottles, cardboard and aluminium cans. The mass recycling programme aims to not only inculcate recycling habits among the students, but it is hoped that this programme will also encourage their family members to adopt the good practice of recycling.
