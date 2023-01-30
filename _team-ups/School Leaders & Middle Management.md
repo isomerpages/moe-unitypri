@@ -18,13 +18,14 @@ description: ""
 <thead>
   <tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-lee-koh-siew-cheng-600x800.jpg"><span style="font-weight:bold">Mrs Lee-Koh Siew Cheng</span><br><span style="font-weight:bold">Principal</span></td>
-		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Academic)</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:50%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br><span style="font-weight:bold">(Administration)</span></td>
+		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:50%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br></td>
 		</tr>
 </thead>
 </table>
 
 ### **HODs / Year Heads**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
