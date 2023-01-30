@@ -43,6 +43,7 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / PE</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span></td>
+			<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20Joscelin%20lim%20poh%20chen.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / ICT</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joscelin Lim</span></a></span></td>
 	</tr>
 </thead>
 </table>
