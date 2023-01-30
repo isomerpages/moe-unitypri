@@ -43,6 +43,6 @@ description: ""
   </tr>
 	<tr>
     <td class="tg-a3j2"><img style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Mdm%20Norlizanah.png">
-    </td><td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:norlizanah_mohamed_nor@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norlizanah Binte Mohamed Nor (FAJT)</span></a></td>
+    </td><td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:norlizanah_mohamed_nor@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norlizanah Binte Mohamed Nor</span></a></td>
   </tr>
 </table>
