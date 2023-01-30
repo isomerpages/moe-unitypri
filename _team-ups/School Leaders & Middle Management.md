@@ -38,6 +38,43 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20nabilah%20binte%20ithnin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nabilah_ithnin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nabilah Ithnin</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a></span></td>
+	</tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/Lakshmi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lakshmi</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20joanna.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeba_kumar_selvin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joanna</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Ms%20Tan%20Pheck%20Wan.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_pheck_wan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></span><br></td>
+		</tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span>
 		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span>
 	<tr>
