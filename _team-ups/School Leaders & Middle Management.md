@@ -45,7 +45,6 @@ description: ""
 		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / PE & CCA</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span></td>
 			<td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-joscelin-lim-poh-chen-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / ICT</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Poh Chen</span></a></span></td>
 	</tr>
-	</tr>
 </thead>
 </table>
 
