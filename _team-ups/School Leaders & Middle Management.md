@@ -41,6 +41,19 @@ description: ""
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span></td>
 	</tr>
+	<tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / PE & CCA</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-joscelin-lim-poh-chen-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / ICT</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joscelin Lim</span></a></span></td>
+	</tr>
+	<tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-patricia-leow-saw-ping-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / CCE</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Patricia Leow</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-xueli-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Discipline</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Xueli</span></a></span></td>
+	</tr>
+	<tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / LP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Shelyn Ng</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / MP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span></td>
+			<td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / MP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span></td>
+	</tr>
 </thead>
 </table>
 
@@ -61,23 +74,7 @@ description: ""
   
 </thead>
 <tbody>
-  
-  <tr>
-    <td class="tg-1ppo"><img style="width:30%" alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn"><img style="width:30%" alt="Ms Patricia Leow Saw Ping" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-patricia-leow-saw-ping-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Character &amp; Citizenship Education</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Patricia Leow Saw Ping</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1ppo"><img style="width:30%" alt="Ms Joscelin Lim Poh Chen" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-joscelin-lim-poh-chen-600x800.jpg"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / ICT &amp; Information Management</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joscelin Lim</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h5mn"><img style="width:30%" alt="Ms Neo Xueli" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-neo-xueli-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Discipline</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:neo_xueli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Neo Xueli</span></a></td>
-  </tr>
+
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Mdm Shelyn Ng Sok Kian (huang Shujuan)" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-600x800.jpg"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">Year Head / LP (Lower Primary)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Shelyn Ng Sok Kian</span></a></td>
