@@ -171,7 +171,7 @@ Mr Khairul Iman</span></a></span></td>
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/ms%20charissa%20tan%20lay%20shan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:charissa_tan_lay_shan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Tan (FAJT)</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/ms%20charissa%20tan%20lay%20shan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:charissa_tan_lay_shan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Tan</span></a></span></td>
 			</tr>
 </thead>
 </table>
