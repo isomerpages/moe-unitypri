@@ -24,7 +24,7 @@ description: ""
 </thead>
 </table>
 
-### **HODs / Year Heads**
+### **Middle Management**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -38,7 +38,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span>
+    <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span>
 		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span>
 	<tr>
 		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / PE</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span>
@@ -50,6 +50,5 @@ description: ""
 		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / LP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Shelyn Ng</span></a></span>
 		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20veronica%20tan%20yew%20hwee.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / MP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span>
     <td class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/Lakshmi.png"><span style="font-weight:bold"><span style="text-decoration:underline">YH / UP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lakshmi</span></a></span><br>
-			</span>
+			<
 			
-
