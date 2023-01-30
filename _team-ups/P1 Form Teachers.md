@@ -163,7 +163,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20cheah.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Cheah_Swee_Ee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Cheah Swee Ee (FAJT)</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20cheah.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Cheah_Swee_Ee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Cheah Swee Ee</span></a></span></td>
     </tr>
 </thead>
 </table>
