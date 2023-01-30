@@ -38,7 +38,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Saraswathi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:saraswathi_pannirsilvam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Saraswathi</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:41%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Saraswathi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:saraswathi_pannirsilvam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Saraswathi</span></a></span></td>
     <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20law%20siok%20cheng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:law_siok_cheng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></span><br>
 		</td>
 	</tr>
