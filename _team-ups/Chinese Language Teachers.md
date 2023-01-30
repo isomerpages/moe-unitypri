@@ -34,6 +34,10 @@ description: ""
     <td class="tg-rs0e"><br><span style="font-weight:bold">Senior Teacher / Chinese Language</span><br><a href="mailto:teo_seow_hoon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Teo Seow Hoon</span></a></td>
   </tr>
 	 <tr>
+    <td class="tg-a3j2"><img alt="" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg"></td>
+    <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping (SH/ICT)</span></a></td>
+  </tr>
+	 <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg" style="width:30%" alt="Mrs Chon Qiao Ping"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold"><a href="mailto:chong_qiao_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping (SH/ICT)</span></a></td>
    </tr>
