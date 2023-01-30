@@ -42,12 +42,8 @@ description: ""
     <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei (SH/Discipline &amp; Student Leadership)</span></a></td>
   </tr>
    <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-lim-hui-mei-750x1000.jpg" style="width:30%" alt="Ms Lim Hui Mei"></td>
-    <td class="tg-l2bf"><br><span style="font-weight:bold"><a href="mailto:hui_mei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei (SH/Discipline &amp; Student Leadership)</span></a></td>
-   </tr>
-	 <tr>
-    <td class="tg-a3j2"><img alt="" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-chon-qiao-ping-750x1000.jpg"></td>
-    <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping (SH/ICT)</span></a></td>
+    <td class="tg-a3j2"><img alt="" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-ow-hui-qin-750x1000.jpg"></td>
+    <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ow Hui Qin</span></a></td>
   </tr>
 	 <tr>
     <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/ms-ow-hui-qin-750x1000.jpg" style="width:30%" alt="Ms Ow Hui Qin"></td>
