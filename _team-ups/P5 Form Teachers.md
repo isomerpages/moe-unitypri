@@ -147,8 +147,8 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Yong%20lee%20foon.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yong_lee_foon@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Yong Lee Foon (FAJT)</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/mrs%20amutha%20francis.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:amutha_k_g_ramasamy@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Amutha (FAJT)</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/Yong%20lee%20foon.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yong_lee_foon@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Yong Lee Foon</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/mrs%20amutha%20francis.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:amutha_k_g_ramasamy@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Amutha</span></a></span><br>
 		</td>
 	</tr>
 </thead>
