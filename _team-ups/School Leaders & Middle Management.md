@@ -43,9 +43,8 @@ description: ""
 	</tr>
 	<tr>
 		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20florence%20tan%20jing%20hwa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_jing_hwa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Florence Tan</span></a></span></td>
-	</tr>
-</thead>
-</table>
+		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20florence%20tan%20jing%20hwa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_jing_hwa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Florence Tan</span></a></span></td>
+
 
 
 
