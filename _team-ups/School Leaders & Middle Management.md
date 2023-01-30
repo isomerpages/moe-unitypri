@@ -26,6 +26,24 @@ description: ""
 
 ### **HODs / Year Heads**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English Language</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span></td>
+	</tr>
+</thead>
+</table>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,16 +58,10 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-1ppo"><img style="width:30%" alt="Mrs Yvonne Koo" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"></th>
-    <th class="tg-l2bf"><br><span style="text-decoration:underline">HOD / English Language</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></th>
-  </tr>
+  
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-h5mn"><img style="width:30%" alt="Mr Kelvin Ng Chin Khiang" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold;text-decoration:underline">HOD / Science</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng Chin Khiang</span></a></td>
-  </tr>
+  
   <tr>
     <td class="tg-1ppo"><img style="width:30%" alt="Mr Johari Wahid" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-600x800.jpg"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold;text-decoration:underline">HOD / Physical Education, CCA &amp; Aesthetics</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></td>
