@@ -38,11 +38,11 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hidayati</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span></td>
 	</tr>
 	<tr>
-		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20florence%20tan%20jing%20hwa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_jing_hwa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Florence Tan</span></a></span></td>
+		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span></td>
 	</tr>
 </thead>
 </table>
