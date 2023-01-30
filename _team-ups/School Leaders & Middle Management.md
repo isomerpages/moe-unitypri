@@ -38,7 +38,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></br></td>
 	</tr>
 		<td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-kelvin-ng-chin-khiang-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / Science</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></br></td>
 	</tr>
