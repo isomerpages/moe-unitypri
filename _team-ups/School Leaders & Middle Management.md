@@ -52,7 +52,6 @@ description: ""
 	<tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-shelyn-ng-sok-kian-huang-shujuan-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / LP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Shelyn Ng</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / MP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span></td>
-			<td class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-veronica-tan-yew-hwee-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">YH / MP</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span></td>
 	</tr>
 </thead>
 </table>
