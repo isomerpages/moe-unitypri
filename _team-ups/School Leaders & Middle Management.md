@@ -38,7 +38,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20sylvia%20quek.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ong_mui_yen_sylvia@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Sylvia Quek</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mrs-yvonne-koo-600x800.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD / English</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a></span></td>
 		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hidayati</span></a></span></td>
 	</tr>
 	<tr>
