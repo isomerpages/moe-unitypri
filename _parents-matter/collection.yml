@@ -1,0 +1,24 @@
+collections:
+  parents-matter:
+    output: true
+    order:
+      - Tour of School.md
+      - School Calendar.md
+      - Letters to Parents.md
+      - Briefings & Workshops.md
+      - Info on Teaching & Learning/.keep
+      - Info on Teaching & Learning/Parents Information Booklet.md
+      - Info on Teaching & Learning/Homework Policy.md
+      - Info on Teaching & Learning/School Rules & Discipline Guidelines.md
+      - Info on Teaching & Learning/Support for SLS.md
+      - Info on Services/.keep
+      - Info on Services/School Safety.md
+      - Info on Services/Student Insurance.md
+      - Info on Services/Procedures for Visitors.md
+      - Info on Services/Booklist & Bookshop.md
+      - Info on Services/Canteen Stalls.md
+      - Info on Services/School Dental Clinic.md
+      - Info on Services/Uniform Vendor.md
+      - Info on Services/Bus Vendor.md
+      - Info on Services/Student Care.md
+      - Resources for Parents (Useful Links).md

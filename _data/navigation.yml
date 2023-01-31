@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/unitylogo.gif
 links:
+  - title: Our Unity Story
+    collection: our-unity-story
+  - title: Team UPS
+    collection: team-ups
+  - title: Curriculum
+    collection: curriculum
+  - title: Signature Programmes
+    collection: programmes
+  - title: Parents Matter
+    collection: parents-matter
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /Contact-Us/homepage/permalink/

@@ -1,0 +1,20 @@
+collections:
+  team-ups:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - School Leaders & Middle Management.md
+      - P1 Form Teachers.md
+      - P2 Form Teachers.md
+      - P3 Form Teachers.md
+      - P4 Form Teachers.md
+      - P5 Form Teachers.md
+      - P6 Form Teachers.md
+      - Chinese Language Teachers.md
+      - Malay Language Teachers.md
+      - Tamil Language Teacher.md
+      - PE Teachers.md
+      - Art Teachers.md
+      - Music Teachers.md
+      - Learning Support Teachers, SEN Officers & School Counsellors.md
+      - School Administration Team (SAT).md
