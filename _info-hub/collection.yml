@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Tour of School.md
+      - Information on Services/Student Care.md
       - Information on Services/.keep
       - Contact Us.md
