@@ -21,8 +21,4 @@ sections:
         - title: School Events
           description: ""
           url: https://sites.google.com/view/upsourschoolevents/home
-  - infobar:
-      title: ITQ
-      button: List of ITQ published on GeBIZ
-      url: /ITQ/permalink/
 ---
