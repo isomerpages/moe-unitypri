@@ -25,27 +25,22 @@ To ensure we achieve our student outcome of developing Effective Communicators, 
 
 **2) Caught in Action! (CIA)**
 
-In Unity where students exemplify the school values, students are rewarded when they are “caught” doing good deeds. FOS ambassadors and teachers are always on the lookout for acts of graciousness and appreciation.
+In Unity where students exemplify the school values, students are rewarded when they are “caught” doing good deeds. Teachers and staff are always on the lookout for acts of graciousness and appreciation.
 
-Classes and individuals embodying the school values are presented with tokens of appreciation and their stories of good deeds shared with the school.
+Students embodying the school values are presented with tokens of appreciation and their stories of good deeds are shared with the school.
 
 ![](/images/CCE_CIA.jpeg)
+*Winners of CIA*
 
-**3) Form Teacher Guidance Period (FTGP) and i-Character**
+**3) Form Teacher Guidance Period (FTGP)**
 
-The main objectives of FTGP are to provide for quality interaction time between Form Teachers and Co-Form Teachers and students, and to equip students with social and emotional (SE) competencies.
+The main objectives of FTGP are to provide quality interaction time between Form Teachers and students, and to equip students with social and emotional (SE) competencies.
 
-Conducting once a week, FTGP lessons allows purposeful student-teacher interactions and the explicit teaching of SE competencies. Studentswill experience positive school experiences that support their holistic development and better prepare them for life.
-
-Form teachers and Co-Form Teachers also use FTGP period to conduct structured reflections in the i-Character booklet where students are given time to do self-assessments and values reflections. Parents are also involved in the endorsement of these reflections, as parents play an integral role in the holistic development of a child.
-
-![](/images/CCE_FTGP.jpeg)
+Conducted once a week, FTGP lessons allows purposeful student-teacher interactions and the explicit teaching of SE competencies. Teachers also make use of this platform for students to reflect and deepen their learning of the school values.  Students will experience positive school experiences that support their holistic development and better prepare them for life.
 
 **4) Friendship and Kindness Week**
 
-In Unity where everyone matters, the whole school (teachers, students, and non-teaching staff) are involved in this movement to spread positivity during Kindness Week. In line with our vision of Creative Minds, Caring Hearts, we go beyond ourselves, and think of creative ways to show that we care for people around us. It is about going beyond and spreading positivity, making someone’s day.
-
-The FOS ambassadors will be planning assembly talks, pledging of kindness, video montages, murals and many more to really achieve the objectives of the project; to celebrate, inspire and create awareness of kindness.
+In Unity where everyone matters, the whole school (teachers, students, and non-teaching staff) are involved in this movement to spread positivity during Kindness Week. In line with our vision of Creative Mind, Confident Self & Caring Heart, we go beyond ourselves, and think of creative ways to show that we care for people around us. It is about going beyond and spreading positivity, making someone’s day.
 
 ![](/images/CCE_Friendship.jpeg)
 
@@ -53,7 +48,7 @@ The FOS ambassadors will be planning assembly talks, pledging of kindness, video
 
 **1) National Education and Social Studies**
 
-National Education in Unity, is part of our holistic education, firmly built on our school core values of Integrity, Courage, Respect and Responsibility. It aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
+National Education in Unity, is part of our holistic education, firmly built on our school core values of Respect, Resilience, Responsibility, Integrity, Care and Harmony. It aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
 
 Celebrations for NE events in our school focus on engaging our students through their Head, Heart and Hands. Through the celebrations, students in Unity will know Singapore better, love and take pride in being Singaporean and look for avenues and opportunities to contribute and do their part for Singapore.
 
@@ -63,7 +58,7 @@ Celebrations for NE events in our school focus on engaging our students through 
 
 With our focus on Values-Driven Education, what better way to exemplify our values than doing our part as Singaporeans, for our community and for our country. Our Values-In-Action Programme hence has a focus on conserving our environment and emphasises the importance of keeping our environment clean. We hope to instil in our students a sense of civic-mindedness as well as build awareness among them, to spread the Green message to the community. Various activities are planned for the different levels for students to do their part for the community.
 
-In the spirit of volunteerism, activities such as Happy Toilet, Weekly Recycling Drive and Litter Picking@Pang Sua Canal are planned for students who want to do their part for the environment and community beyond the level planned VIA programmes.
+In the spirit of volunteerism, activities such as Food Donation Drive, Share-A-Textbook, Weekly Recycling Drive and Litter Picking@Pang Sua Canal are planned for students who want to do their part for the environment and community beyond the level planned VIA programmes.
 
 ![](/images/CCE-3.jpeg)
 
