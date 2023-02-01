@@ -2,8 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Student Insurance.md
-      - School Safety.md
       - School Calendar.md
       - Letters to Parents.md
       - Briefings & Workshops.md
@@ -12,6 +10,8 @@ collections:
       - Info on Teaching & Learning/Homework Policy.md
       - Info on Teaching & Learning/School Rules & Discipline Guidelines.md
       - Info on Teaching & Learning/Support for SLS.md
+      - School Safety.md
+      - Student Insurance.md
       - Info on Services/.keep
       - Info on Services/Procedures for Visitors.md
       - Info on Services/Booklist & Bookshop.md
