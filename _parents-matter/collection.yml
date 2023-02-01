@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Tour of School.md
       - School Calendar.md
       - Letters to Parents.md
       - Briefings & Workshops.md
