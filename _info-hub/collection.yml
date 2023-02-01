@@ -2,4 +2,5 @@ collections:
   info-hub:
     output: true
     order:
+      - Tour of School.md
       - Contact Us.md
