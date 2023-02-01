@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Tour of School.md
+      - Information on Services/Canteen Stalls.md
       - Information on Services/School Dental Clinic.md
       - Information on Services/Uniform Vendor.md
       - Information on Services/Bus Vendor.md
