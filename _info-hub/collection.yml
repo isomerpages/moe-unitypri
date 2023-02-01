@@ -2,6 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - ITQ.md
       - Procedures for Visitors.md
       - Tour of School.md
       - Information on Services/Booklist & Bookshop.md
