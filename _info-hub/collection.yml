@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Tour of School.md
-      - Procedures for Visitors.md
       - Information on Services/.keep
       - Information on Services/Booklist & Bookshop.md
       - Information on Services/Canteen Stalls.md
