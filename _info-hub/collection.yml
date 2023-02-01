@@ -2,5 +2,6 @@ collections:
   info-hub:
     output: true
     order:
+      - Information on Services/.keep
       - Tour of School.md
       - Contact Us.md
