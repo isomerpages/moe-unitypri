@@ -3,29 +3,6 @@ title: School Administration Team (SAT)
 permalink: /team-ups/School-Administration-Team-SAT/permalink/
 description: ""
 ---
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a><br><span style="font-weight:bold"><span style="text-decoration:">HOD/EL</span><br>
-		 <td colspan="2" class="tg-vgmr"><img style="width:66%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD/SC</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span>
-		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD/PE</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span>
-			<tr>
-
-
-
-
-
-
-
 ### **Operations Managers (OM)**
 
 <style type="text/css">
