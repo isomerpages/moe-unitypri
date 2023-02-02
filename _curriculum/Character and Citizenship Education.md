@@ -3,8 +3,7 @@ title: Character and Citizenship Education
 permalink: /curriculum/Character-and-Citizenship-Education/permalink/
 description: ""
 ---
-![](/images/cce.jpg)
-
+![](/images/Curriculum/2023/CCE/CCE%20Banner.jpg)
 ### **Vision**
 Students from Unity Primary will grow up to be responsible and respectful citizens with integrity
 
@@ -21,7 +20,7 @@ In Unity, we believe that every child can be a leader. With this firm belief, al
 
 To ensure we achieve our student outcome of developing Effective Communicators, Student Leadership training incorporates effective communication skills so that students see the importance of being able to articulate and communicate effectively to become competent leaders. Progressive development in the leadership training also ensures student leaders are equipped with the appropriate skills in order to carry out their duties.
 
-![](/images/CCE-6.jpeg)
+![](/images/Curriculum/2023/CCE/CCE%20Student%20Leaders.jpg)
 
 **2) Caught in Action! (CIA)**
 
@@ -37,7 +36,7 @@ Students embodying the school values are presented with tokens of appreciation a
 The main objectives of FTGP are to provide quality interaction time between Form Teachers and students, and to equip students with social and emotional (SE) competencies.
 
 Conducted once a week, FTGP lessons allows purposeful student-teacher interactions and the explicit teaching of SE competencies. Teachers also make use of this platform for students to reflect and deepen their learning of the school values.  Students will experience positive school experiences that support their holistic development and better prepare them for life.
-
+![](/images/Curriculum/2023/CCE/CCE%20Reflection.jpg)
 **4) Friendship and Kindness Week**
 
 In Unity where everyone matters, the whole school (teachers, students, and non-teaching staff) are involved in this movement to spread positivity during Kindness Week. In line with our vision of Creative Mind, Confident Self & Caring Heart, we go beyond ourselves, and think of creative ways to show that we care for people around us. It is about going beyond and spreading positivity, making someone’s day.
@@ -60,7 +59,7 @@ With our focus on Values-Driven Education, what better way to exemplify our valu
 
 In the spirit of volunteerism, activities such as Food Donation Drive, Share-A-Textbook, Weekly Recycling Drive and Litter Picking@Pang Sua Canal are planned for students who want to do their part for the environment and community beyond the level planned VIA programmes.
 
-![](/images/CCE-3.jpeg)
+![](/images/Curriculum/2023/CCE/CCE%20Food%20Donation.png)
 
 #### **Moe Sexuality Education in Schools**
 
