@@ -18,13 +18,13 @@ description: ""
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg" style="width:30%" alt="Mr Johari Wahid"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold">(HOD / Physical Education, CCA &amp; Aesthetics)</span><br><a href="mailto:johari_b_wahid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari Bin Wahid</span></a></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold">HOD/PE</span><br><a href="mailto:johari_b_wahid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari Bin Wahid</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg" style="width:30%" alt="Mr Hairil Akhmal B Sakroni"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">(SH / Physical Education, CCA &amp; Aesthetic)</span><br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal Bin Sakroni</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold">SH/PE</span><br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal Bin Sakroni</span></a></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg" style="width:30%" alt="Mr Bruce Lim Choon Wei"></td>
