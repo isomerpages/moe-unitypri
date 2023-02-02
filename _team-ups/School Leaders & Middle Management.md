@@ -17,9 +17,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-lee-koh-siew-cheng-600x800.jpg"><span style="font-weight:bold">Mrs Lee-Koh Siew Cheng</span><br><span style="font-weight:bold">Principal</span></td>
-		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/mrs-chong-suet-fong-600x800.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/08/ms-chua-leng-leng-600x800.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20lee-koh%20siew%20cheng.jpg"><span style="font-weight:bold">Mrs Lee-Koh Siew Cheng</span><br><span style="font-weight:bold">Principal</span></td>
+		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20chong%20suet%20fong.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">Vice – Principal</span></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/ms%20chua%20leng%20leng.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">Vice – Principal</span><br></td>
 		</tr>
 </thead>
 </table>
