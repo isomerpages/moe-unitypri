@@ -60,7 +60,7 @@ With our focus on Values-Driven Education, what better way to exemplify our valu
 In the spirit of volunteerism, activities such as Food Donation Drive, Share-A-Textbook, Weekly Recycling Drive and Litter Picking@Pang Sua Canal are planned for students who want to do their part for the environment and community beyond the level planned VIA programmes.
 
 ![](/images/Curriculum/2023/CCE/CCE%20Food%20Donation.png)
-
+*Food Donation*
 #### **Moe Sexuality Education in Schools**
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
