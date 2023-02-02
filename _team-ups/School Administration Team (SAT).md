@@ -17,7 +17,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Palani Velu Jeyaram</span></a></span><br><span style="font-weight:bold"><span style="font-weight:bold;text-decoration:underline">Operation Manager (OM)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><a rel="noopener noreferrer" target="_blank" href="mailto:Palani_Velu_jeyaram@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Palani Velu Jeyaram</span></a></span><br><span style="font-weight:bold"><span style="font-weight:bold">Operation Manager (OM)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20tan%20kai%20ling.jpg">
 			<span style="font-weight:bold"><span style="font-weight:bold;text-decoration:underline">LSP Teacher / Math</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kai_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Kai Ling</span></a></span><br>
 		</td>
