@@ -17,16 +17,16 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img alt="Mdm Rasidah Ahmad" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-rasidah-ahmad-750x1000.jpg"></th>
+    <th class="tg-a3j2"><img alt="Mdm Rasidah Ahmad" style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20rasidah%20ahmad.jpg"></th>
 		<th class="tg-l2bf"><br><span style="font-weight:bold">Subject Head / Malay Language</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Rasidah Bte Ahmad</span></a></th>
 	</tr>
 	</thead>
 	<tr>
-    <td class="tg-gj5f"><img alt="Mdm Nur Fazlina Binte Mohamed" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-nur-fazlina-binte-mohamed-750x1000.jpg"></td>
+    <td class="tg-gj5f"><img alt="Mdm Nur Fazlina Binte Mohamed" style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"></td>
     <td class="tg-rs0e"><br><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Fazlina Bte Mohd</span></a></td>
   </tr>
   <tr>
-    <td class="tg-gj5f"><img alt="Mdm Nur Hidayati Bte Mohd Ali" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-nur-hidayati-bte-mohd-ali-750x1000.jpg"></td>
+    <td class="tg-gj5f"><img alt="Mdm Nur Hidayati Bte Mohd Ali" style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"></td>
     <td class="tg-rs0e"><br><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hidayati Bte Mohd Ali</span></a></td>
   </tr>
 	<tr>
@@ -34,7 +34,7 @@ description: ""
     </td><td class="tg-rs0e"><br><a rel="noopener noreferrer" target="_blank" href="mailto:izni_nasihah_zulkifli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Izni Nasihah Zulkifli</span></a></td>
   </tr>
 	<tr>
-    <td class="tg-a3j2"><img alt="Mdm Nirwana Haliza Bte Mohamed Hal" style="width:30%" src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mdm-nirwana-haliza-bte-mohamed-hal-750x1000.jpg"></td>
+    <td class="tg-a3j2"><img alt="Mdm Nirwana Haliza Bte Mohamed Hal" style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"></td>
     <td class="tg-l2bf"><br><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza Bte Mohd Halil</span></a></td>
   </tr>
   <tr>
