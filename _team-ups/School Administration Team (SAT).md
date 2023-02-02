@@ -3,7 +3,6 @@ title: School Administration Team (SAT)
 permalink: /team-ups/School-Administration-Team-SAT/permalink/
 description: ""
 ---
-### **Operations Managers (OM)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -16,15 +15,15 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><a rel="noopener noreferrer" target="_blank" href="mailto:Palani_Velu_jeyaram@schools.gov.sg"><span style="font-weight:bold"><span style="color:#1E73BE;background-color:transparent">Mr Palani Velu Jeyaram</span></a><br><span style="font-weight:bold"><span style="font-weight:bold">Operation Manager (OM)</span><br>
-	</td>
-    <td class="tg-vgmr"><img style="width:40%" src="">
-			<span style="font-weight:bold"><span style="font-weight:bold;text-decoration:underline">LSP Teacher / Math</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kai_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Kai Ling</span></a></span><br>
-		</td>
-	</tr>
-</thead>
-</table>
+			<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a><br><span style="font-weight:bold"><span style="text-decoration:">HOD/EL</span><br>
+		 <td colspan="2" class="tg-vgmr"><img style="width:66%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD/SC</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span>
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><span style="text-decoration:underline">HOD/PE</span><br><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span>
+			<tr>
+
+
+
+
+
 
 
 ### **Operations Managers (OM)**
