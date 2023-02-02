@@ -2,8 +2,9 @@
 title: Canteen Stalls
 permalink: /parents-matter/Info-on-Services/Canteen-Stalls/permalink/
 description: ""
-third_nav_title: Info on Services
+third_nav_title: Information on Services
 ---
+
 ![](/images/Parents%20Matter/Info%20on%20Services/Canteen%201.jpg)
 ![](/images/Parents%20Matter/Info%20on%20Services/Canteen%202.jpg)
 ![](/images/Parents%20Matter/Info%20on%20Services/Canteen%203.jpg)

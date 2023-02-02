@@ -2,8 +2,8 @@
 title: School Safety
 permalink: /parents-matters/Information/School-Safety/permalink/
 description: ""
-third_nav_title: Info on Services
 ---
+
 In Unity Primary, we firmly believe that safety habits and consciousness must prevail among students and staff to enable effective teaching and learning. To ensure that the safety standard is ever strengthened and improved, we closely align the safety framework and programmes to our school values, mission and vision. And through the journey of towards achieving these goals, we continue to strive for excellence in creating a safe, conducive environment for our students and staff.
 
 ### **Our Safety Vision**

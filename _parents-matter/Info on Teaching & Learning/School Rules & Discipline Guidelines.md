@@ -4,18 +4,18 @@ permalink: /parents-matters/Information/School-Rules-and-Discipline-Guidelines/p
 description: ""
 third_nav_title: Info on Teaching & Learning
 ---
-### **<u>Singing the National Anthem and taking the Pledge</u>**
+### **Singing the National Anthem and taking the Pledge**
 *   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
 *   Non-citizens are to stand at attention to show respect during the flag raising and flag lowering ceremonies.
 
-###  **<u>Attendance</u>**
+###  **Attendance**
 *   All students must attend school during school days.
 *   A medical certificate or letter from parents must be produced when a student is absent.
 *   Students are to sit for all examinations and tests unless certified medically unfit by a doctor.
 *   All students must report punctually for school by 7.30 am.
 *   All students are to report punctually for and attend all lessons, e.g. remedial/ supplementary, enrichment and CCA sessions.
 
-###  **<u>Wearing the prescribed uniform</u>**
+###  **Wearing the prescribed uniform**
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 *   Uniform and PE shirts are to be neatly worn. Wear PE attire only during days when there are PE lessons and CCA.
 *   All P4 to P6 female students are to wear their skirt over their shorts when they come in their PE attire on days when they have PE, CCA or go on Learning Journeys. They will be in their school PE T-shirts and skirts (with shorts underneath) and will only remove their skirt during PE or CCA lessons. They are expected to put on their skirt after their PE or CCA lessons.
@@ -25,22 +25,22 @@ third_nav_title: Info on Teaching & Learning
 *   Only white socks and shoes are allowed. Length of socks must be at least two fingers above the ankles. You may wear track shoes only during CCA or sports events.
 *   Wear the Student’s Pass Tag when leaving the classroom and only with teacher’s permission.
 
-###  **<u>Ornaments, Jewellery or Valuables</u>**
+###  **Ornaments, Jewellery or Valuables**
 *   No ornaments or any form of jewellery are to be worn in school.
 *   For female students, only small and simple ear-studs or earrings are allowed (no multiple earrings).
 *   No valuables, expensive items, toys or sharp objects should be brought to school.
 
-### **<u>Safety in School</u>**
+### **Safety in School**
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others. This is considered a serious offence.
 
-### **<u>Use of Mobile Phones/Electronic Devices in School</u>**
+### **Use of Mobile Phones/Electronic Devices in School**
 *   We strongly discourage students from bringing mobile phones or any expensive gadgets, e.g. smartwatch, to school.
 *   Should your child bring such unauthorised gadgets/devices, it is his/her responsibility to ensure that they are kept away safely/out of sight and switched off at all times.
 *   The school will not be liable for any loss of items.
 *   Students are not allowed to use their mobile phones/ unauthorised devices in class or within the school compound.
 *   School will have the right to confiscate any gadgets/devices if students are found to be flouting the regulation. For the first violation, the phone will be confiscated and stored in the General Office (GO) for safe-keeping until the end of the school day. Student will have to retrieve the phone from GO after school.  For subsequent violation, the phone will be confiscated and the parent of the student can retrieve the phone from GO.
 
-###  **<u>Student’s Conduct</u>**
+###  **Student’s Conduct**
      **A. Interaction with School Staff and Classmates**
 *   Be courteous and gracious at all times. Greet all teachers and staff when you see them.
 *   Manage your emotions. Refrain from fighting.
@@ -105,7 +105,7 @@ third_nav_title: Info on Teaching & Learning
 *   Move indoors when the Lightning Warning System is flashing.
 *   For any other health matters, please speak with your PE or Form Teacher.
 
-### **<u>SCHOOL DISCIPLINE GUIDELINES</u>**
+### **SCHOOL DISCIPLINE GUIDELINES**
  Disciplinary action will be taken against students who commit offences. Parents will be informed of their child’s misbehaviour in class/school and, if need be, will be invited to school to meet with the child’s teacher and Discipline Master for further conferencing. Some of the offences include:
  
  **Minor Offences**

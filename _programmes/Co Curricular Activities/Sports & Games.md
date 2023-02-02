@@ -2,8 +2,9 @@
 title: Sports & Games
 permalink: /programmes/Co-Curricular-Activities/sports/permalink/
 description: ""
-third_nav_title: Co Curricular Activities (CCA)
+third_nav_title: Co Curricular Activities
 ---
+
 ### **Badminton**
 ![](/images/Programmes/2022/CCA/CCA-2.jpg)
 **CCA TIC**: Ms Kashmeena, Mdm Ouyang FF, Mdm Soo PL, Ms Meera<br>**CCA Advisor**: Mr Hairil

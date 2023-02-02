@@ -2,8 +2,10 @@
 title: Procedures for Visitors
 permalink: /parents-matters/Information/Procedures-for-Visitors/permalink/
 description: ""
-third_nav_title: Info on Services
+third_nav_title: Information on Services
 ---
+
+
 ###  **General Office Operating Hours**
 **School Term**  
 Monday to Friday : 7am – 5pm<br><br>

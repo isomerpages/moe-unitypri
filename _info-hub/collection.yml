@@ -1,0 +1,15 @@
+collections:
+  info-hub:
+    output: true
+    order:
+      - Tour of School.md
+      - Information on Services/Procedures for Visitors.md
+      - Information on Services/.keep
+      - Information on Services/Booklist & Bookshop.md
+      - Information on Services/Canteen Stalls.md
+      - Information on Services/School Dental Clinic.md
+      - Information on Services/Uniform Vendor.md
+      - Information on Services/Bus Vendor.md
+      - Information on Services/Student Care.md
+      - Contact Us.md
+      - ITQ.md

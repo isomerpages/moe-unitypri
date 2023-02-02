@@ -17,17 +17,17 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-johari-wahid-750x1000.jpg" style="width:30%" alt="Mr Johari Wahid"></th>
-    <th class="tg-l2bf"><br><span style="font-weight:bold">(HOD / Physical Education, CCA &amp; Aesthetics)</span><br><a href="mailto:johari_b_wahid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari Bin Wahid</span></a></th>
+    <th class="tg-a3j2"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg" style="width:30%" alt="Mr Johari Wahid"></th>
+    <th class="tg-l2bf"><br><span style="font-weight:bold">HOD/PE</span><br><a href="mailto:johari_b_wahid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari Bin Wahid</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-hairil-akhmal-b-sakroni-750x1000.jpg" style="width:30%" alt="Mr Hairil Akhmal B Sakroni"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">(SH / Physical Education, CCA &amp; Aesthetic)</span><br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal Bin Sakroni</span></a></td>
+    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg" style="width:30%" alt="Mr Hairil Akhmal B Sakroni"></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold">SH/PE</span><br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal Bin Sakroni</span></a></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-bruce-lim-choon-wei-750x1000.jpg" style="width:30%" alt="Mr Bruce Lim Choon Wei"></td>
+    <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg" style="width:30%" alt="Mr Bruce Lim Choon Wei"></td>
     <td class="tg-l2bf"><br><span style="font-weight:bold"></span><br><a href="mailto:lim_choon_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Lim Choon Wei (Mr Bruce Lim)</span></a></td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ description: ""
     <td class="tg-l2bf"><br><span style="font-weight:bold"></span><br><a href="mailto:amirul_salihin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Amirul Salihin Bin Said</span></a></td>
   </tr>
   <tr>
-    <td class="tg-gj5f"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2022/06/mr-muhammad-hanis-bin-sarkinin-750x1000.jpg" style="width:30%" alt="Mr Muhammad Hanis Bin Sarkinin"></td>
+    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg" style="width:30%" alt="Mr Muhammad Hanis Bin Sarkinin"></td>
     <td class="tg-rs0e"><br><a href="mailto:muhammad_hanis_sarkinin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Muhammad Hanis</span></a></td>
   </tr>
 </tbody>

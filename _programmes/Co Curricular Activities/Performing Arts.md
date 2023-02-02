@@ -2,8 +2,9 @@
 title: Performing Arts
 permalink: /programmes/Co-Curricular-Activities/performingarts/permalink/
 description: ""
-third_nav_title: Co Curricular Activities (CCA)
+third_nav_title: Co Curricular Activities
 ---
+
 ### **Angklung/Kulintang Ensemble**
 ![](/images/Programmes/2022/CCA/CCA-7.jpg)
 **CCA TIC**: Mr Daniel Lin, Mr Bernard Foo, Ms Julin Seow, Mdm Chew SM, Mdm Hadijah<br>**CCA Advisor**: Ms Pat Leow

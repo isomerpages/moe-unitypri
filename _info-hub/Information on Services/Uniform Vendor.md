@@ -2,8 +2,9 @@
 title: Uniform Vendor
 permalink: /parents-matter/Info-on-Services/uniform-vendor/permalink/
 description: ""
-third_nav_title: Info on Services
+third_nav_title: Information on Services
 ---
+
 **My Uniform Shop (Asia) Pte Ltd**<br>
 209 New Upper Changi Road #03-651 S460209  
 

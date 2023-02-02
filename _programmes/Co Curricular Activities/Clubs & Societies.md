@@ -2,8 +2,9 @@
 title: Clubs & Societies
 permalink: /programmes/Co-Curricular-Activities/clubs/permalink/
 description: ""
-third_nav_title: Co Curricular Activities (CCA)
+third_nav_title: Co Curricular Activities
 ---
+
 ### **English Language, Drama & Debating**
 ![](/images/Programmes/2022/CCA/CCA-12.jpg)
 **CCA TIC**: Mrs Angeline Goh, Mdm Ang KP, Ms Tan YT, Mr Teo CS<br>**CCA Advisor**: Mdm Lakshimi
