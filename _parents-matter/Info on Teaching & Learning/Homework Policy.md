@@ -4,13 +4,12 @@ permalink: /parents-matters/Information/Homework-Policy/permalink/
 description: ""
 third_nav_title: Info on Teaching & Learning
 ---
-### **Homework Guideline**
-**Rationale**<br>
+### **Rationale**<br>
 Homework is typically defined as any tasks “assigned to students by school teachers that are meant to be carried out during non-school hours[[1]](/school-events/Information/Homework-Policy/permalink/)”.This, however, does not include time spent on revision of school work or studying for tests and examinations.
 
 Homework plays an important role in the holistic development of a child. For a new skill or knowledge to have long-lasting effects, distributed and sustained practice is necessary. Furthermore, homework assignments have a positive impact on the personal development of the students. It helps to develop good study habits and foster independent learning. It also has the prospects to foster partnership between parents and school in the child’s learning, hence reaffirming the important role of parents in education.
 
-**Guiding Principles**<br>
+### **Guiding Principles**<br>
 As a general rule of thumb, the types and purposes of homework designed and disseminated are as follows:
 
 <style type="text/css">
@@ -53,13 +52,13 @@ As a general rule of thumb, the types and purposes of homework designed and diss
 </tbody>
 </table>
 
-**Daily Time Allocation**<br>
+### **Daily Time Allocation**<br>
 As the process of learning is cumulative and progressive, when assigning homework, teachers have to calibrate it against the students’ readiness as well as the level of proficiency needed of the task at hand. It is important to remember that it is the quality of learning and not the quantity of homework that matters.
 
-**Non-Completion of Homework**<br>
+### **Non-Completion of Homework**<br>
 Teachers will work with students to find out the reasons for any non-submission of homework. If need be, a parent-teacher conference will be arranged. If the child is medically excused from school for an extended length of time, arrangements can be made on how the child can be supported with homework and other areas of academic needs.
 
-**Responsibilities of Students**<br>
+### **Responsibilities of Students**<br>
 Students are to
 1.  understand what is expected for each task and ask questions to clarify expectations.
 2.  inform the teacher if a task is not understood or if there will be difficulty completing it on time.
@@ -69,7 +68,7 @@ Students are to
 6.  submit assignments on time.
 7.  speak with teachers and/or parents regarding homework concerns.
 
-**Responsibilities of Parents**<br>
+### **Responsibilities of Parents**<br>
 Parents are to
 1.  create a home environment free from distraction, conducive for studying and completion of homework; with good light and space for studying (best that homework be completed at a desk or table).
 2.  set a regular study timetable each day that is not to be interrupted by family plans, school activities or television and with a definite beginning and ending time.
