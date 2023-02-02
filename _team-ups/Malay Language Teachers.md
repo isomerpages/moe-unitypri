@@ -18,7 +18,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-a3j2"><img alt="Mdm Rasidah Ahmad" style="width:30%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20rasidah%20ahmad.jpg"></th>
-		<th class="tg-l2bf"><br><span style="font-weight:bold">Subject Head / Malay Language</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Rasidah Bte Ahmad</span></a></th>
+		<th class="tg-l2bf"><br><span style="font-weight:bold">SH/ML</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Rasidah Bte Ahmad</span></a></th>
 	</tr>
 	</thead>
 	<tr>
