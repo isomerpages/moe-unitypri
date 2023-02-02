@@ -51,7 +51,7 @@ National Education in Unity, is part of our holistic education, firmly built on 
 
 Celebrations for NE events in our school focus on engaging our students through their Head, Heart and Hands. Through the celebrations, students in Unity will know Singapore better, love and take pride in being Singaporean and look for avenues and opportunities to contribute and do their part for Singapore.
 
-![](/images/CCE-1.jpeg)
+![](/images/Curriculum/2023/CCE/CCE%20National%20Day.jpg)
 
 **2) Values in Action (VIA)**
 
