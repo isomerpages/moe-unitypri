@@ -17,13 +17,13 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg" style="width:30%" alt="Mr Herald Arguil Medina"></th>
+    <th class="tg-a3j2"><img src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg" style="width:30%"></th>
     <th class="tg-l2bf"><br><span style="font-weight:bold"></span><br><a href="mailto:herald_arguil_medina@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Herald Medina</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20lin%20yuanwei%20daniel.jpg" style="width:30%" alt="Mr Lin Yuanwei Daniel"></td>
+    <td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20lin%20yuanwei%20daniel.jpg" style="width:30%"></td>
     <td class="tg-rs0e"><br><span style="font-weight:bold"></span><br><a href="mailto:lin_yuanwei_daniel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Daniel Lin Yuanwei</span></a></td>
   </tr>
 </tbody>
