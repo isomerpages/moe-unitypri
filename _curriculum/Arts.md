@@ -31,7 +31,7 @@ Our school curriculum is designed with three key Learning Domains; _see, expres
 <thead>
   <tr>
     <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C1.jpeg" width="86" height="115"></th>
-    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C2.jpg" width="137" height="103"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C2.jpg" style="width:80%"></th>
     <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C3.jpg" width="91" height="58"></th>
   </tr>
 </thead>
