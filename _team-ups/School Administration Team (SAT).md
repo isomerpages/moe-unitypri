@@ -19,7 +19,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-vgmr"><img src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg" style="width:30%" alt="Mr Palani Jeyaram" width="750" height="1000"></td>
+    <td class="tg-vgmr"><img src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg" style="width:30%" width="750" height="1000"></td>
     <td class="tg-3qhc"><br><a href="mailto:Palani_Velu_jeyaram@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Palani Velu Jeyaram</span></a></td></tr>
 	 <tr>
     <th class="tg-f4yw"><img src="/images/Our%20Team%20UPS/SAT/Mr%20Deva.png" style="width:30%" width="750" height="1000"></th>
@@ -42,7 +42,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-f4yw"><img src="/images/Our%20Team%20UPS/SAT/ms%20zahratunisah%20binte%20abdul%20jabbar.jpg" style="width:30%" alt="Ms Zahratunisah Binte Abdul Jabbar" width="750" height="1000"></td>
+    <td class="tg-f4yw"><img src="/images/Our%20Team%20UPS/SAT/ms%20zahratunisah%20binte%20abdul%20jabbar.jpg" style="width:30%" width="750" height="1000"></td>
     <td class="tg-dgl5"><br><a href="http://zahratunisah_a_jabbar@schools.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Zahratunisah A Jabbar</span></a></td>
   </tr>
 </thead>
@@ -62,10 +62,10 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/SAT/mdm%20beverley%20lim%20hoo%20kee.jpg" style="width:30%" alt="Mdm Beverley Lim Hoo Kee" width="750" height="1000"></td>
+    <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/SAT/mdm%20beverley%20lim%20hoo%20kee.jpg" style="width:30%" width="750" height="1000"></td>
     <td class="tg-l2bf"><br><a href="mailto:lim_hoo_kee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Beverley Lim</span></a></td>
 		<tr>
-    <td class="tg-f4yw"><img src="/images/Our%20Team%20UPS/SAT/ms%20candy%20goh.jpg" style="width:30%" alt="Ms Candy Goh" width="750" height="1000"></td>
+    <td class="tg-f4yw"><img src="/images/Our%20Team%20UPS/SAT/ms%20candy%20goh.jpg" style="width:30%" width="750" height="1000"></td>
     <td class="tg-dgl5"><br><a href="mailto:Goh_MING_HUI@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Candy Goh Ming Hui</span></a></td>
   </tr>
   </tr>
@@ -90,7 +90,7 @@ description: ""
     <td class="tg-3qhc"><br><a href="mailto:Nasihah_Ab_Rahman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nasihah Ab Rahman</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><img src="/images/Our%20Team%20UPS/SAT/Adila.jpg" style="width:30%" alt="Mdm Adila" width="750" height="1000"></td>
+    <td class="tg-zr06"><img src="/images/Our%20Team%20UPS/SAT/Adila.jpg" style="width:30%" width="750" height="1000"></td>
     <td class="tg-0lax"><br><a href="mailto:Nur_adila_Kamarudin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Adila Binte Kamarudin</span></a></td>
   </tr>
 </thead>
