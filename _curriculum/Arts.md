@@ -30,9 +30,9 @@ Our school curriculum is designed with three key Learning Domains; _see, expres
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C1-600x800.jpeg" alt="C1" width="86" height="115"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C2-600x450.jpg" alt="C2" width="137" height="103"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C3-600x386.jpg" alt="C3" width="91" height="58"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C1.jpeg" width="86" height="115"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C2.jpg" width="137" height="103"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C3.jpg" width="91" height="58"></th>
   </tr>
 </thead>
 <tbody>
