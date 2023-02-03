@@ -60,9 +60,9 @@ Our students are given opportunities to be involved in art competitions, art pro
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C4-scaled-e1629338118272-600x424.jpg" alt="C4" width="93" height="66"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C5-600x450.jpg" alt="C5" width="78" height="59"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C6-scaled-e1629338199271-600x424.jpg" alt="C6" width="98" height="69"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C4.jpg" width="93" height="66"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C5.jpg" width="78" height="59"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C6.jpg" width="98" height="69"></th>
   </tr>
 </thead>
 <tbody>
