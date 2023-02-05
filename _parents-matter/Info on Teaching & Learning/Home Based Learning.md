@@ -11,7 +11,7 @@ School will keep parents informed of the HBL schedule for each exercise via Pare
 As for the students, the HBL schedule will be shared with them via Student Learning Space (SLS) to encourage them to exercise responsibility for their own learning and to be self-directed learners.
 
 HBL dates for 2023 are as shown in the table below:
-
+![](/images/Parents%20Matter/HBL%202023.png)
 
 
 
