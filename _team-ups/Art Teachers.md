@@ -15,6 +15,6 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:47%" src="/images/Our%20Team%20UPS/Art%20Teachers/Corrine1.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Corrine Fong</span></a><br>SH/Aesthetics
-		 <td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida
+			<td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/Art%20Teachers/Corrine1.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:corrine_fong_tze_yuen@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Corrine Fong</span></a><br>SH/Aesthetics
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida Adam
 			<tr>
