@@ -3,6 +3,31 @@ title: Chinese Language Teachers
 permalink: /team-ups/chinese-language-teachers/permalink/
 description: ""
 ---
+###
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+			<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20law%20siok%20cheng.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:law_siok_cheng@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a><br>LH/CL
+		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Ms%20Tan%20Pheck%20Wan.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_pheck_wan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a><br>LT/CL
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20han%20hui%20lian.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:han_huilian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Han Huilian</span></a><br>ST/CL
+			<tr>
+				<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20teo%20seow%20hoon.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:teo_seow_hoon@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Teo Seow Hoon</span></a><br>ST/CL
+		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20chon%20qiao%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping</span></a><br>SH/ICT
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a><br>SH/SM & Disc
+			<tr>
+				<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20ow%20hui%20qin.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ow_hui_qin@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Ow Hui Qin
+		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20chon%20qiao%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chong_qiao_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Chon Qiao Ping</span></a><br>SH/ICT
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a><br>SH/SM & Disc
+			<tr>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -22,7 +47,7 @@ description: ""
 	</tr>
   <tr>
 		<td class="tg-gj5f"><img src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Ms%20Tan%20Pheck%20Wan.png" style="width:30%"></td>
-    <td class="tg-rs0e"><br><span style="font-weight:bold">LT/CL</span><br><a href="mailto:tan_pheck_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></td>
+    <td class="tg-rs0e"><br><span style="font-weight:bold">LT/CL</span><br><a href="mailto:tan_pheck_wan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent"></span></a></td>
 	</tr>
 	 <tr>
     <td class="tg-a3j2"><img src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20han%20hui%20lian.jpg" style="width:30%"></td>
