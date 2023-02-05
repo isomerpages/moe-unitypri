@@ -81,7 +81,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kenneth Cheong</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Lay Naing – Ang Kok Ping</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Lay Naing</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -122,7 +122,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha Elancheran</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha</span></a></span></td>
     <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
 		</td>
 		</tr>
@@ -131,9 +131,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
