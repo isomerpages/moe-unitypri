@@ -22,10 +22,10 @@ description: ""
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Conrad%20Campos.jpg"><span style="font-weight:bold">Mr Conrad Compas<br>Member</span><br></td>
 		<tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Ms%20Lei%20Yutan.jpg"><span style="font-weight:bold">Ms Lei Yutan<br>Member</span></td>
-		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Lim%20Chong%20Beng%20Jem.jpg"><span style="font-weight:bold">Mr Jem Lim<br>Member</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Roy.jpg"><span style="font-weight:bold">Mr Roy<br> Member</span><br></td>
+		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Lim%20Chong%20Beng%20Jem.jpg"><span style="font-weight:bold">Mr Lim Chong Beng Jem<br>Member</span></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Roy.jpg"><span style="font-weight:bold">Mr Pallipurathu Gopinathan Roy<br> Member</span><br></td>
 		</tr>
 	<tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Simon%20Tan.jpg"><span style="font-weight:bold">Mr Simon Tan<br>Member</span></td>
-		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Aaron%20Yap.jpg"><span style="font-weight:bold">Mr Aaron Yap<br>Member</span></td>
+		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Aaron%20Yap.jpg"><span style="font-weight:bold">Mr Yap Jun Yi Aaron<br>Member</span></td>
     </tr>
