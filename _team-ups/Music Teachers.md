@@ -15,6 +15,6 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Herald Medina
-		 <td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20lin%20yuanwei%20daniel.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lin_yuanwei_daniel@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Daniel Lin Yuanwei
+			<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20herald%20arguil%20medina.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:herald_arguil_medina@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Herald Medina
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Music%20Teachers/mr%20lin%20yuanwei%20daniel.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lin_yuanwei_daniel@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Daniel Lin Yuanwei
 			<tr>
