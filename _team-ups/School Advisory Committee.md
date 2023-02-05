@@ -29,5 +29,3 @@ description: ""
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Simon%20Tan.jpg"><span style="font-weight:bold">Mr Simon Tan<br>Member</span></td>
 		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Aaron%20Yap.jpg"><span style="font-weight:bold">Mr Aaron Yap<br>Member</span></td>
     </tr>
-</thead>
-</table>
