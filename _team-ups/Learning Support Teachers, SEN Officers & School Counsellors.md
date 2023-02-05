@@ -15,7 +15,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:47%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Hajjah Hadijah</span></a><br>LSP/English
+			<td colspan="2" class="tg-vgmr"><img style="width:47%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Hajjah Hadijah</span></a><br>LSP/English
 		 <td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20tan%20kai%20ling.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kai_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Kai Ling</span></a><br>LSP/Math</span></br>
 			 </td>
 			 </tr>
