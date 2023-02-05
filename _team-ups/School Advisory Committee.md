@@ -17,7 +17,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Ms%20Yen%20Tan.jpg"><span style="font-weight:bold">Ms Yen Tan<br>SAC Chairperson
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Ms%20Yen%20Tan.jpg"><span style="font-weight:bold">Ms Yen Tan<br>Chairperson
 		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20chong%20suet%20fong.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">VP (Acad)</span></td>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/ms%20chua%20leng%20leng.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">VP (Admin)</span><br></td>
 		<tr>
