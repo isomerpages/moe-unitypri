@@ -17,9 +17,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hajjah Hadijah</span></a><br>LSP/English</span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20hajjah%20hadijah%20bte%20haji%20sa'at.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hajjah_hadijah_haji_saat@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Hajjah Hadijah</span></a><br>LSP/English</span>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Learning%20Support%20Teachers/mdm%20tan%20kai%20ling.jpg">
-			<span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kai_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Kai Ling</span></a><br>LSP/Math</span><br>
+			<span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_kai_ling@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Tan Kai Ling</span></a><br>LSP/Math</span>
 		</td>
 	</tr>
 </thead>
@@ -40,7 +40,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/Jiamei%20SENO.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_jiamei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Liu Jiamei</span></a><br>Senior SENO</span><br></span></td>
-    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/MS%20NURUL%20HIDAYAH%20BINTE%20NASRI.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nurul_hidayah_nasri@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nurul Hidayah</span></a>
+    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/MS%20NURUL%20HIDAYAH%20BINTE%20NASRI.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nurul_hidayah_nasri@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nurul Hidayah</span>
 		</td>
 	</tr>
 </thead>
@@ -60,7 +60,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/mr%20syed%20firdauz.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:syed_firdauz_syed_yasin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Syed Firdaus</span></a><br>Senior Counsellor</span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/mr%20syed%20firdauz.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:syed_firdauz_syed_yasin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Syed Firdaus</span></a><br>Senior Counsellor</span>
     <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/ms%20samantha%20khoo%20(1).jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:khoo_shi_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Samantha Khoo</span></a><br>
 		</td>
 	</tr>
