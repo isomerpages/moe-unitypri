@@ -12,7 +12,4 @@ As for the students, the HBL schedule will be shared with them via Student Learn
 
 HBL dates for 2023 are as shown in the table below:
 ![](/images/Parents%20Matter/HBL%202023.png)
-
-
-
 *The national exams dates may be subjected to changes and parents will be informed of any changes in a timely manner.*
