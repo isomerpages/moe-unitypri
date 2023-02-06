@@ -14,7 +14,7 @@ sections:
           url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
         - title: Learning for Life Programme
           description: ""
-          url: /co-curriculum-programme/Learn-for-Life-Programme-LLP/permalink/
+          url: /co-curriculum-programme/Learn-for-Life-Programme/permalink/
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
