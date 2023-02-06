@@ -1,6 +1,6 @@
 title: UPS
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo_transparent.jpg
 colors:
   primary-color: "#0054ac"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d16o86lgtpu37o.amplifyapp.com
 prod: https://master.d16o86lgtpu37o.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: ""
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

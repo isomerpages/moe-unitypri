@@ -1,9 +1,10 @@
 ---
-title: Co curricular Activities (CCA)
+title: Co curricular Activities
 permalink: /co-curriculum-programme/Co-curricular-Activities-CCA/permalink/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 
 One of the Co-Curriculum Programme provided by the school is the Co-curricular Activities (CCA). The school’s CCA focuses on development of specific knowledge, skills & values based on the student’s choice of CCA. The CCA enables students to discover their interests & talents while providing a platform for friendships & social integration of students from diverse backgrounds.  Well-organised & implemented, they fuel in the student a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the student to lead a balanced life in adulthood.
 
