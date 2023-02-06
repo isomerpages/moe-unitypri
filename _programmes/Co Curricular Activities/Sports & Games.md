@@ -12,7 +12,7 @@ third_nav_title: Co Curricular Activities
 **CCA TIC**: Mr Bruce Lim, Mrs Sylvia Quek, Mr Roy Ye, Ms Lim Hui Mei, Mdm Teo Seow Hoon<br>**CCA Advisor**: Mr Johari
 ### **Floorball**
 ![](/images/Programmes/2022/CCA/CCA-4.jpg)
-**CCA TIC**: Mr Hairil, Mr Yasin, Mdm Nirwarna, Mdm Nora, Ms Bhavani<br>**CCA Advisor**: Mr Hairil
+**CCA TIC**: Mr Hairil, Mr Yasin, Mdm Nirwana, Mdm Norazelin, Ms Bhavani<br>**CCA Advisor**: Mr Hairil
 ### **Football**
 ![](/images/Programmes/2022/CCA/CCA-5.jpg)
 **CCA TIC**: Mr Amirul, Ms Wong Yun Yee, Ms Siti Khadijah, Mr Shyam Kumar, Mdm Norfaiza<br>**CCA Advisor**: Mr Johari
