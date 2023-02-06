@@ -28,9 +28,6 @@ In Unity where students exemplify the school values, students are rewarded when 
 
 Students embodying the school values are presented with tokens of appreciation and their stories of good deeds are shared with the school.
 
-![](/images/CCE_CIA.jpeg)
-*Winners of CIA*
-
 **3) Form Teacher Guidance Period (FTGP)**
 
 The main objectives of FTGP are to provide quality interaction time between Form Teachers and students, and to equip students with social and emotional (SE) competencies.

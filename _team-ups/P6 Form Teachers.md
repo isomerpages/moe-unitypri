@@ -79,9 +79,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mr%20r%20shyam%20kumar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:r_shyam_kumar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr R. Shyam Kumar</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20chan%20kar%20yee%20charissa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Chan</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida Adam</span></a></span><br></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mr%20r%20shyam%20kumar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:r_shyam_kumar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr R. Shyam Kumar</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20chan%20kar%20yee%20charissa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Chan</span></a></span></td>
 	</tr>
 </thead>
 </table>
@@ -130,9 +129,9 @@ description: ""
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}

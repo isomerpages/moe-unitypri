@@ -131,7 +131,7 @@ Mr Khairul Iman</span></a></span></td>
 <table class="tg">
 <thead>
   <tr>
-     <td class="tg-vgmr"><img style="width:36%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/Firdawati.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Firdawati_Somsudin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Firdawati</span></a></span><br></td>
+     <td class="tg-vgmr"><img style="width:36%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/Firdawati.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Firdawati_Somsudin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Firdawati</span></a></span><br></td>
     <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20ma%20yu.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ma_yu@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ma Yu</span></a></span><br>
 		</td>
 	</tr>
@@ -161,9 +161,9 @@ Mr Khairul Iman</span></a></span></td>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}

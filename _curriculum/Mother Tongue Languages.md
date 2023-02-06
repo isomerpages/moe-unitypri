@@ -1,8 +1,9 @@
 ---
-title: Mother Tongue
-permalink: /curriculum/mother-tongue/permalink/
+title: Mother Tongue Languages
+permalink: /curriculum/mother-tongue-languages/permalink/
 description: ""
 ---
+
 ### **Mother Tongue Language Curriculum and Aims**
 
 The Mother Tongue Language curriculum aims to inculcate in all our students 3 broad objectives in the teaching and learning of MTL:  

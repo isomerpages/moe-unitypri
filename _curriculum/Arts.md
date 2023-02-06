@@ -30,9 +30,9 @@ Our school curriculum is designed with three key Learning Domains; _see, expres
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C1-600x800.jpeg" alt="C1" width="86" height="115"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C2-600x450.jpg" alt="C2" width="137" height="103"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C3-600x386.jpg" alt="C3" width="91" height="58"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C1.jpeg" width="86" height="115"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C2.jpg" style="width:80%"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C3.jpg" width="91" height="58"></th>
   </tr>
 </thead>
 <tbody>
@@ -60,9 +60,9 @@ Our students are given opportunities to be involved in art competitions, art pro
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C4-scaled-e1629338118272-600x424.jpg" alt="C4" width="93" height="66"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C5-600x450.jpg" alt="C5" width="78" height="59"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/C6-scaled-e1629338199271-600x424.jpg" alt="C6" width="98" height="69"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C4.jpg" width="93" height="66"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C5.jpg" width="78" height="59"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/C6.jpg" width="98" height="69"></th>
   </tr>
 </thead>
 <tbody>
@@ -91,6 +91,7 @@ Our students love art. It is fun and it provides them with an opportunity for se
 
 ### **The Unity Art Showcase**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kumA_QbkcqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### **News & Events**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -106,9 +107,9 @@ Our students love art. It is fun and it provides them with an opportunity for se
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E1.jpg" alt="E1" width="99" height="74"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E2.jpg" alt="E2" width="177" height="228"></th>
-    <th class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E3-1-600x424.jpg" alt="E3" width="104" height="73"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E1.jpg" width="99" height="74"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E2.jpg" width="177" height="228"></th>
+    <th class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E3%20Janelle%20Lo%204D.jpg" width="104" height="73"></th>
   </tr>
 </thead>
 <tbody>
@@ -118,9 +119,9 @@ Our students love art. It is fun and it provides them with an opportunity for se
     <td class="tg-pr30"><span style="font-weight:bold">Call for Doodle Art ‘Architecture Saving Our World by Singapore Archifest 2020</span><br><span style="font-weight:bold"> </span>Our students participated in the Archifest to promote novel ideas and responsible architecture design that benefit our ecology and humanity from climate change and public health to social equity and cultural equity.</td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E4.jpg" alt="E4" width="99" height="76"></td>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E5.jpg" alt="E5" width="177" height="241"></td>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E3.jpg" alt="E6" width="104" height="78"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E4%20ARIENA%205D.jpg" width="99" height="76"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E5.jpg" width="177" height="241"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E6%201.jpg" width="104" height="78"></td>
   </tr>
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">National Day Time Capsule &amp; Pledge Card Design by Art For Cause Singapore 2020</span><br>Our students participated in the card design for National Day. Their artworks are on display at Singapore National Museum.</td>
@@ -128,9 +129,9 @@ Our students love art. It is fun and it provides them with an opportunity for se
     <td class="tg-pr30"><span style="font-weight:bold">UPS Doodling Heart 2021</span><br><span style="font-weight:bold"> </span>Our students created doodles dedicated to Front liners and workers in the Service Sector as a show of appreciation for their efforts during this pandemic.</td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E7.jpg" alt="E7" width="99" height="60"></td>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E8.jpg" alt="E8" width="177" height="129"></td>
-    <td class="tg-a3j2"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/08/E9.jpg" alt="E9" width="104" height="73"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E7.jpg" width="99" height="60"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E8.jpg" width="177" height="129"></td>
+    <td class="tg-a3j2"><img src="/images/Curriculum/2023/ART/E9.jpg" width="104" height="73"></td>
   </tr>
   <tr>
     <td class="tg-pr30"><span style="font-weight:bold">Singapore Youth Festival Art Exhibition ‘Artist &amp; Technology’ 2021</span><br><span style="font-weight:bold"> </span>Our Primary 5 and 6 team of students were awarded with Certificate of Recognition for their work entitled ‘Digital Wonderland’. Their work was showcased on the SYF Art National Virtual exhibition.</td>
@@ -138,7 +139,7 @@ Our students love art. It is fun and it provides them with an opportunity for se
     <td class="tg-pr30"><span style="font-weight:bold">Draw My Stamp Story Competition 2021 by Singapore Philatelic Museum</span><br><span style="font-weight:bold"> </span>Our Young Artist Club members and Primary 6 students participated in the competition. They created stories through pictures based on local stamps of their choice.</td>
   </tr>
   <tr>
-    <td class="tg-ykyb" colspan="3"><img src="https://unitypri.moe.edu.sg/wp-content/uploads/2021/09/Art-Exhibition-Cover-600x338.jpg" alt="Art Exhibition Cover" width="420" height="237"></td>
+    <td class="tg-ykyb" colspan="3"><img src="/images/Curriculum/2023/ART/Art%20Exhibition%20Cover.jpg" width="420" height="237"></td>
   </tr>
   <tr>
     <td class="tg-udl9" colspan="3">‘Connections’ shows an array of creative works done by our students from Primary 1 to 6. The exhibition includes three paintings by our Young Artists Club (YAC) CCA students entitled Endangered Animals Series 2 (Sea Creatures) to spread awareness about caring for our environment and protecting animal habitat. You will also be able to view YAC artwork entitled ‘Digital Wonderland’, which received Certificate of Recognition for Singapore Youth Festival Art Exhibition 2021. There is also a special exhibit by Ng Kai Ci from Primary 5E, for UPS Doodling Heart to show appreciation for the frontliners and workers in the service sector for their courage and continued commitment in their fight against Covid19.<br>Link to exhibition<br><a href="https://www.artsteps.com/view/611f99a9bb1ddc9f411e58b0"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">https://www.artsteps.com/view/611f99a9bb1ddc9f411e58b0</span></a></td>

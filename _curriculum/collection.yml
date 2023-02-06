@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - English Language.md
-      - Mother Tongue.md
+      - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - Physical & Health Education.md
       - Arts.md
       - Music.md
       - Information and Communications Technology.md
-      - Programme for Active Learning (PAL).md
+      - Programme for Active Learning.md
       - Character and Citizenship Education.md
