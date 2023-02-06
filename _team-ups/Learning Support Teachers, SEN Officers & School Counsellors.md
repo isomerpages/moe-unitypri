@@ -61,7 +61,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/mr%20syed%20firdauz.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:syed_firdauz_syed_yasin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Syed Firdaus</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/mr%20syed%20firdauz.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:syed_firdauz_syed_yasin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Syed Firdaus<br></a>Senior SENO</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&%20Councillors/ms%20samantha%20khoo%20(1).jpg">
 			<span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:khoo_shi_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Samantha Khoo</span></a></span><br>
 		</td>
