@@ -79,9 +79,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mr%20r%20shyam%20kumar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:r_shyam_kumar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr R. Shyam Kumar</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20chan%20kar%20yee%20charissa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Chan</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida Adam</span></a></span><br></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mr%20r%20shyam%20kumar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:r_shyam_kumar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr R. Shyam Kumar</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20chan%20kar%20yee%20charissa.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chan_kar_yee_charissa@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Chan</span></a></span></td>
 	</tr>
 </thead>
 </table>
