@@ -4,16 +4,15 @@ permalink: /parents-matter/Info-on-Services/bookshop/permalink/
 description: ""
 third_nav_title: Information on Services
 ---
-
 ### **School Bookshop**
-**The Continental Book Centre**
+**The Ricky Book Centre**
 
 Monday to Friday: 8:30am to 2.30pm  
 Closed on Public Holidays, Saturday and Sunday
 
-**Telephone No:** 62478482  
-**Website:** <a href="https://thecontinental.sg/"
-  target="_blank" rel="noopener noreferrer">www.continental.sg</a>
+**Telephone No:** 6363 9159  
+**Website:** <a href="https://www.rickybookcentre.com.sg/"
+  target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
 ### **2023 Booklists**
 Primary 1[](/files/Parents%20Matter/Information/2023/Unity%20Primary%20Booklist%202023%20Primary%201.pdf)
