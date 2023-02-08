@@ -12,7 +12,7 @@ Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 6363 9159  
 **Mobile No:** 8875 9522 <br>
-Please contact us from 8.30am - 5.30pm<br>
+*Please contact us from 8.30am - 5.30pm*<br>
 **Website:** <a href="https://www.rickybookcentre.com.sg/"
   target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
