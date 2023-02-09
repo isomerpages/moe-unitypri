@@ -4,13 +4,12 @@ permalink: /parents-matter/Info-on-Services/uniform-vendor/permalink/
 description: ""
 third_nav_title: Information on Services
 ---
-
 **My Uniform Shop (Asia) Pte Ltd**<br>
 209 New Upper Changi Road #03-651 S460209  
 
 **Contact No :** 6276 6689 _(Pls call before heading down)_  
-**Website :** <a href="http://www.asencio.com.sg/"
-  target="_blank" rel="noopener noreferrer">www.asencio.com.sg</a>
+**Website :** <a href="http://myuniformshop.com.sg/"
+  target="_blank" rel="noopener noreferrer">myuniformshop.com.sg</a>
 
 **Operating Hours :** <br>Wed to Fri: 3 pm to 8 pm  
 Sat: 10 am to 4 pm  
