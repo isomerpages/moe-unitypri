@@ -11,8 +11,7 @@ P1 Learning Journey Around the School Neighbourhood & Road Safety Walk was condu
 With the support of Class Parent Volunteers and School Operation Managers, the students together with their form teachers walked around the school vicinity to familiarise themselves experientially with the traffic signals at crossings and the road hazards they might encounter. The students also stopped by at the nearby playgrounds where they learned safe and mindful behaviour while having fun playing together.
 
 The students had a wonderful time exploring around the school neighbourhood with their classmates, teachers and parent volunteers even though it was a rather warm morning. The fun, excitement and educational experience more than made up for the humid weather!
-
-![](/images/Learning%20Journeys/2022/Primary%201/P1%20Ard%20the%20school.jpg)
+![](/images/Learning%20Journeys/2023/Primary%201/P1%20LJ%20Ard%20the%20School.jpg)
 
 ### **Jacob Ballas**
 
