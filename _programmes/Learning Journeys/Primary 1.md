@@ -6,13 +6,12 @@ third_nav_title: Learning Journeys
 ---
 ### **Around the School & Road Safety Walk**
 
-P1 Learning Journey Around the School Neighbourhood & Road Safety Walk was conducted for all P1 students in Term 1. The outing served to help students understand the basic concepts of safe behaviours outdoors and when using the road. 
+P1 Learning Journey Around the School Neighbourhood & Road Safety Walk was conducted for all P1 students in Term 1. The outing served to help students understand the basic concepts of having safe behaviour while being outdoors and when using the road.
 
-With the support of Class Parent Volunteers and School Operation Managers, the students together with their form teachers walked around the school vicinity to familiarize themselves experientially with the traffic signals at crossings and the road hazards they might encounter. After the walk, students went back to the school fitness playground, where they learned safe and mindful behaviour playing there. 
+With the support of Class Parent Volunteers and School Operation Managers, the students together with their form teachers walked around the school vicinity to familiarise themselves experientially with the traffic signals at crossings and the road hazards they might encounter. The students also stopped by at the nearby playgrounds where they learned safe and mindful behaviour while having fun playing together.
 
-While it was a hot day, the students had a wonderful time exploring around the school neighbourhood with their classmates, teachers and parent volunteers. The fun, excitement and educational experience more than made up for sweltering weather!
-
-![](/images/Learning%20Journeys/2022/Primary%201/P1%20Ard%20the%20school.jpg)
+The students had a wonderful time exploring around the school neighbourhood with their classmates, teachers and parent volunteers even though it was a rather warm morning. The fun, excitement and educational experience more than made up for the humid weather!
+![](/images/Learning%20Journeys/2023/Primary%201/P1%20LJ%20Ard%20the%20School.jpg)
 
 ### **Jacob Ballas**
 

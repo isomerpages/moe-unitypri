@@ -81,7 +81,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kenneth Cheong</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Lay Naing</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Ang Kok Ping</span></a></span><br>
 		</td>
 	</tr>
 </thead>
