@@ -3,6 +3,11 @@ title: School Direction and Focus
 permalink: /our-unity-story/School-Direction-and-Focus/permalink/
 description: ""
 ---
+### **Vision**  
+Creative Mind, Confident Self & Caring Heart
+
+### **Mission**  
+To provide quality and holistic education for our students
 
 ### **Desired Outcomes**
 Passionate & Self-Directed Learner, Resilient & All-Rounded Individual, Concerned & Active Citizen
@@ -14,3 +19,5 @@ ST1: Excel in Learning
 SS1: Caring & Engaged Staff
 <br>SS2: Efficient & Effective Systems
 <br>SS3: Supportive & Collaborative Partners
+### **Values**  
+Respect, Responsibility, Resilience,  Integrity, Care and Harmony
