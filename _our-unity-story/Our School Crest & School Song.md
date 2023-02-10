@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our School Crest**
 
-<img src="/images/Unityprilogo.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Our%20Unity%20Story/School%20Logo.png" style="width:180px;height:180px;margin-left:15px;" align = "right">
 
 The **3 ribbons** symbolize an “**U**pright”, “**U**ndaunted” & “**U**nited” Spirit & they carry **3 messages**:
 
