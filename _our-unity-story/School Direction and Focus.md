@@ -19,5 +19,11 @@ ST1: Excel in Learning
 SS1: Caring & Engaged Staff
 <br>SS2: Efficient & Effective Systems
 <br>SS3: Supportive & Collaborative Partners
+### **Motto**
+
+**In Unity, We Achieve**
+Our belief in synergy and collaboration as a community of learners in the pursuit of excellence
+### **Philosophy**
+We believe that every student has the desire and potential to excel
 ### **Values**  
 Respect, Responsibility, Resilience,  Integrity, Care and Harmony
