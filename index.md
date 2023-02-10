@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/Homepage/Homepage2.png
       key_highlights:
-        - title: Signature Programmes
+        - title: Our Signature Programmes
           description: ""
           url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
-        - title: Achievements
+        - title: Our Achievements
           description: ""
           url: /our-unity-story/Achievements/2022/permalink/
         - title: School Calendar
