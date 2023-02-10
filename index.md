@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Homepage2.png
       key_highlights:
-        - title: Applied Learning Programme
+        - title: Signature Programmes
           description: ""
           url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
         - title: Achievements
