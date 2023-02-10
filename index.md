@@ -12,9 +12,9 @@ sections:
         - title: Applied Learning Programme
           description: ""
           url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
-        - title: Learning for Life Programme
+        - title: Achievements
           description: ""
-          url: /co-curriculum-programme/Learn-for-Life-Programme/permalink/
+          url: /our-unity-story/Achievements/2022/permalink/
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
