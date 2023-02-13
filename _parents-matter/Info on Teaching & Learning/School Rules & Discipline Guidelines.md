@@ -17,13 +17,12 @@ third_nav_title: Info on Teaching & Learning
 
 ###  **Wearing the prescribed uniform**
 *   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
-*   Uniform and PE shirts are to be neatly worn. Wear PE attire only during days when there are PE lessons and CCA.
+*   Uniform and PE shirts are to be neatly worn. Wear PE attire only during days when there are PE lessons or CCA.
 *   All P4 to P6 female students are to wear their skirt over their shorts when they come in their PE attire on days when they have PE, CCA or go on Learning Journeys. They will be in their school PE T-shirts and skirts (with shorts underneath) and will only remove their skirt during PE or CCA lessons. They are expected to put on their skirt after their PE or CCA lessons.
-*   All personal name tags are to be sewn onto the pockets of all shirts and also on PE T-shirts. Name tags must be above the school badge.
+*   All personal name tags are to be ironed onto the pockets of all shirts and also on PE T-shirts. Name tags must be above the school badge.
 *   Male students must be clean-shaven and neat in appearance.
 *   Female students should tie their hair neatly. Only navy blue and black hair clips, hair-bands and/or ribbons are allowed. Dyeing or highlighting of hair is strictly not allowed.
 *   Only white socks and shoes are allowed. Length of socks must be at least two fingers above the ankles. You may wear track shoes only during CCA or sports events.
-*   Wear the Student’s Pass Tag when leaving the classroom and only with teacher’s permission.
 
 ###  **Ornaments, Jewellery or Valuables**
 *   No ornaments or any form of jewellery are to be worn in school.
@@ -70,7 +69,6 @@ third_nav_title: Info on Teaching & Learning
 
      **D. Leaving the Classroom**
 *   Seek permission from your teachers.
-*   Put on the Student’s Pass before you leave the class and return it once you come back to class.
 *   Write your name on the board before you leave the class and erase it from the board when you return.
 *   You are not allowed to leave the school grounds at any time without your teacher’s permission or approval from the General Office.
 
