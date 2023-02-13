@@ -18,8 +18,8 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20roy%20ye%20zhonglong.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ye_zhonglong@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Roy Ye Zhonglong</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza</span></a></span><br>
-		</td>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza</span></a></span><br></td>
+		<td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20cheah.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Cheah_Swee_Ee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Cheah Swee Ee</span></a></span></td>
 	</tr>
 </thead>
 </table>
