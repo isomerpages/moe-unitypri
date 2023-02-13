@@ -6,30 +6,30 @@ third_nav_title: Information on Services
 ---
 ###  **General Office Operating Hours**
 **School Term**  
-Monday to Friday : 7am – 5pm<br><br>
+Monday to Friday : 7 am – 5 pm<br><br>
 **School Holidays**  
-Monday to Friday : 8am – 5pm
+Monday to Friday : 8 am – 5 pm
 
 ### **Curriculum Hours**
-Monday to Friday : 7.30am – 1.30pm
+Monday to Friday : 7.30 am – 1.30 pm
 
 ### **Recess**
-P1 – 11.00am – 11.30am<br>
-P2 – 8.30am – 9.00am<br>
-P3 – 10.30am – 11.00am<br>
-P4 – 10.00am – 10.30am<br>
-P5 – 9.30am – 10.00am<br>
-P6 – 9.00am – 9.30am
+P1 – 11 am – 11.30 am<br>
+P2 – 8.30 am – 9 am<br>
+P3 – 10.30 am – 11 am<br>
+P4 – 10 am – 10.30 am<br>
+P5 – 9.30 am – 10 am<br>
+P6 – 9 am – 9.30 am
 ### **Gates Opening Hours: (Mondays – Fridays)**
-Main Gate and Side Gate 1: 6.30am – 6.00pm
+Main Gate and Side Gate 1: 6.30 am – 6 pm
 
-Back Gate: 6.30am – 7.30am, 1.30pm – 2.00pm
+Back Gate: 6.30 am – 7.30 am, 1.30 pm – 2pm
 
 ### **Visitor’s Registration Procedure**
 *   All visitors are to enter the school via Main Gate. Other gates will be out-of-bound to visitors.
 *   When issued a visitor’s pass, visitors should wear the pass prominently for identification while in school.
-*   During dismissal at 1.30pm, only parents/guardians are allowed into the school at the designated waiting area.
-*   During recess from 8.30am to 11.30am, parents/guardians will not be allowed into the school compound.
+*   During dismissal at 1.30 pm, only parents/guardians are allowed into the school at the designated waiting area.
+*   During recess from 8.30 am to 11.30 am, parents/guardians will not be allowed into the school compound.
 *   All visitors driving are advised to park their vehicles at the nearby HDB car parks.
 
 [Map to School](https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,17z/data=!4m5!3m4!1s0x0:0x74e5035d50e58a04!8m2!3d1.403245!4d103.74729)
