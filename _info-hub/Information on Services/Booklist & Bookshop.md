@@ -7,7 +7,7 @@ third_nav_title: Information on Services
 ### **School Bookshop**
 **The Ricky Book Centre**
 
-Monday to Friday: 8:30am to 2.30pm  
+Monday to Friday: 8.30am to 2.30pm  
 Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 6363 9159  
