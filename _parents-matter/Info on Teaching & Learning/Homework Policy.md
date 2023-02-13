@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Info on Teaching & Learning
 ---
 ### **Rationale**<br>
-Homework is typically defined as any tasks “assigned to students by school teachers that are meant to be carried out during non-school hours[[1]](/school-events/Information/Homework-Policy/permalink/)”.This, however, does not include time spent on revision of school work or studying for tests and examinations.
+Homework is typically defined as any tasks “assigned to students by school teachers that are meant to be carried out during non-school hours. This, however, does not include time spent on revision of school work or studying for tests and examinations.
 
 Homework plays an important role in the holistic development of a child. For a new skill or knowledge to have long-lasting effects, distributed and sustained practice is necessary. Furthermore, homework assignments have a positive impact on the personal development of the students. It helps to develop good study habits and foster independent learning. It also has the prospects to foster partnership between parents and school in the child’s learning, hence reaffirming the important role of parents in education.
 
@@ -78,5 +78,3 @@ Parents are to
 6.  check their child’s students’ handbook for the daily list of homework assignments so that parents and their child can both monitor progress of the work.
 7.  be encouraging and supportive, praising their child for the effort in completing their homework.
 8.  work in partnership with teachers to support their child’s learning and development. If a concern is observed, contact the teachers to clear up any misunderstandings, troubleshoot problems and be better informed about their child’s learning progress. Parents who have queries about homework should not hesitate to make an appointment to see their child’s Form/Subject teacher(s).
-
-[\[1\]](https://unitypri.moe.edu.sg/parents-matter/information/homework-policy/#_ftnref1) Cooper, H. (1989a). _Homework_. White Plains, NY: Longman.
