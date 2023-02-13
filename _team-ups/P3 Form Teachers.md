@@ -102,7 +102,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mrs%20veronica%20tan%20yew%20hwee.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:veronica_tan_siew_lan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Veronica Tan</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20john%20lim%20hoei%20meng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Lim_hoei_meng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr John Lim Hoei Meng</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20john%20lim%20hoei%20meng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Lim_hoei_meng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr John Lim</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -123,7 +123,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/ms%20kashmeena%20parwyn%20do%20muruges.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kashmeena_parwyn@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Kashmeena Parwyn</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:43%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20poh-chew%20see%20mun.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chew_see_mun@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Chew See Mun</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:43%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mrs%20poh-chew%20see%20mun.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:chew_see_mun@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Poh See Mun</span></a></span><br>
 		</td>
 	</tr>
 </thead>
