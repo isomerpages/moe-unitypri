@@ -11,8 +11,8 @@ third_nav_title: Information on Services
 **Website :** <a href="http://myuniformshop.com.sg/"
   target="_blank" rel="noopener noreferrer">myuniformshop.com.sg</a>
 
-**Operating Hours :** <br>Wed to Fri: 3 pm to 8 pm  
-Sat: 10 am to 4 pm  
+**Operating Hours :** <br>Wed to Fri: 3pm to 8pm  
+Sat: 10am to4 pm  
 _Closed on Sunday – Tuesday & Public Holiday_
 
 The sales of uniform is available in the School Bookshop during term time.
