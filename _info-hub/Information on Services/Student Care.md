@@ -4,12 +4,11 @@ permalink: /parents-matter/Info-on-Services/studentcare/permalink/
 description: ""
 third_nav_title: Information on Services
 ---
-
 **Big Heart Student Care (Self Help Groups Student Care Limited)**
 
 **Operating Hours :**
-<br>1:30pm – 7:00pm (School Term – Mondays to Fridays)
-<br>7:30am – 7:00pm (School Holidays – Mondays to Fridays)
+<br>1.30pm – 7.00pm (School Term – Mondays to Fridays)
+<br>7.30am – 7.00pm (School Holidays – Mondays to Fridays)
 <br>Closed on Saturday, Sunday and Public Holidays
 
 **Programmes:**
