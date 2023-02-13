@@ -40,7 +40,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mrs%20wendy%20lim-mar%20mun%20ee.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Mar_Mun_ee_wendy@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Wendy Lim</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -145,7 +145,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Shelyn Ng</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Md Hanis</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Muhd Hanis</span></a></span><br>
 		</td>
 	</tr>
 </thead>
