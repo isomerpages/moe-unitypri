@@ -17,9 +17,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20lee-koh%20siew%20cheng.jpg"><span style="font-weight:bold">Mrs Lee-Koh Siew Cheng</span><br><span style="font-weight:bold">Principal</span></td>
-		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20chong%20suet%20fong.jpg"><span style="font-weight:bold">Mrs Chong Suet Fong</span><br><span style="font-weight:bold">VP (Acad)</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/ms%20chua%20leng%20leng.jpg"><span style="font-weight:bold">Ms Chua Leng Leng</span><br><span style="font-weight:bold">VP (Admin)</span><br></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20lee-koh%20siew%20cheng.jpg"><span style="font-weight:bold">Mrs Lee-Koh SC</span><br><span style="font-weight:bold">Principal</span></td>
+		 <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/mrs%20chong%20suet%20fong.jpg"><span style="font-weight:bold">Mrs Chong SF</span><br><span style="font-weight:bold">VP (Acad)</span></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/SL/ms%20chua%20leng%20leng.jpg"><span style="font-weight:bold">Ms Chua LL</span><br><span style="font-weight:bold">VP (Admin)</span><br></td>
 		</tr>
 </thead>
 </table>
@@ -39,7 +39,7 @@ description: ""
 <thead>
 			<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mrs%20yvonne%20koo.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:yvonne_koo@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mrs Yvonne Koo</span></a><br>HOD/EL
 		 <td colspan="2" class="tg-vgmr"><img style="width:66%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a><br>HOD/SC
-		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari B Wahid</span></a><br>HOD/PE
+		<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Johari</span></a><br>HOD/PE
 			<tr>
 			<td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20Joscelin%20lim%20poh%20chen.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_poh_chen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Joscelin Lim</span></a><br>HOD/ICT
 		<td colspan="2" class="tg-vgmr"><img style="width:67%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20patricia%20leow%20saw%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Patricia Leow</span></a><br>HOD/CCE
