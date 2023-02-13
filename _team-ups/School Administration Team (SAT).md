@@ -27,7 +27,7 @@ description: ""
 					<td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/mdm%20goh%20soh%20bee,%20may.jpg"><span style="font-weight:bold">Mdm May Goh<br>OSO
 		 <td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/mr%20david%20lee.jpg"><span style="font-weight:bold">Mr David Lee<br>OSO
 					<tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:59%" src="/images/Our%20Team%20UPS/SAT/mdm%20raman%20mageswari%20(mdm%20mages).jpg"><span style="font-weight:bold">Mdm Mages<br>OSO
+				<td colspan="2" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/SAT/mdm%20raman%20mageswari%20(mdm%20mages).jpg"><span style="font-weight:bold">Mdm Mages<br>OSO
 		 <td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/mdm%20rukiya.jpg"><span style="font-weight:bold">Mdm Rukiya<br>OSO
 		<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/SAT/Fenglian%20(OSO).png"><span style="font-weight:bold">Mdm Zhou FengLian<br>OSO
 			<tr>
