@@ -7,12 +7,12 @@ third_nav_title: Information on Services
 ### **School Bookshop**
 **The Ricky Book Centre**
 
-Monday to Friday: 8.30am to 2.30pm  
+Monday to Friday: 8.30 am to 2.30 pm  
 Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 6363 9159  
 **Mobile No:** 8875 9522 <br>
-*Please contact us from 8.30am - 5.30pm*<br>
+*Please contact us from 8.30 am - 5.30 pm*<br>
 **Website:** <a href="https://www.rickybookcentre.com.sg/"
   target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
