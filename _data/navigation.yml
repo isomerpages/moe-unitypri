@@ -10,3 +10,8 @@ links:
     collection: parents-matter
   - title: Info Hub
     collection: info-hub
+  - title: INFO HUB
+    url: /permalink
+    sublinks:
+      - title: Tour of School
+        url: /parents-matters/Tour-of-school/permalink/
