@@ -41,7 +41,7 @@ description: ""
 
 **School-Based** 
 
-*   [MOE FAS](https://go.gov.sg/moe-efas)   Application Form for MOE FAS
+*   [MOE FAS](https://go.gov.sg/moe-efas)   Application Form for MOE FAS[](/files/Parents%20Matter/Resources%20for%20Parents/2023/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
 *   [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 *   Parents Information Booklet
 <br>[P1](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%201%20Parents%20Information%20Booklet%202023.pdf)
