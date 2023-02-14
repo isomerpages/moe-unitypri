@@ -3,7 +3,6 @@ title: Resources for Parents (Useful Links)
 permalink: /parents-matter/Resources-for-parents/permalink/
 description: ""
 ---
-
 ### **English & Library**
 
 *   [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
@@ -45,20 +44,20 @@ description: ""
 *   [MOE FAS](https://go.gov.sg/moe-efas)   Application Form for MOE FAS
 *   [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 *   Parents Information Booklet
-<br>P1 - [](/files/Parents%20Matter/Info(T&L)/2023/Primary%201%20Parents%20Information%20Booklet%202023.pdf)
-&nbsp; P2 - [](/files/Parents%20Matter/Info(T&L)/2023/Primary%202%20Parents%20Information%20Booklet%202023.pdf)
-&nbsp; P3 - [](/files/Parents%20Matter/Info(T&L)/2023/Primary%203%20Parents%20Information%20Booklet%202023.pdf)
-&nbsp; P4 - [](/files/Parents%20Matter/Info(T&L)/2023/Primary%204%20Parents%20Information%20Booklet%202023.pdf)
-&nbsp; P5 - [](/files/Parents%20Matter/Info(T&L)/2023/Primary%205%20Parents%20Information%20Booklet%202023.pdf)
-&nbsp; P6 -[](/files/Parents%20Matter/Info(T&L)/2023/Primary%206%20Parents%20Information%20Booklet%202023.pdf)
+<br>[P1](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%201%20Parents%20Information%20Booklet%202023.pdf)
+&nbsp; [P2](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%202%20Parents%20Information%20Booklet%202023.pdf)
+&nbsp; [P3](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%203%20Parents%20Information%20Booklet%202023.pdf)
+&nbsp; [P4](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%204%20Parents%20Information%20Booklet%202023.pdf)
+&nbsp; [P5](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%205%20Parents%20Information%20Booklet%202023.pdf)
+&nbsp; [P6](/files/Parents%20Matter/Resources%20for%20Parents/2023/Primary%206%20Parents%20Information%20Booklet%202023.pdf)
 
-* Parent-Teacher Conference (PTC)
-<br>P1 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC1_Primary%201.pdf)
-&nbsp; P2 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC2_Primary%202.pdf)
-&nbsp; P3 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC1_Primary%203.pdf)
-&nbsp; P4 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC1_Primary%204.pdf)
-&nbsp; P5 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC1_primary%205.pdf)
-&nbsp; P6 Slides - [](/files/Parents%20Matter/Briefings%20&%20Workshop/2023/2023%20PTC1_Primary%206.pdf)
+* Parent-Teacher Conference (PTC) Slides
+<br>[P1](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC1_Primary%201.pdf)
+&nbsp; [P2](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC2_Primary%202.pdf)
+&nbsp; [P3](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC1_Primary%203.pdf)
+&nbsp; [P4](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC1_Primary%204.pdf)
+&nbsp; [P5](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC1_primary%205.pdf)
+&nbsp; [P6](/files/Parents%20Matter/Resources%20for%20Parents/2023/2023%20PTC1_Primary%206.pdf)
 * [P4 Subject-Based Banding (SBB) - 2022](https://youtu.be/FTQwfiC-7fI)
 * [P6 PSLE Briefing - 2022](https://youtu.be/NvPePDUElqk)
 
