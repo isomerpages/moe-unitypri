@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Student Insurance.md
       - Tour of School.md
       - Procedures for Visitors.md
       - School Safety.md
