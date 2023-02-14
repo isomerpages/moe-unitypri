@@ -2,10 +2,10 @@ collections:
   info-hub:
     output: true
     order:
-      - Procedures for Visitors.md
       - Student Insurance.md
-      - School Safety.md
       - Tour of School.md
+      - Procedures for Visitors.md
+      - School Safety.md
       - Information on Services/.keep
       - Information on Services/Booklist & Bookshop.md
       - Information on Services/Canteen Stalls.md
@@ -13,5 +13,5 @@ collections:
       - Information on Services/Uniform Vendor.md
       - Information on Services/Bus Vendor.md
       - Information on Services/Student Care Centre.md
-      - Contact Us.md
       - ITQ.md
+      - Contact Us.md
