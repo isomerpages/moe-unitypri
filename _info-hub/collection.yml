@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Tour of School.md
-      - Procedures for Visitors.md
+      - School Hours.md
       - School Safety.md
       - Services/Student Insurance.md
       - Services/.keep
