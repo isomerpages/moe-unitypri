@@ -15,5 +15,5 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:25%" src="/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:meera_rajarethenam@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Meera Rajarethenam
+			<td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/Tamil%20Language%20Teachers/meera.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:meera_rajarethenam@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Meera Rajarethenam
 			<tr>
