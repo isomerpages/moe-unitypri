@@ -2,6 +2,7 @@ collections:
   parents-matter:
     output: true
     order:
+      - Home Based Learning.md
       - School Rules & Discipline Guidelines.md
       - Homework Policy.md
       - School Calendar.md
