@@ -15,7 +15,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-			<td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Palani_Velu_jeyaram@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Palani Velu Jeyaram</span></a><br>OM
+			<td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Palani_Velu_jeyaram@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr P. Jeyaram</span></a><br>OM
 		 <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/Mr%20Deva.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Devaraja_Vinayagam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Devaraja</span></a><br>OM
 		<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/SAT/ms%20zahratunisah%20binte%20abdul%20jabbar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:zahratunisah_a_jabbar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Zahratunisah</span></a><br>ICT Manager
 			<tr>
