@@ -30,3 +30,4 @@ d. Safety Drills
 * The school conducts physical safety drills to maintain its preparedness in times of emergencies and to raise baseline competency and awareness in students and staff.
 * Besides fire drill, the school conducts lockdown drill followed by evacuation to an External Holding Area. Students would be adequately briefed before these drills were conducted.
 * The school also conducts emergency relay system test with parents every term using PG. We appreciate your timely co-operation and consideration to read all the notifications sent out and take the necessary actions. Kindly turn on the PG notification in your phone setting so that you can be alerted to PG updates from the school and MOE in a timely manner.
+
