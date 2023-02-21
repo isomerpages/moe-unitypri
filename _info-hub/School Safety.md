@@ -3,26 +3,30 @@ title: School Safety
 permalink: /parents-matters/Information/School-Safety/permalink/
 description: ""
 ---
+### School Safety 
+Safety and security in our school is of paramount concern. We urge all parents to observe the following to keep the school safe for your child:
+  
+a.	Vehicular/ Pedestrian Access and Road Safety
+*  Extend graciousness and respect to our Security Guards who have the duty to keep the school secure.
+*  Be a considerate and safe road user. Do not stop your vehicle illegally, leave them unattended by the side of the road or obstruct traffic especially during peak school hours.
+*  To reduce traffic congestion within the school compound, use the nearby HDB driveways near Block 670 as quick drop-off & pick-up points for your child. In consideration of the residents, please do not park and wait there.
+*  Heed traffic rules and drive slowly within the vicinity of the school.
+*  As with all good habits, foster road safety practices from an early age for your child.  
+*  Children are the most vulnerable road users, and they need to be taught how to be road smart. An important part of teaching your child road safety is to model safe behaviours yourself. You may refer to the attached videos on YouTube by the Singapore Road Safety Council and view them with your child. 
 
 
-In Unity Primary, we firmly believe that safety habits and consciousness must prevail among students and staff to enable effective teaching and learning. To ensure that the safety standard is ever strengthened and improved, we closely align the safety framework and programmes to our school values, mission and vision. And through the journey of towards achieving these goals, we continue to strive for excellence in creating a safe, conducive environment for our students and staff.
+b.	All Visitors to School
+* Make an appointment before turning up at the school. Visitors with no appointment will be turned away.
+* Register at the Security Post before proceeding to the General Office for assistance. 
+* Wear the issued Visitor Pass while in the school premises and ensure that it is visible.
+* Visitors will have to comply with the safety measures and be disallowed to go beyond any unauthorised areas unaccompanied by our staff.
+* There is strictly no parking for all visitors.
 
-### **Our Safety Vision**
-To create a safe environment and develop a strong sense of safety consciousness to facilitate effective teaching and learning.
+c.	No Right Turn for Vehicles Exiting School 
+* A reminder that there is no right turn for vehicles exiting the school from 7 am to 7.45 am to facilitate smoother and safer traffic flow.
+* All vehicles exiting during that timing will need to turn left. We seek the cooperation of all drivers to comply with the regulation to mitigate the traffic congestion in the school carpark and the road outside
 
-### **Our Safety Mission**
-A strong safety culture in the school.
-
-### **Our Safety Approach**
-1\. Our School Safety Committee takes directions and follows up from safety reviews, incident records as well as good practices in devising the yearly safety work plans that support our safety mission and vision.
-
-![](/images/Safety1.jpeg)
-
-2\. We are committed to constantly engaging our parents and external partners to help us in improving our safety programmes and standards.
-
-![](/images/Safety2.jpeg)
-
-### **Our Safety Focus**
-To realize our safety vision and mission, our focus is to continually develop on pertinent areas as shown especially in the training of staff to develop their skills in managing safety and in educating our students in enhancing safety awareness.
-
-![](/images/Safety3.jpeg)
+d. Safety Drills
+* The school conducts physical safety drills to maintain its preparedness in times of emergencies and to raise baseline competency and awareness in students and staff.
+* Besides fire drill, the school conducts lockdown drill followed by evacuation to an External Holding Area. Students would be adequately briefed before these drills were conducted.
+* The school also conducts emergency relay system test with parents every term using PG. We appreciate your timely co-operation and consideration to read all the notifications sent out and take the necessary actions. Kindly turn on the PG notification in your phone setting so that you can be alerted to PG updates from the school and MOE in a timely manner.
