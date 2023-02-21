@@ -3,8 +3,6 @@ title: School Hours
 permalink: /parents-matters/Information/School-Hours/permalink/
 description: ""
 ---
-
-
 ###  **General Office Operating Hours**
 **School Term**  
 Monday to Friday : 7 am – 5 pm<br><br>
@@ -26,11 +24,3 @@ Main Gate and Side Gate: 6.30 am – 6 pm
 
 Back Gate: 6.30 am – 7.30 am, 1.30 pm – 2pm
 
-### **Visitor’s Registration Procedure**
-*   All visitors are to enter the school via Main Gate. Other gates will be out-of-bound to visitors.
-*   When issued a visitor’s pass, visitors should wear the pass prominently for identification while in school.
-*   During dismissal at 1.30 pm, only parents/guardians are allowed into the school at the designated waiting area.
-*   During recess from 8.30 am to 11.30 am, parents/guardians will not be allowed into the school compound.
-*   All visitors driving are advised to park their vehicles at the nearby HDB car parks.
-
-[Map to School](https://www.google.com/maps/place/Unity+Primary+School/@1.4003843,103.7460549,17z/data=!4m5!3m4!1s0x0:0x74e5035d50e58a04!8m2!3d1.403245!4d103.74729)
