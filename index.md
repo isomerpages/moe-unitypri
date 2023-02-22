@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Homepage/Homepage2.png
       key_highlights:
-        - title: Our Signature Programmes
+        - title: Signature Programmes
           description: ""
           url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
         - title: School Events
