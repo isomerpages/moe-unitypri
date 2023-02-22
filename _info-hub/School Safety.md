@@ -30,6 +30,7 @@ Safety and security in our school is of paramount concern. We urge all parents t
 * Besides fire drill, the school conducts lockdown drill followed by evacuation to an External Holding Area. Students would be adequately briefed before these drills were conducted.
 * The school also conducts emergency relay system test with parents every term using PG. We appreciate your timely co-operation and consideration to read all the notifications sent out and take the necessary actions. Kindly turn on the PG notification in your phone setting so that you can be alerted to PG updates from the school and MOE in a timely manner.
 
+<div style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ktTdBgcLEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jI1yH0P717M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -39,6 +40,4 @@ Safety and security in our school is of paramount concern. We urge all parents t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jW_aDBNNJgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9961aG5X0OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
+	</div>
