@@ -4,7 +4,7 @@ permalink: /info-hub/Services/MOE-FAS/permalink/
 description: ""
 third_nav_title: Services
 ---
-   **OBJECTIVE**
+**OBJECTIVE**
 
 1. The objective of the MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 2. For primary and secondary school students, the MOE FAS fully covers the cost of school and standard miscellaneous fees, textbooks and school uniform, as well as meal and transport subsidies.
@@ -17,7 +17,7 @@ third_nav_title: Services
 
 **SUBMISSION**
 
-4. Via Hardcopy Form
+4. Via [Hardcopy Form](/files/Info%20Hub/2023/MOE%20FAS.pdf) 
 5. Via [Online Form](https://go.gov.sg/moe-efas)
 **NOTE**
 
