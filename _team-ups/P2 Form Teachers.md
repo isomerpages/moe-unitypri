@@ -142,7 +142,7 @@ Mr Khairul Iman</span></a></span></td>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -156,22 +156,5 @@ Mr Khairul Iman</span></a></span></td>
     <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/AMIRUL.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:amirul_salihin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Amirul Salihin</span></a></span><br>
 		</td>
 	</tr>
-</thead>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:20%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/ms%20charissa%20tan%20lay%20shan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:charissa_tan_lay_shan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Tan</span></a></span></td>
-			</tr>
 </thead>
 </table>

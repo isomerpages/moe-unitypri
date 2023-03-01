@@ -6,7 +6,7 @@ agency_name: Unity Primary School
 locations:
   - address:
       - 21, Choa Chu Kang Crescent
-      - Singapore 688628
+      - S688628
       - ""
     operating_hours: []
     maps_link: ""

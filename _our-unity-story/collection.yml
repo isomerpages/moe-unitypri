@@ -3,9 +3,5 @@ collections:
     output: true
     order:
       - School Leaders’ Message.md
-      - Our Strategic Plan.md
-      - Motto and Philosophy.md
+      - School Direction and Focus.md
       - Our School Crest & School Song.md
-      - Vision, Mission and Values.md
-      - Achievements/.keep
-      - Achievements/2022.md

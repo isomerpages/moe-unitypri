@@ -1,0 +1,5 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - 2022.md
