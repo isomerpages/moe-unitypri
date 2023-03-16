@@ -17,9 +17,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:70%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/Lakshmi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lakshmi</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:85%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20joanna.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeba_kumar_selvin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Jo Anna</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:75%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Ms%20Tan%20Pheck%20Wan.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_pheck_wan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></span><br></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:57%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/Lakshmi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lakshmi_arivananthan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lakshmi</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:70%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20joanna.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jeba_kumar_selvin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Jo Anna</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Ms%20Tan%20Pheck%20Wan.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_pheck_wan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Pheck Wan</span></a></span><br></td>
 		</tr>
 </thead>
 </table>
