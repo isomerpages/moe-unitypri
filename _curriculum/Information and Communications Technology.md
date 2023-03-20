@@ -7,10 +7,8 @@ The ICT Department aims to equip every child to be self-directed and collaborati
 ### **<u>Key Programmes</u>**
 
 ##### **ICT Baseline Standards**
-
-![](/images/ICT1.png)
-
-![](/images/Curriculum/2023/ICT/ICT%20@%20UPS%20(2800%20×%201500%20px)%20(2800%20×%202800%20px).jpg)
+![](/images/Curriculum/2023/ICT/ICT1.png)
+![](/images/Curriculum/2023/ICT/ICT%20Department%202.png)
 
 ##### **Cyber Wellness Programme**
 
