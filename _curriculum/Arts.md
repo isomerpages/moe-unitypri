@@ -12,7 +12,7 @@ Students are presented with ample opportunities for creative and innovative self
 The engagement in art discussions promotes a lifelong enjoyment and an appreciation for artistic works; develop visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
 ### **Lower Primary Gallery**
-*Creating an artwork using warm and cool colour.*
+![](/images/Curriculum/2023/ART/C1.jpg)*Creating an artwork using warm and cool colour.*
 
 *Drawing with scissors like Matisse.*
 
@@ -37,7 +37,4 @@ An exposure programme that enables P6 students to experience cultural art and ho
 ##### **Year-End Art Exhibition**
 The Year-End Art Exhibition is put up every year in conjunction with the Annual Awards Day to celebrate Art. This year, the artwork that inspired the art exhibition was called the The NET. The NET is part of the MOE syllabus and is taught in our newly revamped school curriculum. 
 
-The Art Teachers educated the students about the artist and the reasons why the artwork was created. The exhibition emulates the actual art piece as a Hanging Sculpture & the teachers took the opportunity to showcase this meaningful artwork. With the showcase, students gave us an insight into their desires by expressing what they would want to ‘catch’ if they were given a net. 
-
-
-
+The Art Teachers educated the students about the artist and the reasons why the artwork was created. The exhibition emulates the actual art piece as a Hanging Sculpture & the teachers took the opportunity to showcase this meaningful artwork. With the showcase, students gave us an insight into their desires by expressing what they would want to ‘catch’ if they were given a net.
