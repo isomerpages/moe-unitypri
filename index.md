@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage Mar 2023.jpg
+      background: /images/Homepage/HomepageMar.png
       key_highlights:
         - title: Signature Programmes
           description: ""
