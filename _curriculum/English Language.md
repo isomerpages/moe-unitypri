@@ -4,11 +4,11 @@ permalink: /curriculum/English-Language/permalink/
 description: ""
 ---
 The English Language (EL) department aims to provide a dynamic learning environment where students demonstrate the love in acquiring and displaying confidence in using the EL. 
-
+![](/images/Curriculum/2023/EL/EL%20Pic1.jpg)
 ### **<u>Key Programmes</u>**
 ##### **EL Fest**
 EL Fest aimed to promote the joy of learning in students and inculcate in them a greater interest in learning English. During the event, students were treated to a repertoire of fun and exciting activities. Teachers recommended books to the students via Book Buzz and students participated in the Charity Book Drive, Read for Books, organised by National Library Board (NLB). The EL Fest continued in the classrooms through language-centric activities like memory and bingo games for P1 and P2 levels while the P3 to P6 students were engaged in boggles and charades. The EL Fest culminated with Storigami which involved teachers telling stories using origami.
-
+![](/images/Curriculum/2023/EL/EL%20Fest%201.png)![](/images/Curriculum/2023/EL/EL%20Fest%202.png)![](/images/Curriculum/2023/EL/EL%20Fest%203.png)![](/images/Curriculum/2023/EL/EL%20Fest%204.png)![](/images/Curriculum/2023/EL/EL%20Fest%205.png)
 ##### **UPSGEM**
 Unity Primary Speaks Good English Movement (UPSGEM) capitalises on the pre-assembly periods to teach students the differences between Singlish/improper EL and Standard EL. Students are encouraged to pronounce and spell commonly-mispronounced words and develop an awareness of proper English in everyday situations.
 
@@ -33,7 +33,4 @@ To better engage students in reading and speaking, the department introduced Moo
 <br>The SDR programme is a specialized literacy remediation programme for Primary 3 and Primary 4 students with dyslexia.  It aims to enable students to become strategic decoders and spellers whereby different strategies for reading, spelling and comprehension are taught. 
 
 **<u>Reading Remediation Programme (RRP)</u>**
-<br>The RRP is an additional literacy support programme implemented at Primary 3 and Primary 4 to support students with reading difficulties but who do not have dyslexia.  
-
-
-
+<br>The RRP is an additional literacy support programme implemented at Primary 3 and Primary 4 to support students with reading difficulties but who do not have dyslexia.
