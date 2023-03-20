@@ -4,11 +4,10 @@ permalink: /parents-matter/Info-on-Services/bookshop/permalink/
 description: ""
 third_nav_title: Services
 ---
-
 ### **School Bookshop**
 **The Ricky Book Centre**
 
-Monday to Friday: 8.30 am to 2.30 pm  
+Monday to Friday: 8.30 am to 3.00 pm  
 Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 6363 9159  
