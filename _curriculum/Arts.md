@@ -24,7 +24,7 @@ The engagement in art discussions promotes a lifelong enjoyment and an appreciat
 ### **Upper Primary Gallery**
 *Observational Drawing using the snacks for snack break.*
 *Dali inspired melting objects.*
-### **Key Programmes**
+### **<u>Key Programmes</u>**
 ##### **A Day @ the Museum**
 Learning journeys to local art museums are organised for all P4 students as part of the Art Education syllabus aimed at making learning more authentic and creating greater awareness of Singapore artists.
 *Some of the artworks seen during the Museum Tour.*
