@@ -21,21 +21,17 @@ The objective of the Mother Tongue Fortnight (MTFN) is to create an immersive en
 ![](/images/Curriculum/2023/MT/ML%20Fortnight.jpg)
 ![](/images/Curriculum/2023/MT/TL%20Fortnight.jpg)
 
----
 ##### **P3 Cultural Camp**
 P3 Cultural Camp is organised annually to enrich our students’ learning of their MTL and appreciation of their culture. Interesting activities are organised as part of the camp programme to promote interest in the learning of MT beyond the classrooms.
 ![](/images/Curriculum/2023/MT/MT%20P3%20Cultural.jpg)
 
----
 ##### **Cultural Performance Exposure Scheme**
 
 The Cultural Performance Exposure Scheme (CPES) is a MOE  initiative that aims to expose students to MTL cultural performance to enhance their learning. Our P4 students have the opportunity to watch and appreciate drama performances in the theatres. 
 
----
 ##### **Conversational Chinese and Malay Programme**
 Conversational Chinese and Malay (CCM) is an enrichment programme offered to Primary 4 students to enable them to have some grounding of Chinese/Malay language and culture, other than their own Mother Tongue language. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. 
 
----
 ##### **P5 Overseas Virtual Immersion Programme**
 To promote the use of MTL in an authentic setting, selected P5 Chinese and Malay students participate in overseas virtual immersion programme to China and Brunei respectively. During the programme, students get the opportunity to virtually visit places of cultural and educational interest, carry out hands-on activities as well as interact with students from local schools.
 ![](/images/Curriculum/2023/MT/CL1.jpg)
@@ -47,10 +43,8 @@ the Chinese culture*
 ![](/images/Curriculum/2023/MT/ML2.jpg)
 *Getting to know Brunei*
 
----
 ##### **MTL Ambassadors Programme**
 MTL students who shows interest and talent in specific areas are stretched through enrichment activities such as CL Cross Talk and Rakan Bahasa. They also represent the school in external competitions such as Cepat Tepat Kuiz, Creative Writing and Oratorical Competition to help them fulfil their potential in the language. 
 
----
 ##### **Mother Tongue Support Programme**
 Primary 3 and 4 students who require additional support in learning MTL are placed under the Mother Tongue Support Programme (MTSP). MTSP is a customised programme where students get more individualised attention while more opportunities are provided to use MTL to experience success in varying degrees.
