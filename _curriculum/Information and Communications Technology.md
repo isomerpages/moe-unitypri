@@ -3,6 +3,7 @@ title: Information and Communications Technology
 permalink: /curriculum/Information-and-Communications-Technology/permalink/
 description: ""
 ---
+The ICT Department aims to equip every child to be self-directed and collaborative with the use of ICT to enhance the learning environment.
 ### **<u>Key Programmes</u>**
 
 ##### **ICT Baseline Standards**
@@ -47,7 +48,3 @@ Our P5 cohort will be attending a coding enrichment programme called Code for Fu
 Through this programme, we hope to achieve the following desired outcomes for our students:
 1. Develop an appreciation of core computational thinking and coding concepts through simple visual programming-based lessons.
 2. Expose to emerging technologies such as artificial intelligence and Cyber Security.
-
-
-
-
