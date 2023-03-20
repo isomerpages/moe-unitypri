@@ -32,14 +32,15 @@ The engagement in art discussions promotes a lifelong enjoyment and an appreciat
 ### **<u>Key Programmes</u>**
 ##### **A Day @ the Museum**
 Learning journeys to local art museums are organised for all P4 students as part of the Art Education syllabus aimed at making learning more authentic and creating greater awareness of Singapore artists.
+![](/images/Curriculum/2023/ART/Art%20Collage%209.jpg)
 *Some of the artworks seen during the Museum Tour.*
 
 ##### **Batik Painting**
 An exposure programme that enables P6 students to experience cultural art and how art can be an industry. They learn and get to work on their own batik painting, an ancient painting style where designs on fabric are created using wax.
-
+![](/images/Curriculum/2023/ART/Art%20Collage%2010.jpg)
 *Cold wax liner used to draw the image before apply dye on the fabric.*
 
 ##### **Year-End Art Exhibition**
 The Year-End Art Exhibition is put up every year in conjunction with the Annual Awards Day to celebrate Art. This year, the artwork that inspired the art exhibition was called the The NET. The NET is part of the MOE syllabus and is taught in our newly revamped school curriculum. 
 
-The Art Teachers educated the students about the artist and the reasons why the artwork was created. The exhibition emulates the actual art piece as a Hanging Sculpture & the teachers took the opportunity to showcase this meaningful artwork. With the showcase, students gave us an insight into their desires by expressing what they would want to ‘catch’ if they were given a net.
+The Art Teachers educated the students about the artist and the reasons why the artwork was created. The exhibition emulates the actual art piece as a Hanging Sculpture & the teachers took the opportunity to showcase this meaningful artwork. With the showcase, students gave us an insight into their desires by expressing what they would want to ‘catch’ if they were given a net. ![](/images/Curriculum/2023/ART/Art%20Collage%2011.jpg)
