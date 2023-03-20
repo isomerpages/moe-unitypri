@@ -11,17 +11,17 @@ EL Fest aimed to promote the joy of learning in students and inculcate in them a
 ![](/images/Curriculum/2023/EL/EL%20Fest%201.png)![](/images/Curriculum/2023/EL/EL%20Fest%202.png)![](/images/Curriculum/2023/EL/EL%20Fest%203.png)![](/images/Curriculum/2023/EL/EL%20Fest%204.png)![](/images/Curriculum/2023/EL/EL%20Fest%205.png)
 ##### **UPSGEM**
 Unity Primary Speaks Good English Movement (UPSGEM) capitalises on the pre-assembly periods to teach students the differences between Singlish/improper EL and Standard EL. Students are encouraged to pronounce and spell commonly-mispronounced words and develop an awareness of proper English in everyday situations.
-
+![](/images/Curriculum/2023/EL/EL%20UPSGEM%20.jpg)
 ##### **Teaching Strategies**
 **STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) is an EL instructional programme that provides the instructional materials, teaching strategies and training to enable teachers to implement the EL syllabus.  
 
 Students are guided in the use of **SEES** Strategy for Simulated-based Conversation task. This helps them to make the content of the conversation richer. 
-
+![](/images/Curriculum/2023/EL/EL%20SEES.jpg)
 Using a unique **PRACT** approach crafted by our teachers, Upper Primary students are taught the skill of clarity and precision to ace in Situational Writing.   
-
+![](/images/Curriculum/2023/EL/EL%20Pract%20Approach.png)
 ##### **Digital Puppetry**
 To better engage students in reading and speaking, the department introduced Moo-O to P1 to P3 students. Moo-O is a digital puppetry software that is fun and engaging to help students improve their oracy skills. It is designed to motivate students to read fluently and expressively and promote self-directed learning. 
-
+![](/images/Curriculum/2023/EL/EL%20Moo%20O.jpg)
 ##### **Support Programmes**
 **<u>KidsREAD Programme</u>**
 <br>Since its inception in 2022, KidsREAD aims to promote the love of reading and cultivate good reading habits amongst children. The programme leverages the strengths of various partners to create a reading programme customised to meet the reading needs of selected children between ages 4 and 8. UPS collaborates with Unity Secondary School to conduct meaningful reading sessions for these students.
