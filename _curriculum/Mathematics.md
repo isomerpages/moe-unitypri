@@ -29,9 +29,9 @@ We emphasize on learning by doing. From concrete manipulatives and experiences, 
 ![](/images/Mathematics4.png)
 *Math Games Day*
 ![](/images/MathClub.jpeg)
-##### **Strategies**
-![](/images/Mathematics5.jpeg)
 
+![](/images/Mathematics5.jpeg)
+##### **Strategies**
 
 
 ![](/images/Mathematics6.png)
