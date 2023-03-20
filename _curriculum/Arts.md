@@ -12,17 +12,22 @@ Students are presented with ample opportunities for creative and innovative self
 The engagement in art discussions promotes a lifelong enjoyment and an appreciation for artistic works; develop visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
 ### **Lower Primary Gallery**
-![](/images/Curriculum/2023/ART/C1.jpg)*Creating an artwork using warm and cool colour.*
-
+![](/images/Curriculum/2023/ART/Art%20Collage%201.jpg)*Creating an artwork using warm and cool colour.*
+![](/images/Curriculum/2023/ART/Art%20Collage%202.jpg)
 *Drawing with scissors like Matisse.*
-
+![](/images/Curriculum/2023/ART/Art%20Collage%203.jpg)
 *Cartoon Drawing and Artwork inspired response*
 ### **Middle Primary Gallery**
+![](/images/Curriculum/2023/ART/Art%20Collage%204.jpg)
 *Using objects from nature to create Landart.*
+![](/images/Curriculum/2023/ART/Art%20Collage%205.jpg)
 *Learning about Picasso’s Cubism*
+![](/images/Curriculum/2023/ART/Art%20Collage%206.jpg)
 *Journey through Kadinsky’s Art*
 ### **Upper Primary Gallery**
+![](/images/Curriculum/2023/ART/Art%20Collage%207.jpg)
 *Observational Drawing using the snacks for snack break.*
+![](/images/Curriculum/2023/ART/Art%20Collage%208.jpg)
 *Dali inspired melting objects.*
 ### **<u>Key Programmes</u>**
 ##### **A Day @ the Museum**
