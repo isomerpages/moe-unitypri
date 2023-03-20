@@ -29,9 +29,7 @@ We emphasize on learning by doing. From concrete manipulatives and experiences, 
 ![](/images/Mathematics4.png)
 *Math Games Day*
 ![](/images/MathClub.jpeg)
-
 ![](/images/Mathematics5.jpeg)
 ##### **Strategies**
-
-
-![](/images/Mathematics6.png)
+![](/images/Curriculum/2023/MA/2023/Mathematics6.png)
+We devised the SPARK framework (adapted from Polya’s 4 steps in problem solving) to help guide and scaffold students’ thinking process during problem-solving.
