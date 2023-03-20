@@ -3,28 +3,25 @@ title: Science
 permalink: /curriculum/Science/permalink/
 description: ""
 ---
-### **Vision**
+#### **Aims of Primary Science Syllabus**
+The Primary Science Syllabus aims to provide students with experiences/ opportunities to:
+* Build on their interest and stimulate their curiosity about themselves and their environment.
+* Acquire basic scientific concepts to help them understand themselves and the world around them.
+* Develop skills, dispositions, and attitudes for scientific inquiry.
+* Apply scientific concepts and skills in making responsible decisions.
+* Appreciate how Science influences people and the environment.
 
-Students to develop a life-long interest in Science and apply scientific methods and principles to other disciplines.
-
-### **Mission**
-
-To make the learning of Science exciting, meaningful and relevant.
-
-To nurture and encourage questioning.
-
-### **<u>Programme Highlights</u>**
-#### **Inquiry-based Learning**
-
-In Unity Primary, Science lessons are conducted using the Inquiry-based approach to harness the power of questioning and reasoning. Our students are shown how the products of scientific investigations were derived by scientists and be provided opportunities to: ask questions about knowledge and issues that relate to their daily lives, society and the environment; be actively engaged in the collection and use of evidence; formulate and communicate explanations based on scientific knowledge.
-
+#### **Strategies**
+**Inquiry-based Learning**
+<br>In Unity Primary, Science lessons are conducted using the Inquiry-based approach to harness the power of questioning and reasoning. Our students are shown how the products of scientific investigations were derived by scientists and be provided opportunities to: ask questions about knowledge and issues that relate to their daily lives, society and the environment; be actively engaged in the collection and use of evidence; formulate and communicate explanations based on scientific knowledge.
 Through inquiry learning, our students will be able to acquire knowledge and understanding of their natural and physical world based on investigations, apply the skills and processes of inquiry and develop attitudes and values that are essential to the practice of science.
 
-#### **Experiential Learning**
-
-Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops.  
-
+**Experiential Learning**
+Apart from classroom learning, our students also have the opportunity to engage in experiential learning such as through learning journeys and enrichment workshops. 
 The school has also digitised our eco-garden to enable our students can find out more the diversity of plants whether rain or shine. Using interactive tools, students can learn about the characteristics of plants and engaged in mini quizzes to consolidate their learning.
+
+#### **<u>Key Programmes</u>**
+
 ![](/images/Curriculum/2023/SCI/P4%20Pet%20Rocket.jpg)
 *P4 Pet Rocket*
 ![](/images/Curriculum/2023/SCI/P5%20LJ%20DNA.jpg)
