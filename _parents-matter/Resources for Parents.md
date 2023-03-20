@@ -5,10 +5,12 @@ description: ""
 ---
 ### **English & Library**
 
-*   [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-*   [School e-Resources](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-*   [NLB Resources](https://childrenandteens.nlb.gov.sg/)
-*   [E-books](http://www.getepic.com/?utm_campaign=optimize&gclid=EAIaIQobChMI_MCdlaWI9AIV3ZNmAh2YNwT9EAAYASAAEgKrvPD_BwE)  
+*   [The Read-Aloud Handbook](https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html)
+*   [How To Improve Writing Skills for Pupils: 14 Easy Tips](https://www.oxfordlearning.com/improve-kids-writing-skills/)
+*   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
+*   [Reading Comprehension Learning Tools ](https://www.time4learning.com/readingpyramid/comprehension.htm)
+*   [Grammar](http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html)
+*   [Vocabulary](https://www.vocabulary.com/lists/)
 
 ### **Chinese Language**
 
