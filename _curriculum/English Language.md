@@ -8,7 +8,7 @@ The English Language (EL) department aims to provide a dynamic learning environm
 ### **<u>Key Programmes</u>**
 ##### **EL Fest**
 EL Fest aimed to promote the joy of learning in students and inculcate in them a greater interest in learning English. During the event, students were treated to a repertoire of fun and exciting activities. Teachers recommended books to the students via Book Buzz and students participated in the Charity Book Drive, Read for Books, organised by National Library Board (NLB). The EL Fest continued in the classrooms through language-centric activities like memory and bingo games for P1 and P2 levels while the P3 to P6 students were engaged in boggles and charades. The EL Fest culminated with Storigami which involved teachers telling stories using origami.
-![](/images/Curriculum/2023/EL/EL%20Fest%201.png)![](/images/Curriculum/2023/EL/EL%20Fest%202.png)![](/images/Curriculum/2023/EL/EL%20Fest%203.png)![](/images/Curriculum/2023/EL/EL%20Fest%204.png)![](/images/Curriculum/2023/EL/EL%20Fest%205.png)
+![](/images/Curriculum/2023/EL/EL%20.jpg)
 ##### **UPSGEM**
 Unity Primary Speaks Good English Movement (UPSGEM) capitalises on the pre-assembly periods to teach students the differences between Singlish/improper EL and Standard EL. Students are encouraged to pronounce and spell commonly-mispronounced words and develop an awareness of proper English in everyday situations.
 ![](/images/Curriculum/2023/EL/EL%20UPSGEM%20.jpg)
