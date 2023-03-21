@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### **Badminton**
-![](/images/Programmes/2022/CCA/CCA-2.jpg)
-**CCA TIC**: Ms Kashmeena, Mdm Ouyang Fengfei, Mdm Soo Poh Ling, Ms Meera<br>**CCA Advisor**: Mr Hairil
+![](/images/Programmes/2023/CCA/Badminton.jpg)The Badminton CCA provides opportunities for students to learn and apply the fundamental sports skills of net games such as serving, receiving and returning the shuttle cock to the opponent.  Students will be taught concepts such as depth and width play and how to attack and defend a space.  Basic rules of the game will progressively be taught and students will learn to apply them in the game.  Training will include basic footwork, stamina building, agility and coordination exercises under the close supervision of the teachers.  Through the singles and doubles games, students will also learn values such as sportsmanship, fairplay, discipline and teamwork.
+<br>**CCA TIC**: Mr Hanis, Ms Kashmeena, Mdm Ouyang FF, Mdm Soo PL, Ms Meera<br>**CCA Advisor**: Mr Hairil
 ### **Basketball**
-![](/images/Programmes/2022/CCA/CCA-3.jpg)
-**CCA TIC**: Mr Bruce Lim, Mrs Sylvia Quek, Mr Roy Ye, Ms Lim Hui Mei, Mdm Teo Seow Hoon<br>**CCA Advisor**: Mr Johari
+![](/images/Programmes/2023/CCA/Basketball.jpg)The Basketball CCA provides opportunities for students to learn and apply the fundamental sports skills in territorial and invasion games such as passing, dribbling and shooting.  Students will be taught concepts such as moving into space, attacking and defending.  They will also learn the rules and progressively apply them in the game.  Training will include basic ball skills, stamina building, agility and coordination exercises under the close supervision of the teachers and coach.  The students will also learn values such as sportsmanship, fair play, teamwork and discipline.
+<br>**CCA TIC**: Mr Bruce Lim, Mrs Sylvia Quek, Mr Roy Ye, Ms Lim HM, Mdm Teo SH <br>**CCA Advisor**: Mr Johari
 ### **Floorball**
-![](/images/Programmes/2022/CCA/CCA-4.jpg)
-**CCA TIC**: Mr Hairil, Mr Yasin, Mdm Nirwana, Mdm Norazelin, Ms Bhavani<br>**CCA Advisor**: Mr Hairil
+![](/images/Programmes/2023/CCA/Floorball.jpg)The Floorball CCA provides opportunities for students to learn and apply the fundamental sports skills such as passing, dribbling and shooting using a long handed implement - the floorball stick.  It is somewhat similar to traditional hockey game but played in a smaller playing area and in a rink.  Students will be taught concepts such as moving into space, attacking and defending.  They will also learn the rules and progressively apply them in the game.  Training will include basic stick handling skills, stamina building, agility and coordination exercises under the close supervision of the teachers and coach.  The students will also learn values such as sportsmanship, fair play, teamwork and discipline.
+<br>**CCA TIC**: Mr Hairil, Mr Yasin, Mdm Nirwana, Mdm Norazelin, Ms Bhavani<br>**CCA Advisor**: Mr Hairil
 ### **Football**
-![](/images/Programmes/2022/CCA/CCA-5.jpg)
-**CCA TIC**: Mr Amirul, Ms Wong Yun Yee, Ms Siti Khadijah, Mr Shyam Kumar, Mdm Norfaiza<br>**CCA Advisor**: Mr Johari
+![](/images/Programmes/2023/CCA/Football.jpg)The Football CCA provides opportunities for students to learn and play one of the more popular games in Singapore.  Students learn to dribble a ball, kick to shoot at goal or kick to pass the ball to teammates.  Students will be taught concepts such as moving into space, attacking and defending.  Basic rules of the game will progressively be taught and students will learn to apply them in the game.  Training will include basic ball skills, stamina building, agility and coordination exercises under the close supervision of the teachers and coach.  The students will also learn values such as sportsmanship, fair play, teamwork and discipline.
+<br>**CCA TIC**: Mr Amirul, Ms Wong YY, Ms Siti Khadijah, Mr Shyam, Mdm Norfaiza<br>**CCA Advisor**: Mr Johari
 ### **Netball**
-![](/images/Programmes/2022/CCA/CCA-6.jpg)
-**CCA TIC**: Ms Jessica Lim, Ms Jo Anna, Ms Iris Ooi, Mdm Firdawati, Mrs Sherral Lim<br>**CCA Advisor**: Mrs Veronica Tan
+![](/images/Programmes/2023/CCA/Netball.jpg)
+The Netball CCA provides opportunities for our girls to participate in a ball game.  Students will apply fundamental sports skills such as throwing and catching, pivoting and shooting into the net.  Students will be taught concepts such as moving into space, attacking and defending. They will also learn the complex rules in Netball and progressively apply them in the game.  Training will include basic ball skills, footwork, stamina building, agility and coordination exercises under the close supervision of the teachers and coach.  Through the games, students will learn values such as sportsmanship, fair play, teamwork and discipline.
+<br>**CCA TIC**: Ms Jessica Lim, Ms Jo Anna, Ms Iris Ooi, Mdm Firdawati, Mrs Sherral Lim<br>**CCA Advisor**: Mrs Veronica Tan

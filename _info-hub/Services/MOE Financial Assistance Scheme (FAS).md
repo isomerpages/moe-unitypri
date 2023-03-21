@@ -19,6 +19,7 @@ third_nav_title: Services
 
 4. Via [Hardcopy Form](/files/Info%20Hub/2023/MOE%20FAS.pdf) 
 5. Via [Online Form](https://go.gov.sg/moe-efas)
+
 **NOTE**
 
 6. If your child is a ComCare recipient, you need not submit the application for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.

@@ -3,43 +3,33 @@ title: Mathematics
 permalink: /curriculum/Mathematics/permalink/
 description: ""
 ---
-### **Vision**
-
-Students to develop a love for Mathematics and apply problem-solving skills to other disciplines.
-
-### **Mission**
-
-*   To make learning of Mathematics relevant and interesting.
-*   To build a strong foundation in numeracy.
-
-### **<u>Programme Highlights/Enrichment Activities</u>**
 In Unity Primary School, we follow the MOE Mathematics Framework closely.  
 The framework sets the direction for teaching, learning, and assessment practices in school.
 
 ![](/images/Mathematics.jpeg)
+### **<u>Key Programmes</u>**
+##### **Broad-based Programmes:**
+* Heuristic Booklet (P1 to P6)
+* Brain Gym (P1 to P4)
+* Speed Tests (P5 to P6)
 
-#### **Engagement**
+##### **Customised Programmes:**
+* Focused Remediation
+* E2K Mathematics (P4 to P6)
 
-In Unity Primary, we emphasize on learning by doing. From concrete manipulatives and experiences, students are guided to uncover abstract mathematical concepts and results. Students engage in activities to explore and learn mathematical concepts and skills. We stress the use of C-P-A in the learning of mathematics. (Concrete-Pictorial-Abstract). We believe in making learning of mathematics fun, meaningful and relevant.
+##### **Engagement**
+We emphasize on learning by doing. From concrete manipulatives and experiences, students are guided to uncover abstract mathematical concepts and results. Students engage in activities to explore and learn mathematical concepts and skills. We stress the use of C-P-A (Concrete-Pictorial-Abstract) in the learning of Mathematics. We strive to make learning of Mathematics fun, meaningful and relevant.
 
 ![](/images/Mathematics2.png)
-
-Use of manipulatives in Mathematics learning
+*Use of manipulatives in Mathematics learning*
 
 ![](/images/Mathematics3.png)
-
-Math Games / Math Quiz during recess
+*Math Games / Math Quiz during recess*
 
 ![](/images/Mathematics4.png)
-
-Math Games Day
-
+*Math Games Day*
 ![](/images/MathClub.jpeg)
-
 ![](/images/Mathematics5.jpeg)
-
-We adopt Polya’s steps in problem solving, infusing the use of effective questioning into their thought processes.
-
-Effective questioning can scaffold thinking and aid problem-solving.
-
-![](/images/Mathematics6.png)
+##### **Strategies**
+![](/images/Curriculum/2023/MA/2023/Mathematics6.png)
+We devised the SPARK framework (adapted from Polya’s 4 steps in problem solving) to help guide and scaffold students’ thinking process during problem-solving.

@@ -3,139 +3,34 @@ title: English Language
 permalink: /curriculum/English-Language/permalink/
 description: ""
 ---
-![](/images/Curriculum/2023/EL/Picture1.png)
-### **Vision**
-Everyone in Unity is a competent user of the English Language – at work and at play.
+The English Language (EL) department aims to provide a dynamic learning environment where students demonstrate the love in acquiring and displaying confidence in using the EL. 
+![](/images/Curriculum/2023/EL/EL%20Pic1.jpg)
+### **<u>Key Programmes</u>**
+##### **EL Fest**
+EL Fest aimed to promote the joy of learning in students and inculcate in them a greater interest in learning English. During the event, students were treated to a repertoire of fun and exciting activities. Teachers recommended books to the students via Book Buzz and students participated in the Charity Book Drive, Read for Books, organised by National Library Board (NLB). The EL Fest continued in the classrooms through language-centric activities like memory and bingo games for P1 and P2 levels while the P3 to P6 students were engaged in boggles and charades. The EL Fest culminated with Storigami which involved teachers telling stories using origami.
+![](/images/Curriculum/2023/EL/EL%20.jpg)
+##### **UPSGEM**
+Unity Primary Speaks Good English Movement (UPSGEM) capitalises on the pre-assembly periods to teach students the differences between Singlish/improper EL and Standard EL. Students are encouraged to pronounce and spell commonly-mispronounced words and develop an awareness of proper English in everyday situations.
+![](/images/Curriculum/2023/EL/EL%20UPSGEM%20.jpg)
+##### **Teaching Strategies**
+**STELLAR** (**ST**rategies for **E**nglish **L**anguage **L**earning **A**nd **R**eading) is an EL instructional programme that provides the instructional materials, teaching strategies and training to enable teachers to implement the EL syllabus.  
 
-### **Mission**
-Provide a dynamic learning environment where staff and students demonstrate a love in acquiring and displaying confidence in using the language.
+Students are guided in the use of **SEES** Strategy for Simulated-based Conversation task. This helps them to make the content of the conversation richer. 
+![](/images/Curriculum/2023/EL/EL%20SEES.jpg)
+Using a unique **PRACT** approach crafted by our teachers, Upper Primary students are taught the skill of clarity and precision to ace in Situational Writing.   
+![](/images/Curriculum/2023/EL/EL%20Pract%20Approach.png)
+##### **Digital Puppetry**
+To better engage students in reading and speaking, the department introduced Moo-O to P1 to P3 students. Moo-O is a digital puppetry software that is fun and engaging to help students improve their oracy skills. It is designed to motivate students to read fluently and expressively and promote self-directed learning. 
+![](/images/Curriculum/2023/EL/EL%20Moo%20O.jpg)
+##### **Support Programmes**
+**<u>KidsREAD Programme</u>**
+<br>Since its inception in 2022, KidsREAD aims to promote the love of reading and cultivate good reading habits amongst children. The programme leverages the strengths of various partners to create a reading programme customised to meet the reading needs of selected children between ages 4 and 8. UPS collaborates with Unity Secondary School to conduct meaningful reading sessions for these students.
 
-### **<u>Programme Highlights/Enrichment activities</u>**
+**<u>Learning Support Programme (LSP)</u>**
+<br>The LSP is an early intervention programme aimed at building literacy skills for Primary 1 and Primary 2 students.  This programme is to provide targeted learning support for students in areas such as reading and spelling.
 
+**<u>School-based Dyslexia Remediation (SDR)</u>**
+<br>The SDR programme is a specialized literacy remediation programme for Primary 3 and Primary 4 students with dyslexia.  It aims to enable students to become strategic decoders and spellers whereby different strategies for reading, spelling and comprehension are taught. 
 
-##### **Primary 1**
-
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-
-**Customised Programmes:**
-
-*   Learning Support Programme (LSP)
-*   Focused Remediation
-*   Digital Pupperty
-
-##### **Primary 2**
-
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-*   Digital Puppetry
-
-**Customised Programmes:**
-
-*   Learning Support Programme (LSP)
-*   KidsREAD Programme
-*   Focused Remediation
-
-##### **Primary 3** 
-
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-*   Digital Puppetry
-*   Reader's Theatre Workshop
-
-**Customised Programmes:**
-
-*   Learning Support Programme (In-house)
-*   Critical Thinking Programme
-*   Literature Programme
-*   Reading Remediation Programme (RRP)
-*   School Dyslexia Remediation (SDR)
-*   Focused Remediation
-
-##### **Primary 4**
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-
-**Customised Programmes:**
-
-*   Learning Support Programme (In-house)
-*   Critical Thinking Programme
-*   Literature Programme
-*   Reading Remediation Programme (RRP)
-*   School Dyslexia Remediation (SDR)
-*   Focused Remediation
-
-##### **Primary 5**
-
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-
-**Customised Programmes:**
-
-*   Critical Thinking Programme
-*   Effective Communication Workshop
-*   Focused Remediation
-
-##### **Primary 6**
-
-**Broad-based Programmes:**
-
-*   Strategies for EL Learning and Reading (STELLAR)
-*   Read A Book Because It’s Terrific (R.A.B.B.I.T)
-
-**Customised Programmes:**
-
-*   Focused Remediation
-
-### **Read A Book Because It’s Terrific (R.A.B.B.I.T)**
----
-R.A.B.B.I.T is a whole school approach to reading in UPS. It consists of broad-based and focused activities. The objectives of R.A.B.B.I.T are as follow:
-
-*   To introduce students to the wonderful world of books
-*   To implement meaningful and exciting reading activities
-*   To inculcate a life-long passion for reading
-
-##### **Broad-based Activities:**
-
-Extensive Reading (P1 – P4)
-
-*   Promote reading – to cultivate the love for reading
-
-##### **Key Competition:**
-*  Wits and Words (Debate Competition)
-
-### **Books 2 Go**
-----------
-
-Mass Borrowing
-![](/images/Curriculum/2023/EL/EL%20Webpage.jpg)
-
-### **Critical Thinking Programme**
-------------------------------------------
-
-Literature Texts:
-
-*   Primary 3 – Charlotte’s Web
-*   Primary 4 – Matilda
-*   Primary 5 – Kite Fighters
-![](/images/Curriculum/2023/EL/Picture4.png)
-
-### **References**
-----------
-*   [The Read-Aloud Handbook](https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html)
-*   [Reading Comprehension Learning Tools](https://www.time4learning.com/readingpyramid/comprehension.htm)
-*   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
-*   [How to Improve Writing Skills for Pupils: 14 Easy Tips](https://www.oxfordlearning.com/improve-kids-writing-skills/)
-*   [Grammar](http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html)
-*   Dictionary and Thesaurus
-    <br>[www.merriam-webster.com](https://www.merriam-webster.com/)<br>[dictionary.reference.com](http://www.dictionary.reference.com/)
+**<u>Reading Remediation Programme (RRP)</u>**
+<br>The RRP is an additional literacy support programme implemented at Primary 3 and Primary 4 to support students with reading difficulties but who do not have dyslexia.
