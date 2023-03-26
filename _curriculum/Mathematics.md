@@ -3,7 +3,11 @@ title: Mathematics
 permalink: /curriculum/Mathematics/permalink/
 description: ""
 ---
-In Unity Primary School, we follow the MOE Mathematics Framework closely.  
+The Mathematics Department aims to develop a love for Mathematics and apply problem-solving skills to other disciplines. We aim to do this via:
+* Making the learning of Mathematics relevant and interesting.
+* Building a strong foundation in numeracy.
+
+In UPS, we follow the MOE Mathematics Framework closely.
 The framework sets the direction for teaching, learning, and assessment practices in school.
 
 ![](/images/Mathematics.jpeg)
