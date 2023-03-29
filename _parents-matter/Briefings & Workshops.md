@@ -7,13 +7,8 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FTQwfiC-7fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-### **P6 Direct School Admission (DSA)**
-**Coming Soon*
-
----
-### **P6 PSLE - 2022**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NvPePDUElqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+### **P6 PSLE and Direct School Admission (DSA) Briefing 2023**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qqhHO2s5seM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ---
 ### **Parent-Teacher Conference (PTC)**
 **[P1 PTC Slides 2023](/files/Parents%20Matter/2023/Briefings%20&%20Workshops/2023%20PTC1_Primary%201.pdf)**
