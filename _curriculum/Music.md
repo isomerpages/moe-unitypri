@@ -3,8 +3,7 @@ title: Music
 permalink: /curriculum/Music/permalink/
 description: ""
 ---
-![](/images/music_2-e1613635743714.jpg)
-
+![](/images/Curriculum/2023/Music/Music%201.png)
 In UPS, we believe that music, alongside visual art and physical education, is an important part of every child’s holistic education. Hence, all our music programmes are geared toward providing our students plenty of opportunities to explore, develop and share their music talents and skills.
 
 The goal of the Music Department is to promote, encourage and develop the love for music-making amongst students through engaging, challenging and fun-loving activities, in line with the standards set by the General Music Programme Syllabus.
@@ -25,9 +24,4 @@ Aside from various music experiences in the classroom, all students are also enc
 
 ##### **Unity Got Talent**
 Unity’s Got Talent was started in 2020 to provide students with opportunities to hone, express and share their talents. Through the experience, it inculcates school values and an appreciation and gratitude to the school. From singing to playing musical instruments, to dancing and doing different tricks and challenges, students step up by auditioning, rehearsing and performing during Teacher’s Day – a tribute concert for our teachers. It is an event that both the teachers and students anticipate where students prove that they have the talent and heart for their teachers.
-
-![](/images/Music1.png)
-
-![](/images/Music2.png)
-
-![](/images/Music3.jpeg)
+![](/images/Curriculum/2023/Music/Music%202.jpg)
