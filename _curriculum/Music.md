@@ -3,7 +3,7 @@ title: Music
 permalink: /curriculum/Music/permalink/
 description: ""
 ---
-![](/images/Curriculum/2023/Music/Music%201.png)
+![](/images/Curriculum/2023/Music/Music%200.png)
 In UPS, we believe that music, alongside visual art and physical education, is an important part of every child’s holistic education. Hence, all our music programmes are geared toward providing our students plenty of opportunities to explore, develop and share their music talents and skills.
 
 The goal of the Music Department is to promote, encourage and develop the love for music-making amongst students through engaging, challenging and fun-loving activities, in line with the standards set by the General Music Programme Syllabus.
