@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Parent Volunteers.md
       - School Calendar.md
       - Letters to Parents.md
       - Parents Information Booklet.md
@@ -11,3 +10,4 @@ collections:
       - Home Based Learning and SLS.md
       - School Rules & Discipline Guidelines.md
       - Resources for Parents.md
+      - Parent Volunteers.md
