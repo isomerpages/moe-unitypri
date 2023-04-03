@@ -14,5 +14,3 @@ If you are keen to be a PV or have any queries, feel free to email Mrs Veronica 
 We strongly believe that you will find volunteering in UPS an enriching and meaningful experience. Together we can make learning in UPS a wonderful experience for the students.
 
 We would also like to thank the Parent Volunteers who have come forward to provide their help and support in 2022. Without you, the students would not have such an enriching and happy time taking part in the various school programmes in 2022. Thank you very much, Parent Volunteers!
-
-
