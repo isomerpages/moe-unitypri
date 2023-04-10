@@ -85,7 +85,7 @@ Mr Khairul Iman</span></a></span></td>
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/mrs%20angeline%20goh.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:siti_khadijah_riduan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Angeline Goh</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:43%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/filzah.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Filzah_Shafiee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Filzah
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P2%20Form%20Teachers/filzah.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Filzah_Shafiee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Filzah
 </span></a></span><br>
 		</td>
 	</tr>
