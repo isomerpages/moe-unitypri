@@ -39,7 +39,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20nabilah%20binte%20ithnin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nabilah_ithnin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nabilah Ithnin</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/Middle%20Management/ms%20lim%20hui%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hui_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Lim Hui Mei</span></a></span></td>
 	</tr>
 </thead>
 </table>
@@ -120,7 +120,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/ms%20wong%20yun%20yee.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_yun_yee@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Wong Yun Yee</span></a></span></td>
-		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span></td>
+		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/Middle%20Management/mr%20kelvin%20ng%20chin%20khiang.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kelvin_ng_chin_khiang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kelvin Ng</span></a></span></td>
 	</tr>
 </thead>
 </table>
@@ -141,6 +141,7 @@ description: ""
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P6%20Form%20Teachers/mrs%20sylvia%20quek.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ong_mui_yen_sylvia@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Sylvia Quek</span></a></span></td>
 		 <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Hidayati</span></a></span></td>
+		<td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20ma%20yu.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ma_yu@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Ma Yu</span></a></span><br></td>
 	</tr>
 </thead>
 </table>
