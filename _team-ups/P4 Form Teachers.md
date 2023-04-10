@@ -39,8 +39,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/ms%20iris%20ooi%20shimin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ooi_shimin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Iris Ooi</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/ms%20iris%20ooi%20shimin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ooi_shimin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Iris Ooi</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:35%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal</span></a></span><br>
 		</td>
 	</tr>
 </thead>
