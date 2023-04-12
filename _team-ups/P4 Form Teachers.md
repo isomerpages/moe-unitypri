@@ -39,8 +39,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/ms%20iris%20ooi%20shimin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ooi_shimin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Iris Ooi</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/ms%20iris%20ooi%20shimin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ooi_shimin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Iris Ooi</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:35%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -60,8 +60,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mdm%20siti%20nurshahidah%20binte%20rosman.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:siti_nurshahidah_rosman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Siti Nurshahidah</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20liu%20kum%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_kum_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Liu Kum Mei</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mdm%20siti%20nurshahidah%20binte%20rosman.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:siti_nurshahidah_rosman@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Siti Nurshahidah</span></a></span></td>
+		<td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bernard Foo</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20liu%20kum%20mei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_kum_mei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Liu Kum Mei</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -82,7 +83,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20cheong%20perk%20yin%20kenneth.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:kenneth_cheong_perk_yin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Kenneth Cheong</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Ang Kok Ping</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/Middle%20Management/kok%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ang_kok_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Ang Kok Ping</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -102,9 +103,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mrs%20wee-wong%20li%20ting.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_li_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Wee Li Ting</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span></td>
-		<td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_zhi_ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chow Zhi Ying</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mrs%20wee-wong%20li%20ting.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_li_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Wee Li Ting</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span></td>
+		<td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_zhi_ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chow Zhi Ying</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -125,7 +126,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Punitha.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Punitha_Elancheran@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Punitha</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bruce Lim</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/sun%20xiaoli.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Sun_Xiaoli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Sun Xiaoli</span></a></span><br>
 		</td>
 		</tr>
 </thead>

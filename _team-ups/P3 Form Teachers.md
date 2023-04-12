@@ -39,8 +39,10 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Saraswathi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:saraswathi_pannirsilvam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Saraswathi</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20law%20siok%20cheng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:law_siok_cheng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Saraswathi.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:saraswathi_pannirsilvam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Saraswathi</span></a></span></td>
+		<td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/eunice%20liang.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Eunice_Liang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Eunice Liang</span></a></span><br>
+		</td>
+    <td class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20law%20siok%20cheng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:law_siok_cheng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Law Siok Cheng</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -82,7 +84,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mdm%20phee%20lay%20kuan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:phee_lay_kuan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Phee Lay Kuan</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mr%20foo%20sing%20keng%20bernard.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:foo_sing_keng_bernard@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Bernard Foo</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/wei%20wen.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Sim_Wei_Wen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Sim Wei Wen</span></a></span><br>
 		</td>
 	</tr>
 </thead>
