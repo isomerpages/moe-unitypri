@@ -8,4 +8,4 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|MOESCHETQ23001870| Supply of Instructor for Netball CCA Training Programme in Unity Primary School |10 April 2023 1.00pm |
+|MOESCHETQ23001870| Supply of Instructor for Netball CCA Training Programme in Unity Primary School |18 April 2023 1.00pm |
