@@ -29,7 +29,7 @@ P3 Cultural Camp is organised annually to enrich our students’ learning of the
 
 The Cultural Programme Exposure Scheme (CPES) is an initiative to promote Chinese Language (CL) learning in students and aims to expose students to CL-related cultural performances by local and foreign performing arts groups.
 After a 3-year hiatus, we were finally able to take our students to Victoria Theatre to watch a live performance on Wed, 5 Apr this year. P4CL students watched a Chinese children drama “Kiki and Her Magical Stories 2” 《小魔女的童话故事》by the Arts Theatre Pte Ltd. Our students and teachers enjoyed the learning journey tremendously, especially it being their first outdoor learning journey since the pandemic struck. The performance was very interesting and students enjoyed the interaction with the actors during the performance. 
-
+![](/images/Curriculum/2023/MT/cl%20cpes%202023.jpg)
 
 ##### **Conversational Chinese and Malay Programme**
 Conversational Chinese and Malay (CCM) is an enrichment programme offered to Primary 4 students to enable them to have some grounding of Chinese/Malay language and culture, other than their own Mother Tongue language. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. 
