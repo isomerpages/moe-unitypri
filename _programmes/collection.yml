@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Recess Play.md
       - Applied Learning Programme/.keep
       - Applied Learning Programme/English Language ALP.md
       - Applied Learning Programme/Chinese Language ALP.md
@@ -34,3 +33,4 @@ collections:
       - Junior Achievement Programme/P5 JAP.md
       - Junior Achievement Programme/P6 JAP.md
       - Project Work.md
+      - Recess Play.md
