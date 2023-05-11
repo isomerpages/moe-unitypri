@@ -45,7 +45,7 @@ The P6 Unité is organised for our graduating cohort to have the opportunity dur
 This year, the P6 Unité took place on 9 and 10 March. Students relished participating in the different activities as well as the bonding time with their classmates. The teambuilding games allowed the students to work together to brave the various obstacles. As the students humbly recited the class pledge and held up the class flag created by them in unison, their teachers looked on with great pride and delight.
 
 Notably, students garnered essential learnings and demonstrated their appreciation to their classmates and teachers at the end of the 2 days. Students reflected that it was indeed a meaningful and memorable experience for them to reminisce upon their graduation at the end of the year. 
-
+![](/images/Programmes/2023/LLP/2023%20p6%20unite.jpg)
 ### **P5 Outdoor Learning Experience (OLE!)**
 The P5 OLE is organised as an alternative programme to the P5 Camp Fortitude Outdoor Adventure Learning (OAL) Cohort Camp to achieve the OAL & Outdoor Education objectives.
 
