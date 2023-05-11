@@ -13,4 +13,5 @@ The 6-h programme involved a virtual tour of places of cultural & educational in
 
 The day culminated in a hands-on activity where our students applied their new-found knowledge of Vietnam where they painted flowers, animals and other items symbolic of Vietnam on the nón lá (leaf hat), a perfect circular cone which tapers smoothly from the base to the apex. 
 
-After the activity, our students completed a reflection on what they cherished about being in Singapore and shared with one another. All in all, the students had an enjoyable and beneficial experience.  
+After the activity, our students completed a reflection on what they cherished about being in Singapore and shared with one another. All in all, the students had an enjoyable and beneficial experience.
+![](/images/Programmes/2023/OIP/2023%20voip%20vietnam.jpg)
