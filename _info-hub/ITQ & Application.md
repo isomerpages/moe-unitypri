@@ -19,8 +19,8 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 **Application Procedure**
 
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
- 
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
+*  [Application Form](/files/Info%20Hub/2023/application%20form%20for%20stall.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -57,4 +57,3 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
