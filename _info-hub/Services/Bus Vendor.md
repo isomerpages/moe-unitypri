@@ -12,6 +12,6 @@ third_nav_title: Services
 
 **School Bus Operator and Bus Fare**
 
-(/files/Info%20Hub/2023/Bus%20Fare/school%20bus%20fare.pdf)
+[School Bus Fare](/files/Info%20Hub/2023/Bus%20Fare/school%20bus%20fare.pdf)
 
 Parents are to contact the bus operator directly for their child’s transport arrangement.
