@@ -10,6 +10,6 @@ third_nav_title: Services
 **E-mail :** eileenbus@hotmail.sg  
 **Website :** <a href="www.eileenbus.com/" target="_blank" rel="noopener noreferrer">www.eileenbus.com</a>
 
-[School Bus Operator &amp; Fare](/files/Info%20Hub/2023/Bus%20Fare/school%20bus%20fare.pdf)
+[School Bus Operator and Bus Fare](/files/Info%20Hub/2023/Bus%20Fare/school%20bus%20fare.pdf)
 
 Parents are to contact the bus operator directly for their child’s transport arrangement.
