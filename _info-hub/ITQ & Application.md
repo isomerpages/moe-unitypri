@@ -11,7 +11,7 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 | -------- | -------- | -------- |
 |*To be updated *
 
-#### School Canteen Advertisement
+#### Canteen Stall Application
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
