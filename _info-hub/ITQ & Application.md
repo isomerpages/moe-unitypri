@@ -9,7 +9,7 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|*To be updated *
+|
 
 #### Canteen Stall Application
 
