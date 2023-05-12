@@ -15,7 +15,7 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese     | 31 May 2023     | Tim Sum is acceptable|
+| Japanese     | 31 May 2023     | Dim Sum is acceptable|
 
 **Application Procedure**
 
