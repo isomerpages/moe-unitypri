@@ -40,9 +40,12 @@ Every Friday, students will bring their recyclables and drop them in the recycli
 To complement CCE & imbue in our students sound values with a heart of contribution to the society, the school, in collaboration with Food From The Heart, organises a food donation drive in Term 2 yearly to encourage students to put into practice of their values into action. This provides an opportunity for students’ involvement in the process of giving back to the society.
 ![](/images/Programmes/2023/LLP/Food%20Donation.jpg)
 ### **P6 Unité**
-The P6 Unité is organised for our graduating cohort to have the opportunity during their last year in Unity Primary School to experience cohort activities to fortify community spirit & competencies as they embrace the challenges ahead for transition to the next phase of their educational journey. 
-Through games and activities out of their classroom, students get to learn and demonstrate resilience, teamwork and self-confidence. They will also be motivated to give their best and have the desire to excel.
-![](/images/Programmes/2023/LLP/P6%20Unite.jpg)
+The P6 Unité is organised for our graduating cohort to have the opportunity during their last year in Unity Primary School to experience cohort activities. These activities serve as platforms for the students to fortify community spirit and competencies as they embrace the challenges ahead for transition to the next phase of their educational journey. Through the various fun-filled games and activities out of their classrooms, students have opportunities to demonstrate resilience, teamwork and self-confidence. They are also motivated to give their best and have the desire to excel as they work towards the first important milestone in their life.
+
+This year, the P6 Unité took place on 9 and 10 March. Students relished participating in the different activities as well as the bonding time with their classmates. The teambuilding games allowed the students to work together to brave the various obstacles. As the students humbly recited the class pledge and held up the class flag created by them in unison, their teachers looked on with great pride and delight.
+
+Notably, students garnered essential learnings and demonstrated their appreciation to their classmates and teachers at the end of the 2 days. Students reflected that it was indeed a meaningful and memorable experience for them to reminisce upon their graduation at the end of the year. 
+![](/images/Programmes/2023/LLP/2023%20p6%20unite.jpg)
 ### **P5 Outdoor Learning Experience (OLE!)**
 The P5 OLE is organised as an alternative programme to the P5 Camp Fortitude Outdoor Adventure Learning (OAL) Cohort Camp to achieve the OAL & Outdoor Education objectives.
 
