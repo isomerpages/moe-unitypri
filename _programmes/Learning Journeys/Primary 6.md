@@ -15,3 +15,7 @@ The students not only enjoyed the outdoors, immersing themselves in the flora ar
 
 It was definitely an enriching and unforgettable experience for both the students and staff.
 ![](/images/Learning%20Journeys/2022/Primary%206/2022%20P6%20Race%20to%20Sustainability.jpg)
+
+### **Learning Journey to Sungei Buloh**
+Nothing beats going out into nature and observing animals in their habitat! That was what the P6 students experienced when they spent half their morning soaking in the sun to hike Sungei Buloh Wetland Reserves. They observed the diversity of living things forming the mangrove community and realized the importance of mangrove in the ecosystem. They were lucky to encounter the mudskippers in the muddy waters, the monitor lizards taking a dip in the pond and catching sights of some of the migratory birds grazing on the mudflats. The learning journey complemented the Science topics of Living Together and Adaptations which the students learnt in class. Students had much fun learning beyond the classroom.
+![](/images/Learning%20Journeys/2023/Primary%206/p6%20lj%20to%20sungei%20buloh.png)
