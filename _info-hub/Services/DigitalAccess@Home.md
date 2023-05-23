@@ -11,7 +11,7 @@ To qualify for DigitalAccess@Home, you must meet the following criteria:
 
 | Eligibility criteria |<br>
 | -------- | -------- | -------- |
-| Dwelling Type | Stay in a HDB flat |<br>
+| Dwelling Type | Stay in a HDB flat |
 | -------- | -------- | -------- |
 | Income | Monthly Gross Household Income (GHI)1 ≤ $1,900 OR monthly Per Capita Income (PCI)1 ≤ $650 | 
 ||Monthly GHI1 ≤ $3,400 OR monthly PCI1 ≤ $900, if there is a primary school student or person with disabilities in your household|
