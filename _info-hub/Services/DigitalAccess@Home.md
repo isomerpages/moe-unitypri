@@ -11,9 +11,13 @@ To qualify for DigitalAccess@Home, you must meet the following criteria:
 
 | Eligibility criteria |<br>
 | -------- | -------- | -------- |
-| Dwelling Type | Stay in a HDB flat | 
+| Dwelling Type | Stay in a HDB flat |<br>
 | -------- | -------- | -------- |
 | Income | Monthly Gross Household Income (GHI)1 ≤ $1,900 OR monthly Per Capita Income (PCI)1 ≤ $650 | 
+||Monthly GHI1 ≤ $3,400 OR monthly PCI1 ≤ $900, if there is a primary school student or person with disabilities in your household|
+||	(For applications received before 31 March 2025) Monthly GHI1 ≤ $3,400 OR monthly PCI1 ≤ $900, if your household has MOE school-going child/children2 (with none in a primary school)|
+|Citizenship|At least one member of the household is a Singapore citizen|
+
 
 
 Eligibility criteria
