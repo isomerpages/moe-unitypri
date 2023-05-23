@@ -9,7 +9,7 @@ DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-in
 To qualify for DigitalAccess@Home, you must meet the following criteria:
 
 
-| Eligibility criteria |<br>
+| Eligibility criteria <br>
 | -------- | -------- | -------- |
 | Dwelling Type | Stay in a HDB flat |
 | Income | Monthly Gross Household Income (GHI)1 ≤ $1,900 OR monthly Per Capita Income (PCI)1 ≤ $650 | 
@@ -28,6 +28,6 @@ You may use the online self-assessment tool (https://go.gov.sg/digitalaccesschec
 •	Calling the IMDA hotline at 6377 3800<br>
 •	Emailing digitalaccess@imda.gov.sg<br>
 
-You may submit the online application via Singpass login: https://eservice.imda.gov.sg/das/homepage<br>
+You may submit the online application via Singpass login: https://eservice.imda.gov.sg/das/homepage <br>
 Should you need help in form filling or Singpass login, please visit an SG Digital community hub.<br>
 For more information about the DigitalAccess@Home, please visit: www.digitalaccess.gov.sg
