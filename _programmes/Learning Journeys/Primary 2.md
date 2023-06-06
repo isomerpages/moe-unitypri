@@ -5,14 +5,11 @@ description: ""
 third_nav_title: Learning Journeys
 ---
 ### **Hay Dairies Goat Farm**
-On 11 August 2022, the P2 students went on a learning journey to the Hay Dairies Goat Farm in Lim Chu Kang. The objectives of the learning journey were for the students to identify the different species of goats and understand the behaviour of goats. 
+On 10 May 2023, the P2 students embarked on a learning journey to the Hay Dairies Goat Farm situated in Lim Chu Kang. The programme aimed to encourage students to learn more about the farm history, identify the different species of goats, understand the milking process and learn to develop care and compassion for the animals.  
+Upon arrival, the students went on an orientation tour led by the in-house goat farmers and were introduced to the goat milking area as well as the milking process. Students were taught to differentiate between cow’s and goat’s milk and learned about the benefits of goat milk.  They had the opportunity to pet and feed the goats alfalfa hay at a designated area along the goat viewing trail and were thrilled to come up-close with the goats to feed them. A few brave students petted the goats and allowed the goats to eat from their palms. It was definitely a rare feeding experience for the students.<br>
+At the end of the tour, every student received souvenirs and a fresh bottle of chocolate goat milk from Hay Dairies. In all, the students had a unique learning experience and wonderful time.
 
-Upon arrival, the students were introduced to the goat milking area and got to watch the milking process. The owner of the premises, Mr John Hay, explained the difference between cow’s and goat’s milks and their benefits. Students learned the difference between the meat from sheep (mutton) and goat (chevon). 
-
-Thereafter, they collected bags of alfalfa hay to feed the goats and moved to the barn. At the barn, some students were thrilled to feed the goats at close range while others needed more time to get used to it and decided to feed the goats at a distance. A few brave students also petted the goats and allowed the goats to eat from their palms. The students enjoyed the rare feeding experience. 
-
-At the end of the tour, students received drawstring bags and bottles of chocolate milk as souvenirs for their trip to the Hay Dairies Goat Farm. It was indeed a unique learning journey for them.
-![](/images/Learning%20Journeys/2022/Primary%202/2022%20P2%20Hay%20Dairies.jpg)
+![](/images/Learning%20Journeys/2023/Primary%202/p2%20lj%20hay%20dairies.png)
 
 ### **River Wonders**
 After missing out on the opportunity to visit River Wonders due to COVID in 2021, the P2 students and teachers were elated to be able to embark on their LJ at the end of Term 2 this year when the SMMs were eased. All of them had a fascinating time seeing the actual animals which they saw on the virtual LJ last year. The sight of manatees and giant stingrays at the Amazon Flooded Forest enthralled the students. Many saw electric eel and piranha for the first time. The highlight of the visit was getting to see Jia Jia and Le Le at the panda enclosure. It was a sight to behold, with Le Le perched on the tree branch, enjoying his nap! Importantly, the classes had a wonderful time bonding with one another on their 1st ever LJ since they joined Unity Primary School at P1.
