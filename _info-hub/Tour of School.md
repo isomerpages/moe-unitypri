@@ -16,5 +16,5 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tr4FSB9G0hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ---
-### **A Day in School For Primary 1**
+### **P1 Introductory Video**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pq_fp5mjt8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
