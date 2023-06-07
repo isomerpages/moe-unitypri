@@ -17,4 +17,4 @@ description: ""
 
 ---
 ### **A Day in School For Primary 1**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qBEjfILS_jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pq_fp5mjt8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
