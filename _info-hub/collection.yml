@@ -2,10 +2,10 @@ collections:
   info-hub:
     output: true
     order:
-      - P1 Registration Exercise.md
       - Tour of School.md
       - School Hours.md
       - School Safety.md
+      - P1 Registration Exercise.md
       - Services/.keep
       - Services/Booklist & Bookshop.md
       - Services/Canteen Stalls.md
