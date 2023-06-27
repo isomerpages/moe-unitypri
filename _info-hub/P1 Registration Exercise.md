@@ -8,4 +8,3 @@ description: ""
 For more information, please visit https://www.moe.gov.sg/primary/p1-registration
 
 Key information for P1 Registration
-
