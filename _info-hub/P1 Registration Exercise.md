@@ -5,7 +5,7 @@ description: ""
 ---
 ### **2023 PRIMARY ONE(P1) REGISTRATION EXERCISE**
 
-For more information, please visit https://www.moe.gov.sg/primary/p1-registration
+For more information, please visit [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 Key information for P1 Registration
 
