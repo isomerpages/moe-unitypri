@@ -15,8 +15,8 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese     | 14 July 2023     | Dim Sum is acceptable|
-| Muslim Food | 14 July 2023 | 
+| Japanese     | 21 July 2023     | Dim Sum is acceptable|
+| Muslim Food | 21 July 2023 | 
 |
 
 **Application Procedure**
