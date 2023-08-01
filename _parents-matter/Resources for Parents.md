@@ -4,7 +4,7 @@ permalink: /parents-matter/Resources-for-parents/permalink/
 description: ""
 ---
 ### **English & Library**
-
+* [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [The Read-Aloud Handbook](https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html)
 *   [How To Improve Writing Skills for Pupils: 14 Easy Tips](https://www.oxfordlearning.com/improve-kids-writing-skills/)
 *   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
