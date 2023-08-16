@@ -39,9 +39,3 @@ description: ""
 *   [Secondary One Posting](https://www.moe.gov.sg/secondary/s1-posting)
 *   [Direct School Admission](https://www.moe.gov.sg/secondary/dsa)
 
-### **For Parents**
-
-**School-Based** 
-
-*   [MOE FAS](https://go.gov.sg/moe-efas)   Application Form for MOE FAS[](/files/Parents%20Matter/Resources%20for%20Parents/2023/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
-*   [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
