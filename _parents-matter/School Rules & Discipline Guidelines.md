@@ -3,7 +3,11 @@ title: School Rules & Discipline Guidelines
 permalink: /parents-matters/Information/School-Rules-and-Discipline-Guidelines/permalink/
 description: ""
 ---
+Good discipline is fundamental to ensuring learning and progress. Our school’s philosophy on discipline is to transit every student to reach independence and self-discipline, grounded on sound values. What that means is all students must learn and take onus for their behaviours and the consequences of their actions. 
 
+We take a whole-school approach to discipline and articulate explicitly to our students the school rules and expectations at the start of every academic year. **Please refer to the Student Handbook on what are expected of our students.**
+
+Our Character and Citizenship Education (CCE) drives the inculcation of appropriate values and behaviours. To build good character so that your child always does the right thing even when no one is watching, the school expects him/her to act in accordance with the school rules. Do go through the Student Handbook with your child and reinforce the significance of sound values and appropriate behaviours.
 ### **Singing the National Anthem and taking the Pledge**
 *   Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist over the heart.
 *   Non-citizens are to stand at attention to show respect during the flag raising and flag lowering ceremonies.
