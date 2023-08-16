@@ -3,15 +3,15 @@ title: Mode of Communication
 permalink: /parents-matter/mode-of-communication/permalink/
 description: ""
 ---
-Regular and open communication between the school and parents will help us achieve our common aim in providing an enriching educational experience for our children. The school will keep you informed of important matters regularly through letters sent **via PG** **to the stated guardian** (as indicated in the Student Details Report). You can also access these letters 
+Regular and open communication between the school and parents will help us achieve our common aim in providing an enriching educational experience for our children. The school will keep you informed of important matters regularly through letters sent **via PG to the stated guardian** (as indicated in the Student Details Report). You can also access these letters 
 
-a.     Student Handbook
+**a. Student Handbook**
 * The Student Handbook is another means of communication between parents and teachers.
 * You may write short notes in the handbook addressed to the teacher concerned. Please remind your child to show the teacher the note you have written.
 
-b.     Contacting or Meeting Teachers
+**b. Contacting or Meeting Teachers**
 
-* You may email the teachers on any matter concerning your child. For school-based concerns, you may send your email to the following email address: **_unity\__**[**_ps@moe.edu.sg_**](mailto:ups@moe.edu.sg).
+* You may email the teachers on any matter concerning your child. For school-based concerns, you may send your email to the following email address: [unity_ps@moe.edu.sg](unity_ps@moe.edu.sg)
 
 * For parents who need to see the teachers, please make an appointment with them to ensure their availability before coming to school to alleviate inconvenience caused.  You may write a short note in the Student Handbook requesting for an appointment with the teacher/s concerned. **Visitors with no prior appointment will be turned away.**
 * **Kindly do not venture beyond the General Office when you are in the school.** Your cooperation will help us maintain a safe and secure environment for your children.
