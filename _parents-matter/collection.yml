@@ -2,9 +2,9 @@ collections:
   parents-matter:
     output: true
     order:
-      - Mode of Communication.md
       - School Calendar.md
       - School Rules & Discipline Guidelines.md
+      - Mode of Communication.md
       - Letters to Parents.md
       - Parents Information Booklet.md
       - Briefings & Workshops.md
