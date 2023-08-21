@@ -21,4 +21,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
+  - resources:
+      title: Announcement
 ---
