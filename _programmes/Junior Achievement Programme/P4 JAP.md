@@ -5,5 +5,7 @@ description: ""
 third_nav_title: Junior Achievement Programme
 ---
 ### **Our Community**
-The P4 students learnt to recognise how people contribute to and benefit from a community such as understanding what taxes are and how taxation supports government services. Students also gained exposure to the different career choices and types of skills each of these jobs requires.  They even have had the opportunity to apply innovation to a production process – coming up with an exclusive donut for sale!  In all, the students have found the lessons engaging and the experience meaningful.
+The Junior Achievement Programme (JAP) aims to provide opportunities and inspire our students to learn a range of age-appropriate soft skills experientially to contribute to the vitality of their community.
+The Primary 4 students have learnt to recognize how people contribute to and benefit from a community such as understanding what taxes are and how taxation supports government services. Students also gain exposure to the different career choices and types of skills each of these jobs requires, as well as to identify businesses and government careers.  They even had the opportunity to work in groups to apply innovation to a production process – coming up with an exclusive donut for sale during a group activity!  In all, the students and teachers have found the JAP enriching and fun and had a whale of a time during the 2-day programme.
+
 ![](/images/Programmes/2022/JAP/2022%20P4%20JAP.jpg)
