@@ -27,5 +27,5 @@ description: ""
 					</span></td></tr><tr>
 						<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/SAT/mdm%20rukiya.jpg"><span style="font-weight:bold">Mdm Rukiya<br>OSO
 		 </span></td><td colspan="2" class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SAT/Fenglian%20(OSO).png"><span style="font-weight:bold">Mdm Zhou FengLian<br>OSO
-		</span></td>
-			</tr><tr></tr></thead></table>
+		</span></td><td colspan="2" class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SAT/sam%20oso.png"><span style="font-weight:bold">Mr Sam<br>OSO
+			</span></td></tr><tr></tr></thead></table>
