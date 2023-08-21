@@ -21,6 +21,9 @@ sections:
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
-  - resources:
-      title: Announcement
+  - infopic:
+      title: MTLS 2023
+      description: Infopic description
+      button: Link
+      url: https://www.mtls.edu.sg/
 ---
