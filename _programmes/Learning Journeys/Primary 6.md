@@ -8,6 +8,16 @@ third_nav_title: Learning Journeys
 The Primary 6 students went on a learning journey to the Singapore Discovery Centre (SDC) on 20 January 2023 where they experienced the Singapore Story from the past to the present via a multi-sensory approach.  Students had the opportunity to try out activities such as interactive videos and games at the various stations. One of the highlights was a video depicting Singapore’s past where students discovered how life was under extraordinary and challenging circumstances for people then. The students were self-directed and enthusiastic in completing the reflection booklet after exploring the different exhibits. Importantly, they learned how Singapore remained resilient with the foresight and resolve to face the future.  The entire experience was definitely an eye-opener for the students.
 
 ![](/images/Learning%20Journeys/2023/Primary%206/P6%20LJ%20to%20SDC.jpg)
+
+### **Ancient Civilisations Museum**
+
+History came alive for the Primary 6 students during a Museum-Based Learning Journey to the Ancient Civilisations Museum. 
+
+As students went from one station to another, the knowledgeable museum educators shared captivating stories and artefacts that unravelled historical moments. Being able to relate some of the stories to what they had learnt during Social Studies lessons, the students responded enthusiastically to the questions posed by the museum educators.
+
+At the end of the learning journey, the students could explain how Singapore’s cultural heritage had evolved over time, influenced by the diverse mix of cultures. Additionally, they had gained a deeper understanding of the cultural and historical ties that had influence on the countries in Southeast Asia
+
+
 ### **Race to Sustainability (Gardens by the Bay)**
 Race to Sustainability at Gardens by the Bay is an annual event taken part by our P6 students. After a 2-year hiatus due to Covid-19 measures, Race to Sustainability returns in a format that differs from previous editions. Students have to make use of their IT skills and devices to navigate the clues and codes to solve tasks involving teamwork and their knowledge of green messages learnt in school and beyond.
 
