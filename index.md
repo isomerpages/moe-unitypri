@@ -29,4 +29,5 @@ sections:
       button: Read More
       url: https://www.mtls.edu.sg/
       image: /images/mtls 2023.jpeg
+      alt: MTLS 2023
 ---

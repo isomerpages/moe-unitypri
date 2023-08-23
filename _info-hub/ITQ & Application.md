@@ -9,15 +9,15 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|MOESCHETQ23003409 | Supply of Instructor for P6 Life Skills Development Programme: Photography &amp; Editing Workshop in Unity Primary School | 03 Aug 2023 
+
 
 #### Canteen Stall Application
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese     | 21 July 2023     | Dim Sum is acceptable|
-| Muslim Food | 21 July 2023 | 
-|
+| Japanese     | 31 August 2023     | Dim Sum is acceptable|
+| Muslim Food | 31 August 2023 | 
+
 
 **Application Procedure**
 

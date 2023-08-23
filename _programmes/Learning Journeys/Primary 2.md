@@ -11,6 +11,14 @@ At the end of the tour, every student received souvenirs and a fresh bottle of c
 
 ![](/images/Learning%20Journeys/2023/Primary%202/p2%20lj%20hay%20dairies.png)
 
+### **Theatre Experience**
+On 26 July 2023, the Primary 2 students embarked on a learning journey to Singtel Waterfront Theatre at The Esplanade to watch a performance entitled ‘The Zodiac Race’. This is part of the school’s Learn for Life Programme to develop student character and inculcate values through experiential and authentic learning. The theatre experience allows our students to demonstrate the correct theatre etiquette and the value of respect during a performance.
+‘The Zodiac Race’ is about twelve animals - the rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, and pig from earth competing in a battle of speed and wit to cross the heavenly gate. As a reward for turning up, the heavenly Emperor promises to name a year in the zodiac after each animal, while the race will determine the order in which they will be placed in the lunar calendar.
+It was an enchanting performance filled with wonder and excitement, for both the teachers and students. As the lights dimmed, the atmosphere in the theater buzzed with excitement. The stage was adorned with vibrant colors, captivating props and engaging sets that transported the young audience to a realm of fantasy. The production began with lively music and mesmerised the children from the very first moment. The dialogue and interactions were carefully crafted to resonate with the young audience, eliciting laughter and gasps of amazement. As the performance progressed, their eyes sparkled with marvel and their faces glowed with joy as they became fully immersed in the magical world unfolding before them.
+As the show came to an end, the theater erupted with applause. The learning journey was truly an unforgettable experience. As the students left the venue, they chatted happily about their favourite moments and characters of the performance.
+
+![](/images/Learning%20Journeys/2023/Primary%202/p2%20theatre%20exp1.jpg)
+
 ### **River Wonders**
 After missing out on the opportunity to visit River Wonders due to COVID in 2021, the P2 students and teachers were elated to be able to embark on their LJ at the end of Term 2 this year when the SMMs were eased. All of them had a fascinating time seeing the actual animals which they saw on the virtual LJ last year. The sight of manatees and giant stingrays at the Amazon Flooded Forest enthralled the students. Many saw electric eel and piranha for the first time. The highlight of the visit was getting to see Jia Jia and Le Le at the panda enclosure. It was a sight to behold, with Le Le perched on the tree branch, enjoying his nap! Importantly, the classes had a wonderful time bonding with one another on their 1st ever LJ since they joined Unity Primary School at P1.
 ![](/images/Learning%20Journeys/2022/Primary%202/2022%20P2%20River%20Wonders.jpg)
