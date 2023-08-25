@@ -9,14 +9,15 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
+|
 
 
 #### Canteen Stall Application
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese     | 31 August 2023     | Dim Sum is acceptable|
-| Muslim Food | 31 August 2023 | 
+| Japanese     | 8 September 2023     | Dim Sum is acceptable|
+| Muslim Food | 8 September 2023 | 
 
 
 **Application Procedure**
