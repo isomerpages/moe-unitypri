@@ -19,7 +19,7 @@ description: ""
   <tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Ms%20Yen%20Tan.jpg"><span style="font-weight:bold">Ms Yen Tan<br>Chairperson</span></td>
 		 <td colspan="3" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/SAC/Mr%20Johnny%20Quah.jpg"><span style="font-weight:bold">Mr Johnny Quah</span><br><span style="font-weight:bold">Treasurer</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Conrad%20Campos.jpg"><span style="font-weight:bold">Mr Conrad Compas<br>Member</span><br></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Mr%20Conrad%20Campos.jpg"><span style="font-weight:bold">Mr Conrad Campos<br>Member</span><br></td>
 		</tr><tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SAC/Ms%20Lei%20Yutan.jpg"><span style="font-weight:bold">Ms Lei Yutan<br>Member</span></td>
 		 <td colspan="3" class="tg-vgmr"><img style="width:64%" src="/images/Our%20Team%20UPS/SAC/Mr%20Lim%20Chong%20Beng%20Jem.jpg"><span style="font-weight:bold">Mr Lim Chong Beng Jem<br>Member</span></td>
