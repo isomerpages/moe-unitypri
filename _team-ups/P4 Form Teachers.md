@@ -106,9 +106,8 @@ description: ""
 		</td>
     <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_zhi_ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chow Zhi Ying</span></a></span><br>
 		</td>
-		<td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span>
-<br>
-		</td>
+		<td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span><br>
+	</td>
 	</tr>
 </thead>
 </table>
