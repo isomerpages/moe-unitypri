@@ -17,7 +17,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:75%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20roy%20ye%20zhonglong.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ye_zhonglong@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Roy Ye</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mr%20roy%20ye%20zhonglong.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ye_zhonglong@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Roy Ye</span></a></span></td>
     <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza</span></a></span><br></td>
 					 <td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mdm%20jayasaresvathy%20do%20kandasami.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:jayasaresvathy_kandasami@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Jayasaresvathy</span></a></span></td>
 	</tr>
