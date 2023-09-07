@@ -17,10 +17,12 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Fok.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fok_chee_hoe@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Fok Chee Hoe</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Fazlina</span></a></span><br>
+    <td colspan="2" class="tg-vgmr"><img style="width:85%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/Fok.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fok_chee_hoe@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Fok Chee Hoe</span></a></span></td>
+    <td class="tg-vgmr"><img style="width:75%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Fazlina</span></a></span><br>
 		</td>
-		<td class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/iris%20tan%20(fajt).png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_geok_moi_iris@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Iris Tan</span></a></span><br>
+		<td class="tg-vgmr"><img style="width:66%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/ms%20charissa%20tan%20lay%20shan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:charissa_tan_lay_shan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Charissa Tan</span></a></span><br>
+	</td>
+		<td class="tg-vgmr"><img style="width:88%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/iris%20tan%20(fajt).png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_geok_moi_iris@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Iris Tan</span></a></span><br>
 	</td></tr>
 </thead>
 </table>
