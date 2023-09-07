@@ -99,12 +99,12 @@ description: ""
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<br><table class="tg">
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:65%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/mrs%20wee-wong%20li%20ting.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_li_ting@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Wee Li Ting</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_zhi_ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chow Zhi Ying</span></a></span><br></td><td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span></td>
-		
+    <td class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/P4%20Form%20Teachers/Chow%20Zi%20Ying.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Chow_zhi_ying@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Chow Zhi Ying</span></a></span><br></td>
+		<td class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Art%20Teachers/Norsahida.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Norsahida_Adam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norsahida</span></a></span></td>
 	</tr>
 </thead>
 </table>
