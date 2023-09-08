@@ -40,7 +40,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P5%20Form%20Teachers/ms%20patricia%20leow%20saw%20ping.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:leow_saw_ping@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Patricia Leow</span></a></span></td>
-    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/olivia.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:olivia_yu_rumeng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Olivia Yu Rumeng</span></a></span></td>
+    <td colspan="2" class="tg-vgmr"><img style="width:37%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/olivia.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:olivia_yu_rumeng@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Olivia Yu Rumeng</span></a></span></td>
 	</tr>
 </thead>
 </table>
