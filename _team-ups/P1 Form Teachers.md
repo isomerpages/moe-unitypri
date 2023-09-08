@@ -61,7 +61,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20rosyanti%20bte%20ramli.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:rosyanti_ramli@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Rosyanti</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20han%20hui%20lian.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:han_huilian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Han Huilian</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/mdm%20han.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:han_huilian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Han Huilian</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -124,7 +124,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20zalina%20bte%20kusnan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:zalina_kusnan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Zalina</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/Siew%20Min.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Gan_siew_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Gan Siew Min</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/gan%20siew%20min.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Gan_siew_min@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Gan Siew Min</span></a></span><br>
 		</td>
 	</tr>
 </thead>
@@ -145,7 +145,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P1%20Form%20Teachers/mdm%20shelyn%20ng%20sok%20kian%20(huang%20shujuan).jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:ng_sok_kian@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mrs Shelyn Ng</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Muhd Hanis</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Muhd&nbsp;Hanis</span></a></span><br>
 		</td>
 	</tr>
 </thead>
