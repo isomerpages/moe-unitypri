@@ -86,7 +86,7 @@ description: ""
 <thead>
   <tr>
     <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/mdm%20phee%20lay%20kuan.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:phee_lay_kuan@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Phee Lay Kuan</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/P3%20Form%20Teachers/wei%20wen.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Sim_Wei_Wen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Sim Wei Wen</span></a></span><br>
+    <td class="tg-vgmr"><img style="width:38%" src="/images/Our%20Team%20UPS/Chinese%20Language%20Teachers/wei%20wen.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Sim_Wei_Wen@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Sim Wei Wen</span></a></span><br>
 		</td>
 	</tr>
 </thead>

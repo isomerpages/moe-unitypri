@@ -39,11 +39,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&amp;%20Councillors/Jiamei%20SENO.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_jiamei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Liu Jiamei</span></a></span></td>
-    <td class="tg-vgmr"><img style="width:62%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&amp;%20Councillors/MS%20NURUL%20HIDAYAH%20BINTE%20NASRI.jpg">
-			<span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nurul_hidayah_nasri@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Nurul Hidayah</span></a></span><br>
-		</td>
-		<td class="tg-vgmr"><img style="width:62%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&amp;%20Councillors/chew%20fong.png">
+    <td colspan="2" class="tg-vgmr"><img style="width:40%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&amp;%20Councillors/jiamei.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:liu_jiamei@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Liu Jiamei</span></a></span></td>
+   <td class="tg-vgmr"><img style="width:42%" src="/images/Our%20Team%20UPS/SEN%20Officer%20&amp;%20Councillors/chew%20fong.png">
 			<span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:tan_chew_fong@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Tan Chew Fong</span></a></span><br>
 		</td>
 	</tr>
