@@ -11,7 +11,7 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 | -------- | -------- | -------- |
 |28 Aug 2023 MOESCHETQ23004099 | Design, Supply &amp; Renovation Of Existing School Library Space (Including Supply And Refurbishment Of Library Shelving, Furniture &amp; Mini Studio) | 18 Sep 2023|
 |31 Aug 2023 MOESCHETQ23004211 | Supply of Instructor for Readers' Theatre Workshop in Unity Primary School| 11 Sep 2023|
-|5 Sept 2023 MOESCHETQ23004248| Provision Of Ad-Hoc Bus Transport Services For Unity Primary School For 2024 With Option Year| 13 Sep 2023|
+|5 Sept 2023 MOESCHETQ23004248| Provision Of Ad-Hoc Bus Transport Services For Unity Primary School For 2024 With Option Year| 18 Sep 2023|
 
 
 #### Canteen Stall Application
