@@ -17,7 +17,7 @@ sections:
           url: https://sites.google.com/view/upsourschoolevents/home
         - title: Our Achievements
           description: ""
-          url: /our-unity-story/Achievements/2023/permalink/
+          url: /achievements/2023/permalink/
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
