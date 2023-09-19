@@ -15,13 +15,19 @@ The students had a wonderful time exploring around the school neighbourhood with
 
 ### **Jacob Ballas**
 
-P1 students went on a Learning Journey to the Jacob Ballas Children’s Garden sometime in April of Term 2. To complement the nurturing of the value of responsibility, students were taught the traits of being responsible visitors and safety practices while being outdoors. Students also learned key competencies like self-awareness & self-management. 
+In Term 3 Week 4, Primary 1 students went on a Learning Journey to Jacob Ballas Children’s Garden. Nestled within the heart of Singapore Botanic Gardens, the Jacob Ballas Children's Garden is a vibrant and interactive space designed exclusively for young learners. Our students embarked on a day of immersive exploration, where they engaged with the wonders of nature in an educational setting. 
 
-A pre-learning journey lesson was conducted to prepare students for their trip. With the help of Parent Volunteers, students together with their Form Teachers were tasked to find 5 stations at the garden and complete various activities such as finding edible plants in the garden and their way out of a maze. 
+Students completed different tasks at 5 different stations around the park which allowed them to:
 
-Even in the hot weather, students thoroughly enjoyed themselves exclaiming the day as “The best day of their life!” Overall, it was a meaningful and beneficial experience for the students and one that we hope will evoke in them the love for the environment.
+-	Develop an appreciation for the natural world and its diversity.
+-	Acquire knowledge about plant life cycles, habitats, and environmental   
+           conservation.
+-	Foster a sense of wonder and curiosity through hands-on exploration.
+-	Build teamwork and communication skills through group activities.
 
-![](/images/Learning%20Journeys/2022/Primary%201/2022%20P1%20Jacob%20Ballas.jpg)
+All in all, both students and teachers had an enjoyable time, engaging with nature in a meaningful and educational way.
+
+![](/images/Learning%20Journeys/2023/Primary%201/lj%20-%20jb.jpg)
 
 ### **River Wonders**
 On 3 October 2022, the P1 students went on a learning journey to the River Wonders. A pre-learning journey lesson was conducted to introduce the various sites and prepare the students for the trip. Together with the Form Teachers and Parent Volunteers, the students completed different tasks assigned at the Mekong River, Giant Panda Forest and Amazon Flooded Forest. Students were fascinated by the sight of the Manatees and Giant Stingrays at the Amazon Flooded Forest. Many of them were also excited to see the Electric Eel and Piranha for the first time. The highlight of the trip was getting to see Kai Kai and Le Le at the Panda Enclosure. Although the students did not get to meet Jia Jia, the sight of Le Le perching on the tree branch cheered them up. Overall, the classes had a fabulous time relating with one another and learning about the features of the different animals.
