@@ -15,11 +15,17 @@ The students had a wonderful time exploring around the school neighbourhood with
 
 ### **Jacob Ballas**
 
-P1 students went on a Learning Journey to the Jacob Ballas Children’s Garden sometime in April of Term 2. To complement the nurturing of the value of responsibility, students were taught the traits of being responsible visitors and safety practices while being outdoors. Students also learned key competencies like self-awareness & self-management. 
+In Term 3 Week 4, Primary 1 students went on a Learning Journey to Jacob Ballas Children’s Garden. Nestled within the heart of Singapore Botanic Gardens, the Jacob Ballas Children's Garden is a vibrant and interactive space designed exclusively for young learners. Our students embarked on a day of immersive exploration, where they engaged with the wonders of nature in an educational setting. 
 
-A pre-learning journey lesson was conducted to prepare students for their trip. With the help of Parent Volunteers, students together with their Form Teachers were tasked to find 5 stations at the garden and complete various activities such as finding edible plants in the garden and their way out of a maze. 
+Students completed different tasks at 5 different stations around the park which allowed them to:
 
-Even in the hot weather, students thoroughly enjoyed themselves exclaiming the day as “The best day of their life!” Overall, it was a meaningful and beneficial experience for the students and one that we hope will evoke in them the love for the environment.
+-	Develop an appreciation for the natural world and its diversity.
+-	Acquire knowledge about plant life cycles, habitats, and environmental   
+           conservation.
+-	Foster a sense of wonder and curiosity through hands-on exploration.
+-	Build teamwork and communication skills through group activities.
+
+All in all, both students and teachers had an enjoyable time, engaging with nature in a meaningful and educational way.
 
 ![](/images/Learning%20Journeys/2022/Primary%201/2022%20P1%20Jacob%20Ballas.jpg)
 
