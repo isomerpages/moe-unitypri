@@ -10,8 +10,8 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
 |12 Sep 2023 MOESCHETQ23004141|Supply &amp; Application Of Anti-Slip Epoxy Stone Flake Coating For Staff And Student Toilets (Flooring &amp; Walls)|27 Sep 2023|
-|14 Sep 2023 MOESCHETQ23004413|Supply of Instructor for Public Speaking Workshop for 6 classes in Unity Primary School|22 Sep 2023|
-|20 Sep 2023 MOESCHETQ23004656|Supply of Instructor for Netball CCA Training Programme in Unity Primary School|28 Sep 2023
+|20 Sep 2023 MOESCHETQ23004656|Supply of Instructor for Netball CCA Training Programme in Unity Primary School|28 Sep 2023|
+|22 Sep 2023 MOESCHETQ23004143|Supply And Installation Of Sound System For School Hall In Unity Primary School|10 Oct 2023
 
 
 #### Canteen Stall Application
