@@ -19,7 +19,8 @@ Learning journey is beneficial to student development as it provides an opportun
 The learning journey has not only provided valuable insights into water conservation and efforts of sustainability but also allowed the students to witness firsthand the innovative efforts that Singapore has undertaken to secure its water supply. 
 
 The students were guided through interactive exhibits and engaging presentations, which helped them grasp the concept of wastewater treatment and the transformation of used water into NEWater, Singapore's brand of high-grade reclaimed water. 
-he students has learned how Singapore builds a robust, diversified and sustainable water supply from four water sources known as the Four National Taps – Water from Local Catchment , Imported Water, high-grade reclaimed water known as NEWater and Desalinated Water.
+
+The students has learned how Singapore builds a robust, diversified and sustainable water supply from four water sources known as the Four National Taps – Water from Local Catchment , Imported Water, high-grade reclaimed water known as NEWater and Desalinated Water.
 
 It is without a doubt that the P3 students have been enriched in their understanding of the importance of NEWater as part of Singapore’s water supply and how they can contribute to the efforts of saving water.
 ![](/images/Learning%20Journeys/2023/Primary%203/lj%20newater.jpg)
