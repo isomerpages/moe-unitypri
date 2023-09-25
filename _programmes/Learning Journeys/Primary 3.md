@@ -22,3 +22,4 @@ The students were guided through interactive exhibits and engaging presentations
 he students has learned how Singapore builds a robust, diversified and sustainable water supply from four water sources known as the Four National Taps – Water from Local Catchment , Imported Water, high-grade reclaimed water known as NEWater and Desalinated Water.
 
 It is without a doubt that the P3 students have been enriched in their understanding of the importance of NEWater as part of Singapore’s water supply and how they can contribute to the efforts of saving water.
+![](/images/Learning%20Journeys/2023/Primary%203/lj%20newater.jpg)
