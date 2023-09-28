@@ -11,10 +11,9 @@ Monday to Friday: 8.30 am to 3.00 pm
 Closed on Public Holidays, Saturday and Sunday
 
 **Telephone No:** 6363 9159  
-**Mobile No:** 8875 9522 <br>
+**Mobile No:** 8043 1386 <br>
 *Please contact us from 8.30 am - 5.30 pm*<br>
-**Website:** <a href="https://www.rickybookcentre.com.sg/"
-  target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
+**Website:** <a href="https://www.rickybookcentre.com.sg/" target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
 ### **2023 Booklists**
 [Primary 1](/files/Info%20Hub/2023/Booklists/Unity%20Primary%20Booklist%202023%20Primary%201.pdf)
