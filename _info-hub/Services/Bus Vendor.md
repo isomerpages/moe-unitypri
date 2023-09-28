@@ -8,7 +8,7 @@ third_nav_title: Services
 
 **Contact No :** 9743 4344  
 **E-mail :** eileenbus@hotmail.sg  
-**Website :** <a href="www.eileenbus.com/" target="_blank" rel="noopener noreferrer">www.eileenbus.com</a>
+**Website :** <a href="https://www.eileenbus.com/" target="_blank" rel="noopener noreferrer">www.eileenbus.com</a>
 
 [School Bus Operator and Bus Fare](/files/Info%20Hub/2023/Bus%20Fare/school%20bus%20fare.pdf)
 
