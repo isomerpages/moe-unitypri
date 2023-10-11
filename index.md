@@ -17,7 +17,7 @@ sections:
           url: https://sites.google.com/view/upsourschoolevents/home
         - title: Our Achievements
           description: ""
-          url: https://www.open.gov.sg/achievements/2023/permalink/
+          url: https://www.unitypri.moe.edu.sg/achievements/2023/permalink/
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
