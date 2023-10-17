@@ -4,9 +4,9 @@ permalink: /programmes/Learning-Journeys/Primary1/permalink/
 description: ""
 third_nav_title: Learning Journeys
 ---
-### **Around the School & Road Safety Walk**
+### **Around the School &amp; Road Safety Walk**
 
-P1 Learning Journey Around the School Neighbourhood & Road Safety Walk was conducted for all P1 students in Term 1. The outing served to help students understand the basic concepts of having safe behaviour while being outdoors and when using the road.
+P1 Learning Journey Around the School Neighbourhood &amp; Road Safety Walk was conducted for all P1 students in Term 1. The outing served to help students understand the basic concepts of having safe behaviour while being outdoors and when using the road.
 
 With the support of Class Parent Volunteers and School Operation Managers, the students together with their form teachers walked around the school vicinity to familiarise themselves experientially with the traffic signals at crossings and the road hazards they might encounter. The students also stopped by at the nearby playgrounds where they learned safe and mindful behaviour while having fun playing together.
 
@@ -30,6 +30,8 @@ All in all, both students and teachers had an enjoyable time, engaging with natu
 ![](/images/Learning%20Journeys/2023/Primary%201/lj%20-%20jb.jpg)
 
 ### **River Wonders**
-On 3 October 2022, the P1 students went on a learning journey to the River Wonders. A pre-learning journey lesson was conducted to introduce the various sites and prepare the students for the trip. Together with the Form Teachers and Parent Volunteers, the students completed different tasks assigned at the Mekong River, Giant Panda Forest and Amazon Flooded Forest. Students were fascinated by the sight of the Manatees and Giant Stingrays at the Amazon Flooded Forest. Many of them were also excited to see the Electric Eel and Piranha for the first time. The highlight of the trip was getting to see Kai Kai and Le Le at the Panda Enclosure. Although the students did not get to meet Jia Jia, the sight of Le Le perching on the tree branch cheered them up. Overall, the classes had a fabulous time relating with one another and learning about the features of the different animals.
+On 2 October 2023, the P1 students went on a learning journey to the River Wonders. A pre-learning journey lesson was conducted to introduce the various zones and prepare the students for the trip. 
+<br>Together with the Form Teachers and Parent Volunteers, the students completed different tasks assigned at the Mekong River, Giant Panda Forest and Amazon Flooded Forest. The friendly and gentle manatees at the Amazon Flooded Forest enthralled the students. They were equally excited to see the Electric Eel, Piranha and Red Panda and in awe by the Giant Stingrays at the Mekong River. The highlight of the visit was getting to see Kai Kai and Le Le at the Panda Enclosure. 
+<br>Overall, the LJ was a huge success with the students learning about the different animals and having a wonderful time bonding with one another.
 
-![](/images/Learning%20Journeys/2022/Primary%201/2022%20P1%20River%20Wonders.jpg)
+![](/images/Learning%20Journeys/2023/Primary%201/p1%20river%20wonder%20.png)

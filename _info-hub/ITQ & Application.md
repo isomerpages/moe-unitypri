@@ -9,15 +9,15 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|22 Sep 2023 MOESCHETQ23004143|Supply And Installation Of Sound System For School Hall In Unity Primary School|13 Oct 2023|
+|
 
 
 #### Canteen Stall Application
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese     | 29 September 2023     | Dim Sum is acceptable|
-| Muslim Food | 29 September 2023 | 
+| Japanese     | 31 October 2023     | Dim Sum is acceptable|
+| Muslim Food | 31 October 2023 | 
 
 
 **Application Procedure**
