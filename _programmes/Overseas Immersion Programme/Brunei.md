@@ -18,3 +18,6 @@ The students learned the techniques of basket weaving and afterwards, put on the
 The highly anticipated activity was the school interaction between our students and students from Sekolah Tunas Jaya PGGMB Lambak. Conducted on 20 September 2023, the session provided opportunities for our students to enhance their use of the Malay Language authentically. They shared about the subjects and programmes offered by UPS and the places of interest, food and festivals in Singapore.
 
 Needless to say, the students thoroughly enjoyed the VOIP to Brunei Darussalam.
+![](/images/Programmes/2023/OIP/voip_brunei1.jpg)
+
+![](/images/Programmes/2023/OIP/voip_brunei2.jpg)
