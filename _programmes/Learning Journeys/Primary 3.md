@@ -5,8 +5,12 @@ description: ""
 third_nav_title: Learning Journeys
 ---
 ### **Kok Fah Technology Farm**
-P3 students embarked on their learning journey to Kok Fah Technology Farm in Term 4 with much excitement and enthusiasm.&nbsp; They saw how Singapore overcome its land scarcity with modern farming involving greenhouses and hydroponics. At various hands-on stations, students learned about hydroponics and its techniques as well as the significance of greenhouses. They did aloe vera gel extraction which they later incorporated into a refreshing drink.&nbsp; Students enjoyed themselves as it was indeed an eye-opening and educational experience.
-![](/images/Learning%20Journeys/2022/Primary%203/2022%20P3%20Kok%20Fah.jpg)
+The third week of Term 4 saw learning come alive for our Primary 3 students. They visited Kok Fah farm, an aggrotech farm situated at Kranji. Through hands-on activities and the patient guidance of experienced farm guides, they witnessed the farming technique of hydroponics in growing leafy vegetables.
+
+Students saw how hydroponics could help land scarce countries like Singapore be self-sufficient in food and  gained first-hand experiences what they would normally see in pictures and photographs from their P3 Social Studies Reader. Students marvelled at how the muddy vegetable plots at the mercy of the sun and rain in our grandfathers’ time were now replaced by an elaborate system that ensured efficient nutrient circulation and climate control. All without using pesticides or harmful chemicals! Now, even cool climate crops such as lemon balm, mint or rosemary could be grown in the hydroponics greenhouse and how the well-designed hydroponics system provided an optimal supply of food, water and air!
+
+Our students’ thirst for knowledge was rewarded with a gift guaranteed to quench their thirst – an aloe vera gel drink, most welcome after a day of fun-filled learning!
+![](/images/Learning%20Journeys/2023/Primary%203/collage.jpg)
 
 ### **Singapore Zoological Gardens**
 The Singapore Zoological Gardens offers a safe and structured environment outside the classroom for Science lesson on characteristics of animals. One of the important learning points is for our students to realise the significance of the environmental conservation in light of Man’s impact on the natural habitats of the animals. <br>
