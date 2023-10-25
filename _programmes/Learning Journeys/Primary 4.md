@@ -25,4 +25,4 @@ During the recent learning journey to the Geylang Serai Heritage Gallery, the Pr
 This year, there was an additional segment of Precinct walk to the Geylang Serai market. The students were enthralled by the lively atmosphere as the market was abuzz with activities from the various Malay, Indian and Chinese food stalls. They also got to observe the different Malay traditional clothes being sold and the colourful stalls filled with aromatic spices.
 
 All in all, the students had an exhilarating and enriching experience, gaining insights into the history of Geylang Serai and its pivotal role in the Malay and Muslim communities.
-![](/images/Learning%20Journeys/2022/Primary%204/2022%20P4%20Geylang%20Serai.jpg)
+![](/images/Learning%20Journeys/2023/Primary%204/collage.jpg)
