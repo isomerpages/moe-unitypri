@@ -9,8 +9,8 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|MOESCHETQ23006127 24 Oct 2023| Supply of Instructor for Fun with Clay Programme in Unity Primary School for base year 2024 with an option to renew for 2025 &amp; 2026 |01 Nov 2023 01:00 PM|
-|MOESCHETQ23006254 24 Oct 2023|Supply of Art Materials for Unity Primary School|01 Nov 2023 01:00 PM
+|MOESCHETQ23006127  24 Oct 2023| Supply of Instructor for Fun with Clay Programme in Unity Primary School for base year 2024 with an option to renew for 2025 &amp; 2026 |01 Nov 2023 01:00 PM|
+|MOESCHETQ23006254  24 Oct 2023|Supply of Art Materials for Unity Primary School|01 Nov 2023 01:00 PM
 
 
 
