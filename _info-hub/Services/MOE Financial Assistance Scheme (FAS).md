@@ -10,7 +10,7 @@ third_nav_title: Services
 2. For primary and secondary school students, the MOE FAS fully covers the cost of school and standard miscellaneous fees, textbooks and school uniform, as well as meal and transport subsidies.
 3. Please refer to the attached pamphlets on the eligibility criteria and benefits of MOE FAS.
 
-
+[MOE FAS EL](/files/Info%20Hub/2023/MOE%20FAS/document4a_moe%20fas%20pamphet%20el.pdf)
 
 **ELIGIBILITY CRITERIA**
 
