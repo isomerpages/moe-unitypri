@@ -31,7 +31,7 @@ third_nav_title: Services
 2. For parents with children in different schools, you need to submit only one application form for all your school-going children to one of their schools. The school which receives the application form will inform you of the outcome for all the children.
 3.  Hardcopy form is required for:<br>
 	a. families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>
-	b. family with more than 5 children in GGAS<br>
+	b. family with more than 6 children in GGAS<br>
 	c. family with more than 5 unmarried children not in GGAS<br>
 	d. family with more than 3 grandparents in the household
 4. 4.	For Primary 6 students going to Secondary 1 in 2024, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.
