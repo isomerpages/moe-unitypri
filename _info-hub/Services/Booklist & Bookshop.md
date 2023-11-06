@@ -3,6 +3,7 @@ title: Booklist & Bookshop
 permalink: /parents-matter/Info-on-Services/bookshop/permalink/
 description: ""
 third_nav_title: Services
+variant: markdown
 ---
 ### **School Bookshop**
 **The Ricky Book Centre**
@@ -15,7 +16,7 @@ Closed on Public Holidays, Saturday and Sunday
 *Please contact us from 8.30 am - 5.30 pm*<br>
 **Website:** <a href="https://www.rickybookcentre.com.sg/" target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
-### **2023 Booklists**
+### **2024 Booklists**
 [Primary 1](/files/Info%20Hub/2023/Booklists/Unity%20Primary%20Booklist%202023%20Primary%201.pdf)
 <br>[Primary 2](/files/Info%20Hub/2023/Booklists/Unity%20Primary%20Booklist%202023%20Primary%202.pdf)
 <br>[Primary 3](/files/Info%20Hub/2023/Booklists/Unity%20Primary%20Booklist%202023%20Primary%203.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 3 HMT](/files/Info%20Hub/2023/Booklists/Unity%20Primary%20Booklist%202023%20Primary%203%20HMT.pdf)
