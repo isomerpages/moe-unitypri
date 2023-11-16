@@ -61,6 +61,6 @@ The purchase of school textbooks and attire in school is strictly by appointment
 
 **4. Parents Gateway (PG)** <br>
 Developed by the Ministry of Education and GovTech, PG is a one-stop portal that strengthens school-home partnership to support our children in their education journey. The PG app is an important communication tool that MOE and school use to get in touch with parents. You can check out the FAQs for parents at [https://pg.moe.edu.sg](https://pg.moe.edu.sg).
-You can refer to the above link for more details on PG and steps to install the application. <br><br>
-5. Lastly, we seek your assistance to submit a copy of your child’s immunisation records (if not submitted earlier) to the school General Office or via email to [unity_ps@moe.edu.sg](unity_ps@moe.edu.sg). <br><br>
+You can refer to the above link for more details on PG and steps to install the application. <br>
+5. Lastly, we seek your assistance to submit a copy of your child’s immunisation records (if not submitted earlier) to the school General Office or via email to [unity_ps@moe.edu.sg](unity_ps@moe.edu.sg). <br>
 6. If you have any queries, please feel free to call us at 6767 6750 or email us at [unity_ps@moe.edu.sg](unity_ps@moe.edu.sg).
