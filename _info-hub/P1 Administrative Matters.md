@@ -11,7 +11,7 @@ In preparation for the new academic year in 2024, the school requires parents / 
 **1. P1 Administrative Forms**<br>
 **a. Student Details Form (SDF) - All parents/guardians**<br>
 As your child/ward will be starting primary one in January 2024, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.<br>
-Please submit the information through the online Student Details Form portal from 10.00 am, 27 Nov 2023. The portal can be accessed via this URL: [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) or the QR code below. Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself. We seek your help to complete the submission **by 29 Dec 2023.**
+Please submit the information through the online Student Details Form portal from **10.00 am, 27 Nov 2023**. The portal can be accessed via this URL: [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) or the QR code below. Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself. We seek your help to complete the submission **by 29 Dec 2023.**
 <img style="width:25%" src="/images/Parents%20Matter/2024/SDF___scan.png">
 
 **b.  Edusave Standing Order Form (EPSO) - All parents/ guardians (for Students who are Singapore Citizens only)**<br>
