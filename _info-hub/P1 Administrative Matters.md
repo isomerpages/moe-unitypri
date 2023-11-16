@@ -25,7 +25,7 @@ Parents/guardians will be able to apply for GIRO online for payment of school fe
 This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.<br>
 
 **d.	MOE FAS Application Form - If applicable**<br>
-This is only applicable to Singapore Citizens for households with gross monthly income of $3,000 and below or per capita income of $750 or less. Eligible applicants can apply at: https://go.gov.sg/moe-efas  or scan the QR code below or hardcopy FAS Application form.
+This is only applicable to Singapore Citizens for households with gross monthly income of $3,000 and below or per capita income of $750 or less. Eligible applicants can apply at: [MOE-eFAS](https://go.gov.sg/moe-efas)  or scan the QR code below or hardcopy FAS Application form.
 <img style="width:25%" src="/images/Parents%20Matter/2024/MOE_FAS___QR_code.png"> <br>
 **Please do not purchase any school textbooks, attire, white shoes and socks until the school updates you on your FAS application status.**
 
