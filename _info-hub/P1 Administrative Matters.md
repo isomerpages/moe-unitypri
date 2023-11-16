@@ -14,7 +14,7 @@ As your child/ward will be starting primary one in January 2024, the Ministry of
 Please submit the information through the online Student Details Form portal from 10.00 am, 27 Nov 2023. The portal can be accessed via this URL: https://pg.moe.edu.sg/forms/sdf or the QR code below. Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself. We seek your help to complete the submission **by 29 Dec 2023.**
 <img style="width:25%" src="/images/Parents%20Matter/2024/SDF___scan.png">
 
-**b.  Edusave Standing Order Form (EPSO) - All parents/ guardians (for Students who are Singapore Citizens only)**
+**b.  Edusave Standing Order Form (EPSO) - All parents/ guardians (for Students who are Singapore Citizens only)**<br>
 Parents/guardians whose child(ren) is a Singapore Citizen are strongly encouraged to use Edusave funds for payment of school fees and enrichment programmes. Applications for EPSO can be made via Parents Gateway (under Services tab) or online [Edusave Standing Order Form](https://form.gov.sg/5be24a1bb3f842000fdc4e59) **by 10 Nov 2023.**<br>
 With EPSO, you will only need to give your authorisation once for Edusave withdrawals from your child’s Edusave Fund to pay for approved fees and local enrichment programmes. The one-time Edusave withdrawal authorisation will remain valid throughout your child’s school years.<br>
 The school will continue to seek your consent for your child’s participation in our planned programmes for the year, without which no Edusave withdrawals will be made.<br>
