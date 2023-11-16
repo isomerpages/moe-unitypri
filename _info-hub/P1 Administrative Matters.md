@@ -37,7 +37,7 @@ Big Heart Student Care (Self Help Groups Student Care Limited)<br>
 Contact Details:
 Mobile: 9023 1484 (from 10 am to 4 pm weekdays) <br>
 Email: [info@shgstudentcare.com.sg](info@shgstudentcare.com.sg)<br>
-Interested applicants may submit your interest online via the URL: https://bigheartstudentcare.com/interest/ or QR code below by 3 Nov 2023.<br>
+Interested applicants may submit your interest online via the URL: [https://bigheartstudentcare.com/interest/](https://bigheartstudentcare.com/interest/) or QR code below by 3 Nov 2023.<br>
 The SCC will assess the eligibility of the application and only short-listed applicants will be contacted for official registration.<br>
 For further enquiries, please contact the centre at 9023 4957 from 10am to 4pm (weekdays) or email at unity@shgstudentcare.com.sg.
 
