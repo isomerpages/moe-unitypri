@@ -21,7 +21,7 @@ The school will continue to seek your consent for your child’s participation i
 
 **c.	GIRO Application Form - All parents/ guardians**<br>
 The school strongly encourages all parents to apply for GIRO deduction of fees.  The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.<br>
-Parents/guardians will be able to apply for GIRO online for payment of school fees and charges by 25th of month (Nov 2023). The link will be available through Parents Gateway (PG) app and MOE internet website (https://www.moe.gov.sg/financial-matters/fees/egiro[https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)). Parents will have up till 25 Jan 2024 to sign up for GIRO for the first deduction in Feb 2024.<br>
+Parents/guardians will be able to apply for GIRO online for payment of school fees and charges by 25th of month (Nov 2023). The link will be available through Parents Gateway (PG) app and MOE internet website ([https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)). Parents will have up till 25 Jan 2024 to sign up for GIRO for the first deduction in Feb 2024.<br>
 This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.<br>
 
 **d.	MOE FAS Application Form - If applicable**<br>
