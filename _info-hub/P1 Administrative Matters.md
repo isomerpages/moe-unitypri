@@ -30,7 +30,7 @@ This is only applicable to Singapore Citizens for households with gross monthly 
 **Please do not purchase any school textbooks, attire, white shoes and socks until the school updates you on your FAS application status.**
 
 **e.	MTL-related forms - if applicable**
-Before your child is allowed to take a non-Mother Tongue (MT) subject, MOE’s approval is required. Please email to unity_ps@moe.edu.sg for a copy of the application form. Completed forms to be returned via the same email address for school processing. 
+Before your child is allowed to take a non-Mother Tongue (MT) subject, MOE’s approval is required. Please email to [unity_ps@moe.edu.sg](unity_ps@moe.edu.sg) for a copy of the application form. Completed forms to be returned via the same email address for school processing. 
 
 **f.	Indication of interest in school-based Student Care Centre (SCC) – if applicable**<br>
 Big Heart Student Care (Self Help Groups Student Care Limited)<br>
@@ -44,9 +44,9 @@ For further enquiries, please contact the centre at 9023 4957 from 10am to 4pm (
 **g.	School Bus Transport – if applicable**<br>
 Eileen Bus &amp; Coach Services<br>
 Contact No : 9743 4344<br>
-E-mail : eileenbus@hotmail.sg <br>
+E-mail : [eileenbus@hotmail.sg](eileenbus@hotmail.sg) <br>
 Website : [www.eileenbus.com](www.eileenbus.com) <br>
-For students who need the school bus transport service to commute between home and school, parents are required to submit the registration via this link: https://forms.gle/ECx2BtGGE5foMqJ79 by 10 Nov 2023. <br>
+For students who need the school bus transport service to commute between home and school, parents are required to submit the registration via this link: [https://forms.gle/ECx2BtGGE5foMqJ79](https://forms.gle/ECx2BtGGE5foMqJ79) **by 10 Nov 2023**. <br>
 
 **h.	Consent for Immunisation &amp; Dental Services (Health Promotion Board) - All parents/ guardians**<br>
 The Health Promotion Board provides your child with free health services such as screening, immunisation and dental checks at specified times during school hours in school. More details will be shared on a later date.
@@ -57,7 +57,7 @@ The school PE attire are differentiated by four colours namely red, yellow, blue
 **Please refer to email sent by school for the house colour. Please ensure you purchase the correct house colour for the PE attire.**
 
 **3. Purchase of school textbooks and attire**<br>
-The purchase of school textbooks and attire in school is strictly by appointment only. Please access  https://www.picktime.com/UPSbooking24newP1 book a slot between 22 Nov 2023 and 24 Nov 2023. <br>Parents can approach the Bookshop for a copy of the school booklist from 22 Nov 2023 onwards. <br> Parents with more than 1 child in the school to book only 1 slot for the purchase of school textbooks and attire.
+The purchase of school textbooks and attire in school is strictly by appointment only. Please access [ https://www.picktime.com/UPSbooking24newP1]( https://www.picktime.com/UPSbooking24newP1) book a slot between 22 Nov 2023 and 24 Nov 2023. <br>Parents can approach the Bookshop for a copy of the school booklist from 22 Nov 2023 onwards. <br> Parents with more than 1 child in the school to book only 1 slot for the purchase of school textbooks and attire.
 
 **4. Parents Gateway (PG)** <br>
 Developed by the Ministry of Education and GovTech, PG is a one-stop portal that strengthens school-home partnership to support our children in their education journey. The PG app is an important communication tool that MOE and school use to get in touch with parents. You can check out the FAQs for parents at [https://pg.moe.edu.sg](https://pg.moe.edu.sg).
