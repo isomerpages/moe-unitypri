@@ -20,7 +20,7 @@ variant: markdown
   <tr>
     <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/SL/mrs%20lee-koh%20siew%20cheng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mrs Lee-Koh SC</span></a><br>Principal
 		 </span></td><td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/SL/mrs%20chong%20suet%20fong.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mrs Chong SF</span></a><br>VP (Acad)</span></td>
-    <td colspan="3" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/SL/Mr_Syamsul.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Syamsul</span></a><br>VP (Acad)</span><br></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/SL%20&amp;%20Middle%20Management/SL/Mr_Syamsul.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Syamsul Anwar</span></a><br>VP (Acad)</span><br></td>
 		</tr>
 </thead>
 </table>
