@@ -16,3 +16,21 @@ We know that 2024 will be an equally exciting year for all our students, especia
 
 With your continued support and partnership, we forge ahead with faith as always in touching lives and transforming futures!
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Unity%20Story/Mrs_Lee_Koh_Siew_Cheng.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mrs Lee-Koh SC</span></a><br>Principal
+		 </span></td><td colspan="3" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Unity%20Story/Mrs_Chong_Suet_Fong.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mrs Chong SF</span></a><br>VP (Acad)</span></td>
+    <td colspan="3" class="tg-vgmr"><img style="width:75%" src="/images/Our%20Unity%20Story/Mr_Syamsul_Anwar.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:unity_ps@moe.edu.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Syamsul</span></a><br>VP (Acad)</span><br></td>
+		</tr>
+</thead>
+</table>
