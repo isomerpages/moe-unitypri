@@ -2,6 +2,7 @@
 title: Malay Language Teachers
 permalink: /team-ups/malay-language-teachers/permalink/
 description: ""
+variant: markdown
 ---
 ### **Malay Language Teachers**
 <style type="text/css">
@@ -16,12 +17,11 @@ description: ""
 <table class="tg">
 <thead>
 			<tr><td colspan="2" class="tg-vgmr"><img style="width:47%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20rasidah%20ahmad.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:rasidah_ahmad@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Rasidah</span></a><br>SH/ML
-				</span></span></td><td colspan="2" class="tg-vgmr"><img style="width:60%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/izni.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:izni_nasihah_zulkifli@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Izni Nasihah
-					</span></a></span></span></td><td colspan="2" class="tg-vgmr"><img style="width:48%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza
-				</span></a></span></td></tr><tr>
+				</span></span></td><td colspan="2" class="tg-vgmr"><img style="width:48%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nirwana%20haliza%20bte%20mohamed%20hal.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nirwana_haliza_mohamed_halil@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nirwana Haliza
+				</span></a></span></td>
 				<td colspan="2" class="tg-vgmr"><img style="width:47%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Faiza.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norfaiza_buang@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Norfaiza
-		 </span></a></span></td><td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Fazlina
+		 </span></a></span></td></tr><tr><td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/Fazlina.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:fazlina_mohamed@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Fazlina
 		</span></a></span></td><td colspan="2" class="tg-vgmr"><img style="width:57%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/mdm%20nur%20hidayati%20bte%20mohd%20ali.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:nur_hidayati_mohd_ali@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Nur Hidayati
-			</span></a></span></td></tr><tr>
+			</span></a></span></td>
 				<td colspan="2" class="tg-vgmr"><img style="width:45%" src="/images/Our%20Team%20UPS/Malay%20Language%20Teachers/norlizanah.png"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:norlizanah_mohamed_nor@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Norlizanah
 					</span></a></span></span></td></tr><tr></tr></thead></table>
