@@ -4,23 +4,4 @@ permalink: /team-ups/upam/permalink/
 description: ""
 variant: tiptap
 ---
-### **PE Teachers**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-			<tr><td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20johari%20wahid.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:johari_b_wahid@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Johari</span></a><br>HOD/PE
-		 </span></span></td><td colspan="2" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20hairil%20akhmal%20b%20sakroni.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Hairil Akhmal</span></a><br>SH/PE
-		</span></td><td colspan="2" class="tg-vgmr"><img style="width:57%" src="/images/Our%20Team%20UPS/PE%20Teachers/AMIRUL.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:amirul_salihin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Amirul Salihin
-			</span></a></span></td></tr><tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20bruce%20lim%20choon%20wei.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_choon_wei@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr Bruce Lim
-		 </span></a></span></span></td><td colspan="2" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/PE%20Teachers/Jessica.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_rui_fang_jessica@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Jessica Lim
-		</span></a></span></td><td colspan="2" class="tg-vgmr"><img style="width:57%" src="/images/Our%20Team%20UPS/PE%20Teachers/mr%20muhammad%20hanis%20bin%20sarkinin.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:muhammad_hanis_sarkinin@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Muhd Hanis
-			</span></a></span></td></tr><tr></tr></thead></table>
+<table><tbody><tr><th rowspan="1" colspan="2"><h4><strong>PE Teachers</strong></h4></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Johari Bin Wahid (HOD/PE, CCA &amp; AES)</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Hairil Akhmal Bin Sakroni (SH/PE)</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Amirul Salihin Bin Said </p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Bruce Lim Choon Wei&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Jessica Lim Rui Fang</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Hanis Bin Sarkinin&nbsp;</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="2"><p></p><h4><strong>Art Teachers</strong></h4></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Corrine Fong Tze Yuen (SH/AES)</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Filzah binte Shafiee</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Norsahida binte Adam </p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="2"><p></p><h4><strong>Music Teachers</strong></h4></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Daniel Lin Yuanwei&nbsp;</p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Herald A. Medina&nbsp;&nbsp;</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3></h3><p></p>
