@@ -2,30 +2,6 @@
 title: School Administration Team (SAT)
 permalink: /team-ups/School-Administration-Team-SAT/permalink/
 description: ""
+variant: tiptap
 ---
-### **School Administration Team**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-vgmr{background-color:#;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-			<tr><td colspan="2" class="tg-vgmr"><img style="width:48%" src="/images/Our%20Team%20UPS/SAT/ivylee.png"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Ivy_LEE@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Ivy Lee</span></a><br>AM</span></span></td><td colspan="2" class="tg-vgmr"><img style="width:55%" src="/images/Our%20Team%20UPS/SAT/mr%20palani%20jeyaram.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Palani_Velu_jeyaram@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mr P. Jeyaram</span></a><br>OM
-		 </span></span></td><td colspan="2" class="tg-vgmr"><img style="width:56%" src="/images/Our%20Team%20UPS/SAT/om%20deva.png"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Devaraja_Vinayagam@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mr Devaraja</span></a><br>OM
-			</span></td></tr><tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:48%" src="/images/Our%20Team%20UPS/SAT/ms%20zahratunisah%20binte%20abdul%20jabbar.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:zahratunisah_a_jabbar@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Mdm Zahratunisah</span></a><br>ICT Manager</span></td><td colspan="2" class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SAT/mdm%20beverley%20lim%20hoo%20kee.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:lim_hoo_kee@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Ms Beverley Lim</span></a><br>AE
-		 </span></span></td><td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/ms%20candy%20goh.jpg"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Goh_MING_HUI@schools.gov.sg"><span style="text-decoration:underline;color:#1E73BE;background-color:transparent">Ms Candy Goh</span></a><br>AE
-		</span></td></tr><tr>
-				<td colspan="2" class="tg-vgmr"><img style="width:48%" src="/images/Our%20Team%20UPS/SAT/Adila.jpg"><span style="font-weight:bold"><span style="font-weight:bold"><a rel="noopener noreferrer" target="_blank" href="mailto:Nur_adila_Kamarudin@schools.gov.sg"><span style="text-decoration;color:#1E73BE;background-color:transparent">Mdm Nur Adila</span></a><br>CSO
-					</span></span></td><td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/mr%20david%20lee.jpg"><span style="font-weight:bold">Mr David Lee<br>OSO
-	</span></td><td colspan="2" class="tg-vgmr"><img style="width:54%" src="/images/Our%20Team%20UPS/SAT/mdm%20raman%20mageswari%20(mdm%20mages).jpg"><span style="font-weight:bold">Mdm Mages<br>OSO
-					</span></td></tr><tr>
-						<td colspan="2" class="tg-vgmr"><img style="width:50%" src="/images/Our%20Team%20UPS/SAT/mdm%20rukiya.jpg"><span style="font-weight:bold">Mdm Rukiya<br>OSO
-		 </span></td><td colspan="2" class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SAT/fenglian.png"><span style="font-weight:bold">Mdm Zhou FengLian<br>OSO
-		</span></td><td colspan="2" class="tg-vgmr"><img style="width:58%" src="/images/Our%20Team%20UPS/SAT/sam%20oso1.png"><span style="font-weight:bold">Mr Sam<br>OSO
-			</span></td></tr><tr></tr></thead></table>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p>Administration Manager</p></td><td rowspan="1" colspan="1"><p>&nbsp;Ms Ivy Lee Ngoi Eng</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>&nbsp;Mr Palani Velu Jeyaram</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>&nbsp;Mr Devaraja S/O Vinayagam</p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>Ms Zahratunisah Binte Abdul Jabbar</p></td></tr><tr><td rowspan="1" colspan="1"><p>Administrative Executive</p></td><td rowspan="1" colspan="1"><p>Mdm Beverley Lim Hoo Kee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Adminstrative Executive</p></td><td rowspan="1" colspan="1"><p>Ms Candy Goh Ming Hui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Nur Adila Binte Kamarudin</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr David Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Raman Mageswari</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Rukiya Bevi Binte Omar Maidin</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mdm Zhou Fenglian</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p>Mr Sam</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3></h3><p></p>
