@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Applied Learning Programme/.keep
       - Learn for Life Programme.md
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
