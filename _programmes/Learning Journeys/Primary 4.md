@@ -3,6 +3,7 @@ title: Primary 4
 permalink: /programmes/Learning-Journeys/Primary4/permalink/
 description: ""
 third_nav_title: Learning Journeys
+variant: markdown
 ---
 ### **Outdoor Education Learning Journey**
 P4 students had a fantastic experience during the recent Outdoor Education Learning Journey to Limbang Park. The adventure in the outdoor setting provided numerous opportunities for learning, fun, and appreciation of the nature.
@@ -26,3 +27,8 @@ This year, there was an additional segment of Precinct walk to the Geylang Serai
 
 All in all, the students had an exhilarating and enriching experience, gaining insights into the history of Geylang Serai and its pivotal role in the Malay and Muslim communities.
 ![](/images/Learning%20Journeys/2023/Primary%204/collage.jpg)
+### **Kreta Ayer Heritage Gallery**
+During the learning journey to the Kreta Ayer Heritage Gallery, the Primary 4 students took on the role of explorers to discover the history of Kreta Ayer and its importance to the Chinese immigrants and Chinese communities in Singapore. The students explored the five features of Chinese culture, Chinese Opera, Chinese Puppetry, Chinese Calligraphy, Chinese Tea Appreciation, and Nanyin Music, through hands-on activities, pictures, and stories. The friendly educators enthusiastically showed authentic artifacts and recalled stories to make history and culture come alive for the students!  
+Additionally, the students participated in a Precinct walk to Sago Lane and Chinatown Complex. The shophouses and market were colourful and buzzing with activities. The lively atmosphere brought much joy to the students as they learned about the stories behind some of the places in the area.
+From this learning journey, students learned more about the contributions made by the Chinese community in the development of Singapore. It was indeed an enriching experience!
+![](/images/Learning%20Journeys/2023/Primary%204/p4%20kreta%20ayer.png)
