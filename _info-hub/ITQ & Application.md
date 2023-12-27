@@ -2,6 +2,7 @@
 title: ITQ & Application
 permalink: /itq-application/permalink/
 description: ""
+variant: markdown
 ---
 #### ITQ
 The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly submit your quotations via Gebiz if you are interested to bid for the contract.
@@ -9,8 +10,7 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 
 | ITQ No./<br>Date Created | ITQ Description | ITQ Closing Date |
 | -------- | -------- | -------- |
-|MOESCHETQ23006127  24 Oct 2023| Supply of Instructor for Fun with Clay Programme in Unity Primary School for base year 2024 with an option to renew for 2025 &amp; 2026 |01 Nov 2023 01:00 PM|
-|MOESCHETQ23006254  24 Oct 2023|Supply of Art Materials for Unity Primary School|01 Nov 2023 01:00 PM
+|MOESCHETQ23007847  27 Dec 2023| Supply of Instructor for Netball CCA Training Programme in Unity Primary School |5 Jan 2024 1:00 PM|
 
 
 
@@ -20,7 +20,6 @@ The ITQ below has been published onto the Gebiz Enterprise System. <br>Kindly su
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Japanese     | 17 November 2023 | Dim Sum is acceptable|
-| Muslim Food | 17 November 2023 | 
 
 
 **Application Procedure**
