@@ -1,0 +1,20 @@
+collections:
+  info-hub:
+    output: true
+    order:
+      - Tour of School.md
+      - School Hours.md
+      - School Safety.md
+      - P1 Administrative Matters.md
+      - Services/.keep
+      - Services/Booklist & Bookshop.md
+      - Services/Canteen Stalls.md
+      - Services/School Dental Clinic.md
+      - Services/Uniform Vendor.md
+      - Services/Bus Vendor.md
+      - Services/Student Care Centre.md
+      - Services/Student Insurance.md
+      - Services/MOE Financial Assistance Scheme (FAS).md
+      - Services/DigitalAccess@Home.md
+      - ITQ & Application.md
+      - Contact Us.md

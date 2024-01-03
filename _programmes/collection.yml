@@ -1,0 +1,32 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learn for Life Programme.md
+      - Learning Journeys/.keep
+      - Learning Journeys/Primary 1.md
+      - Learning Journeys/Primary 2.md
+      - Learning Journeys/Primary 3.md
+      - Learning Journeys/Primary 4.md
+      - Learning Journeys/Primary 5.md
+      - Learning Journeys/Primary 6.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co curricular Activities.md
+      - Co Curricular Activities/Sports & Games.md
+      - Co Curricular Activities/Performing Arts.md
+      - Co Curricular Activities/Clubs & Societies.md
+      - Co Curricular Activities/Uniform Groups.md
+      - Overseas Immersion Programme/.keep
+      - Overseas Immersion Programme/WuXi and Shanghai, China.md
+      - Overseas Immersion Programme/Brunei.md
+      - Overseas Immersion Programme/Ho Chi Minh, Vietnam.md
+      - Junior Achievement Programme/.keep
+      - Junior Achievement Programme/P1 JAP.md
+      - Junior Achievement Programme/P2 JAP.md
+      - Junior Achievement Programme/P3 JAP.md
+      - Junior Achievement Programme/P4 JAP.md
+      - Junior Achievement Programme/P5 JAP.md
+      - Junior Achievement Programme/P6 JAP.md
+      - Project Work.md
+      - Recess Play.md
