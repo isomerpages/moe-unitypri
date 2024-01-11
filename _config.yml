@@ -1,5 +1,5 @@
 title: UPS
-url: https://www.open.gov.sg
+url: https://unitypri.moe.edu.sg
 favicon: /images/logo_transparent.jpg
 colors:
   primary-color: "#0054ac"
@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d16o86lgtpu37o.amplifyapp.com
 prod: https://master.d16o86lgtpu37o.amplifyapp.com
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: itq
+google_analytics_ga4: ""
