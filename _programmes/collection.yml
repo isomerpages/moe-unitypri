@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Student Leadership.md
       - Applied Learning Programme.md
       - Learn for Life Programme.md
+      - Student Leadership.md
       - Learning Journeys/.keep
       - Learning Journeys/Primary 1.md
       - Learning Journeys/Primary 2.md
