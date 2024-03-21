@@ -142,18 +142,18 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Science</p>
+<p>English Language &amp; Math</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Yong Lee Foon</p>
+<p>Mrs Wee Li Ting</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Science</p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Yong Lee Foon</p>
 </td>
 </tr>
 </tbody>
