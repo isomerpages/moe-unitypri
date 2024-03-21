@@ -3,6 +3,7 @@ title: Primary 1
 permalink: /programmes/Learning-Journeys/Primary1/permalink/
 description: ""
 third_nav_title: Learning Journeys
+variant: markdown
 ---
 ### **Around the School &amp; Road Safety Walk**
 
@@ -11,8 +12,7 @@ P1 Learning Journey Around the School Neighbourhood &amp; Road Safety Walk was c
 With the support of Class Parent Volunteers and School Operation Managers, the students together with their form teachers walked around the school vicinity to familiarise themselves experientially with the traffic signals at crossings and the road hazards they might encounter. The students also stopped by at the nearby playgrounds where they learned safe and mindful behaviour while having fun playing together.
 
 The students had a wonderful time exploring around the school neighbourhood with their classmates, teachers and parent volunteers even though it was a rather warm morning. The fun, excitement and educational experience more than made up for the humid weather!
-![](/images/Learning%20Journeys/2023/Primary%201/P1%20LJ%20Ard%20the%20School.jpg)
-
+![](/images/Learning%20Journeys/2024/p1%20walk%20around%20the%20neighbourhood.png)
 ### **Jacob Ballas**
 
 In Term 3 Week 4, Primary 1 students went on a Learning Journey to Jacob Ballas Children’s Garden. Nestled within the heart of Singapore Botanic Gardens, the Jacob Ballas Children's Garden is a vibrant and interactive space designed exclusively for young learners. Our students embarked on a day of immersive exploration, where they engaged with the wonders of nature in an educational setting. 
