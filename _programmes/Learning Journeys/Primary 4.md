@@ -13,13 +13,13 @@ The Outdoor Education Learning Journey to Limbang Park was undoubtedly a huge su
 ![](/images/Learning%20Journeys/2023/Primary%204/p4%20oe%201.png)
 ### **Museum Based Learning**
 The P4 Museum Based Learning (MBL) is part of the refreshed art education syllabus aimed at making learning more authentic and for exposure to Singaporean art. MBL offers a unique and effective approach to education that leverages the resources and environments provided by museums to create engaging and memorable learning experiences. 
-![](/images/Learning%20Journeys/2023/Primary%204/p4%20mbl%201.png)
+![](/images/Learning%20Journeys/2024/P4_MBL_1.png)
 Museums offer a hands-on, interactive, and multisensory environment that encourages experiential learning. Our students engage with exhibits through observation and discussion to enhance the learning process.
-![](/images/Learning%20Journeys/2023/Primary%204/p4%20mbl%202.png)
+![](/images/Learning%20Journeys/2024/P4_MBL_2.png)
 Museums often cover a wide range of topics, from history and science to art and culture. This allows for interdisciplinary learning, where students can explore connections between different subject areas.
-![](/images/Learning%20Journeys/2023/Primary%204/p4%20mbl%203.png)
+![](/images/Learning%20Journeys/2024/P4_MBL_3.png)
 MBL encourages critical thinking and inquiry-based learning. Students are prompted to ask questions, analyze information, and draw their own conclusions as they interact with exhibits and displays.
-![](/images/Learning%20Journeys/2023/Primary%204/p4%20mbl%204.png)
+![](/images/Learning%20Journeys/2024/P4_MBL_4.png)
 MBL not only cultivate interest but also lifelong learners who can continue to explore new topics and expand their knowledge through more museum visits.
 ### **Geylang Serai Heritage Gallery**
 During the recent learning journey to the Geylang Serai Heritage Gallery, the Primary 4 students had the opportunity to play the role of explorers. They went on a mission to discover the history of Geylang Serai and its importance to the Malay and Muslim communities in Singapore. The students explored the gallery and visited four different stations, each with friendly educators who told stories and showed interesting objects to make history come alive.
