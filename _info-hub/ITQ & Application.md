@@ -34,6 +34,19 @@ the contract.</p>
 <p>28 Mar 2024 01:00 PM</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOESCHETQ24001451
+<br>26 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
+Camp for Unity Primary School 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>04 Apr 2024 01:00 PM</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Canteen Stall Application</h4>
