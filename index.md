@@ -21,4 +21,12 @@ sections:
         - title: School Calendar
           description: ""
           url: /parents-matter/School-Calendar/permalink/
+  - infopic:
+      title: Open House 2024
+      subtitle: Unity Primary School
+      id: infopic
+      button: Registration
+      url: /ups-open-house/
+      image: /images/Picture1.png
+      alt: Image alt text
 ---
