@@ -25,8 +25,9 @@ sections:
       title: Open House 2024
       subtitle: Unity Primary School
       id: infopic
-      button: Registration
+      button: Registration Link
       url: /ups-open-house/
-      image: /images/Picture1.png
+      image: /images/WhatsApp_Image_2024_04_19_at_10_31_38.jpg
       alt: Image alt text
+      description: Register by 13 May 2024, Mon
 ---
