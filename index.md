@@ -4,7 +4,7 @@ title: UPS
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "2024 Unity Primary Open House Registration "
+notification: 2024 Unity Primary Open House (Scroll down to register)
 sections:
   - hero:
       background: /images/Homepage/HomepageMar.png
