@@ -4,7 +4,7 @@ title: UPS
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: 2024 Unity Primary Open House (Scroll down to register)
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/HomepageMar.png
@@ -25,15 +25,6 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
-  - infopic:
-      title: Open House 2024
-      subtitle: Unity Primary School
-      id: infopic
-      button: Registration Link
-      url: /ups-open-house/
-      image: /images/WhatsApp_Image_2024_04_19_at_10_31_38.jpg
-      alt: Image alt text
-      description: Register by 13 May 2024, Mon
   - announcements:
       title: Announcements
       id: announcements
