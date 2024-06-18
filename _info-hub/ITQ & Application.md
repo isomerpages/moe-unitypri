@@ -8,7 +8,12 @@ variant: tiptap
 <p>The ITQ below has been published onto the Gebiz Enterprise System.
 <br>Kindly submit your quotations via Gebiz if you are interested to bid for
 the contract.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,33 +29,37 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHERQ24000223
-<br>19 Mar 2024</p>
+<p>MOESCHETQ24002429
+<br>14 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Unity Pri Sch Overseas Immersion Programme (OIP) to Brunei</p>
+<p>Design, Supply &amp; Renovation Of Existing School Library Space In Unity
+Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 Mar 2024 01:00 PM</p>
+<p>02 Jul 2024 01:00 PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24001451
-<br>26 Mar 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
-Camp for Unity Primary School 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>04 Apr 2024 01:00 PM</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Canteen Stall Application</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
