@@ -29,15 +29,13 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24002429
-<br>14 Jun 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design, Supply &amp; Renovation Of Existing School Library Space In Unity
-Primary School</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>05 Jul 2024 01:00 PM</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,6 +51,17 @@ Primary School</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>School Bus Advertisement</h4>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
+<p><strong>Service Requirements</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ol>
 <h4>Canteen Stall Application</h4>
 <table style="minWidth: 75px">
 <colgroup>
