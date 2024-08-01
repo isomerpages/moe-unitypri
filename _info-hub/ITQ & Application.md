@@ -38,17 +38,6 @@ the contract.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -67,8 +56,7 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Info Hub/2024/Request_For_School_Bus_Services_and_TC.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
-</p>
+<p></p>
 </li>
 </ol>
 <h4>Canteen Stall Application</h4>
