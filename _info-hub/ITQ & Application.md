@@ -64,7 +64,7 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="/files/Info Hub/2024/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+<p>Complete the <a href="/files/Info Hub/2024/Info_from_Vendor.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
 </p>
 </li>
 <li>
