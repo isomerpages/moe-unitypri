@@ -83,7 +83,6 @@ Procedure below.</p>
 </li>
 <li>
 <p>Contact Person: Ms Ivy Lee</p>
-<p></p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
