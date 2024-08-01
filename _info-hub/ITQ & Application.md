@@ -62,14 +62,16 @@ Procedure below.</p>
 </ol>
 <p><strong>Application Procedure</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Complete the <a href="/files/Info Hub/2024/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
 </p>
 </li>
-</ul>
+<li>
 <p>Submit the completed Call for Proposal – Annex A by closing date, 12 Aug
 2024 to the School’s General Office.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 21 Choa Chu Kang Crescent, S688268</p>
