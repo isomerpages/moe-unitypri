@@ -29,19 +29,6 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24002429
-<br>14 Jun 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Design, Supply &amp; Renovation Of Existing School Library Space In Unity
-Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>05 Jul 2024 01:00 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,6 +40,63 @@ Primary School</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>School Bus Advertisement</h4>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
+<p><strong>Service Requirements</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Info Hub/2024/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposals</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Info Hub/2024/TC_School_Bus.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Info Hub/2024/Request_for_School_Bus_Service_and_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
+</li>
+</ol>
+<p><strong>Application Procedure</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the <a href="/files/Info Hub/2024/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal – Annex A by closing date, 12 Aug
+2024 to the School’s General Office.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 21 Choa Chu Kang Crescent, S688268</p>
+</li>
+<li>
+<p>Contact No: 6767 6750</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Ms Ivy Lee</p>
+</li>
+</ul>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Yew Tee MRT (NS5 line) – 15 minutes walking distance</p>
+</li>
+<li>
+<p>Bus number: 979, 302 - 3 minutes walking distance</p>
+</li>
+</ul>
 <h4>Canteen Stall Application</h4>
 <table style="minWidth: 75px">
 <colgroup>
