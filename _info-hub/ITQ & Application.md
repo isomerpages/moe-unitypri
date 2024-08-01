@@ -56,9 +56,46 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Info Hub/2024/Request_for_School_Bus_Service_and_T_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
+<p><strong>Application Procedure</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete the <a href="/files/Info Hub/2024/Call_for_Proposal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+</p>
+</li>
+</ul>
+<p>Submit the completed Call for Proposal – Annex A by closing date, 12 Aug
+2024 to the School’s General Office.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 21 Choa Chu Kang Crescent, S688268</p>
+</li>
+<li>
+<p>Contact No: 6767 6750</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Ms Ivy Lee</p>
+<p></p>
+</li>
+</ul>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Yew Tee MRT (NS5 line) – 15 minutes walking distance</p>
+</li>
+<li>
+<p>Bus number: 979, 302 - 3 minutes walking distance</p>
+</li>
+</ul>
 <h4>Canteen Stall Application</h4>
 <table style="minWidth: 75px">
 <colgroup>
