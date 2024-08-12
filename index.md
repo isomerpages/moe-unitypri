@@ -4,8 +4,8 @@ title: Unity Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Teachers' Day visit guidelines for ex-students: Please scroll
-  down to Anouncement  for details."
+notification: "Information for ex-students visiting teachers on Teachers' Day:
+  Please scroll down to the Announcement section for details."
 sections:
   - hero:
       background: /images/Homepage/HomepageMar.png
@@ -32,7 +32,7 @@ sections:
       announcement_items:
         - title: Teachers' Day 2024
           date: 12 August 2024
-          announcement: Guidelines for ex-students visiting teachers on Teachers' Day
+          announcement: Information for ex-students visiting teachers on Teachers' Day
           link_text: Click here
-          link_url: /guidelines-for-ex-students/
+          link_url: /information-for-ex-students/
 ---

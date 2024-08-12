@@ -1,6 +1,6 @@
 ---
-title: Guidelines for ex students
-permalink: /guidelines-for-ex-students/
+title: Information for ex students
+permalink: /information-for-ex-students/
 variant: tiptap
 description: ""
 ---
