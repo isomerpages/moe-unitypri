@@ -4,7 +4,8 @@ title: Unity Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Teachers' Day visit guidelines for ex-students: Please check the
+  Info Hub tab for details."
 sections:
   - hero:
       background: /images/Homepage/HomepageMar.png
@@ -25,8 +26,4 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
 ---
