@@ -34,5 +34,5 @@ sections:
           date: 12 August 2024
           announcement: Guidelines for ex-students visiting teachers on Teachers' Day
           link_text: Click here
-          link_url: https://unitypri.moe.edu.sg/guidelines-for-ex-students/
+          link_url: /guidelines-for-ex-students/
 ---
