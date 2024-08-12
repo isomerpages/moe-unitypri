@@ -26,4 +26,14 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Teachers' Day 2024
+          date: 12 August 2024
+          announcement: Guidelines for ex-students visiting teachers on Teachers' Day
+          link_text: ""
+          link_url: ""
 ---
