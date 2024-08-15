@@ -29,13 +29,13 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOESCHETQ24003372</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Design, Print &amp; Supply of Memento for UPS’s 25th Anniversary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 Aug 2024 01:00 PM</p>
 </td>
 </tr>
 </tbody>
