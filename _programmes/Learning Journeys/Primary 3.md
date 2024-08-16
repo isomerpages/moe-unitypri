@@ -17,7 +17,7 @@ Our students’ thirst for knowledge was rewarded with a gift guaranteed to quen
 The Singapore Zoological Gardens is a secure and organized environment for Science lessons about animals’ characteristics beyond the classroom. The Primary 3 students had the opportunity to enjoy a rewarding morning there, observing animals from various groups and learning about their requirements and habitats. One of the key educational objectives was for them to understand the importance of environmental conservation, especially in the light of humanity's impact on animals' natural habitats.
 Riding on the tram with audio commentary, the students glimpsed many different animals and got a better overview of the zoo . They also honed their navigation skills by using a map to follow a designated trail. The highlight of the excursion was undoubtedly the Sealion Show at the Amphitheatre, where the students had a splashing whirl of fun.
 Overall, it was an exhilarating and educational experience for all!
-![](/images/Learning%20Journeys/2023/Primary%203/p3%20zoo%20lj.png)
+![](/images/Learning%20Journeys/2024/2024_P3_LJ_Zoo_Website.jpg)
 
 ### **NEWater Visitor Centre**
 Learning journey is beneficial to student development as it provides an opportunity for the students to gain real-world experiences that complement classroom learning. The cohort of Primary 3 students had a memorable learning journey to Singapore's NEWater plant. It has given them the opportunity to appreciate Singapore's water sources, understand the effects of climate change and the sustainability efforts Singapore has put in.
