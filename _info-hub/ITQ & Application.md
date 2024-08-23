@@ -38,6 +38,18 @@ the contract.</p>
 <p>23 Aug 2024 01:00 PM</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOESCHETQ24003536</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of School Uniform Services in Unity Primary School for 2025
+&amp; option to extend</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02 Sep 2024 01:00 PM</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

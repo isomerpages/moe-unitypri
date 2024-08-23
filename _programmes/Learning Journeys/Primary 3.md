@@ -3,6 +3,7 @@ title: Primary 3
 permalink: /programmes/Learning-Journeys/Primary3/permalink/
 description: ""
 third_nav_title: Learning Journeys
+variant: markdown
 ---
 ### **Kok Fah Technology Farm**
 The third week of Term 4 saw learning come alive for our Primary 3 students. They visited Kok Fah farm, an aggrotech farm situated at Kranji. Through hands-on activities and the patient guidance of experienced farm guides, they witnessed the farming technique of hydroponics in growing leafy vegetables.
@@ -13,9 +14,10 @@ Our students’ thirst for knowledge was rewarded with a gift guaranteed to quen
 ![](/images/Learning%20Journeys/2023/Primary%203/collage.jpg)
 
 ### **Singapore Zoological Gardens**
-The Singapore Zoological Gardens offers a safe and structured environment outside the classroom for Science lesson on characteristics of animals. One of the important learning points is for our students to realise the significance of the environmental conservation in light of Man’s impact on the natural habitats of the animals. <br>
-P3 students spent an enriching morning in the zoo as they looked out for animals in the various animal groups, and found out more about their needs and habitats. The students also picked up navigational skills using a map as they followed a set trail in the zoo. The highlight of the trip was none other than the Sealion Show at the Amphitheatre.  In all, the students had a splashing whirl of fun observing the animals and learning!
-![](/images/Learning%20Journeys/2023/Primary%203/p3%20zoo%20lj.png)
+The Singapore Zoological Gardens is a secure and organized environment for Science lessons about animals’ characteristics beyond the classroom. The Primary 3 students had the opportunity to enjoy a rewarding morning there, observing animals from various groups and learning about their requirements and habitats. One of the key educational objectives was for them to understand the importance of environmental conservation, especially in the light of humanity's impact on animals' natural habitats.
+Riding on the tram with audio commentary, the students glimpsed many different animals and got a better overview of the zoo . They also honed their navigation skills by using a map to follow a designated trail. The highlight of the excursion was undoubtedly the Sealion Show at the Amphitheatre, where the students had a splashing whirl of fun.
+Overall, it was an exhilarating and educational experience for all!
+![](/images/Learning%20Journeys/2024/2024_P3_LJ_Zoo_Website.jpg)
 
 ### **NEWater Visitor Centre**
 Learning journey is beneficial to student development as it provides an opportunity for the students to gain real-world experiences that complement classroom learning. The cohort of Primary 3 students had a memorable learning journey to Singapore's NEWater plant. It has given them the opportunity to appreciate Singapore's water sources, understand the effects of climate change and the sustainability efforts Singapore has put in.
