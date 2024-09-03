@@ -3,8 +3,12 @@ title: Bus Vendor
 permalink: /parents-matter/Info-on-Services/bus-vendor/permalink/
 description: ""
 third_nav_title: Services
+variant: markdown
 ---
+#### School Bus Information
 **Eileen Bus &amp; Coach Services**  
+Please contact Manager, Mt Ivan Sin on School Bus transport matters.
+If you are unable to canontact Mr Sin via call, please send him a message via SMS.
 
 **Contact No :** 9743 4344  
 **E-mail :** eileenbus@hotmail.sg  
