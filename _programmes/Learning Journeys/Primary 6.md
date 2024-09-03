@@ -3,10 +3,14 @@ title: Primary 6
 permalink: /programmes/Learning-Journeys/Primary6/permalink/
 description: ""
 third_nav_title: Learning Journeys
+variant: markdown
 ---
 ### **Learning Journey to Singapore Discovery Centre**
-The Primary 6 students went on a learning journey to the Singapore Discovery Centre (SDC) on 20 January 2023 where they experienced the Singapore Story from the past to the present via a multi-sensory approach.  Students had the opportunity to try out activities such as interactive videos and games at the various stations. One of the highlights was a video depicting Singapore’s past where students discovered how life was under extraordinary and challenging circumstances for people then. The students were self-directed and enthusiastic in completing the reflection booklet after exploring the different exhibits. Importantly, they learned how Singapore remained resilient with the foresight and resolve to face the future.  The entire experience was definitely an eye-opener for the students.
-![](/images/Learning%20Journeys/2023/Primary%206/P6%20LJ%20to%20SDC.jpg)
+To deepen their understanding of how Singapore has progressed since gaining independence, the Primary 6 students went on a learning journey to the Singapore Discovery Centre (SDC) where they experienced the Singapore Story from the past to the present through a multi-sensory approach. Through various activities, such as the interactive videos and games, students learnt more about the different challenges Singapore faced in the past as well as the future challenges the nation might face. Students then reflected on how these challenges could be overcome as a nation.<br>
+Besides the exhibitions at SDC, students also had a chance to hop onto the SAFTI Military Institute bus for an exclusive tour around the training ground for officers-to-be. They got a glimpse into the life of an officer cadet and the role of the Singapore Armed Forces in the defence and security of Singapore. <br>
+The students thoroughly enjoyed this eye-opening experience. 
+
+![](/images/Learning%20Journeys/2024/P6_LJ_SDC.png)
 
 ### **Ancient Civilisations Museum**
 
