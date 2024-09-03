@@ -18,8 +18,7 @@ As part of the school’s Learn for Life Programme to inculcate character and va
 The performance was enchanting, captivating the young audience from the very first moment. The vibrant costumes and colourful set design created a whimsical world that instantly drew the children in. The actors, with their animated expressions and lively movements, brought the characters to life in a way that was both magical and relatable. The dialogue and interactions resonated with the young audience, eliciting laughter and gasps of amazement. <br>
 As the show came to an end, the theater erupted with applause. The learning journey was truly an unforgettable experience. When the students returned to school, they reflected happily on their favourite parts and characters of the performance
 
-
-![](/images/Learning%20Journeys/2023/Primary%202/p2%20theatre%20exp1.jpg)
+![](/images/Learning%20Journeys/2024/P2_LJ_Theatre_Exp.png)
 
 ### **River Wonders**
 After missing out on the opportunity to visit River Wonders due to COVID in 2021, the P2 students and teachers were elated to be able to embark on their LJ at the end of Term 2 this year when the SMMs were eased. All of them had a fascinating time seeing the actual animals which they saw on the virtual LJ last year. The sight of manatees and giant stingrays at the Amazon Flooded Forest enthralled the students. Many saw electric eel and piranha for the first time. The highlight of the visit was getting to see Jia Jia and Le Le at the panda enclosure. It was a sight to behold, with Le Le perched on the tree branch, enjoying his nap! Importantly, the classes had a wonderful time bonding with one another on their 1st ever LJ since they joined Unity Primary School at P1.
