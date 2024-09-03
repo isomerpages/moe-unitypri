@@ -3,6 +3,7 @@ title: Primary 2
 permalink: /programmes/Learning-Journeys/Primary2/permalink/
 description: ""
 third_nav_title: Learning Journeys
+variant: markdown
 ---
 ### **Hay Dairies Goat Farm**
 On 10 May 2023, the P2 students embarked on a learning journey to the Hay Dairies Goat Farm situated in Lim Chu Kang. The programme aimed to encourage students to learn more about the farm history, identify the different species of goats, understand the milking process and learn to develop care and compassion for the animals.  
@@ -12,10 +13,11 @@ At the end of the tour, every student received souvenirs and a fresh bottle of c
 ![](/images/Learning%20Journeys/2023/Primary%202/p2%20lj%20hay%20dairies.png)
 
 ### **Theatre Experience**
-On 26 July 2023, the Primary 2 students embarked on a learning journey to Singtel Waterfront Theatre at The Esplanade to watch a performance entitled ‘The Zodiac Race’. This is part of the school’s Learn for Life Programme to develop student character and inculcate values through experiential and authentic learning. The theatre experience allows our students to demonstrate the correct theatre etiquette and the value of respect during a performance.
-‘The Zodiac Race’ is about twelve animals - the rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, and pig from earth competing in a battle of speed and wit to cross the heavenly gate. As a reward for turning up, the heavenly Emperor promises to name a year in the zodiac after each animal, while the race will determine the order in which they will be placed in the lunar calendar.
-It was an enchanting performance filled with wonder and excitement, for both the teachers and students. As the lights dimmed, the atmosphere in the theater buzzed with excitement. The stage was adorned with vibrant colors, captivating props and engaging sets that transported the young audience to a realm of fantasy. The production began with lively music and mesmerised the children from the very first moment. The dialogue and interactions were carefully crafted to resonate with the young audience, eliciting laughter and gasps of amazement. As the performance progressed, their eyes sparkled with marvel and their faces glowed with joy as they became fully immersed in the magical world unfolding before them.
-As the show came to an end, the theater erupted with applause. The learning journey was truly an unforgettable experience. As the students left the venue, they chatted happily about their favourite moments and characters of the performance.
+As part of the school’s Learn for Life Programme to inculcate character and values through experiential and authentic learning, the Primary 2 students embarked on a learning journey to Gateway Theatre to watch a performance entitled ‘The Invisible Pangolin’ on 25 July 2024.  The theatre experience provides the opportunity for the students to practise correct theatre etiquette and value of respect during a performance.<br>
+‘The Invisible Pangolin’ is about three friends, a Monkey, Owl and Tiger who come across a mysterious ball that turns out to be a classmate (Pangolin) whom they have never “seen” before. “The Invisible Pangolin” is an interactive theatre experience that delves into the themes of friendship, embracing differences, being noticed, the importance of saying “no” and the value of giving space. <br>
+The performance was enchanting, captivating the young audience from the very first moment. The vibrant costumes and colourful set design created a whimsical world that instantly drew the children in. The actors, with their animated expressions and lively movements, brought the characters to life in a way that was both magical and relatable. The dialogue and interactions resonated with the young audience, eliciting laughter and gasps of amazement. <br>
+As the show came to an end, the theater erupted with applause. The learning journey was truly an unforgettable experience. When the students returned to school, they reflected happily on their favourite parts and characters of the performance
+
 
 ![](/images/Learning%20Journeys/2023/Primary%202/p2%20theatre%20exp1.jpg)
 
