@@ -13,7 +13,7 @@ As responsible adventurers, the students learned the importance of packing a hea
 
 Our students embraced the opportunity to connect with nature to nurture their minds and bodies as well as learn valuable life skills.  The Outdoor Education Learning Journey to Limbang Park was undoubtedly a huge success. 
 
-![](/images/Learning%20Journeys/2023/Primary%204/p4%20oe%201.png)
+![](/images/Learning%20Journeys/2024/P4_OE_LJ_png.jpg)
 ### **Museum Based Learning**
 The P4 Museum Based Learning (MBL) is part of the refreshed art education syllabus aimed at making learning more authentic and for exposure to Singaporean art. MBL offers a unique and effective approach to education that leverages the resources and environments provided by museums to create engaging and memorable learning experiences. 
 ![](/images/Learning%20Journeys/2024/P4_MBL_1.png)
