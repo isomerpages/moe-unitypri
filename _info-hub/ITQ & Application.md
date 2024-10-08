@@ -29,25 +29,24 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24003372</p>
+<p>MOESCHETQ24004951</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design, Print &amp; Supply of Memento for UPS’s 25th Anniversary</p>
+<p>Supply of Art Materials</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Aug 2024 01:00 PM</p>
+<p>15 Oct 2024 01:00 PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24003536</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of School Uniform Services in Unity Primary School for 2025
-&amp; option to extend</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>02 Sep 2024 01:00 PM</p>
+<p></p>
 </td>
 </tr>
 </tbody>
