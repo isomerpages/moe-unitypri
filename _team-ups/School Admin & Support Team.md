@@ -60,10 +60,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
+<p>Adj Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Ng</p>
+<p>Mdm Chia Gek Eng (Felicia)</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Faliq</p>
+<p>Mr Mohammad Zairy</p>
 </td>
 </tr>
 <tr>
