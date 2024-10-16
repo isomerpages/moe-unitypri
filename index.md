@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/HomepageMar.png
+      background: /images/Homepage/UPS_Website_Cover_Page_Photo__5_.gif
       key_highlights:
         - title: Signature Programmes
           description: ""
