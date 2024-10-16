@@ -6,4 +6,4 @@ variant: markdown
 ---
 ### **School Advisory Committee**
 
-![](/images/Our%20Team%20UPS/SAC/SAC1.png)
+![](/images/Our%20Team%20UPS/SAC/SAC2.jpg)
