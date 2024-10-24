@@ -10,10 +10,10 @@ variant: markdown
 1. The objective of the MOE FAS is to help financially needy Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 2. For primary and secondary school students, the MOE FAS fully covers the cost of school and standard miscellaneous fees, textbooks and school uniform, as well as meal and transport subsidies.
 3. Please refer to the attached pamphlets on the eligibility criteria and benefits of MOE FAS.<br>
-[English](/files/Info%20Hub/2025/English_C874435E.pdf)<br>
-[Chinese](/files/Info%20Hub/2025/CL_4B9FA71C.pdf)<br>
-[Malay](/files/Info%20Hub/2025/ML_22C11E03.pdf)<br>
-[Tamil](/files/Info%20Hub/2025/TL_2E074A09.pdf)
+[English](/files/Info%20Hub/2025/moefas_english.pdf)<br>
+[Chinese](/files/Info%20Hub/2025/moefas_chinese.pdf)<br>
+[Malay](/files/Info%20Hub/2025/moefas_malay.pdf)<br>
+[Tamil](/files/Info%20Hub/2025/moefas_tamil.pdf)
 
 **ELIGIBILITY CRITERIA**
 
