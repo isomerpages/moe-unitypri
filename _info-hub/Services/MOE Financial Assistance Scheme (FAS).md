@@ -39,4 +39,4 @@ variant: markdown
 
 For more information, please visit [www.moe.gov.sg/financial-matters/financial-assistance/](http://www.moe.gov.sg/financial-matters/financial-assistance/)
 
-Should you have any further queries, please feel free to contact the General Office at 6767 6750
+Should you have any further queries, please feel free to contact the General Office at 6767 6750.
