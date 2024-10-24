@@ -29,25 +29,14 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24004951</p>
+<p>MOESCHETQ24005655</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supply of Art Materials</p>
+<p>Setting up and operation of a School Bookshop in Unity Primary School
+from 1 Feb 2025 to 31 Jan 2026 with option to extend</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Oct 2024 01:00 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOESCHETQ24005089</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision Of Ad-Hoc Bus Transport Services For Unity Primary School 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Oct 2024 01:00 PM</p>
-<p></p>
+<p>04 Nov 2024 01:00 PM</p>
 </td>
 </tr>
 </tbody>
