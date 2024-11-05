@@ -16,10 +16,10 @@ Closed on Public Holidays, Saturday and Sunday
 *Please contact us from 8.30 am - 5.30 pm*<br>
 **Website:** <a href="https://www.rickybookcentre.com.sg/" target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
 
-### **2024 Booklists**
-[Primary 1](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p1.pdf)
-<br>[Primary 2](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p2.pdf)
-<br>[Primary 3](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 3 HMT](/files/Info%20Hub/2024/Unity_Primary_School___Booklist_for_AY2024___caa_091123___P3_HMT___Final.pdf)
-<br>[Primary 4](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p4.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 4 HMT](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p4%20hmt.pdf)
-<br>[Primary 5](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p5.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 HMT](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p5%20hmt.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 Foundation](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p5%20fdn.pdf)
-<br>[Primary 6](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p6.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 HMT](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p6%20hmt.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 Foundation](/files/Info%20Hub/2024/unity%20primary%20school%20-%20booklist%20for%20ay2024%20-%20p6%20fdn.pdf)
+### **2025 Booklists**
+[Primary 1](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P1.pdf)
+<br>[Primary 2](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P2.pdf)
+<br>[Primary 3](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 3 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P3_HMT.pdf)
+<br>[Primary 4](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P4.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 4 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P4_HMT.pdf)
+<br>[Primary 5](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5_HMT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 Foundation](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5_FDN.pdf)
+<br>[Primary 6](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6_HMT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 Foundation](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6_FDN.pdf)
