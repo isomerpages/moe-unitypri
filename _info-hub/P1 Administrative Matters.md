@@ -11,7 +11,7 @@ In preparation for the new academic year in 2025, the school requires parents / 
 **1. P1 Administrative Forms**<br>
 **a. Student Details Form (SDF) - All parents/guardians**<br>
 As your child/ward will be starting primary one in January 2025, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.<br>
-Please submit the information through the online Student Details Form portal from **10.00 am, 25 Nov 2024**. The portal can be accessed via this URL: [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) or the QR code below. Either parents can login to submit the required particulars using his/her own Singpass account. We seek your help to complete the submission by 31 Dec 2024.
+Please submit the information through the online Student Details Form portal from **10.00 am, 25 Nov 2024**. The portal can be accessed via this URL: [https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf) or the QR code below. Either parents can login to submit the required particulars using his/her own Singpass account. We seek your help to complete the submission **by 31 Dec 2024.**
 <img style="width:25%" src="/images/Parents%20Matter/2024/SDF___scan.png">
 
 **b.  Edusave Standing Order Form (EPSO) - All parents/ guardians (for Students who are Singapore Citizens only)**<br>
@@ -21,7 +21,7 @@ The school will continue to seek your consent for your child’s participation i
 
 **c.	GIRO Application Form - All parents/ guardians**<br>
 The school strongly encourages all parents to apply for GIRO deduction of fees.  The same GIRO arrangement will also be extended to cover their payment of enrichment programmes, school charges and deduction of Primary School Leaving Examination Examinations fees.<br>
-Parents/guardians will be able to apply for GIRO online for payment of school fees and charges by 25th of month (Nov 2024). The link will be available through Parents Gateway (PG) app and MOE internet website ([https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)). Parents will have up till 15 Jan 2025 to sign up for GIRO for the first deduction in Feb 2025.<br>
+Parents/guardians will be able to apply for GIRO online for payment of school fees and charges **by 25th of month (Nov 2024)**. The link will be available through Parents Gateway (PG) app and MOE internet website ([https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)). Parents will have up till **15 Jan 2025** to sign up for GIRO for the first deduction in Feb 2025.<br>
 This new digital service is available to account holders from BOC, DBS/POSB, MAY, OCBC, SCB, HSBC and UOB for a start.<br>
 
 **d.	MOE FAS Application Form - If applicable**<br>
@@ -57,7 +57,7 @@ The school PE attire are differentiated by four colours namely red, yellow, blue
 **Please refer to email sent by school for the house colour. Please ensure you purchase the correct house colour for the PE attire.**
 
 **3. Purchase of school textbooks and attire**<br>
-The purchase of school textbooks and attire in school is strictly by appointment only. Please access [https://www.picktime.com/UPSbooking2024](https://www.picktime.com/UPSbooking2024) book a slot between 25 Nov 2024 and 27 Nov 2024. <br>Please be informed that you will need to just indicate P1 2025 under ‘Child’s Class 2025’ in the portal. Parents with more than 1 child in the school to book only 1 slot for the purchase of school textbooks and attire. Parents can [click here](https://www.unitypri.moe.edu.sg/parents-matter/Info-on-Services/bookshop/permalink/) for a copy of the school booklist.
+The purchase of school textbooks and attire in school is strictly by appointment only. Please access [https://www.picktime.com/UPSbooking2024](https://www.picktime.com/UPSbooking2024) book a slot between **25 Nov 2024 and 27 Nov 2024**. <br>Please be informed that you will need to just indicate P1 2025 under ‘Child’s Class 2025’ in the portal. Parents with more than 1 child in the school to book only 1 slot for the purchase of school textbooks and attire. Parents can [click here](https://www.unitypri.moe.edu.sg/parents-matter/Info-on-Services/bookshop/permalink/) for a copy of the school booklist.
 
 **4. Parents Gateway (PG)** <br>
 Developed by the Ministry of Education and GovTech, PG is a one-stop portal that strengthens school-home partnership to support our children in their education journey. The PG app is an important communication tool that MOE and school use to get in touch with parents. You can check out the FAQs for parents at [https://pg.moe.edu.sg](https://pg.moe.edu.sg).
