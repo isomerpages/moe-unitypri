@@ -29,14 +29,14 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24005655</p>
+<p>MOESCHETQ24006357</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Setting up and operation of a School Bookshop in Unity Primary School
-from 1 Feb 2025 to 31 Jan 2026 with option to extend</p>
+<p>Art Materials for Curriculum Teachings</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>04 Nov 2024 01:00 PM</p>
+<p>14 Nov 2024 01:00 PM</p>
 </td>
 </tr>
 </tbody>
