@@ -56,19 +56,19 @@ immersing themselves in the beauty of nature.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2024/Combined__For_Website_.jpg">
 </div>
 <h3><strong>River Wonders</strong></h3>
-<p>On 2 October 2023, the P1 students went on a learning journey to the River
+<p>On 30 September 2024, the P1 students went on a learning journey to River
 Wonders. A pre-learning journey lesson was conducted to introduce the various
-zones and prepare the students for the trip.
-<br>Together with the Form Teachers and Parent Volunteers, the students completed
-different tasks assigned at the Mekong River, Giant Panda Forest and Amazon
-Flooded Forest. The friendly and gentle manatees at the Amazon Flooded
-Forest enthralled the students. They were equally excited to see the Electric
-Eel, Piranha and Red Panda and in awe by the Giant Stingrays at the Mekong
-River. The highlight of the visit was getting to see Kai Kai and Le Le
-at the Panda Enclosure.
-<br>Overall, the LJ was a huge success with the students learning about the
-different animals and having a wonderful time bonding with one another.</p>
+zones at River Wonders and prepare the students for the trip. Together
+with their form teachers and parent volunteers, the students engaged in
+several tasks at the Mekong River, Giant Panda Forest and Amazon Flooded
+Forest. They were captivated by the Manatees at the Amazon Flooded Forest
+and were thrilled to see the Electric Eel, Piranha and Red Panda. The Giant
+Stingrays at the Mekong River left them in awe. The highlight of the trip
+was getting to see Jia Jia and Kai Kai at the Panda enclosure. Overall,
+the learning journey was a great success. It enhanced the students’ knowledge
+of the different animals and strengthened their bonds with each other.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2023/Primary%201/p1%20river%20wonder%20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2024/P1_LJ_RW_Collage.jpg">
 </div>
 <p></p>
