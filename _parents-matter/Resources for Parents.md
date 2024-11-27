@@ -2,6 +2,7 @@
 title: Resources for Parents
 permalink: /parents-matter/Resources-for-parents/permalink/
 description: ""
+variant: markdown
 ---
 ### **English & Library**
 * [School Online Library (OPAC)](https://schoolibrary.moe.edu.sg/unitypri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
@@ -35,7 +36,6 @@ description: ""
 
 ### **P6**
 
-*   [WE STories 2022](https://online.fliphtml5.com/obrr/qkde/#p=1)
+*   [WE STories 2023](https://online.fliphtml5.com/obrr/qkde/#p=1)
 *   [Secondary One Posting](https://www.moe.gov.sg/secondary/s1-posting)
 *   [Direct School Admission](https://www.moe.gov.sg/secondary/dsa)
-

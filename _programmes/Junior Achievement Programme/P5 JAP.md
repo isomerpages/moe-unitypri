@@ -3,7 +3,8 @@ title: P5 JAP
 permalink: /programmes/Junior-Achievement-Programme/p5jap/permalink/
 description: ""
 third_nav_title: Junior Achievement Programme
+variant: markdown
 ---
 ### **Green Means Cool**
-The P5 students learnt what causes global warming and climate change. Students also came up with practical and personal steps that they can take to ensure a more sustainable lifestyle to reduce their carbon footprint. In all, the students have a better understanding that they have a part to play in saving and protecting the Earth.
-![](/images/Programmes/2022/JAP/2022%20P5%20JAP.jpg)
+The Primary 5 students gained a deeper understanding of the causes of global warming and climate change through interactive lessons, group activities, and engaging games. They also identified practical, personal actions they could take to adopt a more sustainable lifestyle and reduce their carbon footprint. This program heightened the students' awareness of their individual and collective responsibility in environmental conservation, empowering them to contribute to safeguarding the planet for future generations.
+![](/images/Programmes/2024/P5_JAP_Collage.jpg)
