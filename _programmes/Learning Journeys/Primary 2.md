@@ -24,17 +24,16 @@ After missing out on the opportunity to visit River Wonders due to COVID in 2021
 ![](/images/Learning%20Journeys/2022/Primary%202/2022%20P2%20River%20Wonders.jpg)
 
 ### **Supermarket**
-In this LJ, P2 students experienced planning for a class party and learnt how to purchase items online from the Supermarket websites.
-
-Prior to the planning, the students were introduced to the following concepts:
+As part of the Life Skills Development Programme to promote financial literacy, the P2 students embarked on a E-learning Journey to the supermarket to learn how to manage the limited budget that they had in preparation for an event.
+They participated in the planning for a class party by learning how to purchase items online from the supermarket websites.<br>
+Before the planning, the students were introduced to the following concepts:
 * Estimation
 * Budgeting
 * Reading of the nutrition labels of items
-* Importance of sourcing for heathier choices
+* Importance of sourcing for healthier choices
 * Difference between needs and wants
-*  Importance of saving
+* Importance of saving
 
-They had the opportunity to apply the skills learnt when they had to plan what to buy for a week of snack breaks.
+To further apply these concepts into daily lives, the students planned their own purchase of snacks for a week when they visited the supermarket with their parents or family members. It was definitely an enriching and interactive experience for the P2 students.
 
-The students were also strongly encouraged to visit the supermarket with their parents. At the end of term 4, the students had a class party and they had a whale of time!
-![](/images/Learning%20Journeys/2022/Primary%202/2022%20P2%20Supermarket.jpg)
+![](/images/Learning%20Journeys/2024/P2_Supermarket_collage.jpg)
