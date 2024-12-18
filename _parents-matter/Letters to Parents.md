@@ -11,10 +11,8 @@ variant: tiptap
 <br><a href="/files/Parents Matter/2024/13a__LTA_Enforcement_Advisory_for_UPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex: LTA Enforcement Advisory for UPS</a> 
 <br><a href="/files/Parents Matter/2024/15__MOE_Insurance_Plan_for_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex: MOE Insurance Plan for Students 2024</a>
 <br><a href="/files/Letter_to_Parents__T2_W10__20_May_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Week 10</a>
-</p>
-<p><a href="/files/Letter_to_Parents__T3_W10_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Week 10</a>
-</p>
-<p><a href="/files/Parents Matter/2024/Letter_to_Parents__End_of_Term_4__7_Nov_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4 Week 10</a>
+<br><a href="/files/Letter_to_Parents__T3_W10_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Week 10</a>
+<br><a href="/files/Parents Matter/2024/Letter_to_Parents__End_of_Term_4__7_Nov_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4 Week 10</a>
 </p>
 </blockquote>
 <p></p>
