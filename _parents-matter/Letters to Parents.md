@@ -14,6 +14,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Letter_to_Parents__T3_W10_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Week 10</a>
 </p>
+<p><a href="/files/Parents Matter/2024/Letter_to_Parents__End_of_Term_4__7_Nov_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 4 Week 10</a>
+</p>
 </blockquote>
 <p></p>
 <h3><strong>Year 2023</strong></h3>
