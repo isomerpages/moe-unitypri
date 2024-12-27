@@ -4,7 +4,7 @@ permalink: /programmes/alp/permalink/
 variant: tiptap
 description: ""
 ---
-<h3><strong>P3 SOCIAL ETIQUETTE</strong></h3>
+<h3><strong>P3 Social Etiquette</strong></h3>
 <p>Developing good etiquette and social manners is crucial for the personal,
 social, and emotional growth of children. In Term 2, all our Primary 3
 students participated in a Social Etiquette programme spanning over three
@@ -19,7 +19,7 @@ good etiquette and mannerisms in these students, we aim to nurture their
 confidence and communication skills, paving the way for them to become
 respectful and confident adults.</p>
 <p></p>
-<h3><strong>P4 CYBERWELLNESS</strong></h3>
+<h3><strong>P4 Cyber wellness</strong></h3>
 <p>With the rapid changes and trends of the digital world, educating the
 students on the responsible use of ICT is our proactive approach to prevent
 and mitigate risks associated with its use.</p>
