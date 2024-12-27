@@ -29,14 +29,14 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ24006357</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Materials for Curriculum Teachings</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Nov 2024 01:00 PM</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

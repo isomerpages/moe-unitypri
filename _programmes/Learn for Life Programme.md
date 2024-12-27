@@ -1,7 +1,8 @@
 ---
 title: Learn for Life Programme
-permalink: /co-curriculum-programme/Learn-for-Life-Programme/permalink/
+permalink: /programmes/llp/permalink/
 description: ""
+variant: tiptap
 ---
 Unity Primary School’s efforts into ensuring the successful implementation of Our Learning for Life Programme ‘**CharGE UP!** ’ – **Cha**racter development through **G**reen and **E**xperiential learning @ **U**nity **P**rimary, has been endorsed by MOE. It is Unity Primary School’s key programme to enhance our students’ learning through a firm foundation in values with its Green and Experiential Learning Programmes, equipping students with leadership skills and developing character.
 
