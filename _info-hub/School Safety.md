@@ -2,13 +2,14 @@
 title: School Safety
 permalink: /parents-matters/Information/School-Safety/permalink/
 description: ""
+variant: markdown
 ---
 Safety and security in our school is of paramount concern. We urge all parents to observe the following to keep the school safe for your child:
   
 **a.	Vehicular/ Pedestrian Access and Road Safety**
 *  Extend graciousness and respect to our Security Guards who have the duty to keep the school secure.
 *  Be a considerate and safe road user. Do not stop your vehicle illegally, leave them unattended by the side of the road or obstruct traffic especially during peak school hours.
-*  To reduce traffic congestion within the school compound, use the nearby HDB driveways near Block 670 as quick drop-off & pick-up points for your child. In consideration of the residents, please do not park and wait there.
+*  To reduce traffic congestion within the school compound, use the nearby HDB driveways near Block 670 as quick drop-off &amp; pick-up points for your child. In consideration of the residents, please do not park and wait there.
 *  Heed traffic rules and drive slowly within the vicinity of the school.
 *  As with all good habits, foster road safety practices from an early age for your child.  
 *  Children are the most vulnerable road users, and they need to be taught how to be road smart. An important part of teaching your child road safety is to model safe behaviours yourself. You may refer to the attached videos on YouTube by the Singapore Road Safety Council and view them with your child. 
@@ -22,7 +23,7 @@ Safety and security in our school is of paramount concern. We urge all parents t
 * There is strictly no parking for all visitors.
 
 **c.	No Right Turn for Vehicles Exiting School**
-* A reminder that there is no right turn for vehicles exiting the school from 7 am to 7.45 am to facilitate smoother and safer traffic flow.
+* A reminder that there is no right turn for vehicles exiting the school from 6.30 am to 7.30 am Mon-Fri to facilitate smoother and safer traffic flow.
 * All vehicles exiting during that timing will need to turn left. We seek the cooperation of all drivers to comply with the regulation to mitigate the traffic congestion in the school carpark and the road outside
 
 **d. Safety Drills**
@@ -31,13 +32,13 @@ Safety and security in our school is of paramount concern. We urge all parents t
 * The school also conducts emergency relay system test with parents every term using PG. We appreciate your timely co-operation and consideration to read all the notifications sent out and take the necessary actions. Kindly turn on the PG notification in your phone setting so that you can be alerted to PG updates from the school and MOE in a timely manner.
 
 <div style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ktTdBgcLEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ktTdBgcLEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jI1yH0P717M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jI1yH0P717M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqR2IpH5rdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqR2IpH5rdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jW_aDBNNJgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jW_aDBNNJgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9961aG5X0OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9961aG5X0OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	</div>
