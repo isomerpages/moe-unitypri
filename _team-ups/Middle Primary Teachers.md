@@ -134,8 +134,16 @@ variant: tiptap
 <p>English Language</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Hajjah Hadijah</p>
-<p>Mrs Lynnette Tan</p>
+<p>Mdm Hajjah Hadijah
+<br>Mrs Lynnette Tan</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
