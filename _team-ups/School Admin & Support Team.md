@@ -60,6 +60,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Toh Lee Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adj Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,14 +88,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Raman Mageswari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rukiya Bevi</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suminah</p>
+<p>Ms Nur Hazimah</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Asyikin</p>
+<p>Ms Chang Wan YI</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kian Cheong</p>
+<p>Mr Mansor</p>
 </td>
 </tr>
 </tbody>

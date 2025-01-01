@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
@@ -18,9 +22,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nabilah Ithnin
-<br>Ms Charissa Chan Kar Yee
-<br>Mdm Lakshmi Arivananthan</p>
+<p>Ms Siow Yu Lin Julin
+<br>Mdm Nur Fazlina Mohd
+<br>Mdm Siti Nurshahidah Rosman</p>
 </td>
 </tr>
 <tr>
@@ -29,9 +33,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sylvia Quek
-<br>Mr Naharudin</p>
-<p>Mdm Nirwana Haliza Mohamed Halil</p>
+<p>Mdm Neo Liwen
+<br>Mrs Soh-Lim Fun Yen</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +43,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jie Min&nbsp;
-<br>Mdm Law Siok Cheng</p>
+<p>Ms Wong Yun Yee
+<br>Mdm Norfaiza Buang</p>
 </td>
 </tr>
 <tr>
@@ -50,8 +53,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Zhiying
-<br>Mrs Chon Qiao Ping</p>
+<p>Mdm Zunur'ain Othman
+<br>Mrs Yvonne Koo</p>
 </td>
 </tr>
 <tr>
@@ -60,18 +63,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Ng Chin Khiang
-<br>Mdm Norazelin Misnari Misnari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P5-F</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Xueli
-<br>Mr Hairil Akhmal Sakroni</p>
+<p>Mr Teo Chee Siong
+<br>Ms Ow Hui Qin</p>
 </td>
 </tr>
 <tr>
@@ -86,9 +79,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siow Yu Lin Julin
-<br>Mdm Rasidah Ahmad</p>
-<p>Mr R Shyam Kumar</p>
+<p>Ms Nabilah Ithnin
+<br>Ms Charissa Chan
+<br>Mrs Florence Tan</p>
 </td>
 </tr>
 <tr>
@@ -97,9 +90,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Patricia Leow Saw Ping
-<br>Ms Olivia Yu Rumeng
-<br>Mr Amirul Salihin Said</p>
+<p>Mr R Shyam Kumar
+<br>Mdm Lakshmi Arivananthan
+<br>Mdm Nirwana Haliza Mohamed Halil</p>
 </td>
 </tr>
 <tr>
@@ -108,9 +101,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soo Poh Ling
-<br>Ms Ow Hui Qin
-<br>Mdm Nur Hidayati Mohd Ali</p>
+<p>Ms Tan Jie Min
+<br>Mrs Poh See Mun
+<br>Mr Hairil Akhmal Sakroni</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +112,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yun Yee
-<br>Mdm Norfaiza Buang</p>
+<p>Ms Chow Zhiying
+<br>Mrs Chon Qiao Ping</p>
 </td>
 </tr>
 <tr>
@@ -129,8 +122,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zunur'ain Othman
-<br>Mrs Yvonne Koo</p>
+<p>Mr Kelvin Ng Chin Khiang
+<br>Mdm Norazelin Misnari Misnari
+<br>Mdm Law Siok Cheng</p>
 </td>
 </tr>
 <tr>
@@ -139,69 +133,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chee Siong
-<br>Mdm Ouyang Feng Fei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6-G</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Liwen
-<br>Ms Tan Yuan Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<h3><strong>Other Teaching Staff</strong></h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>English Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jayasaresvathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yong Lee Foon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Amutha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math &amp; Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Florence Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nurshahidah Rosman</p>
+<p>Ms Tan Yuan Ting
+<br>Ms Neo Xueli</p>
 </td>
 </tr>
 <tr>
