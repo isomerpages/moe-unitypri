@@ -20,7 +20,7 @@ variant: tiptap
 <p>Mdm Law Siok Cheng (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5CL5, P6FCL</strong>
+<p><strong>P6CL5</strong>
 </p>
 </td>
 </tr>
@@ -29,7 +29,7 @@ variant: tiptap
 <p>Ms Ow Hui Qin (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1CL3, P6CL4</strong>
+<p><strong>P5CL4</strong>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mdm Han Huilian (ST/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2CL2, P5CL1</strong>
+<p><strong>P1CL2, P6CL1</strong>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mrs Soh-Lim Fun Yen (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3CL5, P6CL5</strong>
+<p><strong>P5CL2</strong>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mrs Chon Qiao Ping (SH/ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4CL3, P5CL4</strong>
+<p><strong>P3CL4, P6CL4</strong>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Ms Lim Hui Mei (SH/SWB)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2CL4, P5CL2</strong>
+<p><strong>P4CL4, P6CL2</strong>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Mdm Gan Siew Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1CL2, P4CL4</strong>
+<p><strong>P2CL2, P3CL1</strong>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mdm Liu Kum Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1CL1, P3CL2</strong>
+<p><strong>P1CL3, P4CL2</strong>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Mdm Ma Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2CL1, P3CL4</strong>
+<p><strong>P4CL3, P5CL1</strong>
 </p>
 </td>
 </tr>
@@ -101,7 +101,7 @@ variant: tiptap
 <p>Mdm Ouyang Feng Fei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1CL3, P3CL1</strong>
+<p><strong>P4CL1, P5CL3</strong>
 </p>
 </td>
 </tr>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>Mrs Poh See Mun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4CL1, P5CL3</strong>
+<p><strong>P2CL1, P6CL3</strong>
 </p>
 </td>
 </tr>
@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ms Olivia Yu Rumeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4CL5, P6CL3</strong>
+<p><strong>P1CL1, P3CL4</strong>
 </p>
 </td>
 </tr>
@@ -128,7 +128,7 @@ variant: tiptap
 <p>Mr Sim Wei Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3CL3, P5FCL</strong>
+<p><strong>P3CL2, P5FCL</strong>
 </p>
 </td>
 </tr>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>Mdm Sun Xiaoli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2CL3, P4CL2</strong>
+<p><strong>P2CL3, P3CL3</strong>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ variant: tiptap
 <p>Mdm Rasidah Ahmad (SH/ML)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML2, P6ML2</strong>
+<p><strong>P4ML2, P6ML2</strong>
 </p>
 </td>
 </tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>Mr Naharudin Shariff (SH/Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4ML2, P5ML1</strong>
+<p><strong>P3ML2, P5ML1</strong>
 </p>
 </td>
 </tr>
@@ -170,7 +170,7 @@ variant: tiptap
 <p>Mdm Nirwana Haliza Mohamed Halil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2ML1, P5ML2</strong>
+<p><strong>P2ML2, P6ML1</strong>
 </p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 <p>Mdm Norfaiza Buang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3ML2, P6ML1</strong>
+<p><strong>P3ML1, P5FML</strong>
 </p>
 </td>
 </tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Mdm Nur Fazlina Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML2, P4ML1, P5FML</strong>
+<p><strong>P1ML1, P5ML2</strong>
 </p>
 </td>
 </tr>
@@ -197,7 +197,7 @@ variant: tiptap
 <p>Mdm Nur Hidayati Mohd Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3ML1, P6FML</strong>
+<p><strong>P1ML2, P4ML1</strong>
 </p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>Mdm Norlizanah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML1, P2ML2</strong>
+<p><strong>P2ML1, P6FML</strong>
 </p>
 </td>
 </tr>
@@ -221,7 +221,7 @@ variant: tiptap
 <p>Ms Meera d/o Rajarethenam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3TL</strong>
+<p><strong>P1TL, P4TL</strong>
 </p>
 </td>
 </tr>
@@ -230,7 +230,7 @@ variant: tiptap
 <p>Ms Vikneshwari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1TL, P2TL</strong>
+<p><strong>P2TL, P3TL</strong>
 </p>
 </td>
 </tr>
