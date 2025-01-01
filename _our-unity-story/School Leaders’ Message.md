@@ -4,7 +4,6 @@ permalink: /our-unity-story/School-Leaders-Message/permalink/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Unity Story/UPS_Website_Cover_Page_Photo__30_x_13_5_cm___1_.png">
 </div>
