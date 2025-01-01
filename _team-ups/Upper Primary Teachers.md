@@ -80,7 +80,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nabilah Ithnin
-<br>Ms Charrisa Chan
+<br>Ms Charissa Chan
 <br>Mrs Florence Tan</p>
 </td>
 </tr>
@@ -135,65 +135,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yuan Ting
 <br>Ms Neo Xueli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<h3><strong>Other Teaching Staff</strong></h3>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>English Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jayasaresvathy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Amutha</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Math &amp; Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Florence Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Nurshahidah Rosman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
