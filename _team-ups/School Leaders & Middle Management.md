@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Syamsul Anwar Awang</p>
@@ -79,7 +79,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / School Staff Developer</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Soh-Lim Fun Yen</p>
