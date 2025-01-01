@@ -134,23 +134,8 @@ variant: tiptap
 <p>English Language</p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>English Language &amp; Math</p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Science</p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hajjah Hadijah</p>
+<p>Mrs Lynnette Tan</p>
 </td>
 </tr>
 </tbody>
