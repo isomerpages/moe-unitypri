@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Our Unity Story/P_VP_Photo.jpg">
+</div>
 <p>Unity Primary School was established in 1999 and it is with great honour
 and pride that we commemorated our school’s 25th anniversary in 2024. The
 dedication, commitment and conviction of our staff, with the ardent and
