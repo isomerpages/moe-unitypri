@@ -85,6 +85,32 @@ be taught in 2025:</p>
 <p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_P5_CCE.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_P6_CCE.jpg">
+</div>
+<p><strong>INFORMATION FOR PARENTS</strong>
+<br>
+</p>
+</li>
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also downloadable <a href="/files/Curriculum/CCE/Parent_Opt_Out_Form_SEd_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .
+The completed opt-out form is to be submitted by 24/01/2025.</p>
+</li>
+<li>
+<p>Parents can contact the school at 67676750 or <a href="mailto:unity_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a> for discussion
+or to seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
+<p></p>
+<p></p>
 <p></p>
