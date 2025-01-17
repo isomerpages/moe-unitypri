@@ -15,7 +15,7 @@ terms of work completion.</p>
 <p>As for the students, the HBL schedule will be shared with them via Student
 Learning Space (SLS) to encourage them to exercise responsibility for their
 own learning and to be self-directed learners.</p>
-<p>HBL dates for 2024 are as shown in the table below:</p>
+<p>HBL dates for 2025 are as shown in the table below:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
