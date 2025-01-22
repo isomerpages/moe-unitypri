@@ -23,6 +23,6 @@ the student to lead a balanced life in adulthood.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Picture1.png">
 </div>
 <h5><strong>Schedule</strong></h5>
-<p>All CCAs are conducted on Thursday from 7.30 am to 9 am.
+<p>All CCAs are conducted on Thursdays from 7.30 am to 9 am.
 <br>Selected competitive CCAs conduct additional sessions on Monday or Tuesdays
 from 3.15 pm to 4.45 pm.</p>
