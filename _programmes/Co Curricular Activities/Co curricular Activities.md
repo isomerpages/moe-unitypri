@@ -23,6 +23,9 @@ the student to lead a balanced life in adulthood.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Picture1.png">
 </div>
 <h5><strong>Schedule</strong></h5>
-<p>All CCAs are conducted on Thursdays from 7.30 am to 9 am.
+<p>All CCA are conducted on Thursdays from 7.30 am to 9 am. In the event
+CCA has to be carried out online, face-to-face CCA session will be moved
+to Thursday, 3.15 pm to 4.45 pm (after the Rem/Supp class).
 <br>Selected competitive CCAs conduct additional sessions on Monday or Tuesdays
-from 3.15 pm to 4.45 pm.</p>
+from 3.15 pm to 4.45 pm for face-to-face session or 3.45pm to 5.15pm for
+online.</p>
