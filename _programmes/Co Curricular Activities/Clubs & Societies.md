@@ -79,4 +79,4 @@ with other members and showcase their works to the school.&nbsp; Through
 the various showcases, students get to express confidently their thoughts
 through the Art language they have learnt.</p>
 <p><strong>CCA TIC</strong>: Mdm Norsahida, Ms Filzah
-<br><strong>CCA Advisor</strong>: Mrs Yvonne Koo</p>
+<br><strong>CCA Advisor</strong>: Mdm Norsahida</p>
