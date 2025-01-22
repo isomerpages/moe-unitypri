@@ -69,7 +69,7 @@ ball skills, stamina building, agility and coordination exercises under
 the close supervision of the teachers and coach.&nbsp; The students will
 also learn values such as sportsmanship, fair play, teamwork and discipline.&nbsp;</p>
 <p><strong>CCA TIC</strong>: Mr Amirul, Ms Wong YY, Mr Shyam, Mdm Norfaiza,
-Mr Nirwana
+Mdm Nirwana
 <br><strong>CCA Advisor</strong>: Mr Hairil</p>
 <h3><strong>Netball</strong></h3>
 <div class="isomer-image-wrapper">
