@@ -52,7 +52,7 @@ apply them in the game. &nbsp;Training will include basic stick handling
 skills, stamina building, agility and coordination exercises under the
 close supervision of the teachers and coach. &nbsp;The students will also
 learn values such as sportsmanship, fair play, teamwork and discipline.</p>
-<p><strong>CCA TIC</strong>: Mr Hairil, Mr Yasin, Mr Nahar, Mdm Norazelin,
+<p><strong>CCA TIC</strong>: Mr Hairil, Mr Yasin, Mr Naharudin, Mdm Norazelin,
 Mrs Bhavani
 <br><strong>CCA Advisor</strong>: Mr Hairil</p>
 <h3><strong>Football</strong></h3>
