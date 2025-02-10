@@ -34,7 +34,7 @@ collaboratively in a team and communicating their ideas and projects to
 others confidently.&nbsp; While looking for solutions to everyday life
 problems, they will be applying some of the concepts learnt in Science.</p>
 <p><strong>CCA TIC</strong>: Mdm Neo Liwen, Mr Fok Chee Hoe,&nbsp;Mdm Phee
-Llay Kuan, Mdm Liu Kum Mei
+Lay Kuan, Mdm Liu Kum Mei
 <br><strong>CCA Advisor</strong>: Mr Kelvin Ng</p>
 <h3><strong>Mathematics Club</strong></h3>
 <div class="isomer-image-wrapper">
