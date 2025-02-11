@@ -62,8 +62,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zalina Kusnan</p>
-<p>Ms Olivia Yu Rumeng</p>
+<p>Mdm Zalina Kusnan
+<br>Ms Olivia Yu Rumeng</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +73,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shelyn Ng Sok Kian
-<br>Ms Jessica Lim Rui Fang</p>
-<p>Mdm Cheah Swee Ee</p>
+<br>Ms Jessica Lim Rui Fang
+<br>Mdm Cheah Swee Ee</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +119,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Weijin</p>
-<p>Mdm Tan Kai Ling</p>
+<p>Ms Li Weijin
+<br>Mdm Tan Kai Ling</p>
 </td>
 </tr>
 <tr>
