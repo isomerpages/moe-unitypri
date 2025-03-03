@@ -18,9 +18,9 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2024/permalink/
-        - title: School Calendar
+        - title: Home - based Learning (HBL) 10 March 2025
           description: ""
-          url: /parents-matter/School-Calendar/permalink/
+          url: ""
       variant: center
       size: sm
       alignment: right
