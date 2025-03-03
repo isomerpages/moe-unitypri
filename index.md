@@ -20,7 +20,7 @@ sections:
           url: https://unitypri.moe.edu.sg/achievements2024/permalink/
         - title: Home - based Learning (HBL) 10 March 2025
           description: ""
-          url: ""
+          url: /hbl-class-timetable/
       variant: center
       size: sm
       alignment: right
