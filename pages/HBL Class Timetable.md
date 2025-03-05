@@ -148,13 +148,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1-RlsWjxgS3mJOX1mepXUKzLabbvRHzzW/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-C</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1T8CRhQ046XkrH93546KWf5D9ra4HQSKa/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-D</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://docs.google.com/document/d/1dtsSgYUPWSnu1GzdftUmyfpYBg_uN-Ma/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-E</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -195,27 +198,27 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P4-A</strong>
+<p><a href="https://docs.google.com/document/d/17hCGbRNVgQt_b5nt9j6fWqk8npWf4Ldt/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-A</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4-B</strong>
+<p><a href="https://docs.google.com/document/d/1sa6IYk7dFgatVqIqOHbRDYaCkCnj-J-n/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-B</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4-C</strong>
+<p><a href="https://drive.google.com/file/d/1sKVv36kbcx8hPfje3PeTB4BG92i8BZ9W/view?usp=drive_link" rel="noopener nofollow" target="_blank">P4-C</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4-D</strong>
+<p><a href="https://docs.google.com/document/d/1nqzNYQ9UWyk6lSxbzR2hI9smmJjL4uPX/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-D</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4-E</strong>
+<p><a href="https://docs.google.com/document/d/1r_iV6FY0FCX0JRJV2NMyo94ILqhYfcGi/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-E</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4-F</strong>
+<p><a href="https://docs.google.com/document/d/1grs0RMVsCalntlcIJqtbcCqb4xH2ah6v/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-F</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,24 +257,19 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P5-A</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5-B</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5-C</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5-D</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5-E</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -312,28 +310,22 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P6-A</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6-B</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6-C</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6-D</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6-E</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6-F</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
