@@ -12,7 +12,7 @@ In February 2025, our P5 students had the opportunity to explore the fascinating
 Located in the heart of Little India, the Centre offered an immersive experience. The students explored vibrant galleries, learning about the unique food, spices, businesses, performing arts and architecture that are so closely tied to the Indian community in Singapore.<br>
 It was a memorable experience that gave them a deeper understanding of one of Singapore’s major ethnic communities.
 
-
+![](/images/Learning%20Journeys/2025/Collage_Photos.jpg)
 
 ### **DNA Learning Lab** 
 The P5 students unraveled the secrets of life and marveled at the sight of cells under the microscope when they visited the DNA Learning Lab at the Singapore Science Centre. The learning journey stimulated the students' interest in Science as they experienced authentic learning by using the equipment and techniques adopted by scientists in research labs. Through the hands-on activity, the students took on the role of a scientist where they prepared sample slides using their own cheek cells and viewing them under the microscope. They also had the opportunity to observe the parts of plant cell clearly and learn more about the yeast cell as well as the bacteria cell.
