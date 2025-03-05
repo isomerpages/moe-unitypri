@@ -6,22 +6,24 @@ third_nav_title: Learning Journeys
 variant: tiptap
 ---
 <h3><strong>Around the School &amp; Road Safety Walk</strong></h3>
-<p>P1 Learning Journey Around the School Neighbourhood &amp; Road Safety
-Walk was conducted for all P1 students in Term 1. The outing served to
-help students understand the basic concepts of having safe behaviour while
-being outdoors and when using the road.</p>
-<p>With the support of Class Parent Volunteers and School Operation Managers,
-the students together with their form teachers walked around the school
-vicinity to familiarise themselves experientially with the traffic signals
-at crossings and the road hazards they might encounter. The students also
-stopped by at the nearby playgrounds where they learned safe and mindful
-behaviour while having fun playing together.</p>
-<p>The students had a wonderful time exploring around the school neighbourhood
-with their classmates, teachers and parent volunteers even though it was
-a rather warm morning. The fun, excitement and educational experience more
-than made up for the humid weather!</p>
+<p>Our P1 students had a fantastic time during their first Learning Journey
+this term! Accompanied by their form teachers, Parent Volunteers and school
+Operation Managers, the students explored the school vicinity. During their
+walk, they learnt about the different types of road crossings, road signs
+and road safety rules.</p>
+<p>Before heading out, the students had discissions with their teachers about
+how to use shared spaces responsibly, respectful use of common spaces and
+how to upkeep harmony in the community when using these spaces. This helped
+them understand how to be mindful of others when using public areas.</p>
+<p>As part of the journey, the students also practised road safety as they
+crossed both formal and informal crossings. The highlight of the outing
+was the opportunity to play with their classmates at a nearby playground
+while practising safe and mindful behaviour.</p>
+<p>It was indeed a fun and meaningful experience that helped the students
+connect with the community while learning important life skills!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/p1%20walk%20around%20the%20neighbourhood.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/Collage_photos.jpg">
 </div>
 <h3><strong>Jacob Ballas</strong></h3>
 <p>In the sixth week of Term 2, our young Primary 1 students set off on an
