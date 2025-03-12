@@ -6,15 +6,13 @@ third_nav_title: Services
 variant: markdown
 ---
 ### **School Bookshop**
-**The Ricky Book Centre**
+**Overseas Associates (Pte) Limited**
 
 Monday to Friday: 8.30 am to 3.00 pm  
 Closed on Public Holidays, Saturday and Sunday
 
-**Telephone No:** 6363 9159  
-**Mobile No:** 8043 1386 <br>
-*Please contact us from 8.30 am - 5.30 pm*<br>
-**Website:** <a href="https://www.rickybookcentre.com.sg/" target="_blank" rel="noopener noreferrer">online@rickybookcentre.com.sg</a>
+**Telephone No:** 6382 6789 <br> 
+*Please contact us from 9.00 am - 5.30 pm*<br>
 
 ### **2025 Booklists**
 [Primary 1](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P1.pdf)
