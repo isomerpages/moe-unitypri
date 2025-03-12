@@ -39,7 +39,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1VGHLxrwzNhb3hmSQ78ih5L4z-Azsm2d6/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1VGHLxrwzNhb3hmSQ78ih5L4z-Azsm2d6/edit?usp=sharing&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
