@@ -18,9 +18,4 @@ _Closed on Sunday – Tuesday &amp; Public Holiday_
 Order for name tags can be placed online <a href="https://www.myuniformshop.com.sg/name-tag-order" target="_blank" rel="noopener noreferrer">here</a>. 
 <br>These orders will be mailed to you via normal mail.&nbsp; Please ensure that your child has his/her name tags ironed on his/her uniform and PE attire.
 
-The sales of uniform is available in the School Bookshop during term time (on Friday only).
-
-Walk-in purchase/pre-order collection: Every Friday between 2pm &amp; 3pm<br>
-Pre-order via WhatsApp: 8043 1386 <br>
-
-We strongly advise that you WhatsApp the Bookshop vendor to check on the availability of the uniform/PE attire sizes first before coming down to school on Friday.
+The sales of uniform is available in the School Bookshop during term time between 2pm to 3pm.
