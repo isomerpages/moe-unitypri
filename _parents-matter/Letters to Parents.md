@@ -9,6 +9,8 @@ variant: tiptap
 <p><a href="/files/Parents Matter/2025/Letter_to_Parents_2025__Start_of_Year__2_Jan_25.pdf" rel="noopener nofollow" target="_blank">Term 1 Week 1</a>
 <br><a href="/files/Parents Matter/2025/16__GPA_Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Annex: MOE Group Personal Accident (GPA) Insurance Plan</a>
 </p>
+<p><a href="/files/Parents Matter/2025/Letter_to_Parents__T2_W1__2025.pdf" rel="noopener nofollow" target="_blank">Term 2 Week 1</a>
+</p>
 <h3></h3>
 </blockquote>
 <p></p>
