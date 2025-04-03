@@ -29,14 +29,14 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOESCHETQ25001417 26 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
+Camp for Unity Primary School 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>04 Apr 2025 01:00 PM</p>
 </td>
 </tr>
 </tbody>
@@ -122,7 +122,7 @@ Procedure below.</p>
 <p>2 Cooked Food Stalls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 April 2025</p>
+<p>31 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
