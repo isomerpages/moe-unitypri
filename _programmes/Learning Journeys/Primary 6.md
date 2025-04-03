@@ -20,9 +20,10 @@ It was a truly enriching and unforgettable experience for both students and staf
 ### **Learning Journey to Singapore Discovery Centre**
 To deepen their understanding of how Singapore has progressed since gaining independence, the Primary 6 students went on a learning journey to the Singapore Discovery Centre (SDC) where they experienced the Singapore Story from the past to the present through a multi-sensory approach. Through various activities, such as the interactive videos and games, students learnt more about the different challenges Singapore faced in the past as well as the future challenges the nation might face. Students then reflected on how these challenges could be overcome as a nation.<br>
 Besides the exhibitions at SDC, students also had a chance to hop onto the SAFTI Military Institute bus for an exclusive tour around the training ground for officers-to-be. They got a glimpse into the life of an officer cadet and the role of the Singapore Armed Forces in the defence and security of Singapore. <br>
-The students thoroughly enjoyed this eye-opening experience. 
+To end off their experience at SDC, students watched a short film at the iWERKS Theatre, Singapore’s largest flat-screen theater. The short film, Long Pants, is a heartwarming tale of tenacity and resilience based on a true-life account. 
+The students thoroughly enjoyed their experience at SDC! 
 
-![](/images/Learning%20Journeys/2024/P6_LJ_SDC.png)
+![](/images/Learning%20Journeys/2025/P6_SDC_LJ.jpg)
 
 ### **Ancient Civilisations Museum**
 
