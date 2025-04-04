@@ -129,7 +129,7 @@ Procedure below.</p>
 <p>Closing Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Requirements</p>
+<p>Remarks</p>
 </th>
 </tr>
 <tr>
@@ -137,10 +137,11 @@ Procedure below.</p>
 <p>2 Cooked Food Stalls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2025</p>
+<p>30 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Interested applicants, please contact the school from Monday - Friday
+during office hours</p>
 </td>
 </tr>
 </tbody>
