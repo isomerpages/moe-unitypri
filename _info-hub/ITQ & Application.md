@@ -29,7 +29,9 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ25001417 26 Mar 2025</p>
+<p>MOESCHETQ25001417</p>
+<p>26 Mar 2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
@@ -37,6 +39,19 @@ Camp for Unity Primary School 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>04 Apr 2025 01:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOESCHETQ25001536</p>
+<p>3 Apr 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Instructor for Modern Dance CCA Training Programme in Unity
+Primary School 2025 with options to extend till 30 June 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Apr 2025 01:00 PM</p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +129,7 @@ Procedure below.</p>
 <p>Closing Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Requirements</p>
+<p>Remarks</p>
 </th>
 </tr>
 <tr>
@@ -122,10 +137,11 @@ Procedure below.</p>
 <p>2 Cooked Food Stalls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2025</p>
+<p>30 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Interested applicants, please contact the school from Monday - Friday
+during office hours</p>
 </td>
 </tr>
 </tbody>
