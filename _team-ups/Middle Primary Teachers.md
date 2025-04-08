@@ -21,7 +21,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Eunice Liang
-<br>Mr Amirul Salihin Said</p>
+<br>Mr Amirul Salihin Said
+<br>Mdm Norfaiza Buang</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +112,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Bernard Foo
-<br>Mdm Nur Hidayati Mohd Ali</p>
+<br>Mdm Nur Hidayati Mohd Ali
+<br>Mdm Nurfarha Abdul Rauf</p>
 </td>
 </tr>
 <tr>
