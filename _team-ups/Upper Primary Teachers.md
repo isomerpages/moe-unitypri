@@ -34,7 +34,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Neo Liwen
-<br>Mrs Soh-Lim Fun Yen</p>
+<br>Mrs Soh-Lim Fun Yen
+<br>Filzah Shafiee</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +45,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Yun Yee
-<br>Mdm Norfaiza Buang</p>
+<br>Mr Wong Song Xiong, Ryan</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +114,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chow Zhiying
-<br>Mrs Chon Qiao Ping</p>
+<br>Mrs Chon Qiao Ping
+<br>Mr Herald A. Medina</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +136,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yuan Ting
-<br>Ms Neo Xueli</p>
+<br>Ms Neo Xueli
+<br>Mdm Norsahida Adam</p>
 </td>
 </tr>
 <tr>

@@ -86,6 +86,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurfarha Abdul Rauf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <h3><strong>Music Teachers</strong></h3>
@@ -94,6 +102,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Herald A. Medina&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Song Xiong, Ryan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
