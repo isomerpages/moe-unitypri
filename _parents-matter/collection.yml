@@ -2,7 +2,7 @@ collections:
   parents-matter:
     output: true
     order:
-      - School Home Partnership.md
+      - School & Home Partnership.md
       - School Calendar.md
       - Modes of Communication.md
       - Letters to Parents.md
