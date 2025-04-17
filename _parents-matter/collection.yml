@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - School & Home Partnership.md
       - School Calendar.md
       - Modes of Communication.md
       - Letters to Parents.md
@@ -13,3 +12,4 @@ collections:
       - School Rules & Discipline Guidelines.md
       - Resources for Parents.md
       - Parent Volunteers.md
+      - School & Home Partnership.md
