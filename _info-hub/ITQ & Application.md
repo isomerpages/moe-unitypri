@@ -29,28 +29,13 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ25001536</p>
-<p>3 Apr 2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supply of Instructor for Modern Dance CCA Training Programme in Unity
-Primary School 2025 with options to extend till 30 June 2028</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Apr 2025 01:00 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOESCHETQ25001568</p>
-<p>07 Apr 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supply of Instructor for Basketball CCA Training Programme in Unity Primary
-School 2025 with options to extend till 30 June 2028</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Apr 2025 01:00 PM</p>
+<p></p>
 </td>
 </tr>
 </tbody>
