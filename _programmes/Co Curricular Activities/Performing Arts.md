@@ -18,8 +18,7 @@ to make music by manipulating one of the notes, hence learning the value
 of teamwork.&nbsp; There will be multiple platforms to hone and showcase
 the students’ skills so as to build their confidence, resilience and team
 spirit.</p>
-<p><strong>CCA TIC</strong>: Ms Julin Siow, Mr Bernard Foo, Mrs Poh See Mun,
-Mr Ryan Wong
+<p><strong>CCA TIC</strong>: Ms Julin Siow, Mr Bernard Foo, Mr Ryan Wong
 <br><strong>CCA Advisor</strong>: Mdm Shelyn Ng</p>
 <h3><strong>Choir</strong></h3>
 <div class="isomer-image-wrapper">
