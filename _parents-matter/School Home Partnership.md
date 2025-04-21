@@ -15,5 +15,4 @@ into a set of UPS School-Home Partnership Guidelines.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents Matter/Home School Partnership/Guidelines_for_School_Home_Partnership.jpg">
 </div>
 <p></p>
-<p><a href="/files/Parents Matter/2025/UPS_School_Home_Partnership_Guidelines_2025___updated_2_April_25__for_school_website.pdf" rel="noopener nofollow" target="_blank">UPS School Home Partnership Guidelines 2025</a>
-</p>
+<p></p>
