@@ -18,9 +18,9 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2024/permalink/
-        - title: Home - based Learning (HBL) 10 March 2025
+        - title: Open House Registration 2025
           description: ""
-          url: /hbl-class-timetable/
+          url: /ups-open-house/
       variant: center
       size: sm
       alignment: right
