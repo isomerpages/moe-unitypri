@@ -32,6 +32,6 @@ sections:
       description: "2025"
       button: Register here
       url: /ups-open-house/
-      image: /images/Picture3.png
+      image: /images/UPS_Open_House_2025.png
       alt: Image alt text
 ---
