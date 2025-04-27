@@ -25,7 +25,13 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infopic:
+      title: OPEN HOUSE
+      subtitle: UNITY PRIMARY SCHOOL
+      id: infopic
+      description: "2025"
+      button: Register here
+      url: /ups-open-house/
+      image: /images/WhatsApp_Image_2024_04_19_at_10_31_38.jpg
+      alt: Image alt text
 ---
