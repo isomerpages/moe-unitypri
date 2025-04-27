@@ -29,9 +29,9 @@ sections:
       title: OPEN HOUSE
       subtitle: UNITY PRIMARY SCHOOL
       id: infopic
-      description: "2025"
+      description: "Date: 29 May 2025, Fri Time: 7.45 am - 10 am"
       button: Register here
       url: /ups-open-house/
-      image: /images/WhatsApp_Image_2024_04_19_at_10_31_38.jpg
+      image: /images/Picture3.png
       alt: Image alt text
 ---
