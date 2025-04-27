@@ -15,15 +15,12 @@ Our students embraced the opportunity to connect with nature to nurture their mi
 
 ![](/images/Learning%20Journeys/2024/P4_OE_LJ_png.jpg)
 ### **Museum Based Learning**
-The P4 Museum Based Learning (MBL) is part of the refreshed art education syllabus aimed at making learning more authentic and for exposure to Singaporean art. MBL offers a unique and effective approach to education that leverages the resources and environments provided by museums to create engaging and memorable learning experiences. 
-![](/images/Learning%20Journeys/2024/P4_MBL_1.png)
-Museums offer a hands-on, interactive, and multisensory environment that encourages experiential learning. Our students engage with exhibits through observation and discussion to enhance the learning process.
-![](/images/Learning%20Journeys/2024/P4_MBL_2.png)
-Museums often cover a wide range of topics, from history and science to art and culture. This allows for interdisciplinary learning, where students can explore connections between different subject areas.
-![](/images/Learning%20Journeys/2024/P4_MBL_3.png)
-MBL encourages critical thinking and inquiry-based learning. Students are prompted to ask questions, analyze information, and draw their own conclusions as they interact with exhibits and displays.
-![](/images/Learning%20Journeys/2024/P4_MBL_4.png)
-MBL not only cultivate interest but also lifelong learners who can continue to explore new topics and expand their knowledge through more museum visits.
+The Primary 4 Museum-Based Learning Journey to the National Gallery of Singapore in February 2025 was an exciting and immersive experience that brought art to life! As part of the refreshed art education syllabus, this experience gave students the opportunity to explore Singapore’s rich artistic heritage in a fun and authentic way.<br>
+Students were thrilled to learn about local pioneer artists like Georgette Chen and Tay Boon Pin, who opened their eyes to the world of portraits and how early “selfies” captured not just appearances, but emotions and identities. <br>
+They also ventured into the fascinating world of sculptures, discovering how artist Shui Tit Sing’s works told powerful stories through his choice of materials. The sculptures “Long House” and “Life of Miao” left the students in awe as they uncovered the meanings  and histories behind these amazing artworks.<br>
+The students learnt history through art when they saw how Chua Mia Tee’s "National Language Class" and Lim Hak Tai’s "Riot" showed important moments in Singapore’s past. This helped them understand how art tells powerful stories about who we are and where we come from.<br>
+This trip to the museum has definitely helped students gain a deeper appreciation for both Singapore’s art and history, leaving them with joyful memories of how creativity connects to culture. It was a meaningful and creative experience that showed them how learning about Singapore’s heritage can be both educational and fun.
+![](/images/Learning%20Journeys/2025/mood__2_.jpg)
 ### **Geylang Serai Heritage Gallery**
 During the recent learning journey to the Geylang Serai Heritage Gallery, the Primary 4 students had the opportunity to play the role of explorers. They went on a mission to discover the history of Geylang Serai and its importance to the Malay and Muslim communities in Singapore. The students explored the gallery and visited four different stations, each with friendly educators who told stories and showed interesting objects to make history come alive.
 This year, there was an additional segment of Precinct walk to the Geylang Serai market. The students were enthralled by the lively atmosphere as the market was abuzz with activities from the various Malay, Indian and Chinese food stalls. They also got to observe the different Malay traditional clothes being sold and the colourful stalls filled with aromatic spices.

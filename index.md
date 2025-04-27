@@ -18,14 +18,20 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2024/permalink/
-        - title: Home - based Learning (HBL) 10 March 2025
+        - title: Open House Registration 2025
           description: ""
-          url: /hbl-class-timetable/
+          url: /ups-open-house/
       variant: center
       size: sm
       alignment: right
       backgroundColor: white
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infopic:
+      title: OPEN HOUSE
+      subtitle: UNITY PRIMARY SCHOOL
+      id: infopic
+      description: "2025"
+      button: Register here
+      url: /ups-open-house/
+      image: /images/UPS_Open_House_2025.png
+      alt: Image alt text
 ---
