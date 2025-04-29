@@ -29,13 +29,14 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOESCHERQ25000499/ 28 Apr 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RFQ for 4 Days 3 Nights Overseas Immersion Programme (OIP) to Brunei Darussalam
+for Unity Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>07 May 2025 01:00 PM</p>
 </td>
 </tr>
 </tbody>
