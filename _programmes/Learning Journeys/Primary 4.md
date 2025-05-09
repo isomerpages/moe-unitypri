@@ -6,14 +6,12 @@ third_nav_title: Learning Journeys
 variant: markdown
 ---
 ### **Outdoor Education Learning Journey**
-P4 level students had a fantastic experience during the recent Outdoor Education Learning Journey to Limbang Park. The adventure in the outdoor setting provided numerous opportunities for learning, fun, and appreciation of nature.
-Armed with their new PE Journal, they eagerly embarked on a quest to draw their experience maps. In another activity, the young learners connected with nature in a unique way through observing the unique trees at the park. They learned about parasitic plants living on the host trees and the characteristics of the different trees. Students explored the neighbourhood outdoor nature parks to increase their awareness of the green spaces in the community and develop their skills in a big classroom unlike any other - full of wonder, discovery, and endless lessons waiting to be learned.
+P4 level students had a fantastic experience during the recent Outdoor Education Learning Journey to Sensory Garden @ Yew Tee. The adventure in the outdoor setting provided numerous opportunities for learning, fun, and appreciation of nature.<br>
+Armed with their PE Journal, they eagerly embarked on a quest to draw their experience maps. The young learners connected with nature by observing the unique trees at the garden. They learn that there are parasitic plants living on host trees and discovered the characteristics of different trees.<br>
+As responsible adventurers, the students brought healthy snacks like fresh fruits, whole-grain sandwiches, and nuts for their outdoor journey. They demonstrated good personal hygiene by using hand sanitizers and wipes before eating their snacks.<br>
+The Outdoor Education Learning Journey to Sensory Garden @ Yew Tee was a huge success. Students explored the neighbourhood's green spaces, connecting with nature while developing valuable life skills in this unique outdoor classroom filled with wonder and discovery.<br>
 
-As responsible adventurers, the students learned the importance of packing a healthy snack for their outdoor journey. Before setting off, they thoughtfully prepared a variety of nutritious treats, including fresh fruits, whole-grain sandwiches, and energy-boosting nuts. Their willingness to make mindful food choices was commendable. Our students showed exemplary responsibility by ensuring they kept their hands clean before eating. Knowing the importance of maintaining personal hygiene, especially when enjoying the great outdoors, the students used hand sanitizers and wipes to stay fresh and germ-free while relishing their healthy snacks. 
-
-Our students embraced the opportunity to connect with nature to nurture their minds and bodies as well as learn valuable life skills.  The Outdoor Education Learning Journey to Limbang Park was undoubtedly a huge success. 
-
-![](/images/Learning%20Journeys/2024/P4_OE_LJ_png.jpg)
+![](/images/Learning%20Journeys/2025/2025_P4_OE_Collage.jpg)
 ### **Museum Based Learning**
 The Primary 4 Museum-Based Learning Journey to the National Gallery of Singapore in February 2025 was an exciting and immersive experience that brought art to life! As part of the refreshed art education syllabus, this experience gave students the opportunity to explore Singapore’s rich artistic heritage in a fun and authentic way.<br>
 Students were thrilled to learn about local pioneer artists like Georgette Chen and Tay Boon Pin, who opened their eyes to the world of portraits and how early “selfies” captured not just appearances, but emotions and identities. <br>
