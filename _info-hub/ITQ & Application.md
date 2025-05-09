@@ -27,18 +27,6 @@ the contract.</p>
 <p>ITQ Closing Date</p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MOESCHERQ25000499/ 28 Apr 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RFQ for 4 Days 3 Nights Overseas Immersion Programme (OIP) to Brunei Darussalam
-for Unity Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>07 May 2025 01:00 PM</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
