@@ -4,11 +4,10 @@ permalink: /our-unity-story/School-Leaders-Message/permalink/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Unity Story/SL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Unity Story/b8u84c7p.png">
 </div>
+<p></p>
 <p>Unity Primary School was established in 1999 and it is with great honour
 and pride that we commemorated our school’s 25th anniversary in 2024. The
 dedication, commitment and conviction of our staff, with the ardent and
@@ -41,3 +40,4 @@ become a ‘Confident Self’ and have a ‘Caring Heart’, leaving an indelibl
 mark wherever they go!</p>
 <p>With your continued support and partnership, we forge ahead with faith
 as always in touching lives and transforming futures!</p>
+<p></p>
