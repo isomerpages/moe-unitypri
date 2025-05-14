@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Calendar.md
+      - School Home Partnership.md
       - Modes of Communication.md
       - Letters to Parents.md
       - Parents Information Booklet.md
@@ -12,4 +13,3 @@ collections:
       - School Rules & Discipline Guidelines.md
       - Resources for Parents.md
       - Parent Volunteers.md
-      - School Home Partnership.md
