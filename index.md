@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Signature Programmes
           description: ""
-          url: /co-curriculum-programme/Applied-Learning-Programme-ALP/permalink/
+          url: /programmes/alp/permalink/
         - title: School Events
           description: ""
           url: https://sites.google.com/view/upsourschoolevents/home
