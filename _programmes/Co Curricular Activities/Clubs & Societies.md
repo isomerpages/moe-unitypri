@@ -20,7 +20,7 @@ during drama sessions as well. Students would also be trained to showcase
 a short play.</p>
 <p><strong>CCA TIC</strong>: Mr Teo Chee Siong, Mrs Lay Naing, Ms Tan Yuan
 Ting, Mrs Angeline Goh,
-<br><strong>CCA Advisor</strong>: Mdm Lakshmi</p>
+<br><strong>CCA Advisor</strong>: Mrs Yvonne Koo</p>
 <h3><strong>Greenovation Club</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Greenovation.jpg">
@@ -78,5 +78,5 @@ be a lot of hands-on sessions where students get to work collaboratively
 with other members and showcase their works to the school.&nbsp; Through
 the various showcases, students get to express confidently their thoughts
 through the Art language they have learnt.</p>
-<p><strong>CCA TIC</strong>: Mdm Norsahida, Ms Filzah, Mdm Farha
+<p><strong>CCA TIC</strong>: Mdm Norsahida, Ms Filzah, Mdm Nurfarha
 <br><strong>CCA Advisor</strong>: Mdm Norsahida</p>
