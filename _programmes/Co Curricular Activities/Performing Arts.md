@@ -18,8 +18,8 @@ to make music by manipulating one of the notes, hence learning the value
 of teamwork.&nbsp; There will be multiple platforms to hone and showcase
 the students’ skills so as to build their confidence, resilience and team
 spirit.</p>
-<p><strong>CCA TIC</strong>: Ms Julin Siow, Mr Bernard Foo, Mr Ryan Wong
-<br><strong>CCA Advisor</strong>: Mdm Shelyn Ng</p>
+<p><strong>CCA TIC</strong>: Ms Julin Siow, Mr Ryan Wong
+<br><strong>CCA Advisor</strong>: Mrs Soh-Lim Fun Yen</p>
 <h3><strong>Choir</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Choir.jpg">
@@ -31,7 +31,7 @@ they sing as an ensemble.&nbsp; Singing helps students to express their
 emotions and creativity in a non-threatening environment. &nbsp;There will
 be opportunities for students to develop their confidence, learn to collaborate
 and perform at various platforms.</p>
-<p><strong>CCA TIC</strong>: Ms Saraswati, Mr Herald, Mdm Ma Yu
+<p><strong>CCA TIC</strong>: Ms Saraswati, Mr Herald, Mdm Ma Yu, Ms Vikneshwari
 <br><strong>CCA Advisor</strong>: Mdm Shelyn Ng</p>
 <h3><strong>Chinese Dance</strong></h3>
 <div class="isomer-image-wrapper">
@@ -43,9 +43,8 @@ use the dance movement to communicate and express their feelings and ideas.
 to appreciate Chinese cultural perspectives. &nbsp;Opportunities will be
 given to students to display their artistic flair. &nbsp;Through such team
 work and choreography, students' confidence and poise will be developed.</p>
-<p><strong>CCA TIC</strong>: Ms Ow Hui Qin, Mdm Law SC, Mdm Han Huilian,
-Mdm Sun Xiaoli,
-<br><strong>CCA Advisor</strong>: Mrs Soh-Lim Fun Yen</p>
+<p><strong>CCA TIC</strong>: Ms Ow Hui Qin, Mdm Han Huilian, Mdm Sun Xiaoli,
+<br><strong>CCA Advisor</strong>: Mdm Law Siok Cheng</p>
 <h3><strong>Malay Dance</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Malay%20Dance.jpg">
@@ -68,4 +67,4 @@ get to showcase their artistic flair. &nbsp;Working with their peers, they
 learn to work collaboratively and develop confidence and poise.</p>
 <p><strong>CCA TIC</strong>: Ms Eunice Liang, Mrs Wee Li Ting, Ms Olivia
 Yu, Mdm Tan Kai Ling
-<br><strong>CCA Advisor</strong>: Mrs Yvonne Koo</p>
+<br><strong>CCA Advisor</strong>: Mdm Lakshmi</p>
