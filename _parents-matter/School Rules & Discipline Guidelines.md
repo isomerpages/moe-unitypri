@@ -2,6 +2,7 @@
 title: School Rules & Discipline Guidelines
 permalink: /parents-matters/Information/School-Rules-and-Discipline-Guidelines/permalink/
 description: ""
+variant: markdown
 ---
 Good discipline is fundamental to ensuring learning and progress. Our school’s philosophy on discipline is to transit every student to reach independence and self-discipline, grounded on sound values. What that means is all students must learn and take onus for their behaviours and the consequences of their actions. 
 
@@ -37,11 +38,12 @@ Our Character and Citizenship Education (CCE) drives the inculcation of appropri
 *   All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others. This is considered a serious offence.
 
 ### **Use of Mobile Phones/Electronic Devices in School**
-*   We strongly discourage students from bringing mobile phones or any expensive gadgets, e.g. smartwatch, to school.
-*   Should your child bring such unauthorised gadgets/devices, it is his/her responsibility to ensure that they are kept away safely/out of sight and switched off at all times.
-*   The school will not be liable for any loss of items.
-*   Students are not allowed to use their mobile phones/ unauthorised devices in class or within the school compound.
-*   School will have the right to confiscate any gadgets/devices if students are found to be flouting the regulation. For the first violation, the phone will be confiscated and stored in the General Office (GO) for safe-keeping until the end of the school day. Student will have to retrieve the phone from GO after school.  For subsequent violation, the phone will be confiscated and the parent of the student can retrieve the phone from GO.
+* Students are strongly discouraged from bringing smartphones,  smartwatches,  or any unauthorized devices to school.
+* **Students are not to use smartphones, smartwatches or unauthorized devices during school hours including recess, CCA and after-school programmes**, e.g., remedial/supplementary/enrichment lessons.
+* Students who bring such devices are to put them in their school bags and ensure that they are switched off before school start time.
+* **Students should bear responsibility for safekeeping of devices. The school will not be liable for any loss of items.**
+* The school will confiscate any smartphone, smartwatch or any other unauthorized device if students are found to be flouting the rules. For the first violation, the device will be confiscated and stored in the General Office (GO) for safe-keeping until the end of the school day. Student will have to retrieve the device from GO after school.  For subsequent violation, the device will be confiscated and the parent of the student can retrieve the phone from GO. Students will face other consequences for serious offences involving the use of the devices.
+
 
 ###  **Student’s Conduct**
      **A. Interaction with School Staff and Classmates**
