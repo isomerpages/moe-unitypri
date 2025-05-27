@@ -11,6 +11,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents Matter/2025/Letter_to_Parents__T2_W1__2025.pdf" rel="noopener nofollow" target="_blank">Term 2 Week 1</a>
 </p>
+<p><a href="/files/Parents Matter/2025/Letter_to_Parents__T2_W10__26_May_25.pdf" rel="noopener nofollow" target="_blank">Term 2 Week 10</a>
+</p>
 <h3></h3>
 </blockquote>
 <p></p>
