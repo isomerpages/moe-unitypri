@@ -2,16 +2,17 @@
 title: Briefings & Workshops
 permalink: /parents-matters/Briefings-Workshops/permalink/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **P4 Subject-Based Banding (SBB) **
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FTQwfiC-7fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
----
-### **P6 PSLE and Direct School Admission (DSA) Briefing 2023**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qqhHO2s5seM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
----
-
-### **Parent-Teacher Conference (PTC)**
-
-*To Be Updated Soon..*.
+<h3><strong>P4 Subject-Based Banding (SBB)</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FTQwfiC-7fI"></iframe>
+</div>
+<hr>
+<h3><strong>P6 PSLE and Direct School Admission (DSA) Briefing 2025</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DROfyZ-G5yc?si=RY_-Dqem8Z2qqAXt"></iframe>
+</div>
+<hr>
+<h3><strong>Parent-Teacher Conference (PTC)</strong></h3>
+<p><em>To Be Updated Soon..</em>.</p>
