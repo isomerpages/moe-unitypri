@@ -17,7 +17,7 @@ sections:
           url: https://sites.google.com/view/upsourschoolevents/home
         - title: Our Achievements
           description: ""
-          url: https://unitypri.moe.edu.sg/achievements2024/permalink/
+          url: https://unitypri.moe.edu.sg/achievements2025/permalink/
         - title: HBL ( 26 May 2025)
           description: ""
           url: /hbl-class-timetable/
