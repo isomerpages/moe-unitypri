@@ -17,21 +17,12 @@ sections:
           url: https://sites.google.com/view/upsourschoolevents/home
         - title: Our Achievements
           description: ""
-          url: https://unitypri.moe.edu.sg/achievements2024/permalink/
-        - title: HBL ( 26 May 2025)
+          url: https://unitypri.moe.edu.sg/achievements2025/permalink/
+        - title: School Calendar
           description: ""
-          url: /hbl-class-timetable/
+          url: /parents-matter/school-calendar/permalink/
       variant: center
       size: sm
       alignment: right
       backgroundColor: white
-  - infopic:
-      title: OPEN HOUSE
-      subtitle: UNITY PRIMARY SCHOOL
-      id: infopic
-      description: "2025"
-      button: Register here
-      url: /ups-open-house/
-      image: /images/Date_29_May_2025__Fri.jpg
-      alt: Image alt text
 ---
