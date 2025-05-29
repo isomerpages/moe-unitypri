@@ -20,7 +20,7 @@ sections:
           url: https://unitypri.moe.edu.sg/achievements2025/permalink/
         - title: School Calendar
           description: ""
-          url: https://unitypri.moe.edu.sg/parents-matter/School-Calendar/permalink/
+          url: /parents-matter/school-calendar/permalink/
       variant: center
       size: sm
       alignment: right
