@@ -18,9 +18,9 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2025/permalink/
-        - title: HBL ( 26 May 2025)
+        - title: School Calendar
           description: ""
-          url: /hbl-class-timetable/
+          url: https://unitypri.moe.edu.sg/parents-matter/School-Calendar/permalink/
       variant: center
       size: sm
       alignment: right
