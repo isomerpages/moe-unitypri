@@ -37,4 +37,4 @@ At the end of the learning journey, the students could explain how Singapore’s
 
 ### **Learning Journey to Sungei Buloh**
 Nothing beats going out into nature and observing animals in their habitat! That was what the P6 students experienced when they spent half their morning soaking in the sun to hike Sungei Buloh Wetland Reserves. They observed the diversity of living things forming the mangrove community and realized the importance of mangrove in the ecosystem. They were lucky to encounter the mudskippers in the muddy waters, the monitor lizards taking a dip in the pond and catching sights of some of the migratory birds grazing on the mudflats. The learning journey complemented the Science topics of Living Together and Adaptations which the students learnt in class. Students had much fun learning beyond the classroom.
-![](/images/Learning%20Journeys/2023/Primary%206/p6%20lj%20to%20sungei%20buloh.png)
+![](/images/Learning%20Journeys/2025/P6_Sungei_Buloh.jpg)
