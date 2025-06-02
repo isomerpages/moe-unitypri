@@ -6,4 +6,5 @@ variant: markdown
 ---
 ### **2026 PRIMARY ONE (P1) ADMINISTRATIVE MATTERS**
 
-~ More details will be available soon ~
+
+[P1 Registration Matters](/files/Parents%20Matter/2025/P1_Registration_Matters.pdf)
