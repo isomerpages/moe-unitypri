@@ -26,36 +26,26 @@ connect with the community while learning important life skills!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/Collage_photos.jpg">
 </div>
 <h3><strong>Jacob Ballas</strong></h3>
-<p>In the sixth week of Term 2, our young Primary 1 students set off on an
-exciting Learning Journey to the Jacob Ballas Children’s Garden, nestled
-in the heart of the Singapore Botanic Gardens. This vibrant and interactive
-space is thoughtfully designed to cater exclusively to the curious minds
-of young learners.</p>
-<p>During this enriching experience, our students delved into the wonders
-of nature within an educational setting. They actively participated in
-diverse activities at five different stations around the park, enabling
-them to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Cultivate an understanding and appreciation for the natural world and
-its diverse ecosystems.</p>
-</li>
-<li>
-<p>Acquire knowledge about plant life cycles, habitats, and the significance
-of environmental conservation.</p>
-</li>
-<li>
-<p>Spark curiosity and wonder through hands-on exploration.</p>
-</li>
-<li>
-<p>Develop teamwork and communication skills through collaborative group
-activities.</p>
-</li>
-</ul>
-<p>Overall, both students and teachers had a delightful and educational time,
-immersing themselves in the beauty of nature.</p>
+<p>On 8 May 2025, our P1 students embarked on their much-anticipated Learning
+Journey to the Jacob Ballas Children’s Garden, located in the Singapore
+Botanic Gardens. Specially designed for young children, the garden provided
+a safe and stimulating environment for our students to explore and learn
+about nature.</p>
+<p>The students participated in a variety of hands-on activities across five
+interactive stations curated to provide unique learning experiences. They
+learnt about plant life cycles, habitats, and the importance of caring
+for the environment. The experiences also fostered teamwork and curiosity
+as students worked together to discover the natural world around them.</p>
+<p>Unfortunately, wet weather conditions prevented some classes from visiting
+the garden. As part of the wet weather contingency plan, they participated
+in a specially prepared e-Learning Journey instead. Though disappointing,
+the students were still given meaningful opportunities to engage with and
+learn the same key concepts.</p>
+<p>For those who attended the learning journey, it was a truly memorable
+day filled with exploration and discovery, learning, and joy in nature!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2024/Combined__For_Website_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/P1_JB_photo_collage.jpg">
 </div>
 <h3><strong>River Wonders</strong></h3>
 <p>On 30 September 2024, the P1 students went on a learning journey to River
