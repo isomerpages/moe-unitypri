@@ -6,11 +6,12 @@ third_nav_title: Learning Journeys
 variant: markdown
 ---
 ### **Hay Dairies Goat Farm**
-On 10 May 2024, the P2 students embarked on a learning journey to the Hay Dairies Goat Farm situated in Neo Tiew Crescent. The students had the opportunity to learn about the farm history, identify the different species of goats, understand the milking process and develop care and compassion for the animals.  <br>
-Upon arrival, the students were introduced to the goat milking area as well as the milking process. They were taught to differentiate between cow’s and goat’s milk and learned about the benefits of goat milk. At a designated area along the goat viewing trail, they were excited to get up-close with the goats and feed them alfalfa hay. A few courageous students petted the goats and allowed them to eat from their palms. It was definitely a rare feeding experience for the students. <br>
-At the end of the tour, every student received souvenirs and a fresh bottle of chocolate goat milk from Hay Dairies. Overall, they had a unique learning experience and wonderful time.
+On 16 May 2025, the Primary 2 students embarked on a learning journey to Hay Dairies Goat Farm, nestled in the peaceful surroundings of Neo Tiew Crescent. The visit offered students a valuable opportunity to explore farm life and gain insights into goat farming in Singapore.<br>
+The experience began with a guided introduction to the farm's background and operations. Students learned about the different breeds of goats raised on the farm and observed the milking process firsthand. They also learned how to distinguish between cow milk and goat milk while discovering the nutritional benefits of goat milk.<br>
+The goat feeding session was the highlight of the visit. As they walked along the viewing trail, the students eagerly fed the goats alfalfa hay. Some enthusiastic children even displayed great courage by gently petting the goats and feeding them from their hands — a delightful and memorable experience. <br>
+The visit ended on a sweet note, with each student receiving a souvenir and a bottle of delicious chocolate goat milk. This learning journey has inspired students to empathise with animals and develop deeper appreciation for them. It was truly a joyful day of discovery.
 
-![](/images/Learning%20Journeys/2024/P2_Hay_Dairies_Collage.jpg)
+![](/images/Learning%20Journeys/2025/Hay_Dairies_collage.jpg)
 ### **Theatre Experience**
 As part of the school’s Learn for Life Programme to inculcate character and values through experiential and authentic learning, the Primary 2 students embarked on a learning journey to Gateway Theatre to watch a performance entitled ‘The Invisible Pangolin’ on 25 July 2024.  The theatre experience provides the opportunity for the students to practise correct theatre etiquette and value of respect during a performance.<br>
 ‘The Invisible Pangolin’ is about three friends, a Monkey, Owl and Tiger who come across a mysterious ball that turns out to be a classmate (Pangolin) whom they have never “seen” before. “The Invisible Pangolin” is an interactive theatre experience that delves into the themes of friendship, embracing differences, being noticed, the importance of saying “no” and the value of giving space. <br>

@@ -127,7 +127,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hazimah</p>
+<p>Mdm Rohaya</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Security</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mansor</p>
+<p>Mr Imran Abdullah Tan</p>
 </td>
 </tr>
 </tbody>
