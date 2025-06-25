@@ -194,15 +194,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hidayati Mohd Ali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P1ML2, P4ML1</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Norlizanah</p>
 </td>
 <td rowspan="1" colspan="1">
