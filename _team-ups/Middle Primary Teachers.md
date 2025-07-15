@@ -112,7 +112,6 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Bernard Foo
-<br>Mdm Nur Hidayati Mohd Ali
 <br>Mdm Nurfarha Abdul Rauf</p>
 </td>
 </tr>
