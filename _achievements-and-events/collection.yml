@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Achievements.md
-      - Events.md
+      - UPS Events.md
