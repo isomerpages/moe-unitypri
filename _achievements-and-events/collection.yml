@@ -1,4 +1,5 @@
 collections:
   achievements-and-events:
     output: true
-    order: []
+    order:
+      - Achievements.md
