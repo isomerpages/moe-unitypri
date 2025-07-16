@@ -2,5 +2,5 @@ collections:
   achievements-and-events:
     output: true
     order:
-      - Events.md
       - Achievements.md
+      - Events.md
