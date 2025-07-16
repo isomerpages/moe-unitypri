@@ -1,7 +1,18 @@
 logo: /images/unitylogo.gif
 links:
   - title: Our Unity Story
-    collection: our-unity-story
+    url: /our-unity-story/School-Leaders-Message/permalink/
+    sublinks:
+      - title: School Leaders' Message
+        url: /our-unity-story/School-Leaders-Message/permalink/
+      - title: School Direction & Focus
+        url: /our-unity-story/School-Direction-and-Focus/permalink/
+      - title: Our School Crest & School Song
+        url: /our-unity-story/Our-School-Crest-and-School-Song/permalink/
+      - title: Our Achievements
+        url: /achievements2025/permalink/
+      - title: Events
+        url: https://sites.google.com/view/upsourschoolevents/home
   - title: Team UPS
     collection: team-ups
   - title: Curriculum
@@ -12,10 +23,3 @@ links:
     collection: parents-matter
   - title: Info Hub
     collection: info-hub
-  - title: Our Unity Story
-    url: /our-unity-story/School-Leaders-Message/permalink/
-    sublinks:
-      - title: Events
-        url: https://sites.google.com/view/upsourschoolevents/home
-      - title: SL Message
-        url: /our-unity-story/School-Leaders-Message/permalink/
