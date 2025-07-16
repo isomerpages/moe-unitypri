@@ -1,0 +1,6 @@
+collections:
+  achievements-and-events:
+    output: true
+    order:
+      - Achievements.md
+      - UPS Events.md
