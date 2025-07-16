@@ -1,0 +1,4 @@
+collections:
+  achievements-and-events:
+    output: true
+    order: []
