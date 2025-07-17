@@ -216,7 +216,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
-<h3><strong>Senior Teachers</strong></h3>
+<h3><strong>Teacher Leaders</strong></h3>
 </td>
 </tr>
 <tr>
