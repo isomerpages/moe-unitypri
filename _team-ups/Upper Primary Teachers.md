@@ -125,7 +125,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Ng Chin Khiang
-<br>Mdm Norazelin Misnari Misnari
+<br>Mdm Norazelin Misnari
 <br>Mdm Law Siok Cheng</p>
 </td>
 </tr>
