@@ -214,11 +214,25 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
+<h3><strong>Senior Teachers</strong></h3>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norazelin Misnari</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Han Huilian</p>
 </td>
 </tr>
 </tbody>
