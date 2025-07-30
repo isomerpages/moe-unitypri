@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /curriculum/mother-tongue-languages/permalink/
 description: ""
+variant: markdown
 ---
 ### **Mother Tongue Language Curriculum and Aims**
 
@@ -27,9 +28,12 @@ P3 Cultural Camp is organised annually to enrich our students’ learning of the
 
 ##### **Cultural Performance Exposure Scheme**
 
-The Cultural Programme Exposure Scheme (CPES) is an initiative to promote Chinese Language (CL) learning in students and aims to expose students to CL-related cultural performances by local and foreign performing arts groups.
-After a 3-year hiatus, we were finally able to take our students to Victoria Theatre to watch a live performance on Wed, 5 Apr this year. P4CL students watched a Chinese children drama “Kiki and Her Magical Stories 2” 《小魔女的童话故事》by the Arts Theatre Pte Ltd. Our students and teachers enjoyed the learning journey tremendously, especially it being their first outdoor learning journey since the pandemic struck. The performance was very interesting and students enjoyed the interaction with the actors during the performance. 
-![](/images/Curriculum/2023/MT/cl%20cpes%202023.jpg)
+As part of the Chinese Cultural Programme Exposure Scheme (CPES) held on 9 July 2025, our Primary 4 students were treated to a captivating performance of "Journey to the West - Trouble in Heaven" 《西游记之大闹天宫》at the Lee Kong Chian Reference Library. This theatrical production brought to life one of China's most beloved classical stories, offering students an immersive experience in traditional Chinese literature and mythology.
+
+The performance skillfully portrayed the adventures of the mischievous Monkey King, Sun Wukong, as he created havoc in Heaven. Through dynamic storytelling and theatrical elements, students were introduced to classical Chinese characters and expressions in an engaging manner. The dramatic portrayal of this timeless tale kept them thoroughly engaged, creating memorable learning moments. 
+
+Beyond expanding their Chinese vocabulary, students also gained valuable insights into traditional Chinese values and myths, making this experience both educational and entertaining. This enriching learning journey is yet another example of how cultural exposure can effectively enhance our students' appreciation of the Chinese Language and its literary traditions.
+
 
 ##### **Conversational Chinese and Malay Programme**
 Conversational Chinese and Malay (CCM) is an enrichment programme offered to Primary 4 students to enable them to have some grounding of Chinese/Malay language and culture, other than their own Mother Tongue language. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. 
