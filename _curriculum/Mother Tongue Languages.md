@@ -33,7 +33,7 @@ As part of the Chinese Cultural Programme Exposure Scheme (CPES) held on 9 July 
 The performance skillfully portrayed the adventures of the mischievous Monkey King, Sun Wukong, as he created havoc in Heaven. Through dynamic storytelling and theatrical elements, students were introduced to classical Chinese characters and expressions in an engaging manner. The dramatic portrayal of this timeless tale kept them thoroughly engaged, creating memorable learning moments. 
 
 Beyond expanding their Chinese vocabulary, students also gained valuable insights into traditional Chinese values and myths, making this experience both educational and entertaining. This enriching learning journey is yet another example of how cultural exposure can effectively enhance our students' appreciation of the Chinese Language and its literary traditions.
-
+![](/images/Curriculum/2025/CCPES_LJ_Collage.jpg)
 
 ##### **Conversational Chinese and Malay Programme**
 Conversational Chinese and Malay (CCM) is an enrichment programme offered to Primary 4 students to enable them to have some grounding of Chinese/Malay language and culture, other than their own Mother Tongue language. It aims to help students to learn to converse in daily activities and eventually allow them to pick up the language easily through increased social interaction with native speakers. 
