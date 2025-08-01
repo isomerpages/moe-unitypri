@@ -25,4 +25,13 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
+  - infobar:
+      title: The Caring Teacher Awards 2026
+      subtitle: Nominate now!
+      id: infobar
+      description: We invite all students and parents to nominate Caring Teachers who
+        have made a meaningful impact through their dedication, kindness, and
+        love!
+      button: Click to nominate
+      url: https://cta.nie.edu.sg/
 ---
