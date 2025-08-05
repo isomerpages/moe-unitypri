@@ -11,7 +11,7 @@ variant: markdown
 Monday to Friday: 8.30 am to 3.00 pm  
 Closed on Public Holidays, Saturday and Sunday
 
-**Telephone No:** 6382 6789 <br> 
+**Telephone No:** 6382 6789 (ext 210) <br> 
 *Please contact us from 9.00 am - 5.30 pm*<br>
 
 ### **2025 Booklists**
