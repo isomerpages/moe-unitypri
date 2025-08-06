@@ -4,7 +4,7 @@ permalink: /hbl-class-timetable/
 variant: tiptap
 description: ""
 ---
-<h3><strong><u>26 March 2025</u></strong></h3>
+<h3><strong><u>13 &amp; 14 August 2025</u></strong></h3>
 <h4>Primary 1</h4>
 <table style="minWidth: 275px">
 <colgroup>
@@ -23,27 +23,27 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1TBfqtS-ifqV_1GhiP0qbfWbJr8FSHFQY/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-A</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1WgdlirIQNCbpGM1Gq8mKJLh2G2TL8lf99M-wHVWr1q8/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1PuIN6Td3s2w1q3Vftzh18hlwdJ80csjT/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-B</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1enaSGstlB1f0CCh4Kb2WC_y4qTabtDot9rmLvjuEg34/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/13uWFwzlTlw8ExHEZ0xHkTSLZAwBbg6Ho/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-C</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1Jl5_y_NQ-JC7xtW2OQlDNdkbvDWG9lVZgDoMltVrLSk/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-C</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1HWuZNiD9cPWegr_6naLXzMbKUvtltrnV/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-D</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/14iSt6r60umw0yX5FyUxLsLIg2aJWrH90Fi2Dyie6Uzk/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-D</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1TAzAqRsmBXsrEPY26r_vWyO2ibWIU9ED/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1cz_RL8wWeLCjKbXrnjlb-rz-VflSPge8qc77y-GOoVk/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1bg2cU1LYeR9eNGUHiKrb7jx1yFeyMxo2/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P1-F</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1efneL1Kct5GUtKNpgUQj3tj_eOwwQXmasBTdvSlz-ao/edit?tab=t.0" rel="noopener nofollow" target="_blank">P1-F</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,23 +82,23 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/13bmiLrxGnTTmCYYH6wd9ddMhUKROQxLj/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P2-A</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1EYPh1gjXzwS_nAlruqJfoarOFIAy0mrP--4K_JU6CEw/edit?tab=t.0" rel="noopener nofollow" target="_blank">P2-A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1eMj-3tg2UHi1EUIPdyQ1E14FKwlLIdRl/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P2-B</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1hThdpRnVtRAVJMWLHXJDD4peS9x8FdI8AMViF1M4vjc/edit?tab=t.0" rel="noopener nofollow" target="_blank">P2-B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/12mNsKgEGqYD4n8Nlt0eUDKQMJ9S2msyG/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P2-C</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1zYjiZegJbMxuCQWKX6bRy4y2yKqOiRtYZ_KcNSljE8g/edit?tab=t.0" rel="noopener nofollow" target="_blank">P2-C</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/14OkMu969Whzplj9U4QWTQRmeyIfLu6g4/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P2-D</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1uZgqFVFt9oovkTpVLT2gzE14dBe4PRcwhQRV-6JZR7c/edit?tab=t.0" rel="noopener nofollow" target="_blank">P2-D</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1XSjDwbtbXHK-gro7lZvRCrPWj8xDY5c8/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P2-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1QF0Fm6wpyRCvK28dGXp2AByKAsmFQLIc2nVlU4c-aoE/edit?tab=t.0" rel="noopener nofollow" target="_blank">P2-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,23 +140,23 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1yLkQlvCuK_9dunWTCgZesgZUaFA4ANUo/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-A</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1ztQnzr6A9CpuVzt0OY1cUNBabe1hrPOX0NG31OfW8-4/edit?tab=t.0" rel="noopener nofollow" target="_blank">P3-A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/18EQqZBCO9mIYQrr3ji1Jh4JMr-ixz7AN/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-B</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1PbLpohY5Yjer5pLo18lNViOMcpSuatzkAOEAyoiimrI/edit?tab=t.0" rel="noopener nofollow" target="_blank">P3-B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1bEmY0TMSLVjZAkXth27oxKZxFqM680gY/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-C</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1CECyOEoOcWmxPbnD7Zz7sjlb2xjGLutfNgWm2QVhHi8/edit?tab=t.0" rel="noopener nofollow" target="_blank">P3-C</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1bv7z18J6hKqGgr_aKKVJgavlXl7Pi7c7/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-D</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1DeAXS2kPmiAZ4OLMW_nBxKoHCe_HDk01F6tlrK1uRQE/edit?tab=t.0" rel="noopener nofollow" target="_blank">P3-D</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1hjEcy1d2qdVPASVXXYnmMy7DpygLaMf-/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P3-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1CG_8r1oGxAAlWq86P5_SNaNMd5TzTh3UT8IhfuPoJTY/edit?tab=t.0" rel="noopener nofollow" target="_blank">P3-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,27 +198,27 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/15AbBmcOziwYvFtzXjUm9wJVV-NYaBApo/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-A</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1dHASpYenbjc0hM8i8FGEd9EObj96r01fquwTxC0_-vE/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/19WNjs_KQeYlTADj2gIZ9g8YUhXfuVlm5/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-B</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1OVUjPw1nysSCUgqQXibDUe0qPOsLFowS5v-TFCdGLC0/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1JmzB4EcQl-5dtqzbUSlpxmrAGU6IPbfM/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-C</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/11B8fvecfH-3-yE4yEQGq0xkXrF_5VlqbSdz1E61cy7k/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-C</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1L7W_V4fWvECfp3eUk_33Iya1WL135Emy/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-D</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/10IiFCxD06qGccVyp7DNgy710KZkd3tfNNkxcrvgNgVM/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-D</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1YPOQW7ruxQ_HMCzYOYgg2DyZhem6N6UI/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/10sJPGQyecMR1xfC-R9uuj7cKsycLpezyJMm0ZLY10cc/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1zdT69JLp_W4RHIJgHl2xx13b8Th2WVVn/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P4-F</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1BgMkGl_lgD1eTvraoHZHb_yAZLMEO1Y5DNHo7_E1rDU/edit?tab=t.0" rel="noopener nofollow" target="_blank">P4-F</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,23 +257,23 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1CQrCesZSrwBZEkwrh_kpYyF9bRkMVnE5/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P5-A</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1EPv1cRUCyG0pnbCcp5y9jZ-bxmcqzj6dUI9HlK8xDkM/edit?tab=t.0" rel="noopener nofollow" target="_blank">P5-A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/15ZIYf747BDA5EHHy8XMlZ9QzuCrVgASD/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P5-B</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1Jpo6FgOhaBCI3BI-CZN7h1duSvcivkE_j8swpA81ncU/edit?tab=t.0" rel="noopener nofollow" target="_blank">P5-B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1EUIGE2LWl0ZrlNbYsrS0vbfJG_pQlE4N/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P5-C</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1kot-SpAMsaJNxEW7__U9966js6Ra2lDMqUnGZO2iugg/edit?tab=t.0" rel="noopener nofollow" target="_blank">P5-C</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1VZse0ihevk_C8RgazlU_BeXhYF7uW6B-/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P5-D</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1UdKBolbWs0nCxzyNGyZhl9eszep1pCqCqr-NxQwIKwE/edit?tab=t.0" rel="noopener nofollow" target="_blank">P5-D</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://docs.google.com/document/d/1r5aNrmlnLoywCBAkkdl7v6dve5f5G6Sy/edit?usp=drive_link&amp;ouid=102233132161405473977&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">P5-E</a></strong>
+<p><strong><a href="https://docs.google.com/document/d/1ytx9xGyGMQXkpjavizPyDNWER3N7KEkUdB-4r2S2B58/edit?tab=t.0" rel="noopener nofollow" target="_blank">P5-E</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
