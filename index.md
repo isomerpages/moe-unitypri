@@ -18,9 +18,9 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2025/permalink/
-        - title: School Calendar
+        - title: HBL Class Plan (13 & 14 Aug)
           description: ""
-          url: /parents-matter/school-calendar/permalink/
+          url: /hbl-class-timetable/
       variant: center
       size: sm
       alignment: right
