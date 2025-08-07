@@ -1,6 +1,6 @@
 ---
-title: HBL Class Timetable
-permalink: /hbl-class-timetable/
+title: HBL Template
+permalink: /hbl-template/
 variant: tiptap
 description: ""
 ---
