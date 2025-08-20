@@ -18,9 +18,9 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2025/permalink/
-        - title: HBL Class Plan (13 & 14 Aug)
+        - title: Teachers' Day 2025 (Info for UPS ex-students)
           description: ""
-          url: /hbl-class-timetable/
+          url: /information-for-ex-students/
       variant: center
       size: sm
       alignment: right
