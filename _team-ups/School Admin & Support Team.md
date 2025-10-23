@@ -108,6 +108,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Ang Ah Beng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +135,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohaya</p>
+<p>Ms Regina Leong</p>
 </td>
 </tr>
 <tr>
