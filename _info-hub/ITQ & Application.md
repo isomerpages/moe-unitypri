@@ -110,7 +110,7 @@ Procedure below.</p>
 <p>2 Cooked Food Stalls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 July 2025</p>
+<p>28 November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Interested applicants, please contact the school from Monday - Friday
