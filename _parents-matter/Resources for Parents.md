@@ -9,7 +9,6 @@ variant: markdown
 *   [The Read-Aloud Handbook](https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html)
 *   [How To Improve Writing Skills for Pupils: 14 Easy Tips](https://www.oxfordlearning.com/improve-kids-writing-skills/)
 *   [Reading Comprehension Strategies](https://reading.ecb.org/teacher/)
-*   [Reading Comprehension Learning Tools ](https://www.time4learning.com/readingpyramid/comprehension.htm)
 *   [Grammar](http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html)
 *   [Vocabulary](https://www.vocabulary.com/lists/)
 
