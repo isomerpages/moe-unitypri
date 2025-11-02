@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Engagement Charter.md
       - School Calendar.md
       - School Home Partnership.md
       - Modes of Communication.md
@@ -14,3 +13,4 @@ collections:
       - School Rules & Discipline Guidelines.md
       - Resources for Parents.md
       - Parent Volunteers.md
+      - Engagement Charter.md
