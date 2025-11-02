@@ -2,6 +2,7 @@ collections:
   parents-matter:
     output: true
     order:
+      - Engagement Charter.md
       - School Calendar.md
       - School Home Partnership.md
       - Modes of Communication.md
