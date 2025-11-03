@@ -27,6 +27,18 @@ the contract.</p>
 <p>ITQ Closing Date</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOESCHETQ25006326/ 31 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Instructor for Angklung Ensemble CCA Training Programme in Unity
+Primary School with option to extend</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Nov 2025 01:00 PM</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
