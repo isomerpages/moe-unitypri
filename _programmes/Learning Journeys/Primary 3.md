@@ -3,28 +3,57 @@ title: Primary 3
 permalink: /programmes/Learning-Journeys/Primary3/permalink/
 description: ""
 third_nav_title: Learning Journeys
-variant: markdown
+variant: tiptap
 ---
-### **Kok Fah Technology Farm**
-In Term 4, our Primary 3 students visited Kok Fah farm, an aggrotech farm situated at Kranji. Through hands-on activities and the patient guidance of experienced farm guides, they witnessed the farming technique of hydroponics in growing leafy vegetables. Students saw firsthand how hydroponics, farming without soil, helped the farmers at Kok Fah used 70% less water than conventional methods using soil. What’s more, they were treated to a magnificent yet healthy feast at Kok Fah, with each student given samples of lettuce, basil, and other herbs and vegetables to try out! <br>
-Having had food to fill their tummies, our students were given further food to think about how hydroponics could helps land-scarce countries like Singapore be self-sufficient in food. Besides touring the farm, the students also sat through a lecture, giving them the background of its existence. The students marveled at how the pictures and photographs from their P3 Social Studies Readers, showing muddy vegetables in our grandfathers’ time, and how the plots were replaced by an elaborate system that ensured efficient nutrient circulation, water recirculation, and climate control. And all without using pesticides or harmful chemicals as well as cool climate crops such as basil, mint, lemon balm, and rosemary could be grown in the hydroponics greenhouse.  
-
-![](/images/Learning%20Journeys/2024/P3_LJ_KFF.jpg)
-
-### **Singapore Zoological Gardens**
-The Singapore Zoological Gardens is a secure and organized environment for Science lessons about animals’ characteristics beyond the classroom. The Primary 3 students had the opportunity to enjoy a rewarding morning there, observing animals from various groups and learning about their requirements and habitats. One of the key educational objectives was for them to understand the importance of environmental conservation, especially in the light of humanity's impact on animals' natural habitats.
-Riding on the tram with audio commentary, the students glimpsed many different animals and got a better overview of the zoo . They also honed their navigation skills by using a map to follow a designated trail. The highlight of the excursion was undoubtedly the Sealion Show at the Amphitheatre, where the students had a splashing whirl of fun.
-Overall, it was an exhilarating and educational experience for all!
-![](/images/Learning%20Journeys/2024/2024_P3_LJ_Zoo_Website.jpg)
-
-### **NEWater Visitor Centre**
-Learning journey is beneficial to student development as it provides an opportunity for the students to gain real-world experiences that complement classroom learning. The cohort of Primary 3 students had a memorable learning journey to Singapore's NEWater plant. It has given them the opportunity to appreciate Singapore's water sources, understand the effects of climate change and the sustainability efforts Singapore has put in.
-
-The learning journey has not only provided valuable insights into water conservation and efforts of sustainability but also allowed the students to witness firsthand the innovative efforts that Singapore has undertaken to secure its water supply. 
-
-The students were guided through interactive exhibits and engaging presentations, which helped them grasp the concept of wastewater treatment and the transformation of used water into NEWater, Singapore's brand of high-grade reclaimed water. 
-
-The students has learned how Singapore builds a robust, diversified and sustainable water supply from four water sources known as the Four National Taps – Water from Local Catchment , Imported Water, high-grade reclaimed water known as NEWater and Desalinated Water.
-
-It is without a doubt that the P3 students have been enriched in their understanding of the importance of NEWater as part of Singapore’s water supply and how they can contribute to the efforts of saving water.
-![](/images/Learning%20Journeys/2023/Primary%203/lj%20newater.jpg)
+<h3><strong>Kok Fah Technology Farm</strong></h3>
+<p>Our Primary 3 students visit Kok Fah Technology Farm, an agri-tech farm
+located in Kranji. Here, they experience firsthand how technology is shaping
+modern farming through hydroponics—the method of growing vegetables without
+soil.</p>
+<p>Guided by experienced farm staff, students observe how hydroponic systems
+use 70% less water than traditional soil-based farming. They learn how
+this sustainable method helps land-scarce countries like Singapore grow
+food efficiently and responsibly.</p>
+<p>A major highlight is the chance to taste fresh produce such as lettuce,
+basil, and mint. The hands-on experience is complemented by a learning
+session that connects the farm’s practices to their Social Studies curriculum,
+showing how farming in Singapore has evolved over time.</p>
+<p>This journey opens students’ eyes to food sustainability, innovation in
+agriculture, and how we can all play a role in supporting a greener future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/P3_LJ_KFF.jpg">
+</div>
+<h3><strong>Singapore Zoological Gardens</strong></h3>
+<p>The visit to the Singapore Zoo offers students an engaging, real-world
+extension of their Science lessons on animals and their habitats. In this
+safe and immersive environment, students observe animals up close while
+learning about their characteristics, diets, and the ecosystems they live
+in.</p>
+<p>They practise using a map to navigate a designated trail, enhancing their
+spatial awareness and planning skills. A tram ride with audio commentary
+gives students a broader perspective of the zoo and its layout, while the
+Sealion Show at the Amphitheatre brings smiles and laughter to all.</p>
+<p>Throughout the experience, students are also introduced to the importance
+of wildlife conservation, helping them reflect on humanity’s role in protecting
+the environment and its creatures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/2024_P3_LJ_Zoo_Website.jpg">
+</div>
+<h3><strong>NEWater Visitor Centre</strong></h3>
+<p>At the NEWater Visitor Centre, students explore one of Singapore’s most
+important sustainability efforts: our water supply. This learning journey
+supports the Science curriculum while helping students appreciate the importance
+of resource conservation and innovation.</p>
+<p>Through interactive exhibits and engaging presentations, students learn
+how Singapore produces high-grade reclaimed water from used water, known
+as NEWater. They are introduced to the Four National Taps— local catchment
+water, imported water, desalinated water, and NEWater—and how each plays
+a role in ensuring a stable and sustainable water supply.</p>
+<p>The visit leaves a lasting impression on students, showing them how science,
+technology, and community responsibility come together to secure Singapore’s
+water future. More importantly, it empowers them to take simple steps in
+their daily lives to conserve this precious resource.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2023/Primary%203/lj%20newater.jpg">
+</div>
+<p></p>
