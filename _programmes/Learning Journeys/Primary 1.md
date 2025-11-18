@@ -6,59 +6,44 @@ third_nav_title: Learning Journeys
 variant: tiptap
 ---
 <h3><strong>Around the School &amp; Road Safety Walk</strong></h3>
-<p>Our P1 students had a fantastic time during their first Learning Journey
-this term! Accompanied by their form teachers, Parent Volunteers and school
-Operation Managers, the students explored the school vicinity. During their
-walk, they learnt about the different types of road crossings, road signs
-and road safety rules.</p>
-<p>Before heading out, the students had discissions with their teachers about
-how to use shared spaces responsibly, respectful use of common spaces and
-how to upkeep harmony in the community when using these spaces. This helped
-them understand how to be mindful of others when using public areas.</p>
-<p>As part of the journey, the students also practised road safety as they
-crossed both formal and informal crossings. The highlight of the outing
-was the opportunity to play with their classmates at a nearby playground
-while practising safe and mindful behaviour.</p>
-<p>It was indeed a fun and meaningful experience that helped the students
-connect with the community while learning important life skills!</p>
+<p>As part of their first Learning Journey, our Primary 1 students venture
+around the school’s neighbourhood to learn about road safety and being
+responsible members of the community.</p>
+<p>Guided by teachers, parent volunteers, and school staff, students identify
+road signs, practise safe crossing techniques and learn how to use public
+spaces respectfully. A short playtime at a nearby playground gives them
+the chance to apply what they’ve learned about care and consideration in
+shared spaces.</p>
+<p>It is a meaningful experience that equips our young learners with important
+life skills while helping them feel more connected to the world around
+them.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/Collage_photos.jpg">
 </div>
-<h3><strong>Jacob Ballas</strong></h3>
-<p>On 8 May 2025, our P1 students embarked on their much-anticipated Learning
-Journey to the Jacob Ballas Children’s Garden, located in the Singapore
-Botanic Gardens. Specially designed for young children, the garden provided
-a safe and stimulating environment for our students to explore and learn
-about nature.</p>
-<p>The students participated in a variety of hands-on activities across five
-interactive stations curated to provide unique learning experiences. They
-learnt about plant life cycles, habitats, and the importance of caring
-for the environment. The experiences also fostered teamwork and curiosity
-as students worked together to discover the natural world around them.</p>
-<p>Unfortunately, wet weather conditions prevented some classes from visiting
-the garden. As part of the wet weather contingency plan, they participated
-in a specially prepared e-Learning Journey instead. Though disappointing,
-the students were still given meaningful opportunities to engage with and
-learn the same key concepts.</p>
-<p>For those who attended the learning journey, it was a truly memorable
-day filled with exploration and discovery, learning, and joy in nature!</p>
+<h3><strong>Jacob Ballas Children's Garden</strong></h3>
+<p>A highlight of the year is the visit to the Jacob Ballas Children’s Garden,
+an outdoor classroom designed just for children. Here, students explore
+the natural world through hands-on activities across various learning stations.</p>
+<p>They discover plant life cycles, habitats, and the importance of caring
+for the environment, all while developing teamwork and a sense of wonder.
+In the event of wet weather, students participate in a specially designed
+e-learning version, ensuring that learning continues meaningfully.</p>
+<p>Whether outdoors or in class, this journey deepens their appreciation
+for nature in fun and memorable ways.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/P1_JB_photo_collage.jpg">
 </div>
 <h3><strong>River Wonders</strong></h3>
-<p>On 30 September 2024, the P1 students went on a learning journey to River
-Wonders. A pre-learning journey lesson was conducted to introduce the various
-zones at River Wonders and prepare the students for the trip. Together
-with their form teachers and parent volunteers, the students engaged in
-several tasks at the Mekong River, Giant Panda Forest and Amazon Flooded
-Forest. They were captivated by the Manatees at the Amazon Flooded Forest
-and were thrilled to see the Electric Eel, Piranha and Red Panda. The Giant
-Stingrays at the Mekong River left them in awe. The highlight of the trip
-was getting to see Jia Jia and Kai Kai at the Panda enclosure. Overall,
-the learning journey was a great success. It enhanced the students’ knowledge
-of the different animals and strengthened their bonds with each other.</p>
+<p>At the end of the year, students head to River Wonders to explore the
+amazing diversity of wildlife. A pre-trip lesson helps them learn about
+the zones and animals they will see, setting the stage for deeper engagement.</p>
+<p>During the trip, students are captivated by the Manatees, Electric Eel,
+Red Panda, Giant Stingrays, and more. Of course, the highlight is always
+spotting the beloved pandas, Jia Jia and Kai Kai!</p>
+<p>This journey not only enhances their knowledge of animals and habitats
+but also brings classmates closer as they learn and explore together.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2024/P1_LJ_RW_Collage.jpg">
