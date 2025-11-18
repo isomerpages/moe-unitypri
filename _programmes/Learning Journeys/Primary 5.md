@@ -3,24 +3,67 @@ title: Primary 5
 permalink: /programmes/Learning-Journeys/Primary5/permalink/
 description: ""
 third_nav_title: Learning Journeys
-variant: markdown
+variant: tiptap
 ---
-### **DNA Learning Lab** 
-The P5 students unraveled the secrets of life and marveled at the sight of cells under the microscope when they visited the DNA Learning Lab at the Singapore Science Centre. The learning journey stimulated the students' interest in Science as they experienced authentic learning by using the equipment and techniques adopted by scientists in research labs. Through the hands-on activity, the students took on the role of a scientist where they prepared sample slides using their own cheek cells and viewing them under the microscope. They also had the opportunity to observe the parts of plant cell clearly and learn more about the yeast cell as well as the bacteria cell.
-![](/images/Learning%20Journeys/2025/Collage.jpg)
-
-### **Marina Barrage** 
-Recently, the P5 students went on a learning journey to Marina Barrage, where they spent the afternoon learning more about environmental and sustainability topics such as climate, water, energy and waste. They also learnt the 3-in-1 function of the Barrage and got to watch how the crest gates work as a flood control measure, and explored the Sustainable Singapore Gallery. Some students shared that the highlight of the learning journey was the Augmented Reality (AR) Interactive Experience, where they got to enjoy and appreciate the marine life and coral reefs right before them!![](/images/Learning%20Journeys/2022/Primary%205/2022%20P5%20Marina%20Barrage.jpg)
-### **Indian Heritage Centre**
-In February 2025, our P5 students had the opportunity to explore the fascinating history and culture of Singapore’s Indian community at the Indian Heritage Centre. The trip allowed them to learn about how immigrants from India came to Singapore and became an important part of our country’s diverse and multicultural identity.<br>
-Located in the heart of Little India, the Centre offered an immersive experience. The students explored vibrant galleries, learning about the unique food, spices, businesses, performing arts and architecture that are so closely tied to the Indian community in Singapore.<br>
-It was a memorable experience that gave them a deeper understanding of one of Singapore’s major ethnic communities.
-
-![](/images/Learning%20Journeys/2025/Collage_Photos.jpg)
-
-
-### **NE Show**
-As usual, every year, the Primary 5 students will attend the National Education Show (NE Show), a preview of the upcoming National Day Parade. This special event provides P5 students with a unique opportunity to fully engage in the celebratory atmosphere of our nation's independence. <br>
-Donned in vibrant red T-shirts, the P5 students from Unity Primary exuded enthusiasm and patriotism as they participated in the festive atmosphere at the Padang on 6 July. They observed the various aspects of Total Defence in action, demonstrating the unity and preparedness of our nation. The festivities culminated in a spectacular fireworks display, illuminating the night sky and symbolizing the spirit of togetherness and celebration.<br>
-Through this immersive experience, the P5 students have gained a deeper understanding of the significance of National Education, reinforcing the values of unity, resilience, and the collective spirit of our nation.
-![](/images/Learning%20Journeys/2024/Photo_collage.jpg)
+<h3><strong>DNA Learning Lab</strong></h3>
+<p>During their visit to the DNA Learning Lab at the Singapore Science Centre,
+students take on the role of young scientists, diving into the microscopic
+world of cells and DNA. This journey is a powerful extension of their Science
+curriculum, turning theory into hands-on practice.</p>
+<p>With the guidance of experienced facilitators, students:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prepare and examine their own cheek
+cell samples under a microscope</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Observe the structure of plant,
+yeast, and bacteria cells</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn how scientists work in research
+labs and use tools to study the building blocks of life</p>
+<p>This authentic learning experience inspires curiosity and builds foundational
+skills for scientific thinking and inquiry.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2025/Collage.jpg">
+</div>
+<h3><strong>Marina Barrage</strong></h3>
+<p>At Marina Barrage, Primary 5 students learn firsthand how sustainability
+efforts play a vital role in Singapore’s future. Through engaging exhibits
+and guided tours, they explore important topics such as climate change,
+water management, clean energy, and waste reduction.</p>
+<p>Students are introduced to the three functions of Marina Barrage—flood
+control, water storage, and recreational use—and observe how the crest
+gates help prevent flooding. They also tour the Sustainable Singapore Gallery,
+which highlights Singapore’s journey towards a greener future.</p>
+<p>A highlight for many students is the Augmented Reality (AR) experience,
+where marine life and coral ecosystems come alive before their eyes—an
+inspiring and immersive way to connect with environmental themes.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2022/Primary%205/2022%20P5%20Marina%20Barrage.jpg">
+</div>
+<h3><strong>Indian Heritage Centre</strong></h3>
+<p>Our students take a cultural deep dive at the Indian Heritage Centre,
+located in the heart of Little India. This learning journey brings to life
+the rich history and vibrant traditions of the Indian community in Singapore.</p>
+<p>Through interactive exhibits and guided gallery tours, students learn
+about early Indian immigrants, and how their food, businesses, architecture,
+performing arts, and customs have helped shape Singapore’s multicultural
+identity.</p>
+<p>This immersive experience gives students a deeper appreciation of Singapore’s
+diversity and reinforces the importance of understanding and respecting
+different cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2025/Collage_Photos.jpg">
+</div>
+<h3><strong>National Education (NE) Show</strong></h3>
+<p>Each year, students attend the National Education Show, a preview of the
+National Day Parade. Held at the Padang, the NE Show is a key part of the
+National Education experience, aimed at instilling pride, patriotism, and
+understanding of Singapore’s journey as a nation.</p>
+<p>Donned in red T-shirts, our students join in the vibrant celebrations,
+experiencing Total Defence in action, watching performances, and bonding
+with peers as they witness the celebrations which culminate in a spectacle
+of fireworks lighting up the night sky.</p>
+<p>This memorable event deepens students' appreciation for Singapore’s resilience
+and unity, reinforcing the values of unity, resilience, and the collective
+spirit of our nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/Photo_collage.jpg">
+</div>
+<p></p>
