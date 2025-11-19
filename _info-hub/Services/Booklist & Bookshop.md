@@ -33,13 +33,13 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 (including HMT)</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 (including HMT)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Standard</a>
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (Standard /HMT)</a>
 </p>
 </td>
 </tr>
@@ -57,7 +57,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P6S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Standard</a>
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P6S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (Standard /HMT)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
