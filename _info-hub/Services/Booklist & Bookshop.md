@@ -3,21 +3,67 @@ title: Booklist & Bookshop
 permalink: /parents-matter/Info-on-Services/bookshop/permalink/
 description: ""
 third_nav_title: Services
-variant: markdown
+variant: tiptap
 ---
-### **School Bookshop**
-**Overseas Associates (Pte) Limited**
-
-Monday to Friday: 8.30 am to 3.00 pm  
-Closed on Public Holidays, Saturday and Sunday
-
-**Telephone No:** 6382 6789 (ext 210) <br> 
-*Please contact us from 9.00 am - 5.30 pm*<br>
-
-### **2025 Booklists**
-[Primary 1](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P1.pdf)
-<br>[Primary 2](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P2.pdf)
-<br>[Primary 3](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 3 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P3_HMT.pdf)
-<br>[Primary 4](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P4.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 4 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P4_HMT.pdf)
-<br>[Primary 5](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5_HMT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 5 Foundation](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P5_FDN.pdf)
-<br>[Primary 6](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 HMT](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6_HMT.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Primary 6 Foundation](/files/Info%20Hub/2025/Unity_Primary_School___Booklist_for_AY2025___P6_FDN.pdf)
+<h3><strong>School Bookshop</strong></h3>
+<p><strong>Overseas Associates (Pte) Limited</strong>
+</p>
+<p>Monday to Friday: 8.30 am to 3.00 pm
+<br>Closed on Public Holidays, Saturday and Sunday</p>
+<p><strong>Telephone No:</strong> 6382 6789 (ext 210)
+<br><em>Please contact us from 9.00 am - 5.30 pm</em>
+<br>
+</p>
+<h3><strong>2026 Booklists</strong></h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 (including HMT)</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 (including HMT)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 (Standard /HMT)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P6S.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 (Standard /HMT)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
