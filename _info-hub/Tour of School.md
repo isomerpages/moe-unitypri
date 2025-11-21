@@ -2,19 +2,20 @@
 title: Tour of School
 permalink: /parents-matters/Tour-of-school/permalink/
 description: ""
+variant: tiptap
 ---
-### **Virtual Open House @ UPS**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/debWqedr5Sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
----
-### **Our Facilities**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8zoLt4oxmsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
----
-
-### **UPS Corporate Video**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tr4FSB9G0hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
----
-### **P1 Introductory Video**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pq_fp5mjt8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h3><strong>Our Facilities</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8zoLt4oxmsY"></iframe>
+</div>
+<hr>
+<h3><strong>UPS Corporate Video</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tr4FSB9G0hs"></iframe>
+</div>
+<hr>
+<h3><strong>P1 Introductory Video</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pq_fp5mjt8I"></iframe>
+</div>
+<p></p>
