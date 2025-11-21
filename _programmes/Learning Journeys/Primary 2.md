@@ -62,37 +62,22 @@ explore and learn together outside the classroom.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2022/Primary%202/2022%20P2%20River%20Wonders.jpg">
 </div>
 <h3><strong>Supermarket</strong></h3>
-<p>As part of the Life Skills Development Programme to promote financial
-literacy, the P2 students embarked on a E-learning Journey to the supermarket
-to learn how to manage the limited budget that they had in preparation
-for an event. They participated in the planning for a class party by learning
-how to purchase items online from the supermarket websites.
-<br>Before the planning, the students were introduced to the following concepts:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Estimation</p>
-</li>
-<li>
-<p>Budgeting</p>
-</li>
-<li>
-<p>Reading of the nutrition labels of items</p>
-</li>
-<li>
-<p>Importance of sourcing for healthier choices</p>
-</li>
-<li>
-<p>Difference between needs and wants</p>
-</li>
-<li>
-<p>Importance of saving</p>
-</li>
-</ul>
-<p>To further apply these concepts into daily lives, the students planned
-their own purchase of snacks for a week when they visited the supermarket
-with their parents or family members. It was definitely an enriching and
-interactive experience for the P2 students.</p>
+<p>To promote financial literacy and healthy decision-making, students participate
+in an E-learning Journey to the supermarket as part of our Life Skills
+Development Programme.</p>
+<p>In preparation for a class party, students learn how to:</p>
+<p>• Estimate costs</p>
+<p>• Work within a budget</p>
+<p>• Read nutrition labels</p>
+<p>• Make healthier food choices</p>
+<p>• Differentiate between needs and wants</p>
+<p>• Understand the importance of saving</p>
+<p>They also apply these skills at home by planning their own snack purchases
+during a visit to the supermarket with their families. This experience
+builds practical life skills in a fun and meaningful way that bridges learning
+from school to home.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/P2_Supermarket_collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/P2_Superamrket.jpg">
 </div>
 <p></p>
