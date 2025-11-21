@@ -23,29 +23,18 @@ farming.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2025/Hay_Dairies_collage.jpg">
 </div>
 <h3><strong>Theatre Experience</strong></h3>
-<p>As part of the school’s Learn for Life Programme to inculcate character
-and values through experiential and authentic learning, the Primary 2 students
-embarked on a learning journey to Gateway Theatre to watch a performance
-entitled ‘The Invisible Pangolin’ on 25 July 2024. The theatre experience
-provides the opportunity for the students to practise correct theatre etiquette
-and value of respect during a performance.
-<br>‘The Invisible Pangolin’ is about three friends, a Monkey, Owl and Tiger
-who come across a mysterious ball that turns out to be a classmate (Pangolin)
-whom they have never “seen” before. “The Invisible Pangolin” is an interactive
-theatre experience that delves into the themes of friendship, embracing
-differences, being noticed, the importance of saying “no” and the value
-of giving space.
-<br>The performance was enchanting, captivating the young audience from the
-very first moment. The vibrant costumes and colourful set design created
-a whimsical world that instantly drew the children in. The actors, with
-their animated expressions and lively movements, brought the characters
-to life in a way that was both magical and relatable. The dialogue and
-interactions resonated with the young audience, eliciting laughter and
-gasps of amazement.
-<br>As the show came to an end, the theater erupted with applause. The learning
-journey was truly an unforgettable experience. When the students returned
-to school, they reflected happily on their favourite parts and characters
-of the performance.</p>
+<p>As part of the school’s Learn for Life Programme, our students attend
+a live theatre performance. This experience not only introduces them to
+the performing arts but also provides a valuable opportunity to practise
+theatre etiquette and the value of respect in shared spaces.</p>
+<p>One such performance that the students have attended, The Invisible Pangolin,
+explores important themes such as friendship, inclusion, boundaries, and
+self-expression. Through vibrant costumes, engaging storytelling, and relatable
+characters, students are captivated while learning meaningful life lessons.</p>
+<p>After the performance, students return to school excited to reflect on
+their favourite moments and characters, which is a testament to the impact
+of learning through the arts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/P2_LJ_Theatre_Exp.png">
 </div>
