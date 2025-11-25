@@ -64,8 +64,7 @@ their own SingPass account to submit the required particulars.</p>
 <p>Parents whose child(ren) is a Singapore Citizen are strongly encouraged
 to use Edusave Funds for payment of school fees and enrichment programmes.
 Applications for EPSO can be made via Parents Gateway (under Services tab)
-or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing</a> 
-<a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Order Form</a><u>.</u>
+or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a><u>.</u>
 </p>
 <p>With EPSO, you will only need to give your authorisation once for Edusave
 withdrawals from your child’s Edusave Fund to pay for approved fees and
@@ -94,9 +93,9 @@ payment of enrichment programmes, school charges and deduction of Primary
 School Leaving Examination Examinations fees.</p>
 <p>Parents can apply for GIRO online to pay school fees and charges by the
 25th of each month. The application link is available via the Parents Gateway
-(PG) app and at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-</a> 
-<a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">matters/fees/egiro</a><u>.</u> Parents have until 15 Jan 2026 to sign up
-for GIRO to ensure the first deduction occurs in Feb 2026.</p>
+(PG) app and at <a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a> Parents
+have until 15 Jan 2026 to sign up for GIRO to ensure the first deduction
+occurs in Feb 2026.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu,</p>
