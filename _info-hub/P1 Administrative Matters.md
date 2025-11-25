@@ -153,7 +153,7 @@ form to the same email address for school processing.</p>
 <p></p>
 <p>The school has a SCC, operated by Big Heart Student Care, providing after-school
 care for students.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Contact Details</u>
 </p>
 <p>Big Heart Student Care</p>
