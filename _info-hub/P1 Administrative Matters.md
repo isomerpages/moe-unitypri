@@ -37,11 +37,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Student Details Form (SDF)</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>As your child will be starting Primary 1 on 2 Jan 2026, the Ministry of
 Education (MOE) would like to collect necessary information about you and
 your child to facilitate the provision of educational services.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Please submit the information via the online SDF portal <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> starting
 1 Dec 2025, 10 am. The portal can be accessed through the Services page
 on the Parents Gateway (PG) mobile app. Either parent may log in using
@@ -61,7 +61,6 @@ their own SingPass account to submit the required particulars.</p>
 </p>
 <p><strong>- For Singapore Citizens only</strong>
 </p>
-<p>&nbsp;</p>
 <p>Parents whose child(ren) is a Singapore Citizen are strongly encouraged
 to use Edusave Funds for payment of school fees and enrichment programmes.
 Applications for EPSO can be made via Parents Gateway (under Services tab)
@@ -72,7 +71,7 @@ or the online <a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopen
 withdrawals from your child’s Edusave Fund to pay for approved fees and
 local enrichment programmes. The one-time Edusave withdrawal authorisation
 will remain valid throughout your child’s school years.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The school will continue to seek your consent for your child’s participation
 in our planned programmes for the year, without which no Edusave withdrawals
 will be made.</p>
@@ -87,8 +86,12 @@ will be made.</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to cover their payment of enrichment programmes, school charges and deduction
-of Primary School Leaving Examination Examinations fees.</p>
+<p><strong>GIRO Application Form</strong>
+</p>
+<p>The school strongly encourages allparents to apply for GIRO deduction
+of fees. The same GIRO arrangement will also be extended to cover their
+payment of enrichment programmes, school charges and deduction of Primary
+School Leaving Examination Examinations fees.</p>
 <p>Parents can apply for GIRO online to pay school fees and charges by the
 25th of each month. The application link is available via the Parents Gateway
 (PG) app and at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-</a> 
@@ -109,12 +112,12 @@ for GIRO to ensure the first deduction occurs in Feb 2026.</p>
 </p>
 <p><strong>- For Singapore Citizens only</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>MOE FAS is designed to help students from lower-income families with school
 expenses. This is only applicable to Singapore Citizens with gross monthly
 household income not exceeding $4,000 or per capita income not exceeding
 $1,000. Eligible applicants can apply at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><em>If you are applying for MOE FAS, please do not purchase any school textbooks, attire, white shoes and socks until the school updates&nbsp;&nbsp; you&nbsp;&nbsp; on&nbsp;&nbsp; your&nbsp;&nbsp; FAS&nbsp;&nbsp; application&nbsp;&nbsp; status.</em></strong>
 </p>
 </td>
@@ -129,7 +132,7 @@ $1,000. Eligible applicants can apply at: <a rel="noopener noreferrer nofollow" 
 <td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Language (MTL) related forms (if applicable)</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>Before your child is allowed to take a non-standard MTL, a formal request
 to MOE is required. Please email <a rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a> to
 obtain a copy of the application form. Once completed, please return the
@@ -147,7 +150,7 @@ form to the same email address for school processing.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Indication of interest for Student Care Centre (SCC) (if applicable)</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>The school has a SCC, operated by Big Heart Student Care, providing after-school
 care for students.</p>
 <p>&nbsp;</p>
@@ -173,7 +176,7 @@ listed applicants will be contacted for official registration.</p>
 <p>For students who require school bus transport between home and school,
 please submit registration via this link: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/r5YS7HAJeQicmbuF7</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><u>Contact Details</u>
 </p>
 <p>Eileen Bus &amp; Coach Services Contact No: 9743 4344</p>
