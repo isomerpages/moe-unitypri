@@ -200,14 +200,14 @@ sports/ games organised by our PE Department.</p>
 blue and green.</p>
 <p><strong>Please refer to email sent by school for the house colour.</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school textbooks and attire</strong>
 </p>
 <p>The purchase of school textbooks and attire in school will be strictly
 by appointment only. Please access <a rel="noopener noreferrer nofollow" target="_blank">https://www.picktime.com/UPSbooking2025</a> to
 book a slot between <strong>26 and 28 Nov 2025</strong>. When booking, please
 indicate “<em>P1 2026” </em>under ‘Child’s Class 2026’ in the portal.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>A copy of the P1 Booklist is attached for your reference. Parents with
 more than one child in the school only need to book one appointment slot
 for the purchase of school textbooks and attire.</p>
@@ -231,7 +231,7 @@ slot for Parent-Teacher Conferences and updating of contact details.</p>
 </ul>
 <p>&nbsp;You can access <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a> for
 more information and how to install the application.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Calendar of Events</strong>
 </p>
 <p>Termly school calendar of events will be accessible to parents via the
