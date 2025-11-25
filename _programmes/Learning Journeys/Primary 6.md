@@ -15,9 +15,8 @@ Math.</p>
 as calculating the height and area of the iconic Supertrees and learning
 about global threats to biodiversity. A specially designed Math and Science
 trail further sharpened their observation and reasoning skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/photo_collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/collage.jpg">
 </div>
 <h3><strong>Learning Journey to Singapore Discovery Centre</strong></h3>
 <p>At the Singapore Discovery Centre, students explore Singapore’s transformation
