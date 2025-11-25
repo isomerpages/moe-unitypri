@@ -5,10 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>2026 PRIMARY ONE (P1) ADMINISTRATIVE MATTERS</strong></h3>
-<p>A warm welcome to the Unity Primary School family! We are delighted that
-your child will be starting their learning journey with us. In preparation
-for the start of school, we have prepared some important information for
-you:</p>
+<p></p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; Submission of Forms</strong>
 </p>
 <p>Please take note of the following administrative forms and deadline:</p>
