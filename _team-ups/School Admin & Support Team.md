@@ -31,7 +31,7 @@ variant: tiptap
 <p>Adj Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devaraja</p>
+<p>Mr Devaraja Vinayagam</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Adj Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Gek Eng (Felicia)</p>
+<p>Ms Felicia Chia Gek Eng</p>
 </td>
 </tr>
 <tr>

@@ -11,20 +11,12 @@ Held annually at Gardens by the Bay, this outdoor adventure blends environmental
 education with teamwork and digital literacy. Using their devices, students
 solve clues and tackle challenges focused on sustainability, Science, and
 Math.</p>
-<p>In 2024, students explored the gardens while solving real-world problems—such
+<p>In 2025, students explored the gardens while solving real-world problems—such
 as calculating the height and area of the iconic Supertrees and learning
 about global threats to biodiversity. A specially designed Math and Science
 trail further sharpened their observation and reasoning skills.</p>
-<p>Adding to the excitement, selected Primary 2 students joined the official
-flag-off and took part in a green-themed activity alongside Ms. Grace Fu,
-Minister for Sustainability and the Environment. It was an inspiring and
-unforgettable experience for all involved—especially as it marked the final
-learning journey before graduating from Unity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/photo_collage.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Journeys/2024/Untitled_design__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Journeys/2025/collage.jpg">
 </div>
 <h3><strong>Learning Journey to Singapore Discovery Centre</strong></h3>
 <p>At the Singapore Discovery Centre, students explore Singapore’s transformation
