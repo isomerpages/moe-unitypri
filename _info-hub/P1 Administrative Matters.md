@@ -42,7 +42,7 @@ variant: tiptap
 Education (MOE) would like to collect necessary information about you and
 your child to facilitate the provision of educational services.</p>
 <p></p>
-<p>Please submit the information via the online SDF portal <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> starting
+<p>Please submit the information via the online SDF portal <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> starting
 1 Dec 2025, 10 am. The portal can be accessed through the Services page
 on the Parents Gateway (PG) mobile app. Either parent may log in using
 their own SingPass account to submit the required particulars.</p>
@@ -115,7 +115,8 @@ occurs in Feb 2026.</p>
 <p>MOE FAS is designed to help students from lower-income families with school
 expenses. This is only applicable to Singapore Citizens with gross monthly
 household income not exceeding $4,000 or per capita income not exceeding
-$1,000. Eligible applicants can apply at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>.</p>
+$1,000. Eligible applicants can apply at: <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
 <p></p>
 <p><strong><em>If you are applying for MOE FAS, please do not purchase any school textbooks, attire, white shoes and socks until the school updates&nbsp;&nbsp; you&nbsp;&nbsp; on&nbsp;&nbsp; your&nbsp;&nbsp; FAS&nbsp;&nbsp; application&nbsp;&nbsp; status.</em></strong>
 </p>
@@ -133,9 +134,9 @@ $1,000. Eligible applicants can apply at: <a rel="noopener noreferrer nofollow" 
 </p>
 <p></p>
 <p>Before your child is allowed to take a non-standard MTL, a formal request
-to MOE is required. Please email <a rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a> to
-obtain a copy of the application form. Once completed, please return the
-form to the same email address for school processing.</p>
+to MOE is required. Please email <a href="unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">unity_ps@moe.edu.sg</a> to obtain a copy of the
+application form. Once completed, please return the form to the same email
+address for school processing.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu,</p>
@@ -156,7 +157,7 @@ care for students.</p>
 <p><u>Contact Details</u>
 </p>
 <p>Big Heart Student Care</p>
-<p>Mobile: 9023 1484 (10 am to 4 pm on weekdays) Email: <a rel="noopener noreferrer nofollow" target="_blank">info@shgstudentcare.com.sg</a>
+<p>Mobile: 9023 1484 (10 am to 4 pm on weekdays) Email: <a href="info@shgstudentcare.com.sg" rel="noopener nofollow" target="_blank">info@shgstudentcare.com.sg</a>
 </p>
 <p>Applications will be assessed by the SCC for eligibility. Only short-
 listed applicants will be contacted for official registration.</p>
@@ -173,14 +174,14 @@ listed applicants will be contacted for official registration.</p>
 <p><strong>School Bus Transport Service (if applicable)</strong>
 </p>
 <p>For students who require school bus transport between home and school,
-please submit registration via this link: <a rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/r5YS7HAJeQicmbuF7</a>
+please submit registration via this link: <a href="https://forms.gle/r5YS7HAJeQicmbuF7" rel="noopener nofollow" target="_blank">https://forms.gle/r5YS7HAJeQicmbuF7</a>
 </p>
 <p></p>
 <p><u>Contact Details</u>
 </p>
 <p>Eileen Bus &amp; Coach Services Contact No: 9743 4344</p>
-<p>E-mail: <a rel="noopener noreferrer nofollow" target="_blank">eileenbus@hotmail.sg</a> Website:
-<a rel="noopener noreferrer nofollow" target="_blank">http://www.eileenbus.com</a>
+<p>E-mail: <a href="eileenbus@hotmail.sg" rel="noopener nofollow" target="_blank">eileenbus@hotmail.sg</a> Website:
+<a href="http://www.eileenbus.com" rel="noopener nofollow" target="_blank">http://www.eileenbus.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +204,7 @@ blue and green.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Purchase of school textbooks and attire</strong>
 </p>
 <p>The purchase of school textbooks and attire in school will be strictly
-by appointment only. Please access <a rel="noopener noreferrer nofollow" target="_blank">https://www.picktime.com/UPSbooking2025</a> to
+by appointment only. Please access <a href="https://www.picktime.com/UPSbooking2025" rel="noopener nofollow" target="_blank">https://www.picktime.com/UPSbooking2025</a> to
 book a slot between <strong>26 and 28 Nov 2025</strong>. When booking, please
 indicate “<em>P1 2026” </em>under ‘Child’s Class 2026’ in the portal.</p>
 <p></p>
@@ -228,18 +229,18 @@ and school- related documents.</p>
 slot for Parent-Teacher Conferences and updating of contact details.</p>
 </li>
 </ul>
-<p>&nbsp;You can access <a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a> for
+<p>&nbsp;You can access <a href="https://pg.moe.edu.sg" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg</a> for
 more information and how to install the application.</p>
 <p></p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School Calendar of Events</strong>
 </p>
 <p>Termly school calendar of events will be accessible to parents via the
-school website at <a rel="noopener noreferrer nofollow" target="_blank"><u>https://</u>www.unitypri.moe.edu.sg/parents-matter/School-Calendar/permalink/</a>
+school website at <a href="https://www.unitypri.moe.edu.sg/parents-matter/School-Calendar/permalink/" rel="noopener nofollow" target="_blank">https://www.unitypri.moe.edu.sg/parents-matter/School-Calendar/permalink/</a>
 </p>
 <p>You may download the softcopy onto your personal electronic devices via
 this link.</p>
 <p></p>
 <p>We look forward to partnering you in your child’s education. If you have
 any queries, please feel free to call us at 6767 6750 or email us at
-<a rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a><u>.</u>
+<a href="unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">unity_ps@moe.edu.sg</a><u>.</u>
 </p>
