@@ -20,7 +20,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee-Koh Siew Cheng</p>
+<p>Mrs Finella Tan</p>
 </td>
 </tr>
 <tr>
@@ -79,14 +79,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Neo Xueli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,14 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Veronica Tan Yew Hwee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head / Upper Primary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lakshmi Arivananthan</p>
 </td>
 </tr>
 <tr>
