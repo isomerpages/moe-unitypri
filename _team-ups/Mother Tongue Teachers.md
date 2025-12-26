@@ -98,15 +98,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ouyang Feng Fei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P4CL1, P5CL3</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Poh See Mun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,15 +204,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P1TL, P4TL</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vikneshwari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P2TL, P3TL</strong>
 </p>
 </td>
 </tr>
