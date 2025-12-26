@@ -4,9 +4,6 @@ permalink: /our-unity-story/School-Leaders-Message/permalink/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Unity Story/b8u84c7p.png">
-</div>
 <p></p>
 <p>Unity Primary School was established in 1999 and it is with great honour
 and pride that we commemorated our school’s 25th anniversary in 2024. The
