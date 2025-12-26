@@ -20,7 +20,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Finella Tan</p>
+<p>Mrs Finella Goh</p>
 </td>
 </tr>
 <tr>
