@@ -79,10 +79,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>HOD / School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Soh-Lim Fun Yen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Yu Xuan</p>
 </td>
 </tr>
 <tr>
@@ -99,6 +107,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Veronica Tan Yew Hwee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head / Upper Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Effandi Bin Jasman</p>
 </td>
 </tr>
 <tr>
