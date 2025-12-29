@@ -162,7 +162,7 @@ variant: tiptap
 <p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chon Qiao Ping</p>
+<p>Ms Chong Qiao Ping</p>
 </td>
 </tr>
 <tr>
