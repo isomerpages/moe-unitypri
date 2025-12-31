@@ -131,4 +131,28 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<h3><strong>Other Teaching Staff</strong></h3>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 6</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Jayasaresvathy
+<br>Mrs Amutha Francis
+<br>Mdm Hajjah Hadijah</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
