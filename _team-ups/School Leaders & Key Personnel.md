@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / English Language</p>
+<p>Senior Teacher / Learning Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norazelin Misnari</p>
