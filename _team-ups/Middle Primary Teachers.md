@@ -20,9 +20,9 @@ variant: tiptap
 <p>P3-A</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Liang
-<br>Mr Amirul Salihin Said
-<br>Mdm Norfaiza Buang</p>
+<p>Ms Siti Khadijah Riduan
+<br>Mdm Soo Poh Ling
+<br>Mdm Ma Yu</p>
 </td>
 </tr>
 <tr>
@@ -30,9 +30,9 @@ variant: tiptap
 <p>P3-B</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Kashmeena Parwyn
-<br>Mr Fok Chee Hoe
-<br>Mr Naharudin Shariff</p>
+<p>Ms Roy Ye Zhonglong
+<br>Mrs Lay Naing
+<br>Mdm Nurfarha Abdul Rauf</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +40,8 @@ variant: tiptap
 <p>P3-C</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Yasin Abdul Majeed
-<br>Ms Vikneshwari</p>
+<p>Mr Bernard Foo
+<br>Mrs Poh See Mun</p>
 </td>
 </tr>
 <tr>
@@ -49,17 +49,8 @@ variant: tiptap
 <p>P3-D</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Phee Lay Kuan
-<br>Mr Sim Wei Wen</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>P3-E</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Mdm Soo Poh Ling
-<br>Mrs Veronica Tan</p>
+<p>Ms Punitha Elancheran
+<br>Mrs Joanne Yeong</p>
 </td>
 </tr>
 <tr>
@@ -73,9 +64,9 @@ variant: tiptap
 <p>P4-A</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Khadijah Riduan
-<br>Ms Meera Rajarethenam
-<br>Ms Lim Hui Mei</p>
+<p>Ms Eunice Liang
+<br>Mdm Jaelyn Lau Yu Xuan
+<br>Mr Muhammad Hanis Sarkinin</p>
 </td>
 </tr>
 <tr>
@@ -83,9 +74,9 @@ variant: tiptap
 <p>P4-B</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Roy Ye Zhonglong
-<br>Mdm Rasidah Ahmad
-<br>Mdm Ma Yu</p>
+<p>Ms Saraswathi Pannirsilvam
+<br>Mr Fok Chee Hoe
+<br>Mr Naharudin Shariff</p>
 </td>
 </tr>
 <tr>
@@ -93,8 +84,9 @@ variant: tiptap
 <p>P4-C</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Cheong
-<br>Mrs Lay Naing</p>
+<p>Mr Mohammad Yasin Abdul Majeed
+<br>Ms Chong Qiao Ping
+<br>Mdm Hafizah Beevi</p>
 </td>
 </tr>
 <tr>
@@ -102,8 +94,8 @@ variant: tiptap
 <p>P4-D</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Saraswathi Pannirsilvam
-<br>Mdm Ouyang Fengfei</p>
+<p>Mdm Phee Lay Kuan
+<br>Mr Sim Wei Wen</p>
 </td>
 </tr>
 <tr>
@@ -111,17 +103,8 @@ variant: tiptap
 <p>P4-E</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Bernard Foo
-<br>Mdm Nurfarha Abdul Rauf</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>P4-F</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Ms Punitha Elancheran
-<br>Mr Lim Hoei Meng</p>
+<p>Mrs Veronica Tan
+<br>Mdm Gan Siew Min</p>
 </td>
 </tr>
 <tr>
