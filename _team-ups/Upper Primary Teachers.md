@@ -22,9 +22,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siow Yu Lin Julin
-<br>Mdm Nur Fazlina Mohd
-<br>Mdm Siti Nurshahidah Rosman</p>
+<p>Ms Tan Yuan Ting
+<br>Mr Effandi Bin Jasman
+<br>Mr Choeng Perk Yin Kenneth</p>
 </td>
 </tr>
 <tr>
@@ -33,9 +33,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Neo Liwen
-<br>Mrs Soh-Lim Fun Yen
-<br>Ms Filzah Shafiee</p>
+<p>Ms Tan Jie Min
+<br>Mdm Rasidah Ahmad
+<br>Mr Lim Hoei Meng</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +44,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yun Yee
-<br>Mr Wong Song Xiong, Ryan</p>
+<p>Ms Nabilah Ithnin
+<br>Ms Olivia Yu Rumeng</p>
 </td>
 </tr>
 <tr>
@@ -54,8 +54,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zunur'ain Othman
-<br>Mrs Yvonne Koo</p>
+<p>Ms Chow Zhiying
+<br>Mr Hairil Akhmal Sakroni</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Chee Siong
-<br>Ms Ow Hui Qin</p>
+<br>Mdm Nirwana Haliza Mohamed Halil</p>
 </td>
 </tr>
 <tr>
@@ -80,9 +80,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nabilah Ithnin
-<br>Ms Charissa Chan
-<br>Mrs Florence Tan</p>
+<p>Ms Siow Yu Lin Julin
+<br>Mdm Nur Fazlina Mohd
+<br>Ms Charissa Chan</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +92,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr R Shyam Kumar
-<br>Mdm Lakshmi Arivananthan
-<br>Mdm Nirwana Haliza Mohamed Halil</p>
+<br>Mrs Soh-Lim Fun Yen
+<br>Ms Filzah Shafiee</p>
 </td>
 </tr>
 <tr>
@@ -102,9 +102,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jie Min
-<br>Mrs Poh See Mun
-<br>Mr Hairil Akhmal Sakroni</p>
+<p>Ms Wong Yun Yee
+<br>Mdm Law Siok Cheng
+<br>Mdm Norfaiza Buang</p>
 </td>
 </tr>
 <tr>
@@ -113,8 +113,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Zhiying
-<br>Mrs Chon Qiao Ping
+<p>Mdm Zunur'ain Othman
+<br>Mrs Yvonne Koo
 <br>Mr Herald A. Medina</p>
 </td>
 </tr>
@@ -124,28 +124,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Ng Chin Khiang
-<br>Mdm Norazelin Misnari
-<br>Mdm Law Siok Cheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6-F</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yuan Ting
-<br>Ms Neo Xueli
-<br>Mdm Norsahida Adam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norazelin Misnari
+<br>Mr Kelvin Ng Chin Khiang
+<br>Ms Ow Hui Qin</p>
 </td>
 </tr>
 </tbody>
