@@ -95,7 +95,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Ang Tiam Huat</p>
+<p>Mr Sam Ang</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Ang Ah Beng</p>
+<p>Mr Victor Ang</p>
 </td>
 </tr>
 <tr>
