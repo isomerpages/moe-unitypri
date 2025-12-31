@@ -90,7 +90,7 @@ variant: tiptap
 <p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Yu Xuan</p>
+<p>Mdm Jaelyn Lau Yu Xuan</p>
 </td>
 </tr>
 <tr>
