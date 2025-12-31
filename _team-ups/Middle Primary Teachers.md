@@ -115,19 +115,19 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>English Language</p>
+<p>Primary 3</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Hajjah Hadijah
-<br>Mrs Lynnette Tan</p>
+<p>Mr Jasnee Bin Samat</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Primary 4</p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Norlizanah Md Nor
+<br>Ms Yong Mei Mei</p>
 </td>
 </tr>
 </tbody>
