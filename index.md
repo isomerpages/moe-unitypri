@@ -18,20 +18,11 @@ sections:
         - title: Our Achievements
           description: ""
           url: https://unitypri.moe.edu.sg/achievements2025/permalink/
-        - title: HBL Class Plan
-          description: 13 Oct - 15 Oct
-          url: /hbl-class-timetable/
+        - title: School Calendar
+          description: ""
+          url: /parents-matter/school-calendar/permalink/
       variant: center
       size: sm
       alignment: right
       backgroundColor: white
-  - infobar:
-      title: The Caring Teacher Awards 2026
-      subtitle: Nominate now!
-      id: infobar
-      description: We invite all students and parents to nominate Caring Teachers who
-        have made a meaningful impact through their dedication, kindness, and
-        love!
-      button: Click to nominate
-      url: https://cta.nie.edu.sg/
 ---
