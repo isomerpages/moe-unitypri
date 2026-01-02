@@ -44,6 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lau Yu Xuan (HOD/CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Soh-Lim Fun Yen (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,10 +61,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chon Qiao Ping (SH/ICT)</p>
+<p>Ms Chong Qiao Ping (SH/ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3CL4, P6CL4</strong>
+<p><strong>P4CL4, P6CL3</strong>
 </p>
 </td>
 </tr>

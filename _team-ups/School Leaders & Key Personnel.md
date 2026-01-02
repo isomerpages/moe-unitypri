@@ -90,7 +90,7 @@ variant: tiptap
 <p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Yu Xuan</p>
+<p>Mdm Jaelyn Lau Yu Xuan</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chon Qiao Ping</p>
+<p>Ms Chong Qiao Ping</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / English Language</p>
+<p>Senior Teacher / Learning Needs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norazelin Misnari</p>

@@ -47,14 +47,6 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Beverley Lim Hoo Kee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Candy Goh Ming Hui</p>
 </td>
 </tr>
@@ -103,7 +95,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sam Ang Tiam Huat</p>
+<p>Mr Sam Ang</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +111,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Ang Ah Beng</p>
+<p>Mr Victor Ang</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +135,7 @@ variant: tiptap
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Regina Leong</p>
+<p>Mr Aliff</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +143,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Wan YI</p>
+<p>Ms Chang Wan Yi</p>
 </td>
 </tr>
 <tr>
