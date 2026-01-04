@@ -78,8 +78,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Firdawati Somsudin
-<br>Mdm Sun Xiaoli</p>
+<p>Mrs Bhavani Thenagaran
+<br>Mr Bruce Lim Choon Wei</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +88,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Iman Dailami
-<br>Mdm Gan Siew Min</p>
+<p>Mrs Sherral Lim
+<br>Mdm Rosyanti Ramli</p>
 </td>
 </tr>
 <tr>
@@ -98,8 +98,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Angeline Goh
-<br>Mr Johari Wahid</p>
+<p>Mr Rahmat Ramli
+<br>Ms Lim Hui Mei</p>
 </td>
 </tr>
 <tr>
@@ -108,9 +108,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Weijin
-<br>
-</p>
+<p>Ms Joscelin Lim Poh Chen&nbsp;
+<br>Mdm Han Hui Lian</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +118,19 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joscelin Lim Poh Chen&nbsp;
-<br>Mr Muhammad Hanis Sarkinin</p>
+<p>Mdm Zalina Kusnan
+<br>Mr Wong Song Xiong Ryan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P2-F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shelyn Ng Sok Kian
+<br>Ms Jessica Lim Rui Fang
+<br>Mdm Cheah Swee Ee</p>
 </td>
 </tr>
 </tbody>
