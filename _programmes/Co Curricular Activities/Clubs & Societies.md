@@ -18,9 +18,8 @@ better performers on stage. Apart from vocal exercises and tongue twisters,
 students get to play games that aim to improve their reflex and teamwork
 during drama sessions as well. Students would also be trained to showcase
 a short play.</p>
-<p><strong>CCA TIC</strong>: Mr Teo Chee Siong, Mrs Lay Naing, Ms Tan Yuan
-Ting, Mrs Angeline Goh,
-<br><strong>CCA Advisor</strong>: Mrs Yvonne Koo</p>
+<p><strong>CCA TIC</strong>: Mrs Lay Naing, Ms Tan Yuan Ting, Mdm Nora
+<br><strong>CCA Advisor</strong>: Mrs Lay Naing</p>
 <h3><strong>Greenovation Club</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Greenovation.jpg">
@@ -33,8 +32,8 @@ and projects and at the same time, acquire life skills such as working
 collaboratively in a team and communicating their ideas and projects to
 others confidently.&nbsp; While looking for solutions to everyday life
 problems, they will be applying some of the concepts learnt in Science.</p>
-<p><strong>CCA TIC</strong>: Mdm Neo Liwen, Mr Fok Chee Hoe,&nbsp;Mdm Phee
-Lay Kuan, Mdm Liu Kum Mei
+<p><strong>CCA TIC</strong>: Mdm Phee Lay Kuan, Mr Fok Chee Hoe, Mdm Liu
+Kum Mei
 <br><strong>CCA Advisor</strong>: Mr Kelvin Ng</p>
 <h3><strong>Mathematics Club</strong></h3>
 <div class="isomer-image-wrapper">
@@ -50,7 +49,7 @@ students get to learn all this through play activities. &nbsp;They will
 develop their self-confidence, patience and level of&nbsp;concentration.
 &nbsp;Through perseverance, students will quickly realise that success
 only come after many attempts.&nbsp;</p>
-<p><strong>CCA TIC</strong>: Ms Li Weijin, Ms Punitha, Ms Chow Zhi Ying
+<p><strong>CCA TIC</strong>: Ms Punitha, Mdm Soo Poh Ling, Mr Teo Chee Siong
 <br><strong>CCA Advisor</strong>: Ms Charissa Chan</p>
 <h3><strong>Media Club</strong></h3>
 <div class="isomer-image-wrapper">
@@ -64,8 +63,7 @@ be involved in the use of media equipment. &nbsp;Students will have the
 opportunities to practise what they have learnt through hands-on training
 during school events and activities and in curating digital artefacts for
 the school.</p>
-<p><strong>CCA TIC</strong>: Mrs Chon Qiao Ping, Mr Khairul, Mdm Gan Siew
-Min, Ms Nabilah
+<p><strong>CCA TIC</strong>: Ms Chong Qiao Ping, Mdm Gan Siew Min, Ms Nabilah
 <br><strong>CCA Advisor</strong>: Ms Joscelin Lim</p>
 <h3><strong>Young Artist Club</strong></h3>
 <div class="isomer-image-wrapper">
@@ -79,4 +77,4 @@ with other members and showcase their works to the school.&nbsp; Through
 the various showcases, students get to express confidently their thoughts
 through the Art language they have learnt.</p>
 <p><strong>CCA TIC</strong>: Mdm Norsahida, Ms Filzah, Mdm Nurfarha
-<br><strong>CCA Advisor</strong>: Mdm Norsahida</p>
+<br><strong>CCA Advisor</strong>: Mrs Yvonne Koo</p>
