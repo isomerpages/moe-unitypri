@@ -14,9 +14,9 @@ Monday to Friday : 8 am – 5 pm
 Monday to Friday : 7.30 am – 1.30 pm
 
 ### **Recess**
-P1 – 10.30 am – 11 am<br>
-P2 – 8.30 am – 9 am<br>
-P3 – 11 am – 11.30 am<br>
+P1 – 11 am – 11.30 am<br>
+P2 – 10.30 am – 11 am<br>
+P3 – 10.30 am – 11 am<br>
 P4 – 10 am – 10.30 am<br>
 P5 – 9.30 am – 10 am<br>
 P6 – 9 am – 9.30 am
