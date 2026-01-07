@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yuan Ting
 <br>Mr Effandi Bin Jasman
-<br>Mr Choeng Perk Yin Kenneth</p>
+<br>Mr Cheong Perk Yin Kenneth</p>
 </td>
 </tr>
 <tr>
