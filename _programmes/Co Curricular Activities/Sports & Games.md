@@ -19,8 +19,7 @@ footwork, stamina building, agility and coordination exercises under the
 close supervision of the teachers. &nbsp;Through the singles and doubles
 games, students will also learn values such as sportsmanship, fairplay,
 discipline and teamwork.</p>
-<p><strong>CCA TIC</strong>: Mr Hanis, Ms Kashmeena, Mdm Ouyang FF, Mdm Soo
-PL, Ms Meera
+<p><strong>CCA TIC</strong>: Mr Hanis, Ms Meera, Mdm Sun Xiaoli
 <br><strong>CCA Advisor</strong>: Mr Johari</p>
 <h3><strong>Basketball</strong></h3>
 <div class="isomer-image-wrapper">
@@ -35,9 +34,9 @@ will include basic ball skills, stamina building, agility and coordination
 exercises under the close supervision of the teachers and coach. &nbsp;The
 students will also learn values such as sportsmanship, fair play, teamwork
 and discipline.</p>
-<p><strong>CCA TIC</strong>: Mr Bruce Lim, Mr Johari, Ms Lim Hui Mei, Mr
-Roy Ye, Mr Rahmat
-<br><strong>CCA Advisor</strong>: Mr Johari</p>
+<p><strong>CCA TIC</strong>: Mr Bruce Lim, Mr Roy Ye, Ms Lim Hui Mei, Mr
+John Lim
+<br><strong>CCA Advisor</strong>: Mr Hairil</p>
 <h3><strong>Floorball</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Floorball.jpg">
@@ -52,8 +51,7 @@ apply them in the game. &nbsp;Training will include basic stick handling
 skills, stamina building, agility and coordination exercises under the
 close supervision of the teachers and coach. &nbsp;The students will also
 learn values such as sportsmanship, fair play, teamwork and discipline.</p>
-<p><strong>CCA TIC</strong>: Mr Hairil, Mr Yasin, Mr Naharudin, Mdm Norazelin,
-Mrs Bhavani
+<p><strong>CCA TIC</strong>: Mr Hairil, Mr Yasin, Mr Naharudin, Mrs Bhavani
 <br><strong>CCA Advisor</strong>: Mr Hairil</p>
 <h3><strong>Football</strong></h3>
 <div class="isomer-image-wrapper">
@@ -68,9 +66,9 @@ will learn to apply them in the game. &nbsp;Training will include basic
 ball skills, stamina building, agility and coordination exercises under
 the close supervision of the teachers and coach.&nbsp; The students will
 also learn values such as sportsmanship, fair play, teamwork and discipline.&nbsp;</p>
-<p><strong>CCA TIC</strong>: Mr Amirul, Ms Wong YY, Mr Shyam, Mdm Norfaiza,
-Mdm Nirwana, Mr Bernard Foo
-<br><strong>CCA Advisor</strong>: Mr Hairil</p>
+<p><strong>CCA TIC</strong>: Mr Johari, Ms Wong YY, Mr Shyam, Mdm Norfaiza,
+Ms Fadhilah
+<br><strong>CCA Advisor</strong>: Mr Johari</p>
 <h3><strong>Netball</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2023/CCA/Netball.jpg">
@@ -84,6 +82,6 @@ them in the game. &nbsp;Training will include basic ball skills, footwork,
 stamina building, agility and coordination exercises under the close supervision
 of the teachers and coach. &nbsp;Through the games, students will learn
 values such as sportsmanship, fair play, teamwork and discipline.&nbsp;</p>
-<p><strong>CCA TIC</strong>: Ms Jessica Lim, Mdm Firdawati, Mrs Sherral Lim,
-Mdm Nur Fazlina
+<p><strong>CCA TIC</strong>: Ms Jessica Lim, Mdm Nur Fazlina, Ms Joanne Yong,
+Mrs Sherral Lim,
 <br><strong>CCA Advisor</strong>: Mrs Veronica Tan</p>
