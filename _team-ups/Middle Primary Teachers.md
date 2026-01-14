@@ -30,7 +30,7 @@ variant: tiptap
 <p>P3-B</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Roy Ye Zhonglong
+<p>Mr Roy Ye Zhonglong
 <br>Mrs Lay Naing
 <br>Mdm Nurfarha Abdul Rauf</p>
 </td>
@@ -127,7 +127,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Norlizanah Md Nor
-<br>Ms Yong Mei Mei</p>
+<br>Mdm Yong May May</p>
 </td>
 </tr>
 </tbody>
