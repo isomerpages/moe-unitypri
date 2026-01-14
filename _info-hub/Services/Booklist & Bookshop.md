@@ -53,7 +53,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P5F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
+<p><a href="/files/Info Hub/2026/Booklist_2026_UNP_P6F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
