@@ -18,13 +18,13 @@ variant: markdown
 **ELIGIBILITY CRITERIA**
 
 1. Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:<br>
-	a. Gross household income (GHI) as at the time of application does not exceed $3,000 per month; or&nbsp;<br>
-	b. Household per capita income (PCI) as at the time of application does not exceed $750 per month. <br>*PCI = Monthly GHI / No. of members in the same household* 
+	a. Gross household income (GHI) as at the time of application does not exceed $4,000 per month; or&nbsp;<br>
+	b. Household per capita income (PCI) as at the time of application does not exceed $1,000 per month. <br>*PCI = Monthly GHI / No. of members in the same household* 
 
 **SUBMISSION**
 
 1. To apply for MOE FAS, you are strongly encouraged to submit through the eFAS (eFAS link in PG's services section &amp; Via [Online Form](https://go.gov.sg/moe-efas))
-2. Via Hardcopy Form  - [MOE FAS Application Form](/files/Info%20Hub/2025/Application_Form.pdf)
+2. Via Hardcopy Form  - [MOE FAS Application Form](/files/Info%20Hub/2026/MOE_FAS_Application_Form_2026_final.pdf)
 
 **NOTE**
 
