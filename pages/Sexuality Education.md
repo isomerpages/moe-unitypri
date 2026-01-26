@@ -80,17 +80,14 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p>At Unity Primary School, the following Sexuality Education lessons will
-be taught in 2025:</p>
-<p><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_P5_CCE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_4.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2025_P6_CCE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_6.jpg">
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 <br>
@@ -102,9 +99,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Curriculum/CCE/Parent_Opt_Out_Form_SEd_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> .
-The completed opt-out form is to be submitted by 24/01/2025.</p>
+lessons need to complete an opt-out form via Parents Gateway. The completed
+opt-out form is to be submitted by 13<sup>th</sup> February 2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 67676750 or <a href="mailto:unity_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">unity_ps@moe.edu.sg</a> for discussion
