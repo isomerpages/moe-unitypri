@@ -35,7 +35,7 @@ variant: markdown
 	b. family with more than 6 children in GGAS<br>
 	c. family with more than 5 unmarried children not in GGAS<br>
 	d. family with more than 3 grandparents in the household
-4. For Primary 6 students going to Secondary 1 in 2025, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.
+4. For Primary 6 students going to Secondary 1 in 2026, Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.
 
 For more information, please visit [www.moe.gov.sg/financial-matters/financial-assistance/](http://www.moe.gov.sg/financial-matters/financial-assistance/)
 
