@@ -80,10 +80,15 @@ including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/2026_Information_on_SEd_for_school_s_website__Pri__ApprovedbySL_Page_6.jpg">
+</div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 <br>
 </p>
