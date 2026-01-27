@@ -27,7 +27,7 @@ variant: markdown
 
 ### **PE**
 
-*   [Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety/introduction/)
+*   [Sport Safety](https://www.sportsingapore.gov.sg/sport-education/sport-safety/about-sport-safety/)
 
 ### **CCE**
 
