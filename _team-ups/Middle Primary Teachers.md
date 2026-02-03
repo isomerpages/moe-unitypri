@@ -49,7 +49,7 @@ variant: tiptap
 <p>P3-D</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Greek Goddess Punitha
+<p>Ms Punitha Elancheran
 <br>Mrs Joanne Yeong</p>
 </td>
 </tr>
