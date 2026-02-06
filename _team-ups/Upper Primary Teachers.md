@@ -45,7 +45,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nabilah Ithnin
-<br>Ms Olivia Yu Rumeng</p>
+<br>Ms Olivia Yu Rumeng
+<br>Ms Nursyarifah Abdullah</p>
 </td>
 </tr>
 <tr>
