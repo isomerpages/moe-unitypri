@@ -4,8 +4,7 @@ permalink: /programmes/alp/permalink/
 variant: tiptap
 description: ""
 ---
-<p><strong>English Language</strong>
-</p>
+<h4><strong>English Language</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Language Festival</u>
 </p>
 <p>Language Festival is part of the school’s Applied Learning Programme (ALP)
@@ -62,5 +61,28 @@ Midnight Gang by David Walliams.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/Picture8.jpg">
+</div>
+<p></p>
+<h4><strong>MTL Enrichment Programmes</strong></h4>
+<p>To nurture active users and effective communicators of MTL, oracy and
+creative writing enrichment programmes are incorporated into the P2 and
+P4 curriculum in Term 1 and 2. Through these programmes, students acquire
+the skills and knowledge to express themselves and communicate with others
+with confidence, creativity and clarity.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_02.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_03.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_04.png">
 </div>
 <p></p>
