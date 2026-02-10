@@ -20,8 +20,14 @@ interactions and the explicit teaching of SE competencies. Teachers also
 make use of this platform for students to reflect and deepen their learning
 of the school values. Students will experience positive school experiences
 that support their holistic development and better prepare them for life.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2023/CCE/CCE%20Reflection.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/FTGP__1__.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/FTGP_C1.jpg">
 </div>
 <h5><strong>Student Leadership</strong></h5>
 <p>In UPS, we believe that every child can be a leader. With this firm belief,
@@ -42,6 +48,10 @@ when they are “caught” doing good deeds. Teachers and staff are always
 on the lookout for acts of graciousness and appreciation.</p>
 <p>Students embodying the school values are presented with tokens of appreciation
 and their stories of good deeds are shared with the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/CIA_Collage.jpg">
+</div>
 <h5><strong>P6 Camp Unité</strong></h5>
 <p>The P6 Camp Unité is organised for our graduating cohort to have the opportunity
 during their last year in UPS to experience cohort activities to fortify
@@ -50,6 +60,10 @@ for transition to the next phase of their educational journey. Through
 games and activities out of their classroom, students get to learn and
 demonstrate resilience, teamwork and self-confidence. They will also be
 motivated to give their best and have the desire to excel.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Unite_Collage.jpg">
+</div>
 <h3><strong><u>Key Programmes for Citizenship</u></strong></h3>
 <h5><strong>National Education and Social Studies</strong></h5>
 <p>National Education (NE), is part of our holistic education, firmly built
@@ -63,8 +77,9 @@ through their Head, Heart and Hands. Through the commemoration, students
 will know Singapore better, love and take pride in being Singaporean and
 look for avenues and opportunities to contribute and do their part for
 Singapore.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2023/CCE/CCE%20National%20Day.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Curriculum/2026/NE.jpg">
 </div>
 <h5><strong>Values in Action (VIA)</strong></h5>
 <p>With our focus on Values-Driven Education, what better way to exemplify
@@ -79,11 +94,15 @@ part for the community.</p>
 Share-A-Textbook, Weekly Recycling Drive and Litter Picking@Pang Sua Canal
 are planned for students who want to do their part for the environment
 and community beyond the level planned VIA programmes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2023/CCE/CCE%20Food%20Donation.png">
-</div>
 <p><em>Food Donation</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Food_Donation_Drive__1__.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Food_Donation_Drive__2__.jpg">
+</div>
+<p></p>
 <h5><strong>Friendship Week</strong></h5>
 <p>UPS, in conjunction with Kindness Movement, comes together as a school
 to spread positivity and kindness. In line with our vision of Caring Hearts,
@@ -91,8 +110,14 @@ we go beyond ourselves, and think of creative ways to show that we care
 for people around us. It is about going beyond and spreading kindness,
 making someone’s day.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_Friendship.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Friendship_Week__1_.jpg">
 </div>
-<h3><strong>Moe Sexuality Education in Schools</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Friendship_Week__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2026/Friendship_Week__3_.jpg">
+</div>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p>Please click <a href="/Sexuality-Education/permalink/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more info.</p>
