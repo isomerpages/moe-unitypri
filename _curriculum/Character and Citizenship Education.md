@@ -4,9 +4,6 @@ permalink: /curriculum/Character-and-Citizenship-Education/permalink/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/2023/CCE/CCE%20Banner.jpg">
-</div>
 <p>The Character and Citizenship Education (CCE) department aims to develop
 responsible and respectful students &amp; citizens with integrity by providing
 a learning environment where good values are instilled and cultivated.</p>
