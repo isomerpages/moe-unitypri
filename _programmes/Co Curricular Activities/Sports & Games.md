@@ -19,7 +19,7 @@ footwork, stamina building, agility and coordination exercises under the
 close supervision of the teachers. &nbsp;Through the singles and doubles
 games, students will also learn values such as sportsmanship, fairplay,
 discipline and teamwork.</p>
-<p><strong>CCA TIC</strong>: Mr Hanis, Ms Meera, Mdm Sun Xiaoli
+<p><strong>CCA TIC</strong>: Mr Hanis, Ms Meera, Mdm Sun Xiaoli, Mr Khairul
 <br><strong>CCA Advisor</strong>: Mr Johari</p>
 <h3><strong>Basketball</strong></h3>
 <div class="isomer-image-wrapper">
