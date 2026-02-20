@@ -19,6 +19,6 @@ citizens. Some of the activities include going on field trips to learn
 more about other occupations, campcraft and survival skills. Students will
 also learn skills that would develop their creativity and enhance their
 problem-solving skills.
-<br><strong>CCA TIC</strong>: Ms Tan Jie Min, Ms Siti Khadijah, Mr Kenneth
-Cheong, Mr Sim Wei Wen, Ms Nursyarifah
+<br><strong>CCA TIC</strong>: Ms Tan Jie Min, Mr Kenneth Cheong, Mr Sim Wei
+Wen, Ms Nursyarifah
 <br><strong>CCA Advisor</strong>: Mr Effandi</p>
