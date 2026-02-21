@@ -17,7 +17,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hairil Akhmal Sakroni (SH/PE)</p>
+<p><a href="hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a> (SH/PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Johari Wahid</p>
+<p><a href="johari_b_wahid@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Johari Wahid</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -33,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bruce Lim Choon Wei&nbsp;&nbsp;</p>
+<p><a href="lim_choon_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Bruce Lim Choon Wei</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -41,7 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Lim Rui Fang</p>
+<p><a href="lim_rui_fang_jessica@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Lim Rui Fang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,7 +51,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hanis Sarkinin</p>
+<p><a href="muhammad_hanis_sarkinin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Muhammad Hanis Sarkinin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -63,7 +66,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norsahida Adam</p>
+<p><a href="Norsahida_Adam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norsahida Adam</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -71,7 +75,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Filzah Shafiee</p>
+<p><a href="Filzah_Shafiee@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Filzah Shafiee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -79,7 +84,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurfarha Abdul Rauf</p>
+<p><a href="Nurfarha_Abdul_Rauf@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurfarha Abdul Rauf</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Herald A. Medina&nbsp;&nbsp;</p>
+<p><a href="herald_arguil_medina@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Herald A. Medina&nbsp;</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -101,7 +107,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Song Xiong, Ryan</p>
+<p><a href="Wong_Song_Xiong_Ryan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Wong Song Xiong, Ryan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
