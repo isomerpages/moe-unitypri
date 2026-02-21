@@ -94,8 +94,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sherral Lim
-<br>Mdm Rosyanti Ramli</p>
+<p><a href="sherral_lim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Sherral Lim</a>
+<br><a href="rosyanti_ramli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosyanti Ramli</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +105,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rahmat Ramli
-<br>Ms Lim Hui Mei</p>
+<p><a href="Rahmat_Ramli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Rahmat Ramli </a>
+<br><a href="lim_hui_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Hui Mei</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,8 +116,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joscelin Lim Poh Chen&nbsp;
-<br>Mdm Han Hui Lian</p>
+<p><a href="lim_poh_chen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joscelin Lim Poh Chen</a>&nbsp;
+<br><a href="han_huilian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Han Hui Lian</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +127,9 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zalina Kusnan
-<br>Mr Wong Song Xiong Ryan</p>
+<p><a href="zalina_kusnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zalina Kusnan</a>
+<br><a href="Wong_Song_Xiong_Ryan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Wong Song Xiong Ryan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,9 +138,10 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shelyn Ng Sok Kian
-<br>Ms Jessica Lim Rui Fang
-<br>Mdm Cheah Swee Ee</p>
+<p><a href="ng_sok_kian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Shelyn Ng Sok Kian</a>
+<br><a href="lim_rui_fang_jessica@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Lim Rui Fang</a>
+<br><a href="Cheah_Swee_Ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Cheah Swee Ee</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -158,8 +163,8 @@ description: ""
 <p>Primary 2</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheah Ee Swee
-<br>Mdm Govin</p>
+<p><a href="govindamal_manickam_pakirisamy_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Govin</a>
+</p>
 </td>
 </tr>
 </tbody>
