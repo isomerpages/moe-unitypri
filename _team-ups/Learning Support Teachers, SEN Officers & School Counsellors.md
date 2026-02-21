@@ -17,7 +17,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosyanti Bte Ramli</p>
+<p><a href="rosyanti_ramli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosyanti Bte Ramli</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -25,7 +26,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kai Ling</p>
+<p><a href="tan_kai_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Kai Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -39,7 +41,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Jiamei</p>
+<p><a href="liu_jiamei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Liu Jiamei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -47,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Chew Fong</p>
+<p><a href="Tan_Chew_Fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Chew Fong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -61,7 +65,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Firdauz</p>
+<p><a href="syed_firdauz_syed_yasin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Syed Firdauz</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

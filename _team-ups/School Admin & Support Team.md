@@ -15,7 +15,8 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ivy Lee Ngoi Eng</p>
+<p><a href="Ivy_LEE@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ivy Lee Ngoi Eng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -23,7 +24,8 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Palani Velu Jeyaram</p>
+<p><a href="Palani_Velu_jeyaram@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Palani Velu Jeyaram</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +33,8 @@ variant: tiptap
 <p>Adj Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Devaraja Vinayagam</p>
+<p><a href="Devaraja_Vinayagam@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Devaraja Vinayagam</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +42,8 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahratunisah</p>
+<p><a href="zahratunisah_a_jabbar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zahratunisah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +51,8 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Candy Goh Ming Hui</p>
+<p><a href="Goh_MING_HUI@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Candy Goh Ming Hui</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +60,8 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fadli Bin Ali</p>
+<p><a href="Fadli_Ali@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Fadli Bin Ali</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +69,8 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Lee Lee</p>
+<p><a href="toh_lee_lee_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Toh Lee Lee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +78,8 @@ variant: tiptap
 <p>Adj Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Chia Gek Eng</p>
+<p><a href="Chia_Gek_Eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Chia Gek Eng</a>
+</p>
 </td>
 </tr>
 <tr>

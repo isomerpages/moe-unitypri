@@ -22,9 +22,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yuan Ting
-<br>Mr Effandi Bin Jasman
-<br>Mr Cheong Perk Yin Kenneth</p>
+<p><a href="Tan_YUAN_TING@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Yuan Ting </a>
+<br><a href="effandi_jasman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Effandi Bin Jasman </a>
+<br><a href="kenneth_cheong_perk_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Cheong Perk Yin Kenneth</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,9 +34,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jie Min
-<br>Mdm Rasidah Ahmad
-<br>Mr Lim Hoei Meng</p>
+<p><a href="tan_jie_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Jie Min </a>
+<br><a href="rasidah_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rasidah Ahmad</a> 
+<br><a href="lim_hoei_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Hoei Meng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,9 +46,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nabilah Ithnin
-<br>Ms Olivia Yu Rumeng
-<br>Ms Nursyarifah Abdullah</p>
+<p><a href="nabilah_ithnin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Ithnin </a>
+<br><a href="olivia_yu_rumeng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Olivia Yu Rumeng </a>
+<br><a href="Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nursyarifah Abdullah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +58,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Zhiying
-<br>Mr Hairil Akhmal Sakroni</p>
+<p><a href="Chow_Zhi_Ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chow Zhiying</a> 
+<br><a href="hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,8 +69,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chee Siong
-<br>Mdm Nirwana Haliza Mohamed Halil</p>
+<p><a href="teo_chee_siong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teo Chee Siong </a>
+<br><a href="nirwana_haliza_mohamed_halil@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nirwana Haliza Mohamed Halil</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,9 +86,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siow Yu Lin Julin
-<br>Mdm Nur Fazlina Mohd
-<br>Ms Charissa Chan</p>
+<p><a href="siow_yu_lin_julin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Siow Yu Lin Julin </a>
+<br><a href="fazlina_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Fazlina Mohd </a>
+<br><a href="chan_kar_yee_charissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Charissa Chan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,9 +98,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr R Shyam Kumar
-<br>Mrs Soh-Lim Fun Yen
-<br>Ms Filzah Shafiee</p>
+<p><a href="r_shyam_kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr R Shyam Kumar </a>
+<br><a href="Lim_Fun_Yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Fun Yen </a>
+<br><a href="Filzah_Shafiee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Filzah Shafiee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,9 +110,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yun Yee
-<br>Mdm Law Siok Cheng
-<br>Mdm Norfaiza Buang</p>
+<p><a href="wong_yun_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Yun Yee</a> 
+<br><a href="law_siok_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Law Siok Cheng </a>
+<br><a href="norfaiza_buang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norfaiza Buang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,9 +122,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zunur'ain Othman
-<br>Mrs Yvonne Koo
-<br>Mr Herald A. Medina</p>
+<p><a href="zunurain_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zunur'ain Othman </a>
+<br><a href="yvonne_koo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yvonne Koo </a>
+<br><a href="herald_arguil_medina@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Herald A. Medina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +134,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norazelin Misnari
-<br>Mr Kelvin Ng Chin Khiang
-<br>Ms Ow Hui Qin</p>
+<p><a href="norazelin_misnari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norazelin Misnari </a>
+<br><a href="kelvin_ng_chin_khiang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ng Chin Khiang </a>
+<br><a href="ow_hui_qin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ow Hui Qin</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -149,9 +159,10 @@ variant: tiptap
 <p>Primary 6</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayasaresvathy
-<br>Mrs Amutha Francis
-<br>Mdm Hajjah Hadijah</p>
+<p><a href="jayasaresvathy_kandasami@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jayasaresvathy</a>
+<br><a href="amutha_k_g_ramasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Amutha Francis</a> 
+<br><a href="hajjah_hadijah_haji_saat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Hadijah</a>
+</p>
 </td>
 </tr>
 </tbody>
