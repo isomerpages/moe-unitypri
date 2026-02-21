@@ -99,8 +99,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="r_shyam_kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr R Shyam Kumar </a>
-<br>Mrs Soh-Lim Fun Yen
-<br>Ms Filzah Shafiee</p>
+<br><a href="Lim_Fun_Yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Fun Yen </a>
+<br><a href="Filzah_Shafiee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Filzah Shafiee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -109,9 +110,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Yun Yee
-<br>Mdm Law Siok Cheng
-<br>Mdm Norfaiza Buang</p>
+<p><a href="wong_yun_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Wong Yun Yee</a> 
+<br><a href="law_siok_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Law Siok Cheng </a>
+<br><a href="norfaiza_buang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norfaiza Buang</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,9 +122,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zunur'ain Othman
-<br>Mrs Yvonne Koo
-<br>Mr Herald A. Medina</p>
+<p><a href="zunurain_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zunur'ain Othman </a>
+<br><a href="yvonne_koo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Yvonne Koo </a>
+<br><a href="herald_arguil_medina@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Herald A. Medina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -131,9 +134,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norazelin Misnari
-<br>Mr Kelvin Ng Chin Khiang
-<br>Ms Ow Hui Qin</p>
+<p><a href="norazelin_misnari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norazelin Misnari </a>
+<br><a href="kelvin_ng_chin_khiang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Ng Chin Khiang </a>
+<br><a href="ow_hui_qin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ow Hui Qin</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -155,9 +159,10 @@ variant: tiptap
 <p>Primary 6</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayasaresvathy
-<br>Mrs Amutha Francis
-<br>Mdm Hajjah Hadijah</p>
+<p><a href="jayasaresvathy_kandasami@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jayasaresvathy</a>
+<br><a href="amutha_k_g_ramasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Amutha Francis</a> 
+<br><a href="hajjah_hadijah_haji_saat@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hajjah Hadijah</a>
+</p>
 </td>
 </tr>
 </tbody>
