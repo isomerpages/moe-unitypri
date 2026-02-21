@@ -22,9 +22,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yuan Ting
-<br>Mr Effandi Bin Jasman
-<br>Mr Cheong Perk Yin Kenneth</p>
+<p><a href="Tan_YUAN_TING@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Yuan Ting </a>
+<br><a href="effandi_jasman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Effandi Bin Jasman </a>
+<br><a href="kenneth_cheong_perk_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Cheong Perk Yin Kenneth</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,9 +34,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Jie Min
-<br>Mdm Rasidah Ahmad
-<br>Mr Lim Hoei Meng</p>
+<p><a href="tan_jie_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Jie Min </a>
+<br><a href="rasidah_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rasidah Ahmad</a> 
+<br><a href="lim_hoei_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Hoei Meng</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,9 +46,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nabilah Ithnin
-<br>Ms Olivia Yu Rumeng
-<br>Ms Nursyarifah Abdullah</p>
+<p><a href="nabilah_ithnin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Ithnin </a>
+<br><a href="olivia_yu_rumeng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Olivia Yu Rumeng </a>
+<br><a href="Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nursyarifah Abdullah</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +58,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Zhiying
-<br>Mr Hairil Akhmal Sakroni</p>
+<p><a href="Chow_Zhi_Ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chow Zhiying</a> 
+<br><a href="hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,8 +69,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chee Siong
-<br>Mdm Nirwana Haliza Mohamed Halil</p>
+<p><a href="teo_chee_siong_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Teo Chee Siong </a>
+<br><a href="nirwana_haliza_mohamed_halil@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nirwana Haliza Mohamed Halil</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,9 +86,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siow Yu Lin Julin
-<br>Mdm Nur Fazlina Mohd
-<br>Ms Charissa Chan</p>
+<p><a href="siow_yu_lin_julin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Siow Yu Lin Julin </a>
+<br><a href="fazlina_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Fazlina Mohd </a>
+<br><a href="chan_kar_yee_charissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Charissa Chan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr R Shyam Kumar
+<p><a href="r_shyam_kumar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr R Shyam Kumar </a>
 <br>Mrs Soh-Lim Fun Yen
 <br>Ms Filzah Shafiee</p>
 </td>
