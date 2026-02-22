@@ -20,7 +20,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Finella Goh</a>
+<p><a href="mailto:unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Finella Goh</a>
 </p>
 </td>
 </tr>
