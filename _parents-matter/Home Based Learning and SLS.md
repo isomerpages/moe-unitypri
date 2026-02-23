@@ -15,7 +15,7 @@ terms of work completion.</p>
 <p>As for the students, the HBL schedule will be shared with them via Student
 Learning Space (SLS) to encourage them to exercise responsibility for their
 own learning and to be self-directed learners.</p>
-<p>HBL dates for 2025 are as shown in the table below:</p>
+<p>HBL dates for 2026 are as shown in the table below:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -61,64 +61,7 @@ own learning and to be self-directed learners.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Mar 25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HBL 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent-Teacher Conference 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 May 25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HBL 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSLE Oral</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 &amp; 14 Aug 25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HBL 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSLE Marking Days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 - P5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 - 15 Oct 25</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="5">
-<p><em>The national exams dates may be subjected to changes and parents will be informed of any changes in a timely manner.</em>
-</p>
+<p>9 Mar 26</p>
 </td>
 </tr>
 </tbody>
