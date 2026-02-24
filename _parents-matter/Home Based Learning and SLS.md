@@ -5,16 +5,20 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Home-Based Learning (HBL)</strong></h3>
-<p>Home-Based Learning (HBL) exercises will be conducted in every academic
-year.&nbsp; For each HBL exercise, students will be assigned with both
-online and offline assignments.</p>
-<p>School will keep parents informed of the HBL schedule for each exercise
-via Parents Gateway (PG). This will allow parents to play a complementary
-role by helping to monitor the progress of their children’s learning in
-terms of work completion.</p>
-<p>As for the students, the HBL schedule will be shared with them via Student
-Learning Space (SLS) to encourage them to exercise responsibility for their
-own learning and to be self-directed learners.</p>
+<p>Home-Based Learning (HBL) will be conducted once this academic year.</p>
+<p>This HBL exercise is necessary to prepare students for continuity of learning
+in the event of school closure due to unforeseen circumstances. It ensures
+that students are familiar with online learning platforms and procedures,
+and are able to transit smoothly to home-based learning when required.</p>
+<p>On the designated day, students are required to attend their Form Teacher
+Guidance Period (FTGP) via Google Meet, which can be accessed through the
+Student Learning Space.</p>
+<p>In addition, subject teachers may assign homework for students to complete.
+These assignments may be in online or offline formats.</p>
+<p>Detailed instructions will be provided to students by their Form Teachers
+prior to the HBL day.</p>
+<p>Through this HBL experience, students are encouraged to take ownership
+of their learning and develop self-directed learning habits.</p>
 <p>HBL dates for 2026 are as shown in the table below:</p>
 <table style="minWidth: 125px">
 <colgroup>
