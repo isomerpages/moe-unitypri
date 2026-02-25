@@ -60,7 +60,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chow_Zhi_Ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chow Zhiying</a> 
 <br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a>
-<br><a href="meera_rajarethenam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Meera Rajarethenam</a>
+<br><a href="mailto:meera_rajarethenam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Meera Rajarethenam</a>
 </p>
 </td>
 </tr>
