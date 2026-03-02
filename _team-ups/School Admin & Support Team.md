@@ -21,6 +21,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Goh_MING_HUI@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Candy Goh Ming Hui</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,15 +52,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zahratunisah_a_jabbar@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zahratunisah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_MING_HUI@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Candy Goh Ming Hui</a>
 </p>
 </td>
 </tr>
