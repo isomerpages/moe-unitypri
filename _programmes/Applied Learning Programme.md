@@ -70,10 +70,10 @@ P4 curriculum in Term 1 and 2. Through these programmes, students acquire
 the skills and knowledge to express themselves and communicate with others
 with confidence, creativity and clarity.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_01.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/ALP/MTL_ALP_Enrichment_01.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2024/MTL_ALP_Enrichment_02.png">
 </div>
