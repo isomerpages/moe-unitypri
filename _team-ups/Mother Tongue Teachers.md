@@ -29,7 +29,7 @@ variant: tiptap
 <p><a href="mailto:ow_hui_qin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Ow Hui Qin</a> (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6CL4</strong>
+<p><strong>P6CL4, P3CL3</strong>
 </p>
 </td>
 </tr>
