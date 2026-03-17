@@ -29,13 +29,16 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MOESCHETQ26001115</p>
+<p>13 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
+Camp for Unity Primary School 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 March 2026</p>
+<p>01:00 PM</p>
 </td>
 </tr>
 </tbody>
