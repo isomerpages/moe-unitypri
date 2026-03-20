@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/UPS_Website_Cover_Page_Photo.gif
+      background: /images/Homepage/banner4.gif
       key_highlights:
         - title: Signature Programmes
           description: ""
@@ -21,7 +21,7 @@ sections:
         - title: School Calendar
           description: ""
           url: /parents-matter/school-calendar/permalink/
-      variant: center
+      variant: image
       size: sm
       alignment: right
       backgroundColor: white
