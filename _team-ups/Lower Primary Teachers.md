@@ -119,6 +119,8 @@ description: ""
 <p><a href="mailto:lim_poh_chen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joscelin Lim Poh Chen</a>&nbsp;
 <br><a href="mailto:han_huilian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Han Hui Lian</a>
 </p>
+<p><a href="mailto:K_Selvatharasi_Krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs K Selvatharasi Krishnan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,29 +143,6 @@ description: ""
 <p><a href="mailto:ng_sok_kian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Shelyn Ng Sok Kian</a>
 <br><a href="mailto:lim_rui_fang_jessica@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jessica Lim Rui Fang</a>
 <br><a href="mailto:Cheah_Swee_Ee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Cheah Swee Ee</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<p></p>
-<h3><strong>Other Teaching Staff</strong></h3>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Primary 2</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:govindamal_manickam_pakirisamy_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Govin</a>
 </p>
 </td>
 </tr>

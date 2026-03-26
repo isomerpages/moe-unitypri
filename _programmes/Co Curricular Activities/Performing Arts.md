@@ -32,7 +32,8 @@ they sing as an ensemble.&nbsp; Singing helps students to express their
 emotions and creativity in a non-threatening environment. &nbsp;There will
 be opportunities for students to develop their confidence, learn to collaborate
 and perform at various platforms.</p>
-<p><strong>CCA TIC</strong>: Mr Herald, Mdm Ma Yu, Mdm Saraswati
+<p><strong>CCA TIC</strong>: Mr Herald, Mdm Ma Yu, Mdm Saraswati, Mrs K Selvatharasi
+Krishnan
 <br><strong>CCA Advisor</strong>: Mdm Shelyn Ng</p>
 <h3><strong>Chinese Dance</strong></h3>
 <div class="isomer-image-wrapper">
