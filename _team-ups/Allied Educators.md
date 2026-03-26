@@ -11,32 +11,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
-<h3><strong>Learning Support Teachers</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:rosyanti_ramli@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rosyanti Bte Ramli</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kai_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Tan Kai Ling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
-<p></p>
-<h3><strong>SEN Officers</strong></h3>
+<h3><strong>Special Educational Needs Officers</strong></h3>
 </td>
 </tr>
 <tr>
