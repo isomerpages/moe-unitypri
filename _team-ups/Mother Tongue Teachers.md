@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Govindamal_Manickam_Pakirisamy_B@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Govin</a>
+<p><a href="mailto:K_Selvatharasi_Krishnan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs K Selvatharasi Krishnan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
