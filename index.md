@@ -25,8 +25,4 @@ sections:
       size: sm
       alignment: right
       backgroundColor: white
-  - resources:
-      title: UPS Blast
-      id: resources
-      button: More
 ---
