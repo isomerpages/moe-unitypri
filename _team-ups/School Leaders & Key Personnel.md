@@ -20,7 +20,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Finella Goh</a>
+<p><a href="mailto:Finella_Tan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Finella Goh</a>
 </p>
 </td>
 </tr>
@@ -29,7 +29,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Syamsul Anwar Awang</a>
+<p><a href="mailto:Syamsul_Anwar_Awang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Syamsul Anwar Awang</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:unity_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Tan Rodrigo</a>
+<p><a href="mailto:Jasmine_Tan_Rodrigo@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Jasmine Tan Rodrigo</a>
 </p>
 </td>
 </tr>
