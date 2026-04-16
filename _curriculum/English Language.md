@@ -54,7 +54,7 @@ Board to organise reading programmes, book talks and provide inviting spaces
 where students can read, work together and explore new ideas.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong> <u>Class Library Visits</u></strong>
+<p><strong><u>Class Library Visits</u></strong>
 </p>
 <p>Helping students discover the pleasure of reading is a consistent part
 of the school’s learning experience. Every week, one English lesson is
@@ -175,16 +175,30 @@ for reading, spelling and comprehension are taught.</p>
 3 and Primary 4 to support students with reading difficulties but who do
 not have dyslexia.&nbsp;</p>
 <h4><strong><u>&nbsp;Resources for Parents – move to Parents</u></strong></h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html" rel="noopener noreferrer nofollow" target="_blank">The Read-Aloud Handbook</a></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://www.scholastic.com/parents/family-life/parent-hacks/read-aloud-handbook.html" rel="noopener noreferrer nofollow" target="_blank">The Read-Aloud Handbook</a></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="https://www.oxfordlearning.com/improve-kids-writing-skills/" rel="noopener noreferrer nofollow" target="_blank">How To Improve Writing Skills for Pupils: 14 Easy Tips</a></strong>
+</li>
+<li>
+<p><strong><a href="https://www.oxfordlearning.com/improve-kids-writing-skills/" rel="noopener noreferrer nofollow" target="_blank">How To Improve Writing Skills for Pupils: 14 Easy Tips</a></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="https://www.scholastic.com/parents/books-and-reading/reading-resources/developing-reading-skills/improve-reading-comprehension.html" rel="noopener noreferrer nofollow" target="_blank">Reading Comprehension Strategies</a></strong>
+</li>
+<li>
+<p><strong><a href="https://www.scholastic.com/parents/books-and-reading/reading-resources/developing-reading-skills/improve-reading-comprehension.html" rel="noopener noreferrer nofollow" target="_blank">Reading Comprehension Strategies</a></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="https://neuhaus.org/empowering-readers-tools-and-techniques-for-improving-reading-comprehension/" rel="noopener noreferrer nofollow" target="_blank">Reading Comprehension Learning Tools</a></strong>
+</li>
+<li>
+<p><strong><a href="https://neuhaus.org/empowering-readers-tools-and-techniques-for-improving-reading-comprehension/" rel="noopener noreferrer nofollow" target="_blank">Reading Comprehension Learning Tools</a></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html" rel="noopener noreferrer nofollow" target="_blank">Grammar</a></strong>
+</li>
+<li>
+<p><strong><a href="http://grammar.yourdictionary.com/sentences/20-Rules-of-subject-verb-agreement.html" rel="noopener noreferrer nofollow" target="_blank">Grammar</a></strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><a href="https://www.vocabulary.com/lists/" rel="noopener noreferrer nofollow" target="_blank">Vocabulary</a></strong>
+</li>
+<li>
+<p><strong><a href="https://www.vocabulary.com/lists/" rel="noopener noreferrer nofollow" target="_blank">Vocabulary</a></strong>
 </p>
+</li>
+</ul>
 <p></p>
