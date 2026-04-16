@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/FinalBanner1.gif
+      background: /images/Homepage/BannerNew.gif
       key_highlights:
         - title: Signature Programmes
           description: ""
