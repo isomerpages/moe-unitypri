@@ -20,13 +20,20 @@ and relevant instructional materials, teaching strategies and training
 to enable teachers to build strong language skills and a love for reading.</p>
 <p>STELLAR focuses centrally on helping students to make connections to what
 and how they learn:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Text-to-Self Connection – students
-are guided to relate what they read to their own experiences,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Text-to-text Connection - students
-connect to the text to other books, stories, videos or texts they have
-read or seen,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Text-to-World Connection – students
-link the text to real-world issues, events or general knowledge</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Text-to-Self Connection – students are guided to relate what they read
+to their own experiences,</p>
+</li>
+<li>
+<p>Text-to-text Connection - students connect to the text to other books,
+stories, videos or texts they have read or seen,</p>
+</li>
+<li>
+<p>Text-to-World Connection – students link the text to real-world issues,
+events or general knowledge</p>
+</li>
+</ul>
 <p>Specifically in UPS, students are guided in the use of <strong>SEES</strong> Strategy
 for Simulated-based Conversation tasks. This helps them to make the content
 of the conversation richer.</p>
@@ -199,6 +206,7 @@ not have dyslexia.&nbsp;</p>
 <li>
 <p><strong><a href="https://www.vocabulary.com/lists/" rel="noopener noreferrer nofollow" target="_blank">Vocabulary</a></strong>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
