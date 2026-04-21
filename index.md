@@ -29,7 +29,7 @@ sections:
       title: OPEN HOUSE
       subtitle: Unity Primary School
       id: infopic
-      description: "Date: 22 May 2026 (Friday)    Time: 8:15am to 10:20am"
+      description: "Date: 22 May 2026 (Friday)                Time: 8:15am to 10:20am"
       button: Click here to register
       url: /ups-open-house/
       image: /images/Homepage/Open_house_Picture_for_School_Website.png
