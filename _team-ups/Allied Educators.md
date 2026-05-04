@@ -50,7 +50,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:gaarthiga_mathivanan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Gaarthiga D/O Mathivanan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
