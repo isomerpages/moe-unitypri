@@ -29,15 +29,15 @@ the contract.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOESCHETQ26001115</p>
-<p>13 March 2026</p>
+<p>MOESCHETQ26001817</p>
+<p>30 April 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of a 3-Day, 2-Night (Residential) Primary 5 Outdoor Adventure
-Camp for Unity Primary School 2026</p>
+<p>Supply of Instructor for Multicultural Ensemble CCA Training Programme
+in Unity Primary School with Options to Extend</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 March 2026</p>
+<p>11 May 2026</p>
 <p>01:00 PM</p>
 </td>
 </tr>
