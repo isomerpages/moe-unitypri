@@ -41,6 +41,20 @@ in Unity Primary School with Options to Extend</p>
 <p>01:00 PM</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOESCHERQ26000540</p>
+<p>29 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Days 3 Nights Overseas Immersion Programme (OIP) to Brunei Darussalam
+for Unity Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 May 2026</p>
+<p>01:00 PM</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
