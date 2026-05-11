@@ -33,4 +33,13 @@ sections:
       url: /ups-open-house/
       image: /images/Open_House.jpg
       alt: Image alt text
+  - infopic:
+      title: SYF Achievement
+      subtitle: YEAR 2026
+      id: infopic
+      description: Through their grit, passion and determination, our Performing Group
+        CCAs achieved outstanding results at the recent SYF performances.
+        Congratulations!
+      image: /images/Homepage/Collage_maker_project.png
+      alt: Image alt text
 ---
