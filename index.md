@@ -40,6 +40,6 @@ sections:
       description: Through their grit, passion and determination, our Performing Group
         CCAs achieved outstanding results at the recent SYF performances.
         Congratulations!
-      image: /images/Homepage/SYF.png
+      image: /images/Homepage/Collage_maker_project.png
       alt: Image alt text
 ---
