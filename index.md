@@ -34,7 +34,7 @@ sections:
       image: /images/Open_House.jpg
       alt: Image alt text
   - infopic:
-      title: SYF achievement
+      title: SYF Achievement
       subtitle: YEAR 2026
       id: infopic
       description: Through their grit, passion and determination, our Performing Group
