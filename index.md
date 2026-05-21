@@ -34,13 +34,19 @@ sections:
       image: /images/Open_House.jpg
       alt: Image alt text
   - infopic:
-      title: SYF Achievement
-      subtitle: YEAR 2026
+      title: Angklung/Kulintang Ensemble
+      subtitle: SYF Achievement
       id: infopic
-      description: Through their grit, passion and determination, our Performing Group
-        CCAs achieved outstanding results at the recent SYF performances.
-        Congratulations!
-      image: /images/Homepage/Collage_maker_project.png
+      description: Congratulations to our Angklung CCA for achieving Singapore Youth
+        Festival (SYF) Arts Presentation 2026 Distinction Award.
+      image: /images/Homepage/WhatsApp_Image_2026_05_07_at_5_44_41_PM.jpg
+      alt: Angklung/Kulintang Ensemble
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
   - infopic:
       title: NSG Achievement
