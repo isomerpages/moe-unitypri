@@ -42,4 +42,12 @@ sections:
         Congratulations!
       image: /images/Homepage/Collage_maker_project.png
       alt: Image alt text
+  - infopic:
+      title: NSG Achievement
+      subtitle: YEAR 2026
+      id: infopic
+      description: Congratulations to our Football CCA for clinching 3rd Place at the
+        National School Games (NSG) 2026 Senior Boys Division League 3.
+      image: /images/Homepage/Footbal.jpg
+      alt: Image alt text
 ---
