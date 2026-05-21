@@ -41,6 +41,8 @@ sections:
         Festival (SYF) Arts Presentation 2026 Distinction Award.
       image: /images/Homepage/WhatsApp_Image_2026_05_07_at_5_44_41_PM.jpg
       alt: Angklung/Kulintang Ensemble
+      url: /achievements2026/permalink/
+      button: find out more here
   - infopic:
       title: Infopic
       subtitle: Add an image and text
