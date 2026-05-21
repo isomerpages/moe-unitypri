@@ -91,4 +91,6 @@ sections:
         National School Games (NSG) 2026 Senior Boys Division League 3.
       image: /images/Homepage/Footbal.jpg
       alt: Image alt text
+      button: FIND OUT MORE HERE
+      url: /achievements2026/permalink/
 ---
