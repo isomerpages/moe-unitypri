@@ -154,4 +154,27 @@ with confidence on every stage!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic7.jpg">
+</div>
 <p></p>
