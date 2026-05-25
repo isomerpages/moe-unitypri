@@ -15,8 +15,7 @@ precision, eloquence and resilience to lead with confidence in the 21st
 century.</p>
 <p></p>
 <h4><strong>English</strong></h4>
-<p><strong>Reading Circles: Readers Become Thinkers!</strong>
-</p>
+<h4><strong>Reading Circles: Readers Become Thinkers!</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Eng_Pic1.jpg">
@@ -41,8 +40,7 @@ big ideas and engage meaningfully with the world around them.</p>
 <p>In Reading Circles, students dive into deep conversation anddevelop as
 insightful readers of tomorrow!</p>
 <p></p>
-<p><strong>Oratorical Stages: Speakers Become Leaders</strong>
-</p>
+<h4><strong>Oratorical Stages: Speakers Become Leaders</strong></h4>
 <p>We nurture confident, articulate speakers who command any room with ease.
 By pairing innovative technology like <strong>Moo-O</strong> with oratorical
 training, we stretch students on a seamless journey from discovering their
@@ -70,8 +68,7 @@ but are proud, lifelong ambassadors of their mother tongue.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_MTL_Pic1.jpg">
 </div>
-<p><strong>Writing &amp; Oracy Talent Development Programme (MTL)</strong>
-</p>
+<h4><strong>Writing &amp; Oracy Talent Development Programme (MTL)</strong></h4>
 <p>In a world driven by ideas, the ability to communicate with clarity and
 heart is a gift that lasts a lifetime. Our <strong>Writing and Oracy Talent Development Programmes</strong> offer
 a vibrant space for our Primary 3 to 6 students to transform their passion
@@ -90,8 +87,7 @@ Tongue, but use it to inspire, connect, and lead.</p>
 </div>
 <p></p>
 <h4><strong>Mathematics</strong></h4>
-<p><strong>The E2K Mathematics Programme</strong>
-</p>
+<h4><strong>The E2K Mathematics Programme</strong></h4>
 <p>We believe in nurturing the next generation of logical thinkers and creative
 problem-solvers through the <strong>Excellence 2000 (E2K) Mathematics Programme</strong>.
 Tailored for our high-potential Primary 4 to 6 learners, this prestigious
@@ -109,8 +105,7 @@ mathematical pursuits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Math_Pic1.jpg">
 </div>
-<p><strong>The E2K Science Programme</strong>
-</p>
+<h4><strong>The E2K Science Programme</strong></h4>
 <p>Our students get to step into the shoes of a researcher with the <strong>Excellence 2000 (E2K) Science Programme</strong>,
 an enrichment track designed for our most inquisitive Primary 4 and 5 students.
 Developed by the Israel Centre for Excellence and adapted by MOE, this
@@ -128,8 +123,7 @@ of tomorrow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_SCI_Pic1.jpg">
 </div>
-<p><strong>Physical Education, Art and Music</strong>
-</p>
+<h4><strong>Physical Education, Art and Music</strong></h4>
 <p>We believe that every child possesses a unique spark. Our talent development
 model is a comprehensive framework designed to help students discover,
 develop, and excel in their passions. Built on a progressive three-tier
