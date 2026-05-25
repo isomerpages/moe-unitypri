@@ -153,7 +153,7 @@ with confidence on every stage!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Programmes/2026/TDP_Awards_Pic2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
