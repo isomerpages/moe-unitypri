@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Talent Development Programme.md
       - Applied Learning Programme.md
       - Learn for Life Programme.md
       - Student Leadership.md
@@ -33,3 +32,4 @@ collections:
       - Project Work.md
       - Recess Play.md
       - Lifeskills Programme.md
+      - Talent Development Programme.md
