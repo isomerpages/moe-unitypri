@@ -26,14 +26,6 @@ sections:
       alignment: right
       backgroundColor: white
   - infopic:
-      title: OPEN HOUSE
-      subtitle: Unity Primary School
-      id: infopic
-      button: Click here to register
-      url: /ups-open-house/
-      image: /images/Open_House.jpg
-      alt: Image alt text
-  - infopic:
       title: Angklung/Kulintang Ensemble
       subtitle: SYF Achievement
       id: infopic
