@@ -5,19 +5,22 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>P3 Social Etiquette</strong></h3>
-<p>Developing good etiquette and social manners is crucial for the personal,
-social, and emotional growth of children. In Term 2, all our Primary 3
-students participated in a Social Etiquette programme spanning over three
-sessions. They learned the art of making a positive impression through
-proper self-introduction and greetings as well as received guidance on
-basic grooming, online etiquette, and appropriate behaviour in school and
-public settings. Their instructors used engaging presentations, activities,
-and videos to captivate their interest. The students applied what they
-learned by engaging in role-playing activities with their peers, practising
-self-introductions and discussing case studies in class. By instilling
-good etiquette and mannerisms in these students, we aim to nurture their
-confidence and communication skills, paving the way for them to become
-respectful and confident adults.</p>
+<p>Good etiquette and social skills play a vital role in children’s personal,
+social, and emotional growth. In Term 2, our Primary 3 students took part
+in a three-session Social Etiquette programme, where they explored the
+art of making a positive impression through proper self-introductions and
+greetings. Through pair and group work as well as engaging communication
+activities, they also received guidance on basic grooming, online etiquette,
+and appropriate behaviour in school and public settings. Students grew
+more aware of the importance of presenting themselves well and interacting
+respectfully with others.</p>
+<p>The instructors also brought the lessons to life through presentations,
+activities, and videos, encouraging students to put their learning into
+practice through role-playing, self-introductions, and class discussions
+based on case studies.</p>
+<p>Through this programme, we hope to nurture our students' confidence and
+communication skills, guiding them on their journey to becoming respectful
+and confident individuals.</p>
 <p></p>
 <h3><strong>P4 Cyber wellness</strong></h3>
 <p>In today's rapidly evolving digital landscape, equipping students with
