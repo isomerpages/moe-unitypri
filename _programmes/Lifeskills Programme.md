@@ -22,7 +22,10 @@ based on case studies.</p>
 communication skills, guiding them on their journey to becoming respectful
 and confident individuals.</p>
 <p></p>
-<h3><strong>P4 Cyber wellness</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LP-SEQ" src="/images/Programmes/2026/LP_SEQ.jpg">
+</div>
+<h3><strong>P4 Cyber Wellness</strong></h3>
 <p>In today's rapidly evolving digital landscape, equipping students with
 responsible ICT habits is key to helping them navigate online risks safely
 and responsibly. Over two sessions in Term 2, all Primary 4 students participated
@@ -34,4 +37,8 @@ as online self-introductions, identifying fake news and knowing when to
 seek help from a trusted adult, students learned to distinguish truth from
 falsehood, recognise authentic and artificial interactions, and navigate
 the digital landscape with integrity and discernment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LP_CW" src="/images/Programmes/2026/LP__CW.jpg">
+</div>
 <p></p>
