@@ -20,20 +20,15 @@ confidence and communication skills, paving the way for them to become
 respectful and confident adults.</p>
 <p></p>
 <h3><strong>P4 Cyber wellness</strong></h3>
-<p>With the rapid changes and trends of the digital world, educating the
-students on the responsible use of ICT is our proactive approach to prevent
-and mitigate risks associated with its use.</p>
-<p>Over a few sessions in Term 2, all Primary 4 students went through a Cyberwellness
-programme where they learned how to navigate the cyber world, express themselves
-appropriately online, handle online content and behaviour, develop safe,
-respectful, and meaningful relationships, as well as maintain a healthy
-balance of online and offline activities. The instructors engaged the students
-through exciting videos, games, and interactions. The students applied
-what they had learned by discussing various scenarios with their peers,
-e.g., self-introduction during an online discussion, identifying fake news,
-and talking to a trusted adult when in doubt.</p>
-<p>By equipping the students with the knowledge and skills, we seek to equip
-them with the tools to practise discernment, make wise decisions, and protect
-themselves online as they navigate the cyber world.</p>
-<p></p>
+<p>In today's rapidly evolving digital landscape, equipping students with
+responsible ICT habits is key to helping them navigate online risks safely
+and responsibly. Over two sessions in Term 2, all Primary 4 students participated
+in a cyber wellness programme covering safe online navigation, appropriate
+self-expression, responsible online behaviour, building respectful relationships
+and maintaining a healthy balance between online and offline activities.</p>
+<p>Through videos, games and peer discussions on real-life scenarios such
+as online self-introductions, identifying fake news and knowing when to
+seek help from a trusted adult, students learned to distinguish truth from
+falsehood, recognise authentic and artificial interactions, and navigate
+the digital landscape with integrity and discernment.</p>
 <p></p>
