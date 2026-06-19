@@ -84,6 +84,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Adj Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurhasikin_hidris@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nurhasikin Binte Hidris</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,22 +129,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Victor Ang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Receptionist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurhasikin Hidris</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohammad Zairy</p>
 </td>
 </tr>
 <tr>
