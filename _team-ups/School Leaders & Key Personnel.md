@@ -77,19 +77,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD / ICT &amp; Info Management</p>
+<p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_chen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joscelin Lim Poh Chen</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD / School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Fun_Yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Fun Yen</a>
+<p><a href="mailto:lew_yee_loo_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Lew Yee Loo</a>
 </p>
 </td>
 </tr>
@@ -99,6 +90,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_yu_xuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Jaelyn Lau Yu Xuan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nuraina_mohamed_sin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nuraina Mohd Sin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT &amp; Info Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_poh_chen@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Joscelin Lim Poh Chen</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lim_Fun_Yen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Soh-Lim Fun Yen</a>
 </p>
 </td>
 </tr>
@@ -167,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / PE</p>
+<p>Subject Head / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a>
@@ -249,6 +267,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:han_huilian@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Han Huilian</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yuan_ting@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Yuan Ting</a>
 </p>
 </td>
 </tr>
