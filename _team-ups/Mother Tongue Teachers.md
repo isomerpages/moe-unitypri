@@ -17,6 +17,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:lew_yee_loo_michelle@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Michelle Lew Yee Loo</a> (HOD/MTL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P2CL4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:law_siok_cheng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Law Siok Cheng</a> (LH/CL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +177,7 @@ variant: tiptap
 <p><a href="mailto:naharudin_b_shariff@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Naharudin Shariff</a> (SH/Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4ML1, P6FML</strong>
+<p><strong>P6FML</strong>
 </p>
 </td>
 </tr>
@@ -223,6 +232,16 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azizah_abdul_aziz@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Aznizah Abdul Aziz</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P4ML1</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <h3><strong>Tamil Language Teachers</strong></h3>
@@ -240,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hafizah_beevi_abdul_basit@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah Beevi</a>
+<p><a href="mailto:saraswathi_valliappan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Saraswathi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
