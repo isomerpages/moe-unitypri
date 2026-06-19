@@ -93,7 +93,7 @@ variant: tiptap
 <p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
 <br><a href="mailto:Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Nursyarifah Abdullah</u></a>
 </p>
-<p><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lynnette Tham</a>
+<p><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lynnette Tan</a>
 </p>
 </td>
 </tr>
