@@ -105,6 +105,8 @@ variant: tiptap
 <p><a href="mailto:phee_lay_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Phee Lay Kuan</a> 
 <br><a href="mailto:Sim_Wei_Wen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sim Wei Wen</a>
 </p>
+<p><a href="mailto:saraswathi_valliappan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Saraswathi</a>
+</p>
 </td>
 </tr>
 <tr>
