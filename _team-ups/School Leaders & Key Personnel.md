@@ -194,19 +194,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / ICT</p>
+<p>Subject Head / Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
+<p><a href="mailto:lim_hui_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Hui Mei</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-Being</p>
+<p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hui_mei@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lim Hui Mei</a>
+<p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
 </p>
 </td>
 </tr>
