@@ -53,7 +53,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Punitha_Elancheran@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Punitha Elancheran </a>
-<br><a href="mailto:chia_lee_eng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Joanne Yeong</a>
+<br><a href="mailto:ng_whye_shoen_wilson@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Wilson Ng</a>
 </p>
 </td>
 </tr>
@@ -90,9 +90,10 @@ variant: tiptap
 <p>P4-C</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohd_yasin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Yasin Abdul Majeed</a> 
-<br><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
-<br><a href="mailto:hafizah_beevi_abdul_basit@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah Beevi</a>
+<p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
+<br><a href="mailto:Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Nursyarifah Abdullah</u></a>
+</p>
+<p><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Lynnette Tham</a>
 </p>
 </td>
 </tr>
