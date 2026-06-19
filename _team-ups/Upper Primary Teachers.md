@@ -36,7 +36,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_jie_min@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tan Jie Min </a>
 <br><a href="mailto:rasidah_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Rasidah Ahmad</a> 
-<br><a href="mailto:lim_hoei_meng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lim Hoei Meng</a>
+<br><a href="mailto:meera_rajarethenam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Meera Rajarethenam</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nabilah_ithnin@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nabilah Ithnin </a>
 <br><a href="mailto:olivia_yu_rumeng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Olivia Yu Rumeng </a>
-<br><a href="mailto:Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Nursyarifah Abdullah</a>
 </p>
 </td>
 </tr>
@@ -60,7 +59,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Chow_Zhi_Ying@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chow Zhiying</a> 
 <br><a href="mailto:hairil_akhmal_b_sakroni@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Hairil Akhmal Sakroni</a>
-<br><a href="mailto:meera_rajarethenam@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Meera Rajarethenam</a>
 </p>
 </td>
 </tr>
