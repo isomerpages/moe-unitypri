@@ -92,8 +92,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
 <br><a href="mailto:Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Nursyarifah Abdullah</u></a>
-</p>
-<p><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lynnette Tan</a>
+<br><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lynnette Tan</a>
 </p>
 </td>
 </tr>
@@ -104,8 +103,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phee_lay_kuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Phee Lay Kuan</a> 
 <br><a href="mailto:Sim_Wei_Wen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Sim Wei Wen</a>
-</p>
-<p><a href="mailto:saraswathi_valliappan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Saraswathi</a>
+<br><a href="mailto:saraswathi_valliappan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Saraswathi</a>
 </p>
 </td>
 </tr>

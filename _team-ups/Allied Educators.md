@@ -34,6 +34,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:asnira_asari@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Asnira Binte Asa'ri</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <h3><strong>School Counsellors</strong></h3>
@@ -41,8 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syed_firdauz_syed_yasin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Syed Firdauz</a>
-</p>
+<p>Mr Syed Firdauz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,15 +59,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gaarthiga_mathivanan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Gaarthiga D/O Mathivanan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:asnira_asari@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Asnira Binte Asa'ri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
