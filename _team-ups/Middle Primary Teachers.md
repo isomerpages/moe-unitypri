@@ -92,7 +92,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_qiao_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Chong Qiao Ping</a>
 <br><a href="mailto:Nursyarifah_Abdullah@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Nursyarifah Abdullah</u></a>
-<br><a href="tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lynnette Tan</a>
+<br><a href="mailto:tham_sook_ling_lynnette@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Lynnette Tan</a>
 </p>
 </td>
 </tr>
