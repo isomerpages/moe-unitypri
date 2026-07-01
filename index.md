@@ -40,7 +40,7 @@ sections:
       subtitle: SYF ACHIEVEMENT
       id: infopic
       description: Congratulations to our Chinese Dance CCA for achieving Singapore
-        Youth Festival (SYF) Arts Presentation 2026 Distinction Award.
+        Youth Festival (SYF) Arts Presentation 2026 Accomplishment Award.
       button: find out more here
       alt: Image alt text
       url: /achievements2026/permalink/
