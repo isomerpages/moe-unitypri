@@ -70,7 +70,7 @@ sections:
       subtitle: syf achievement
       id: infopic
       description: Congratulations to our Choir CCA for achieving Singapore Youth
-        Festival (SYF) Arts Presentation 2026 Distinction Award.
+        Festival (SYF) Arts Presentation 2026 Accomplishment Award.
       button: find out more here
       url: /achievements2026/permalink/
       image: /images/Homepage/WhatsApp_Image_2026_05_07_at_5_44_42_PM__2_.jpg
