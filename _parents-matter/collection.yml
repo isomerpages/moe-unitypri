@@ -2,7 +2,6 @@ collections:
   parents-matter:
     output: true
     order:
-      - Past Parent letter.md
       - School Calendar.md
       - School Home Partnership.md
       - Modes of Communication.md
